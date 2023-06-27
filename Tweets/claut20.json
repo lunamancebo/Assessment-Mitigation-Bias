@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "tweet_id": "1580547968511672321",
+            "text": "me llevan presa https://t.co/FroZwCbmc5",
+            "created_at": "2022-10-13T13:16:15.000Z",
+            "user_id": "2949018693",
+            "username": "claut20"
+        },
+        {
+            "tweet_id": "1330994545501286401",
+            "text": "huelo esta foto desde aqui @neresantirso https://t.co/CkZVBuFPZZ",
+            "created_at": "2020-11-23T22:00:02.000Z",
+            "user_id": "2949018693",
+            "username": "claut20"
+        },
+        {
+            "tweet_id": "1321074897272098817",
+            "text": "@nachoopereez @dres_plaza @CallofDutyES derechos de imagen q es mi casa",
+            "created_at": "2020-10-27T13:02:54.000Z",
+            "user_id": "2949018693",
+            "username": "claut20"
+        }
+    ]
+}

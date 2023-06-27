@@ -1,0 +1,620 @@
+{
+    "data": [
+        {
+            "tweet_id": "1628360942282047488",
+            "text": "@Peteer_Agns No jodas que caiste jajajajajaj",
+            "created_at": "2023-02-22T11:47:56.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1628347676000501760",
+            "text": "@olaya_pd Q graciosa no?",
+            "created_at": "2023-02-22T10:55:13.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1628146821573840897",
+            "text": "Cada vez me doi mas cuenta de lo nulo que soi pa les muyeres jajaja",
+            "created_at": "2023-02-21T21:37:06.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1627666121527525378",
+            "text": "@Peteer_Agns Lo mejor fue en el nuestru PAS que va uno y suelta sin mas Mahou jajaja",
+            "created_at": "2023-02-20T13:46:58.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1627628678594064385",
+            "text": "Historia del futbol https://t.co/PCSOy529N2",
+            "created_at": "2023-02-20T11:18:11.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1627627856271482882",
+            "text": "Fayuelos https://t.co/S5OrWUje4f",
+            "created_at": "2023-02-20T11:14:55.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1627627472605913088",
+            "text": "@kenyaacortee Pues no salgas",
+            "created_at": "2023-02-20T11:13:23.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1627587222215045121",
+            "text": "@omarglezz_ A mi tambien",
+            "created_at": "2023-02-20T08:33:27.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1627378698809749505",
+            "text": "@pauulahuertaa Normal, ta muy bien hechu",
+            "created_at": "2023-02-19T18:44:51.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1627317952763551746",
+            "text": "Cagon dios Asturias ye precioso https://t.co/L6WHQPHTzr",
+            "created_at": "2023-02-19T14:43:28.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1627297832007860225",
+            "text": "Llevo haciendome esta pregunta mucho tiempu, que cabe en un bolsu Zadig de esos? El movil?",
+            "created_at": "2023-02-19T13:23:31.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1627279255477407746",
+            "text": "Algun dia tendre la mi cabana en La Festal, pero mientras tengo que conformame con esti supermontaje que hice https://t.co/th8IkxNnY0",
+            "created_at": "2023-02-19T12:09:42.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1626299262077206528",
+            "text": "@serfdez13 Y sigo cayendote guay",
+            "created_at": "2023-02-16T19:15:33.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1626281289685803009",
+            "text": "Y si mi guela tuviese ruedes yera una bicicleta https://t.co/dc2TytEHYd",
+            "created_at": "2023-02-16T18:04:08.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1626147486984282112",
+            "text": "No subais esto que despues el chaval creeselo @enolprendes \ud83d\ude02\u2764\ufe0f https://t.co/WPqpboM0dj",
+            "created_at": "2023-02-16T09:12:27.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1625536323707715590",
+            "text": "Vuelvo a recalcar que vivo en una simulacion https://t.co/ZiFymbKGPG",
+            "created_at": "2023-02-14T16:43:55.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1625504781518405637",
+            "text": "@iresierra Mejor que no salga a la luz si jajaja",
+            "created_at": "2023-02-14T14:38:34.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1625504715047055368",
+            "text": "@FerBaragano Se hace lo que se puede",
+            "created_at": "2023-02-14T14:38:19.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1625504656058376194",
+            "text": "@emilioaalonso Ye jodio pero si",
+            "created_at": "2023-02-14T14:38:05.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1625259010847920128",
+            "text": "@anaasann Hacemos lo que podemos",
+            "created_at": "2023-02-13T22:21:58.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1625256223095328778",
+            "text": "@mmariiaperezz Somos muy responsables",
+            "created_at": "2023-02-13T22:10:54.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1625256149451669505",
+            "text": "@alexgonzaalezz7 A mi no porque el cacharru esi q paez un chupito valia 10\u20ac",
+            "created_at": "2023-02-13T22:10:36.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1625254979781947394",
+            "text": "Voy a poner por aqui la cara B del viaje a Roma https://t.co/aGlE18SfGM",
+            "created_at": "2023-02-13T22:05:57.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1624967897029156865",
+            "text": "Fascista muerto, abono pa mi huerto",
+            "created_at": "2023-02-13T03:05:11.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1623801570432352256",
+            "text": "@serfdez13 Que imagen mas mala tienes de mi",
+            "created_at": "2023-02-09T21:50:37.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1623701089466912768",
+            "text": "Generalizar con los hombres mononeuronales que van a esi progama ye un insultu pa todos los que tenemos algo de cabeza https://t.co/frbf4WOjoB",
+            "created_at": "2023-02-09T15:11:21.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1623697285149229057",
+            "text": "Si lo haz, puedo ser la persona mas feliz del mundo \ud83e\udd29 https://t.co/BUHgvXBRPc",
+            "created_at": "2023-02-09T14:56:14.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1623363372040302592",
+            "text": "Tremenda alineacion https://t.co/CrqlCmr3We",
+            "created_at": "2023-02-08T16:49:23.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1623063895391850497",
+            "text": "@iresierra @Otrosvendran Hay algunos padres que pienses que los sus fios tienen 10 aninos tovia y son los peores jajajaja",
+            "created_at": "2023-02-07T20:59:22.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1622711106639724566",
+            "text": "@bollosaurio69 To' el interior es de cuero\nParece un desfile de Mowalola",
+            "created_at": "2023-02-06T21:37:30.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1622694599289458688",
+            "text": "@serfdez13 A la espanola=muy muy mala",
+            "created_at": "2023-02-06T20:31:55.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1622677492015239191",
+            "text": "@serfdez13 Seven a la espanola",
+            "created_at": "2023-02-06T19:23:56.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1622347118055653380",
+            "text": "@FerBaragano Y yo a ti pariente",
+            "created_at": "2023-02-05T21:31:09.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1622347089882529795",
+            "text": "@Zaiira_ramos Cada vez me rompes mas el corazom",
+            "created_at": "2023-02-05T21:31:02.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1622320447252488195",
+            "text": "@LavianaEmma Hay que tar informau",
+            "created_at": "2023-02-05T19:45:10.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1622272623164985346",
+            "text": "@LavianaEmma Q tamos en el siglo XX que compres enciclopedies?",
+            "created_at": "2023-02-05T16:35:08.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1622253756640382976",
+            "text": "@LavianaEmma Enferma",
+            "created_at": "2023-02-05T15:20:10.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1622250359258337283",
+            "text": "@DavidBenaavides Home, ye lo que fice. No dije ninguna mentira",
+            "created_at": "2023-02-05T15:06:40.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1622236970070982658",
+            "text": "Me siento orgullosu de mi mismu. Ayer sali, tome 2 cerveces y pa casa #viejoven",
+            "created_at": "2023-02-05T14:13:28.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1622005657355288577",
+            "text": "Soy Bufalosexual.\nEl delanteru del Athletic y nadie lo quier ver https://t.co/IAB58n8EeJ",
+            "created_at": "2023-02-04T22:54:18.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1621881307440582657",
+            "text": "Bueno de lo malo pusieron al de De Folixa en Folixa que ye buen paisano #Infiesto",
+            "created_at": "2023-02-04T14:40:11.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1621876300339093512",
+            "text": "Toy hasta los cojones que en les pelicules que tan ambientaes en Asturias pongan acento gallego. Esto ye una puta verguenza, si no sabeis facer una pelicula no la faigas. Contrata a actores asturianos o si no contrataime a mi pa dar una clase, que acento tengo bastante #Infiesto",
+            "created_at": "2023-02-04T14:20:17.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1621871266511704071",
+            "text": "@serfdez13 Serion",
+            "created_at": "2023-02-04T14:00:17.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1621860708362162176",
+            "text": "@__marquiinos__ Una siempre se tomo",
+            "created_at": "2023-02-04T13:18:20.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1621814806826156032",
+            "text": "El amor de mi vida https://t.co/Oa9wGvPGDU",
+            "created_at": "2023-02-04T10:15:56.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1621486229068939265",
+            "text": "@serfdez13 Los arboles genealogicos dan mucho dinero",
+            "created_at": "2023-02-03T12:30:17.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1621485648468221955",
+            "text": "@laura_alfayate y yo queriendo medir 1,80",
+            "created_at": "2023-02-03T12:27:58.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1621484799394299904",
+            "text": "@gaabrielfdez yo creo que alguno mejor hay",
+            "created_at": "2023-02-03T12:24:36.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1621265869832654848",
+            "text": "@bollosaurio69 Ye una brutalidad de capitulo",
+            "created_at": "2023-02-02T21:54:39.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1621258376024936449",
+            "text": "@DavidBenaavides Yo no voy",
+            "created_at": "2023-02-02T21:24:53.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1620922392762793984",
+            "text": "Al final no murio en la horca https://t.co/5vLMR4EySq",
+            "created_at": "2023-02-01T23:09:48.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1620893492691218437",
+            "text": "Javi alias el Frescachu, te echo de menos https://t.co/xSLUeuYc5V",
+            "created_at": "2023-02-01T21:14:58.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1620851987452674048",
+            "text": "@DavidBenaavides Camionera en el biceps derechu",
+            "created_at": "2023-02-01T18:30:02.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1620743176037498880",
+            "text": "@DavidBenaavides @paloma_vizca Calla un poco militarucho",
+            "created_at": "2023-02-01T11:17:39.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1620722145189056514",
+            "text": "@paloma_vizca La gente ta enferma",
+            "created_at": "2023-02-01T09:54:05.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1620469727297695745",
+            "text": "@DavidBenaavides Desde que yes tweetero vaya como andas",
+            "created_at": "2023-01-31T17:11:04.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1620343300673896448",
+            "text": "@omarglezz_ Aunque tu numero no lo grabe",
+            "created_at": "2023-01-31T08:48:42.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1620188913032925191",
+            "text": "@MCarreroPazos @UniversidadeUSC @facultadeXH @GEPNUSC Muchas felicidades Miguel!!! Gracies por hacer que me gustase un poco mas la Prehistoria este semestre",
+            "created_at": "2023-01-30T22:35:13.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1620182801093115913",
+            "text": "@lanoaesa @pelirrojohungry Tengo que reime?",
+            "created_at": "2023-01-30T22:10:55.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1620181699933126658",
+            "text": "@lanoaesa @pelirrojohungry El Meruxal ye mas guapo",
+            "created_at": "2023-01-30T22:06:33.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1619781888830496768",
+            "text": "@paulaavmar20 @carinamtt @inesfdezz El negro ye el mejor color",
+            "created_at": "2023-01-29T19:37:51.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1619503749961240576",
+            "text": "@quevedoft Perdeme por el mundo",
+            "created_at": "2023-01-29T01:12:37.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1619482656521191425",
+            "text": "Nun lo hay mas guapo https://t.co/n7GOtftHbi",
+            "created_at": "2023-01-28T23:48:48.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1619481399765143559",
+            "text": "@adegutgar Te espero en Coimbra",
+            "created_at": "2023-01-28T23:43:48.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1619470689257553920",
+            "text": "\"\u00bfComo se llama la que ladra? Ladrona\" David Benavides 2023",
+            "created_at": "2023-01-28T23:01:15.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1619452827419684866",
+            "text": "@paulaavmar20 Un anu conviviendo contigo no se como acabara \ud83e\udd26\ud83c\udffb",
+            "created_at": "2023-01-28T21:50:16.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1619397518613438464",
+            "text": "Vaya putes ganes de ir de Erasmus",
+            "created_at": "2023-01-28T18:10:30.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1619229457327456256",
+            "text": "@serfdez13 Yo acabo llegar a casa jejeje",
+            "created_at": "2023-01-28T07:02:41.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1618950671197429761",
+            "text": "@DanoZiontifik gracias por hacer semejante disco https://t.co/6QXvEY9xSP",
+            "created_at": "2023-01-27T12:34:53.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1618922707860717570",
+            "text": "@serfdez13 Seryi son maneres de conquistar a mujeres que nosotros no conocemos",
+            "created_at": "2023-01-27T10:43:46.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1618920784688480261",
+            "text": "@emilioaalonso Nun lo queria decir yo, pero si jajajaja",
+            "created_at": "2023-01-27T10:36:07.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1618743452614938624",
+            "text": "@dominguueezz Cruz Cafune\nSticky MA\nIll Pekeno &amp; Ergo Pro",
+            "created_at": "2023-01-26T22:51:28.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1618742670649872388",
+            "text": "@Pekeuno1 Eric Cantona",
+            "created_at": "2023-01-26T22:48:22.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1618742421860532225",
+            "text": "Bueno manana habra que enfilase pa celebrar que acabe los examenes. Les notes no les celebro porque en UniOvi gustayos corregir con tranquilidad y solo se la nota de un examen teniendo 5 asignatures",
+            "created_at": "2023-01-26T22:47:22.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1618731887597604864",
+            "text": "SI VUELVE AGORAZEIN VUELVOME LLOCU. C TANGANA NO PUES DEJAME ASI https://t.co/HPvS6fa1Fr",
+            "created_at": "2023-01-26T22:05:31.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1618596507959320576",
+            "text": "Esti hombre deja un gran vacio en UniOvi https://t.co/av9ZEHDjoY",
+            "created_at": "2023-01-26T13:07:34.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1617592586319036417",
+            "text": "@losxavales00 A Asturias, ademas del Riverland",
+            "created_at": "2023-01-23T18:38:20.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1617463756740784130",
+            "text": "@paloma_vizca Gracies Dario, me gusta ayudar a la gente jajajaja",
+            "created_at": "2023-01-23T10:06:25.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1617246195771908096",
+            "text": "@valentinabv13_ Uno de los mejores de Espana",
+            "created_at": "2023-01-22T19:41:54.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1617169104674095105",
+            "text": "@valentinabv13_ Pa la mayoria de gente no existe, por desgracia",
+            "created_at": "2023-01-22T14:35:34.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1617087961891307520",
+            "text": "Un poco de respeto a la asignatura mas importante que hay https://t.co/l0dliGwo5k",
+            "created_at": "2023-01-22T09:13:08.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1616485577330761728",
+            "text": "@yaararubioo A ver en tol disco por decite algo igual tien 300 versos y 6 son \"copiaos\" jajajaja",
+            "created_at": "2023-01-20T17:19:29.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1616427276823924736",
+            "text": "Vaya liberacion haber quitao delante el examen de Roma. Ahora a ver si se aprueba",
+            "created_at": "2023-01-20T13:27:49.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1615356001888116738",
+            "text": "Ya ta nevando \ud83d\ude0d",
+            "created_at": "2023-01-17T14:30:57.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1615348906023440384",
+            "text": "@serfdez13 @LavianaEmma @carlogomezdc El putu Rasilla colaborando con Adidas y todo",
+            "created_at": "2023-01-17T14:02:45.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1615149883203387392",
+            "text": "Por los apuntes que subi a Wuolah me merezco esto en los 3 examenes que me queden https://t.co/agVXB51HaX",
+            "created_at": "2023-01-17T00:51:54.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1614994247052152834",
+            "text": "@serfdez13 @LavianaEmma @carlogomezdc Se cumplieron nuestros deseos",
+            "created_at": "2023-01-16T14:33:28.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        },
+        {
+            "tweet_id": "1614760680057442304",
+            "text": "@LavianaEmma Yo tengo 22 gracies a @carlogomezdc",
+            "created_at": "2023-01-15T23:05:21.000Z",
+            "user_id": "1088541796848816129",
+            "username": "jbc11_"
+        }
+    ]
+}

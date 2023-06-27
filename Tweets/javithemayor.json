@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1628136975701053450",
+            "text": "@jlfoncillas Lo era y lo es, este tio es inmortal, deja mucho buen recuerdo entre la gente.",
+            "created_at": "2023-02-21T20:57:58.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1628136584334741536",
+            "text": "@CAArtajones Gran persona, pocas personas me he encontrado en este mundo con mejor caracter, siempre de buen humor, con una sonrisa en la boca y unas ganas de vivir que contagiaba a todos los que le rodeaban. Un abrazo fuerte para todas sus hijas e hijo. Parecia que no pasaban los anos por el",
+            "created_at": "2023-02-21T20:56:25.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1628133210180706304",
+            "text": "@josedavidlopez_ Me parece mas cagada la del otro portero",
+            "created_at": "2023-02-21T20:43:01.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1628064953851645955",
+            "text": "@JoseCarlosVA Osasuna firma esto?",
+            "created_at": "2023-02-21T16:11:47.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627785195960107008",
+            "text": "@RubenGarcia14 Nunca hubiera dicho que Ricardo habia jugado tanto, me queda super lejos. Se ve que los ultimos anos han sido demasiado intensos.",
+            "created_at": "2023-02-20T21:40:08.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627778212758540324",
+            "text": "@JKlinsmann18 @Tomasonavarro Primos seguro.",
+            "created_at": "2023-02-20T21:12:23.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627768134382804992",
+            "text": "@lavecinademonca @ArturoRojillo @DAZN_ES No conoces a los de detras",
+            "created_at": "2023-02-20T20:32:20.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627767719230668802",
+            "text": "@JKlinsmann18 @Tomasonavarro Lo de Ancelotti lo entiendo hasta yo, hay una pareja ahi (creo que padre e hijo) que telita....No entiendo como no les han quitado el carnet todavia, verguenza ajena, aunque igual tienen algun tipo de discapacidad.",
+            "created_at": "2023-02-20T20:30:41.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627765847614791680",
+            "text": "@patatas_freitas Yo estoy cerca de ahi y si le hubiera oido no me quedo callado. A un senor mayor(calvo con gafas) que lo tenia antes encima mia en la primera fila de tribuna, en anteriores etapas le he callado la boca mas de una vez.",
+            "created_at": "2023-02-20T20:23:15.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627708369627750401",
+            "text": "@RTVENavarra @vinijr @Osasuna @realmadrid @deportes_rtve @roberquintana10 Pero muy. Y se han olvidado las entraditas que hizo.",
+            "created_at": "2023-02-20T16:34:51.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627707318031773696",
+            "text": "@Mirentxu85 A el mono lo he mandado ya al zoo.",
+            "created_at": "2023-02-20T16:30:40.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627603741221199874",
+            "text": "@ElensGuitart @ElenaDC13 Tienes razon, cuando van a rezar o confesar tambien se pueden encontrar con un perturbado, pero quire decir que todos los sacerdotes lo sean.",
+            "created_at": "2023-02-20T09:39:05.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627423261343596546",
+            "text": "El yunque.\n#LoDeOlona https://t.co/8mnPBEUguk",
+            "created_at": "2023-02-19T21:41:56.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627279008567119872",
+            "text": "@toniosasuna Yo estaba en el otro lado del campo y vi hasta quien era, a la altura del area que defendia Osasuna en la segunda o tercera fila, encima como que le hizo mucha ilusion que se le oyera. Igual es que tenia alguna discapacidad o iba como una avutarda, lo desconozco.",
+            "created_at": "2023-02-19T12:08:43.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627248745908776962",
+            "text": "@toniosasuna Me da que es el tipico \"tonto\" que ha buscado su minuto de gloria de los idiotas. Yo en el descanso, le cojo, lo echo del campo y le meto 3000 euros por bobo.",
+            "created_at": "2023-02-19T10:08:28.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627082788401991680",
+            "text": "@DAZN_ES @vinijr Podiais haber puesto la otra entrada que le ha hecho el del Madrid a Moi",
+            "created_at": "2023-02-18T23:09:01.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627082680939708416",
+            "text": "Respecto a \"la aficion insulta a Vinicius en el minuto de silencio\": Un solo aficionado de 22000!!!!!!!\nVinicius, al arbitro: \"Hijo de puta, vete a tomar por el culo\" https://t.co/GjfyN9riiU",
+            "created_at": "2023-02-18T23:08:35.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627081107241058308",
+            "text": "@David_Beriain_ Aunque para ser justos no es lo mismo jugar contra el Valladolid que contra el Madrid, pero han sido fallos muy groseros.",
+            "created_at": "2023-02-18T23:02:20.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627080835957673986",
+            "text": "@David_Beriain_ Hoy no lo he echado de menos. Ruben ha mejorado la banda derecha. Todos muy bien excepto un par que todos hemos visto. Alguno se ha ganado la titularidad para las semifinales sin salir a calentar.",
+            "created_at": "2023-02-18T23:01:15.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627080081754718210",
+            "text": "@txemasun @sergiomn1981 Partidazo, me ha encantado. Super enchufado, participativo. Ha rematado tres, el taconazo buenisimo. El unico lunar la que le ha quitado a Torro",
+            "created_at": "2023-02-18T22:58:15.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1627079602031185920",
+            "text": "@uruguayo7 @doniphon62 @DAZN_ES En esto tengo una duda, el var puede entrar si ve que le llama hijo de puta al arbitro. Lo pregunto por desconocimiento.",
+            "created_at": "2023-02-18T22:56:21.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1626793496924356608",
+            "text": "@partidazocope @Tebasjavier @FCBarcelona Que vaya Vizcay a declarar",
+            "created_at": "2023-02-18T03:59:28.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1626564006994407426",
+            "text": "\"\u00bfBudimir, me llevas al hospital?\" La historia de Mari Carmen ilustrada por su hija https://t.co/cQqjmKrWOA via @noticiasnavarra",
+            "created_at": "2023-02-17T12:47:34.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1626430351957434369",
+            "text": "@europapress Pues disimula bien....",
+            "created_at": "2023-02-17T03:56:28.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1625933950337093635",
+            "text": "@R10RTorres Aun me acuerdo de ese penalti que no quiso pitar para que no bajara el  patetico. Se le notaba en la cara que lo habia visto. Estaba justo a 10 metros de el.",
+            "created_at": "2023-02-15T19:03:56.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1625528182341263361",
+            "text": "@DAZN_ES @Cadiz_CF @LaLiga Que hay tallas grandes? Me gusta.",
+            "created_at": "2023-02-14T16:11:34.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1625477815574355970",
+            "text": "@EPdeportes En cambio poner un partido de Copa en enero a las diez de la noche en Pamplona en plena ola de frio, es lo mejor para el espectaculo. Calla la boca sinverguenza!!!!",
+            "created_at": "2023-02-14T12:51:25.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1625194114407927815",
+            "text": "Viendo los comentarios de muchas personas, me presenta una duda: Que clase de mierda tienen en la cabeza cierta gente de este pais? https://t.co/f6x37RfDyY",
+            "created_at": "2023-02-13T18:04:06.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1624348025794469888",
+            "text": "@kolgol @cesardeluis A mi Aitor me parece un gran portero, muchas cualidades, pero Sergio me da un plus que pocos me lo han dado, con su fallos incluidos.",
+            "created_at": "2023-02-11T10:02:02.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1623992189951909889",
+            "text": "@theklaneh @probatxoa Si llega a ser de La orquesta Mondragon....la lias parda.",
+            "created_at": "2023-02-10T10:28:05.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1623951815665496064",
+            "text": "@ertiii @realvalladolid Eso no es un trio, es una orgia",
+            "created_at": "2023-02-10T07:47:39.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1623340929972051970",
+            "text": "Cuando los del casting para reyes magos se van de marcha a Salamanca. Haran una pelicula de todo esto, tiempo al tiempo. https://t.co/skPtbic42G",
+            "created_at": "2023-02-08T15:20:12.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1623176474185310208",
+            "text": "@EsteparioTotal Lo de sacar videos de prisioneros dando declaraciones no iba en contra del tratado de Ginebra? Por que cuenta toda eso?",
+            "created_at": "2023-02-08T04:26:43.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1622931731429957634",
+            "text": "@borxi900 @Osasuna @LaLiga Aridane un poco ya es...",
+            "created_at": "2023-02-07T12:14:12.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1622705755777368077",
+            "text": "@Concejajala Sandra Mozarowsky, que se lo pregunten a ella.",
+            "created_at": "2023-02-06T21:16:15.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1622686221200662528",
+            "text": "@elmuro98 Perdona pero Aridane soy yo. https://t.co/BQthwlpDcX",
+            "created_at": "2023-02-06T19:58:37.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1622671891705077782",
+            "text": "Con cabeza y pundonor ganar sera un primor #OsasunaFestaro",
+            "created_at": "2023-02-06T19:01:41.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1622671735085572129",
+            "text": "@AuzoNews Con cabeza y pundonor ganar sera un primor.",
+            "created_at": "2023-02-06T19:01:04.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1622605240292761600",
+            "text": "@Comanrojillo Pensaba que no lo habia pagado y me sale que lo tengo incluido.",
+            "created_at": "2023-02-06T14:36:50.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1622352570751614980",
+            "text": "@Sandroncio Si hay sitio no hay problema.",
+            "created_at": "2023-02-05T21:52:49.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1622352389624709124",
+            "text": "@Ibanfilip Costa esta ya en declive, joselu cobra como media plantilla. Toni lato seria ideal, por perfil y caracter.",
+            "created_at": "2023-02-05T21:52:06.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1622335857393909760",
+            "text": "Podriais dos seguidores COPIAR y volver a publicar este tuit? Intento demostrar que siempre hay alguien ahi, especialmente en esta epoca del ano.\nContra el suicidio, 914 590 050 / 914 590 055. (Telefono de la Esperanza). Al menos dos. \nCOPIA, no RT.",
+            "created_at": "2023-02-05T20:46:24.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1622006752752320513",
+            "text": "@ladecada_80 Alfonsito",
+            "created_at": "2023-02-04T22:58:39.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1622001744283668481",
+            "text": "@ruloralf14 @aridanenofalla Galarreta ha firmado con el Bilbao",
+            "created_at": "2023-02-04T22:38:45.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621894229164261379",
+            "text": "@Comanrojillo Opino igual, creo que su tiempo en Osasuna ha pasado",
+            "created_at": "2023-02-04T15:31:32.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621891626397310979",
+            "text": "@CLucarelli94 Cada vez que le va un balon nunca pienso que pueda meter gol",
+            "created_at": "2023-02-04T15:21:11.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621888213160689667",
+            "text": "@Comanrojillo Me pasa lo mismo. No me quedo contento. Hemos empatado ante un equipo muy flojo sin demostrar nada nosotros.",
+            "created_at": "2023-02-04T15:07:37.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621887935174922240",
+            "text": "@rojillo72 @Forofillo Creo que el sol ha influido",
+            "created_at": "2023-02-04T15:06:31.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621887699794681863",
+            "text": "@inakiissj @Oskarzabulon @pjolabarria1 Creo que se retirara este ano. No creo que este para jugar mas ni en Chipre.",
+            "created_at": "2023-02-04T15:05:35.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621886042792927238",
+            "text": "@Benitez_mikel @DAZN_ES Esta en el canal de Euskera. \"Charls Bronson\" David Garcia.",
+            "created_at": "2023-02-04T14:59:00.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621882964719058951",
+            "text": "@txemasun La tarjeta de Unai? La entrada a Juan Cruz",
+            "created_at": "2023-02-04T14:46:46.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621882214731448323",
+            "text": "@JoseCarlosVA Me esta desquiciando con el criterio de las tarjetas",
+            "created_at": "2023-02-04T14:43:47.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621869522066997250",
+            "text": "@David_Beriain_ Pon en euskera, se lleva perfectamente aunque no lo sepas,. Es otra historia",
+            "created_at": "2023-02-04T13:53:21.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621813070417780736",
+            "text": "@europapress Entre todos los que digan ellos o los que son como ellos, no?",
+            "created_at": "2023-02-04T10:09:02.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621256931552727043",
+            "text": "@Miguel_An_Roman Cantada del portero, muy mal colocado.",
+            "created_at": "2023-02-02T21:19:08.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1621183638703333377",
+            "text": "@Benitez_mikel @rfef Seria super positivo para la evolucion de los chavales y para los equipos profesionales.",
+            "created_at": "2023-02-02T16:27:54.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1619771653139091457",
+            "text": "@ManuelHuedo Este es el \"Nino Polla\"? O solo se le parece?",
+            "created_at": "2023-01-29T18:57:10.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1618675926677749761",
+            "text": "@maardiecinueve @Osasuna joderrr...me habeis hecho llorar. Que injusta es la puta vida, algunas veces. Un abrazo para sus padres, familia, amigos y companeros.",
+            "created_at": "2023-01-26T18:23:09.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1618664750384312322",
+            "text": "En la tombola del mundo he tenido mucha suerte #OsasunaFestaro",
+            "created_at": "2023-01-26T17:38:44.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1618649750760493057",
+            "text": "@Osasuna_eus @CDFuentesOf joderrr...me habeis hecho llorar. Que injusta es la puta vida, algunas veces. Un abrazo para sus padres, familia, amigos y companeros.",
+            "created_at": "2023-01-26T16:39:08.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1618647111943475200",
+            "text": "Sobre la expulsion de Mendez, roja clara pero la de Busquets a Kubo me parece roja tambien.",
+            "created_at": "2023-01-26T16:28:39.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1618644940061569025",
+            "text": "Viendo hoy el partido hoy, ayer no pude, mucho merito el triunfo. Un gran @SevillaFC especial mencion a Juan Cruz, partidazo el que se marco",
+            "created_at": "2023-01-26T16:20:01.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1618329094021840896",
+            "text": "@elmuro98 A quien se le ocurre coger el telefono!!!",
+            "created_at": "2023-01-25T19:24:57.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1618287149954248706",
+            "text": "@JoseAngelEgeaCl Los que sois de esqui pasareis menos frio, mas acostumbrados.",
+            "created_at": "2023-01-25T16:38:17.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1617957442377379840",
+            "text": "@javierosasuna Menos los desgraciaditos que trabajamos de noche.",
+            "created_at": "2023-01-24T18:48:09.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1617956905271558145",
+            "text": "@txemasun @LaRasmiaPodcast Empieza el partido. Hay el titan ha llegado a casa. https://t.co/xf60lBNWQX",
+            "created_at": "2023-01-24T18:46:01.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1617576243393875968",
+            "text": "@__AngelGarcia__ @Osasuna Solo lo he visto en dos partidos...y ....",
+            "created_at": "2023-01-23T17:33:24.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1617225662728658946",
+            "text": "@GaresJosean Te queda todo bien. https://t.co/KjdnlQzZrw",
+            "created_at": "2023-01-22T18:20:19.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1617207105232207872",
+            "text": "#ElcheOsasuna....Es increible que se pueda empatar un partido 1-1 cuando has hecho meritos (por regalos tuyos) para perder 7-1",
+            "created_at": "2023-01-22T17:06:34.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1617194484873269251",
+            "text": "65%de posesion fuera de casa....flipante. Espero que metamos el segundo y sirva para algo.",
+            "created_at": "2023-01-22T16:16:25.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1617193144197713920",
+            "text": "@AmazingGarzeta @Asiertrece Era el que iba con pintas de Punki de la plaza d toros?",
+            "created_at": "2023-01-22T16:11:06.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1617131305086353409",
+            "text": "@SantosAlar @javitaurino Como decia el chiste de Jotajota, les salio uno transfuga.",
+            "created_at": "2023-01-22T12:05:22.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1616825652748976129",
+            "text": "@cesardeluis @DonMitxel_I El menu que no es degustacion, calidad precio sera de lo mejor de toda Navarra. El degustacion es si antes te has pegado 3 horitas de caminata, por lo menos.",
+            "created_at": "2023-01-21T15:50:49.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1616724628252008448",
+            "text": "@Osasuna Con ese horario no puedo ir, una pena.",
+            "created_at": "2023-01-21T09:09:23.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1616702992681426944",
+            "text": "Muy bueno. https://t.co/T4DWu5iuEc",
+            "created_at": "2023-01-21T07:43:25.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1616543083209916420",
+            "text": "@Mikelin341 A los de noche no tanto.",
+            "created_at": "2023-01-20T21:07:59.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1616519329440301062",
+            "text": "@Osasuna @rfef Que sinverguenzas, el unico partido a las 10, pero se piensan que la gente no trabaja? No pueden ni ir los crios, ni nadie que trabaje a turnos, sinverguenzas!!!!!",
+            "created_at": "2023-01-20T19:33:36.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1616506401261555734",
+            "text": "@rfef @FCBarcelona_es @RealSociedad @Osasuna @SevillaFC @valenciacf @AthleticClub @realmadrid @Atleti Hay que ser muy hijo de puta para poner un partido en enero, entre semana, a las 10 de la noche, pero muy hijos de puta.",
+            "created_at": "2023-01-20T18:42:13.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1616490869900849152",
+            "text": "@R10RTorres @rfef He mirado 30 veces, aun no se si voy a poder ir, segun la hora que sea.",
+            "created_at": "2023-01-20T17:40:30.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1616160981188493314",
+            "text": "@cesardeluis @sergiosayas @cucagamarra @ppopular @GarciaAdanero La duda que tengo es que entre Vox y PP se van a repartir  dos escanos  en el Parlamento Navarro,  seran capaces de asegurarse ambos el sueldo?",
+            "created_at": "2023-01-19T19:49:39.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1616140456873627655",
+            "text": "@__AngelGarcia__ @SDP_1922 @SDHuesca @Osasuna @instagram Seria la salida de Juan un acierto para el y para el Huesca, se merece  jugar y si puede ser en su lugar de nacimiento mejor todavia. En Pamplona demasiada competencia.",
+            "created_at": "2023-01-19T18:28:06.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1616136661485617164",
+            "text": "@JoseCarlosVA El que vaya el balon fuera, muchas veces es merito del portero.",
+            "created_at": "2023-01-19T18:13:01.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615844780658905088",
+            "text": "@Osasuna La unica pena que tengo que no ha visto los penaltis mi hijo. Joder que noche....",
+            "created_at": "2023-01-18T22:53:11.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615843919950155787",
+            "text": "@osasunfleming Pensaba que me habian puesto una camara en el salon...",
+            "created_at": "2023-01-18T22:49:46.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615842799500525568",
+            "text": "No tenia nadie un puto capote en todo el villamarin?",
+            "created_at": "2023-01-18T22:45:18.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615839359688904704",
+            "text": "@R10RTorres Ya te digo....",
+            "created_at": "2023-01-18T22:31:38.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615837144052043777",
+            "text": "Don Enrique Barja Parera",
+            "created_at": "2023-01-18T22:22:50.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615835944191496192",
+            "text": "Luego hay que dormir...la virgen santa...A ver si cae medio metro de nieve manana a las 5..#BetisOsasuna",
+            "created_at": "2023-01-18T22:18:04.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615835057175896071",
+            "text": "@JorgeNagoreF Ahora, mas todavia!!!!!",
+            "created_at": "2023-01-18T22:14:33.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615833402137092118",
+            "text": "@cesardeluis La hemos tenido",
+            "created_at": "2023-01-18T22:07:58.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615831191353020416",
+            "text": "@Asiertrece Hoy toca.",
+            "created_at": "2023-01-18T21:59:11.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615816839204073473",
+            "text": "@Asiertrece No le ha salido nada",
+            "created_at": "2023-01-18T21:02:09.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615619313335173121",
+            "text": "@LaPiur No seria congrio?",
+            "created_at": "2023-01-18T07:57:15.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615468134667780096",
+            "text": "La madre que te pario....",
+            "created_at": "2023-01-17T21:56:31.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615425053813837842",
+            "text": "@Imanol_Brion77 @Comanrojillo Sergio\nDiego, Unai, David, Aridane, Juan Cruz\nBarja, Torro, Darko, Ruben\nKike.\nCreo que como mucho me voy a equivocar en 1.",
+            "created_at": "2023-01-17T19:05:20.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615103681057234945",
+            "text": "@cesardeluis @Comanrojillo @RumoreFutbol Tenemos muchos ahi y no se van a gastar pasta en esa posicion.",
+            "created_at": "2023-01-16T21:48:19.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615090418567323654",
+            "text": "@Comanrojillo La pasta para fichar va a ser en esa posicion para el ano que viene.",
+            "created_at": "2023-01-16T20:55:37.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615088483026042903",
+            "text": "@Comanrojillo @RumoreFutbol Me figuro que Darko con el rol que tiene no puede suponer un desembolso grande, si reduce las pretensiones deberia seguir, pero si va a suponer una ficha grande se tendra que ir.",
+            "created_at": "2023-01-16T20:47:55.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615042996642189325",
+            "text": "@eldiariona El objetivo: seguir cobrando un sueldo.",
+            "created_at": "2023-01-16T17:47:11.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        },
+        {
+            "tweet_id": "1615011365751558147",
+            "text": "@ElPadreDeBrian @eldiarioes Y el dinero los junta.",
+            "created_at": "2023-01-16T15:41:29.000Z",
+            "user_id": "938051526",
+            "username": "javithemayor"
+        }
+    ]
+}

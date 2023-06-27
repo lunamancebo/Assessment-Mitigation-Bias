@@ -1,0 +1,343 @@
+----------------------------------------- FASTTEXT -----------------------------------------
+
+- GENDER:
+	-> Accuracy: 0.7752136752136752
+	-> Precision: 1.0
+	-> Recall: 0.003787878787878788
+	-> F1-score: 0.007547169811320754
+
+- AGE:	
+	-> Accuracy: 0.6025641025641025
+	-> Precision: 0.36308349769888226
+	-> Recall: 0.6025641025641025
+	-> F1-score: 0.4531282051282051
+
+- REGION:
+	-> Accuracy: 0.0008547008547008547
+	-> Precision: 7.305135510263716e-07
+	-> Recall: 0.0008547008547008547
+	-> F1-score: 1.4597794273285306e-06
+
+----------------------------------------- GLOVE + SVM -----------------------------------------
+
+- GENDER:	
+    * Without tunning:
+		-> Accuracy: 0.7743589743589744
+		-> Precision: 0.7743589743589744
+		-> Recall: 1.0
+		-> F1-score: 0.8728323699421966
+	* With tunning {'C': 10, 'gamma': 1, 'kernel': 'rbf'}:
+		-> Accuracy: 0.7987179487179488
+		-> Precision: 0.8311111111111111
+		-> Recall: 0.9288079470198676
+		-> F1-score: 0.877247849882721
+
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.6051282051282051
+		-> Precision: 0.5999143101970865
+		-> Recall: 0.6051282051282051
+		-> F1-score: 0.4589274352611822
+	* With tunning {'C': 10, 'gamma': 1, 'kernel': 'rbf'}:
+		-> Accuracy: 0.6679487179487179
+		-> Precision: 0.6508679127042484
+		-> Recall: 0.6679487179487179
+		-> F1-score: 0.6415784863117293
+
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.36153846153846153
+		-> Precision: 0.4102261927541778
+		-> Recall: 0.36153846153846153
+		-> F1-score: 0.25707211762357424
+	* With tunning {'C': 100, 'gamma': 1, 'kernel': 'rbf'}:
+		-> Accuracy: 0.4717948717948718
+		-> Precision: 0.47782436442049525
+		-> Recall: 0.4717948717948718
+		-> F1-score: 0.4516919483744621
+
+----------------------------------------- GLOVE + RF -----------------------------------------
+
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7756410256410257
+		-> Precision: 0.7789336801040312
+		-> Recall: 0.9917218543046358
+		-> F1-score: 0.8725418790968682
+	* With tunning {'criterion': 'gini', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 200}:
+		-> Accuracy: 0.7769230769230769
+		-> Precision: 0.7777777777777778
+		-> Recall: 0.9966887417218543
+		-> F1-score: 0.8737300435413643
+
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.6205128205128205
+		-> Precision: 0.6329066882987103
+		-> Recall: 0.6205128205128205
+		-> F1-score: 0.5191393491649477
+	* With tunning {'criterion': 'gini', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 4, 'n_estimators': 500}:
+		-> Accuracy: 0.6217948717948718
+		-> Precision: 0.6475712467474457
+		-> Recall: 0.6217948717948718
+		-> F1-score: 0.5190154419218762
+
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.39487179487179486
+		-> Precision: 0.3914267440836267
+		-> Recall: 0.39487179487179486
+		-> F1-score: 0.32784119100986997
+	* With tunning {'criterion': 'gini', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 500}:
+		-> Accuracy: 0.39487179487179486
+		-> Precision: 0.43185054472236567
+		-> Recall: 0.39487179487179486
+		-> F1-score: 0.3103527781780817
+
+----------------------------------------- GLOVE + XGBOOST -----------------------------------------
+
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7743589743589744
+		-> Precision: 0.7764857881136951
+		-> Recall: 0.9950331125827815
+		-> F1-score: 0.872278664731495
+	* With tunning {'learning_rate': 0.01, 'n_estimators': 100, 'reg_lambda': 1}:
+		-> Accuracy: 0.7769230769230769
+		-> Precision: 0.7770618556701031
+		-> Recall: 0.9983443708609272
+		-> F1-score: 0.873913043478261
+
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.6192307692307693
+		-> Precision: 0.6861733036766061
+		-> Recall: 0.6192307692307693
+		-> F1-score: 0.49758297338909313
+	* With tunning {'learning_rate': 0.01, 'n_estimators': 100, 'reg_lambda': 1}:
+		-> Accuracy: 0.6205128205128205
+		-> Precision: 0.690112746253097
+		-> Recall: 0.6205128205128205
+		-> F1-score: 0.5001308369241654
+
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.37948717948717947
+		-> Precision: 0.3748933839022335
+		-> Recall: 0.37948717948717947
+		-> F1-score: 0.3077823491205197
+
+----------------------------------------- GLOVE + SF + SVM -----------------------------------------
+
+** With outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7743589743589744
+		-> Precision: 0.7743589743589744
+		-> Recall: 1.0
+		-> F1-score: 0.8728323699421966
+	* With tunning {'C': 10, 'gamma': 1, 'kernel': 'rbf'}:
+		-> Accuracy: 0.8025641025641026
+		-> Precision: 0.8251445086705202
+		-> Recall: 0.945364238410596
+		-> F1-score: 0.8811728395061729
+
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.6025641025641025
+		-> Precision: 0.36308349769888226
+		-> Recall: 0.6025641025641025
+		-> F1-score: 0.45312820512820506
+	* With tunning {'C': 10, 'gamma': 1, 'kernel': 'rbf'}:
+		-> Accuracy: 0.6679487179487179
+		-> Precision: 0.6529098202349909
+		-> Recall: 0.6679487179487179
+		-> F1-score: 0.6315980483097023
+
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.3423076923076923
+		-> Precision: 0.3011101935957427
+		-> Recall: 0.3423076923076923
+		-> F1-score: 0.22211761376287623
+	* With tunning {'C': 100, 'gamma': 1, 'kernel': 'rbf'}:
+		-> Accuracy: 0.4641025641025641
+		-> Precision: 0.4792510485599833
+		-> Recall: 0.4641025641025641
+		-> F1-score: 0.4363427251529339
+
+** Without outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7821939586645469
+		-> Precision: 0.7821939586645469
+		-> Recall: 1.0
+		-> F1-score: 0.8777876895628903
+	* With tunning {'C': 100, 'gamma': 1, 'kernel': 'rbf'}:
+		-> Accuracy: 0.8108108108108109
+		-> Precision: 0.8372513562386981
+		-> Recall: 0.9410569105691057
+		-> F1-score: 0.8861244019138755
+
+- AGE:        
+	* Without tunning:
+		-> Accuracy: 0.6818181818181818
+		-> Precision: 0.4648760330578512
+		-> Recall: 0.6818181818181818
+		-> F1-score: 0.5528255528255529
+	* With tunning {'C': 100, 'gamma': 1, 'kernel': 'rbf'}:
+		-> Accuracy: 0.7045454545454546
+		-> Precision: 0.6754434589800443
+		-> Recall: 0.7045454545454546
+		-> F1-score: 0.6284068044631426
+
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.32975460122699385
+		-> Precision: 0.4022223891354535
+		-> Recall: 0.32975460122699385
+		-> F1-score: 0.21877699638561923
+	* With tunning {'C': 100, 'gamma': 1, 'kernel': 'rbf'}:
+		-> Accuracy: 0.4938650306748466
+		-> Precision: 0.4974916606520793
+		-> Recall: 0.4938650306748466
+		-> F1-score: 0.4649047581753279
+
+----------------------------------------- GLOVE + SF + RF -----------------------------------------
+
+** With outliers
+
+- GENDER:
+
+	* Without tunning:
+		-> Accuracy: 0.7782051282051282
+		-> Precision: 0.7802340702210663
+		-> Recall: 0.9933774834437086
+		-> F1-score: 0.8739985433357611
+	* With tunning {'criterion': 'gini', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 200}:
+		-> Accuracy: 0.7769230769230769
+		-> Precision: 0.7777777777777778
+		-> Recall: 0.9966887417218543
+		-> F1-score: 0.8737300435413643
+
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.6474358974358975
+		-> Precision: 0.676473385670003
+		-> Recall: 0.6474358974358975
+		-> F1-score: 0.5539564846318157
+	* With tunning {'criterion': 'gini', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 4, 'n_estimators': 500}:
+		-> Accuracy: 0.6371794871794871
+		-> Precision: 0.701857957142056
+		-> Recall: 0.6371794871794871
+		-> F1-score: 0.5312154435022003
+
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.38076923076923075
+		-> Precision: 0.3982836891962168
+		-> Recall: 0.38076923076923075
+		-> F1-score: 0.3047957514513846
+	* With tunning {'criterion': 'gini', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 500}:
+		-> Accuracy: 0.391025641025641
+		-> Precision: 0.4525737571230202
+		-> Recall: 0.391025641025641
+		-> F1-score: 0.3133777682140389
+
+** Without outliers
+
+- GENDER:	
+    * Without tunning:
+		-> Accuracy: 0.7837837837837838
+		-> Precision: 0.7852564102564102
+		-> Recall: 0.9959349593495935
+		-> F1-score: 0.8781362007168458
+	* With tunning {'criterion': 'gini', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 200}:
+		-> Accuracy: 0.78060413354531
+		-> Precision: 0.7818471337579618
+		-> Recall: 0.9979674796747967
+		-> F1-score: 0.8767857142857143
+
+- AGE:  
+	* Without tunning:
+		-> Accuracy: 0.7045454545454546
+		-> Precision: 0.589323467230444
+		-> Recall: 0.7045454545454546
+		-> F1-score: 0.598277293482773
+	* With tunning {'criterion': 'gini', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 4, 'n_estimators': 500}:
+		-> Accuracy: 0.7045454545454546
+		-> Precision: 0.589323467230444
+		-> Recall: 0.7045454545454546
+		-> F1-score: 0.598277293482773
+
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.36809815950920244
+		-> Precision: 0.36810111386015065
+		-> Recall: 0.36809815950920244
+		-> F1-score: 0.30064064437003474
+	* With tunning {'criterion': 'gini', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 500}:
+		-> Accuracy: 0.3604294478527607
+		-> Precision: 0.3455230936667149
+		-> Recall: 0.3604294478527607
+		-> F1-score: 0.2760761011997334
+
+----------------------------------------- GLOVE + SF + XGBOOST -----------------------------------------
+
+** With outliers
+
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7769230769230769
+		-> Precision: 0.7770618556701031
+		-> Recall: 0.9983443708609272
+		-> F1-score: 0.873913043478261
+	* With tunning {'learning_rate': 0.01, 'n_estimators': 100, 'reg_lambda': 1}:
+		-> Accuracy: 0.7769230769230769
+		-> Precision: 0.7770618556701031
+		-> Recall: 0.9983443708609272
+		-> F1-score: 0.873913043478261
+	* Without tunning:
+		-> Accuracy: 0.7821939586645469
+		-> Precision: 0.784
+		-> Recall: 0.9959349593495935
+		-> F1-score: 0.8773500447627575
+	* With tunning {'learning_rate': 0.01, 'n_estimators': 100, 'reg_lambda': 1}:
+		-> Accuracy: 0.78060413354531
+		-> Precision: 0.7845659163987139
+		-> Recall: 0.991869918699187
+		-> F1-score: 0.8761220825852782
+
+- AGE:	
+    * Without tunning:
+		-> Accuracy: 0.6282051282051282
+		-> Precision: 0.655343348675077
+		-> Recall: 0.6282051282051282
+		-> F1-score: 0.521004496232719
+	* With tunning {'learning_rate': 0.01, 'n_estimators': 100, 'reg_lambda': 1}:
+		-> Accuracy: 0.6294871794871795
+		-> Precision: 0.6738621662318933
+		-> Recall: 0.6294871794871795
+		-> F1-score: 0.5185055993419206
+	* Without tunning:
+		-> Accuracy: 0.6818181818181818
+		-> Precision: 0.5275974025974026
+		-> Recall: 0.6818181818181818
+		-> F1-score: 0.5817099567099567
+	* With tunning {'learning_rate': 0.01, 'n_estimators': 100, 'reg_lambda': 1}:
+		-> Accuracy: 0.6818181818181818
+		-> Precision: 0.5275974025974026
+		-> Recall: 0.6818181818181818
+		-> F1-score: 0.5817099567099567
+
+- REGION:	
+    * Without tunning:
+		-> Accuracy: 0.37564102564102564
+		-> Precision: 0.41765105185861745
+		-> Recall: 0.37564102564102564
+		-> F1-score: 0.30435412927787686
+	* With tunning {'learning_rate': 0.01, 'n_estimators': 100, 'reg_lambda': 1}:
+		-> Accuracy: 0.35128205128205126
+		-> Precision: 0.34664666158861207
+		-> Recall: 0.35128205128205126
+		-> F1-score: 0.2775102112033334

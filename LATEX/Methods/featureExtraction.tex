@@ -1,0 +1,87 @@
+Feature extraction is a crucial step in studying differences in writing style. Through our literature, presented in chapter \ref{CAP:STATEOFTHEART}, we have been able to select the best performing features for similar tasks. The features used in our study are purely statistical and are divided in three categories: stylistic features, N-grams features and Twitter features (the later only for the Twitter dataset). 
+
+\subsection{Stylistic features}
+It focuses on the differences on the arrangements of aspects of the text (word, sentence, paragraph). We can divide these kind of features in four subgroups: word based features, character based features, structural features and syntactical features. The following table \ref{table:FS-SF} presents the features used and their category.
+
+\begingroup
+% \setlength{\tabcolsep}{10pt} % Default value: 6pt
+\renewcommand{\arraystretch}{1} % Default value: 1
+\small
+\begin{longtable}{ p{.25\textwidth} p{.65\textwidth}}
+\caption{Stylistic features}\\
+\hline
+\hline
+\textbf{Category} & \textbf{Feature description}\\
+\hline
+\hline
+\endfirsthead
+\multicolumn{2}{c}%
+{} \\
+\hline
+\hline
+\textbf{Category} & \textbf{Feature description}\\
+\hline
+\hline
+\endhead
+\hline \multicolumn{2}{r}{} \\
+\endfoot
+\hline
+\endlastfoot
+Word based features &
+Count of words
+\newline Count of positive words
+\newline Count of negative words
+\newline Unique words count
+\newline Count of words that occur twice
+\newline Average word length
+\newline Maximum length of a word
+\newline Count of words with numbers
+\newline Count of words with length greater than 6
+\newline Count of words with length smaller than 3
+\newline Count of stop words
+\\
+\hline
+Character based features &
+Character count
+\newline Count of capital letters
+\newline Count of punctuation marks
+\\
+\hline
+Structural features & 
+Sentence count
+\newline Average count of sentences per paragraph
+\newline Average count of words per paragraph
+\newline Average count of characters per paragraph
+\newline Variation in tweets length
+\\
+\hline
+Syntactic features &
+Determiners count
+\newline Prepositions count
+\newline Singular noun count
+\newline Plural nouns count
+\newline Adverbs count
+\newline Adjectives count
+\newline Proper nouns count
+\newline Pronouns count
+\newline Conjunctions count
+\newline Count of past tense verbs
+\newline Count of future tense verbs
+\label{table:FS-SF}
+\end{longtable}
+\endgroup
+
+\subsection{Twitter features}
+We have applied this method only to the Twitter dataset, as we believe it can contribute with interesting insights to help build an answer to the main question of this study. The features in question are:
+\begin{itemize}
+    \item Number of retweets
+    \item Number of mentions
+    \item Number of URLs
+    \item Number of emojis
+    \item Number of hashtags
+\end{itemize}
+
+\subsection{N-grams features}
+Word and character N-grams are popular features in Information Retrieval tasks. We have based our approach in the method used by \cite{garcia2022psychographic}, as they provided good results and we want to establish a robust method as a baseline. The counterpart of this technique is that it is computationally expensive and it doesn't take into account the surrounding n-grams (it is context-less). On the other hand, it is an approach that captures the content of words. This can be both a positive and negative aspect, as it might draw conclusions that are specific for the topics of the texts of the dataset (loss of generality).
+
+We extracted word and character n-grams using \acrshort{TF-IDF}, using unigrams, bigrams and trigrams for words. For characers we combined sequences between 2 and 7 character lenght without word boundaries. We combined both feature sets into one, and applied \acrshort{LSA} to reduce the dimension of the vector, obtaining one of 100 components. We calculated a vector per tweet, and then averaged them, resulting in the author's vector.

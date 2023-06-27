@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1628090979084271634",
+            "text": "@pablopaardo @GuilleLlop1 multipower no cuenta",
+            "created_at": "2023-02-21T17:55:12.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1628004535560962050",
+            "text": "@GuilleLlop1 Tuvo buen paso por las categorias inferiores del Cuenca no?",
+            "created_at": "2023-02-21T12:11:42.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1627648333266227202",
+            "text": "@GuilleLlop1 Que opinas de la temporada del Conquense",
+            "created_at": "2023-02-20T12:36:17.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1626323333292740608",
+            "text": "@ElReyGuiri Mercedes AM y Ferrari",
+            "created_at": "2023-02-16T20:51:12.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1618658263360507905",
+            "text": "@_rebbecaa8_ No has podido elegir mejor partido\ud83d\ude33",
+            "created_at": "2023-01-26T17:12:57.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1603333319705387013",
+            "text": "@franzc14 el van",
+            "created_at": "2022-12-15T10:17:06.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1601544721369006080",
+            "text": "@Cristiano @Daviid_01 lo va a hacer",
+            "created_at": "2022-12-10T11:49:51.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1470039499757473796",
+            "text": "Padre",
+            "created_at": "2021-12-12T14:35:03.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1458908065101758470",
+            "text": "@jlordaribes Facil, trust the plan",
+            "created_at": "2021-11-11T21:22:42.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1445480231372947461",
+            "text": "@franzc14 Estabas muy roto eh",
+            "created_at": "2021-10-05T20:05:17.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1439589072444526593",
+            "text": "@jesus_lorda Me ha convencido tu analisis",
+            "created_at": "2021-09-19T13:55:55.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1437893625833271305",
+            "text": "@franzc14 Vamossss",
+            "created_at": "2021-09-14T21:38:49.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1411696080673255424",
+            "text": "@jesus_lorda De hecho creo que Norris es tercero en el Mundial de pilotos ahora mismo",
+            "created_at": "2021-07-04T14:39:08.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1407428378437763075",
+            "text": "@jlordaribes A ti te gusta mas Norris no mientas",
+            "created_at": "2021-06-22T20:00:48.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1407427241110343685",
+            "text": "@jlordaribes No es uno de los nuestros \ud83d\ude0e",
+            "created_at": "2021-06-22T19:56:17.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1407413217421316101",
+            "text": "@jlordaribes No veo a cristiano no me interesa",
+            "created_at": "2021-06-22T19:00:34.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1370735896086114306",
+            "text": "@jlordaribes Y Fernando no va a tener mas remedio que seguir se saaaale Hamilton, bueno esperate que puede estar ahi vamos a ver vamos a ver, se puede quedar ahi, se puede quedar ahi...",
+            "created_at": "2021-03-13T13:57:59.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1369231525468901376",
+            "text": "@golalacontra_ Ya veremos si el Sevilla puede parar al experimento noruego\ud83e\udd16",
+            "created_at": "2021-03-09T10:20:09.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1368284743863836674",
+            "text": "Previa Atletico-Real Madrid: La liga en juego | Diario UF https://t.co/zavjFv1XJN",
+            "created_at": "2021-03-06T19:37:59.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1368284581217120259",
+            "text": "Previa Real Sociedad-Levante: Lucha abierta por Europa | Diario UF https://t.co/3i5jpuMEPv",
+            "created_at": "2021-03-06T19:37:20.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1367238151497015298",
+            "text": "@franzc14 Pensaba que estariamos primeros, que decepcion",
+            "created_at": "2021-03-03T22:19:12.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1367235080679264272",
+            "text": "@Geeema7 Por eso estoy en periodismo jajajajajaja",
+            "created_at": "2021-03-03T22:06:59.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1367087811589988353",
+            "text": "Un articulo especial \ud83d\udc99\ud83d\udc9b @Diario_UF https://t.co/M81uHH8opS",
+            "created_at": "2021-03-03T12:21:48.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1359950661534830605",
+            "text": "Pf esperemos que todo este bien\ud83d\ude4f\ud83c\udffb\ud83d\udcaa\ud83c\udffb https://t.co/zmxZzfMU5d",
+            "created_at": "2021-02-11T19:41:19.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1358751148312850436",
+            "text": "@jlordaribes @joanmarc7_ Velocidad totaaaalllll guau tercero fernando",
+            "created_at": "2021-02-08T12:14:52.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1358749175899451395",
+            "text": "@joanmarc7_ Torpedo solo hay uno\ud83d\ude80\ud83c\uddf7\ud83c\uddfa https://t.co/vHg0lac5tv",
+            "created_at": "2021-02-08T12:07:02.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1358747300718387201",
+            "text": "@joanmarc7_ Da igual, este ano no gana el mundial, esta Bottas 5.0\ud83e\udd2b\ud83e\udd72\ud83d\ude43\ud83d\ude42\ud83e\udd2a\ud83d\ude02",
+            "created_at": "2021-02-08T11:59:35.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1358103324218847233",
+            "text": "Levante 2-2 Granada: empate sufrido en el Ciutat - Diario UF \u26bd\u26bd https://t.co/xHOHIsVI90",
+            "created_at": "2021-02-06T17:20:39.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1357340509857935360",
+            "text": "\ud83d\udc38\u2764\ufe0f\ud83d\udc99|| El camino del Levante hasta las semifinales de Copa https://t.co/n5d3kPBSTm via @diario_uf",
+            "created_at": "2021-02-04T14:49:30.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1355572064502034436",
+            "text": "Real Madrid 1-2 Levante: disputa y polemica - Diario UF \u26bd\u26bd https://t.co/s9HgIxMzrd",
+            "created_at": "2021-01-30T17:42:20.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1353727716055527424",
+            "text": "Previa Valladolid-Levante: maxima igualdad https://t.co/V9VCoMsngy via @diario_uf",
+            "created_at": "2021-01-25T15:33:33.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1344059804445257730",
+            "text": "Menudo partidazo nos han dejado Levante y Betis hoy\ud83d\ude1c\nhttps://t.co/9KG9691V8b via @diario_uf",
+            "created_at": "2020-12-29T23:16:43.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1340717847337689088",
+            "text": "@guilheedpoli el curling mola mucho mas",
+            "created_at": "2020-12-20T17:56:58.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1339313607419568133",
+            "text": "@jlordaribes No te pongas sad boy...\ud83d\ude14",
+            "created_at": "2020-12-16T20:57:01.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1337788032150286336",
+            "text": "El dia que le den un coche a la altura... veremos quien le para https://t.co/kdTILShhZJ",
+            "created_at": "2020-12-12T15:54:56.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1335657174358495236",
+            "text": "Primera victoria de Checo\ud83d\ude0d y primer podio de Esteban Ocon. Muy injusto lo de Russell... pero se ha ganado el respeto de todos, esta carrera era suya, veremos si en Abu Dhabi tiene una segunda oportunidad. Bottas\u2744\ufe0f",
+            "created_at": "2020-12-06T18:47:40.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1335654008409759747",
+            "text": "\u201cPero que triste es la vida de Bottas\u201d Toni eres un grande\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "created_at": "2020-12-06T18:35:05.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1335651465512292356",
+            "text": "@joan_marc_7 Entre el \u201cno power\u201d de Russell y la mierda esta no puedo mas, comienza aqui la fantasia",
+            "created_at": "2020-12-06T18:24:59.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1335651135869358087",
+            "text": "@joan_marc_7 Pero Bottas que neumaticos lleva? Esq menudo meme jajajajaj",
+            "created_at": "2020-12-06T18:23:40.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1335650858609020930",
+            "text": "@joan_marc_7 Si es que va a ganar Checo, increible este fallo de Mercedes",
+            "created_at": "2020-12-06T18:22:34.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1335650053898309635",
+            "text": "No entiendo nada",
+            "created_at": "2020-12-06T18:19:22.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1335633785141010437",
+            "text": "RUSSEEEEELLLLL QUE SALIDA\nMax y Leclerc fuera y Carlos 3\u00ba\ud83d\ude31\ud83d\ude31\ud83d\ude31",
+            "created_at": "2020-12-06T17:14:43.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1335593229417410560",
+            "text": "Queremos una victoria de este hombre en Sakhir. 18:10h https://t.co/xfe83o4tEV",
+            "created_at": "2020-12-06T14:33:34.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1333721678690607105",
+            "text": "@iFons_ Yo me quedo con De la Rosa, sonar es gratis",
+            "created_at": "2020-12-01T10:36:42.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1333455455360864258",
+            "text": "Las lesiones no dejan que Hazard brille en el Real Madrid.\n\nhttps://t.co/ijoFvTQ7xL",
+            "created_at": "2020-11-30T16:58:49.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1333369933493891078",
+            "text": "@mxriablanco @franzc14 Gracias\ud83d\ude0d",
+            "created_at": "2020-11-30T11:18:59.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1333052567157354502",
+            "text": "@jorgeruve Menos mal madre mia, que tension hasta que lo ha confirmado",
+            "created_at": "2020-11-29T14:17:53.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1332787074697662465",
+            "text": "@Pablo_AlcaraZzz Fue muy bonito jugar en el Real Madrid\ud83d\ude23",
+            "created_at": "2020-11-28T20:42:55.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1332786189305344000",
+            "text": "@Pablo_AlcaraZzz Que te pasa eden",
+            "created_at": "2020-11-28T20:39:24.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1332472286675423232",
+            "text": "@mxriablanco El 4, vamos va",
+            "created_at": "2020-11-27T23:52:03.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1332440354025574400",
+            "text": "Y ahora con el gol de Campana, a ver lo mismo el proximo finde contra el Getafe, es desesperante",
+            "created_at": "2020-11-27T21:45:10.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1332405540551614466",
+            "text": "@joan_marc_7 Y asi ha sido\ud83d\ude09 +2\ud83d\udcaa\ud83c\udffb",
+            "created_at": "2020-11-27T19:26:50.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1332403057750118402",
+            "text": "@joan_marc_7 Veremos como acaba esto...",
+            "created_at": "2020-11-27T19:16:58.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1331591818694234114",
+            "text": "Los 11 nominados al premio The Best https://t.co/IH6BhQxfWE via @diario_uf",
+            "created_at": "2020-11-25T13:33:24.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1330252828275843072",
+            "text": "Me encanta Carrasco, en serio.",
+            "created_at": "2020-11-21T20:52:43.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1329426414064586753",
+            "text": "Morales necesita reivindicarse https://t.co/YUEHH6dKyH via @diario_uf",
+            "created_at": "2020-11-19T14:08:51.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1327933185649479680",
+            "text": "Gafada",
+            "created_at": "2020-11-15T11:15:17.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1327927291188568065",
+            "text": "Va a ganar Alex Albon",
+            "created_at": "2020-11-15T10:51:52.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1327926363324633088",
+            "text": "Ay Mad Max... y solo han pasado 19 vueltas madre mia\ud83d\ude02",
+            "created_at": "2020-11-15T10:48:11.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1326922793963974656",
+            "text": "Si fueras Florentino, \u00bfa cual ficharias?",
+            "created_at": "2020-11-12T16:20:21.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1326553778225635329",
+            "text": "@Geeema7 Lo que hace uno cuando se aburre en clase...",
+            "created_at": "2020-11-11T15:54:01.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1326553438344241155",
+            "text": "@Geeema7 Eso no ayuda amiga soy vegano",
+            "created_at": "2020-11-11T15:52:40.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1326553321595793410",
+            "text": "Bardhi y sus 100 partidos en liga con el Levante, un crack\ud83d\udca5\n\nhttps://t.co/FJEWASbO07",
+            "created_at": "2020-11-11T15:52:12.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1325803942232662017",
+            "text": "@cgalemany2 El nivel actual de Barca y Madrid (y de LaLiga en general)... deja mucho que desear",
+            "created_at": "2020-11-09T14:14:26.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1325552804459663363",
+            "text": "@jesus_lorda En el ultimo aqui casi marca Courtois en el descuento",
+            "created_at": "2020-11-08T21:36:30.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1325549428195856384",
+            "text": "Hat trick de Soler de penalti? Hat trick de Soler de penalti. Y cuarto penalti que se lanza en este partido\ud83e\udd2d",
+            "created_at": "2020-11-08T21:23:05.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1325545700915097600",
+            "text": "@Geeema7 Eso es inyustisia",
+            "created_at": "2020-11-08T21:08:17.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1325542240412950530",
+            "text": "@jesus_lorda Este es el nivel actual\ud83d\ude02",
+            "created_at": "2020-11-08T20:54:32.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1325540214278922245",
+            "text": "Pero este gol? Jajajajajajaja",
+            "created_at": "2020-11-08T20:46:29.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1325526386644316165",
+            "text": "Lucha por ver quien lo hace peor... https://t.co/k2NhbCtWmw",
+            "created_at": "2020-11-08T19:51:32.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1325504808275632128",
+            "text": "Sinceramente, a que espera el Levante para cambiar algo? Si todo sigue asi, puede acabar muy muy mal",
+            "created_at": "2020-11-08T18:25:47.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1324432123613401089",
+            "text": "@_cristinabea @MovistarFutbol @UEFA @VillarrealCF Sigan",
+            "created_at": "2020-11-05T19:23:19.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1324269518135451648",
+            "text": "@Geeema7 @Angelittoo03 Angel tambien messirve de periodista",
+            "created_at": "2020-11-05T08:37:11.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1324089015658811392",
+            "text": "Haaland es un escandalo.\nLiga: 5 goles en 5 partidos esta temp., 13 goles en 15 partidos en la pasada.\nChampions: 4 goles en 3 partidos esta temp., 10 goles en 8 partidos en la pasada\nUna maquina de meter goles",
+            "created_at": "2020-11-04T20:39:56.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1323989982806188032",
+            "text": "@cgalemany2 Sancho",
+            "created_at": "2020-11-04T14:06:25.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1323576024685314049",
+            "text": "Levante 1-1 Granada. 8-3-2020 https://t.co/Qjso9gMsfd",
+            "created_at": "2020-11-03T10:41:29.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1322966318790881280",
+            "text": "@jorgeruve Es una verguenza que con este equipo se de esta imagen en un partido contra el Real Madrid, cuando tendrias que estar disputandole el partido de tu a tu",
+            "created_at": "2020-11-01T18:18:44.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1321561222031036416",
+            "text": "Hat-trick de goles anulados a Morata vs Barca. Si has tenido un mal dia, piensa en el\ud83e\udd76",
+            "created_at": "2020-10-28T21:15:23.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1320423420098678784",
+            "text": "@Geeema7 No te lo voy a negar, que rica estas \ud83d\ude04",
+            "created_at": "2020-10-25T17:54:10.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1320423058063216641",
+            "text": "@Geeema7 Nah, sobran las palabras ante este hombre, es el mejor",
+            "created_at": "2020-10-25T17:52:43.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1320353500967149569",
+            "text": "Sainz lidera el GP Portim\u00e3o. Locura de salida y llueve. Un Alfa Romeo el sexto pero que es esto jajajaja",
+            "created_at": "2020-10-25T13:16:20.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1320346973082439680",
+            "text": "Nada esto fue historico https://t.co/TgG17G4Fo5",
+            "created_at": "2020-10-25T12:50:23.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1320072684122853376",
+            "text": "Este pavo es brutal, agacha la cabeza y no hay quien lo pare, presente y futuro Haaland https://t.co/qsyUQXJY6R",
+            "created_at": "2020-10-24T18:40:28.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1320062391074254848",
+            "text": "Espectacular remontada\ud83c\udf4a\ud83d\udd25 https://t.co/nEHSE4uslG",
+            "created_at": "2020-10-24T17:59:34.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1319739852016025600",
+            "text": "@jlordaribes Y el 0-3 un gol bonito tambien\ud83d\ude1b",
+            "created_at": "2020-10-23T20:37:54.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1319348125262249984",
+            "text": "Zalgiris 82- 94 VBC. Nivelazo de Marinkovic. El @valenciabasket ha sabido solucionar los errores de la primera parte y batir a un equipo que llevaba 4/4 en #EuroLeague . Buena imagen hoy en Lituania y a por mejores resultados en Liga\ud83c\udfc0",
+            "created_at": "2020-10-22T18:41:20.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1319343864558354433",
+            "text": "Increible Valencia Basket\ud83e\udd2d",
+            "created_at": "2020-10-22T18:24:24.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1317874528710774790",
+            "text": "El Liverpool confirma la lesion de ACL de Van Dijk. Se quedan sin su defensa estrella tras una entrada criminal de Pickford\ud83e\udd2f",
+            "created_at": "2020-10-18T17:05:47.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1317873359527575555",
+            "text": "Bale vuelve a debutar con el Tottenham, veremos de que es capaz el \ud83d\udc09 gales",
+            "created_at": "2020-10-18T17:01:08.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1317840316444102656",
+            "text": "Athletic Club 2-0 Levante: primera victoria en casa de los leones https://t.co/MIYERWVDHG via @union_futbolera",
+            "created_at": "2020-10-18T14:49:50.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1317453965735399424",
+            "text": "Calvert-Lewin empata el derbi de Merseyside\ud83d\udd25 (2-2)",
+            "created_at": "2020-10-17T13:14:37.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1314312466814373888",
+            "text": "@_rebbecaa8_ @valenciabasket A ver si en liga seguimos con esta dinamica",
+            "created_at": "2020-10-08T21:11:25.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1314307515778244609",
+            "text": "A por la Euroliga, no @_rebbecaa8_ ?\ud83d\ude0f",
+            "created_at": "2020-10-08T20:51:45.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1314196522997673985",
+            "text": "@jorgeruve Veremos en la vuelta el jueves que viene...\ud83e\udd2a",
+            "created_at": "2020-10-08T13:30:42.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1313582325855391745",
+            "text": "@Geeema7 @_rebbecaa8_ Calvas\u2764\ufe0f",
+            "created_at": "2020-10-06T20:50:06.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1313455233033527298",
+            "text": "@franzc14 Hombre el ordenador encendido lo tienes al menos",
+            "created_at": "2020-10-06T12:25:05.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1313243127067672576",
+            "text": "@jesus_lorda Sinceramente, este \u201cproyecto\u201d pinta realmente mal... veremos si incluso Gracia continua al frente del equipo",
+            "created_at": "2020-10-05T22:22:15.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1313238496514105344",
+            "text": "@jesus_lorda Somos una mierda",
+            "created_at": "2020-10-05T22:03:51.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1312856774555439112",
+            "text": "@_rebbecaa8_ Este ano la euroliga se viene a casa Rebe?\ud83d\ude0f",
+            "created_at": "2020-10-04T20:47:01.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        },
+        {
+            "tweet_id": "1312852399846035456",
+            "text": "@jaimesancheez14 Que grandes\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+            "created_at": "2020-10-04T20:29:38.000Z",
+            "user_id": "1138522786002083840",
+            "username": "alexnavaarro"
+        }
+    ]
+}

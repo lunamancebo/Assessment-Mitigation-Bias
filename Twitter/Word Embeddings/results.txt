@@ -1,0 +1,661 @@
+----------------------------------------- FASTTEXT -----------------------------------------
+
+- GENDER:
+    -> Accuracy: 0.6040900951842427
+    -> Precision: 0.6324667349027636
+    -> Recall: 0.6637164339419979
+    -> F1-Score: 0.6477148846960169
+- AGE:
+	-> Accuracy: 0.325881115202525
+	-> Precision: 0.3206832568059339
+	-> Recall: 0.325881115202525
+	-> F1-score: 0.3215743272197683
+- REGION:
+	-> Accuracy: 0.16616621240818588
+	-> Precision: 0.16473018386890964
+	-> Recall: 0.16616621240818588
+	-> F1-score: 0.15854051998361784
+
+
+----------------------------------------- GLOVE + SVM -----------------------------------------
+
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.717391304347826
+		-> Precision: 0.7472527472527473
+		-> Recall: 0.7010309278350515
+		-> F1-score: 0.723404255319149
+	* With tunning:
+		-> Accuracy: 0.7445652173913043
+		-> Precision: 0.7604166666666666
+		-> Recall: 0.7525773195876289
+		-> F1-score: 0.7564766839378239
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.4217391304347826
+		-> Precision: 0.40732465801220924
+		-> Recall: 0.4217391304347826
+		-> F1-score: 0.4100559867159602
+	* With tunning:
+		-> Accuracy: 0.4434782608695652
+		-> Precision: 0.43863955020713796
+		-> Recall: 0.4434782608695652
+		-> F1-score: 0.4396592144803047
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.1826086956521739
+		-> Precision: 0.20914673515552015
+		-> Recall: 0.1826086956521739
+		-> F1-score: 0.13661427126714645
+	* With tunning:
+		-> Accuracy: 0.30869565217391304
+		-> Precision: 0.32891347687400313
+		-> Recall: 0.30869565217391304
+		-> F1-score: 0.3146044184003099
+
+----------------------------------------- GLOVE + RF -----------------------------------------
+
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7565217391304347
+		-> Precision: 0.7876106194690266
+		-> Recall: 0.7355371900826446
+		-> F1-score: 0.7606837606837605
+	* With tunning:
+		-> Accuracy: 0.7608695652173914
+		-> Precision: 0.7894736842105263
+		-> Recall: 0.743801652892562
+		-> F1-score: 0.7659574468085106
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.3521739130434783
+		-> Precision: 0.3618923547679942
+		-> Recall: 0.3521739130434783
+		-> F1-score: 0.3539416627182896
+	* With tunning:
+		-> Accuracy: 0.3869565217391304
+		-> Precision: 0.3851712914677187
+		-> Recall: 0.3869565217391304
+		-> F1-score: 0.37947530339898156
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.2565217391304348
+		-> Precision: 0.2427432689560836
+		-> Recall: 0.2565217391304348
+		-> F1-score: 0.23305720696106097
+	* With tunning:
+		-> Accuracy: 0.2956521739130435
+		-> Precision: 0.27177255253495697
+		-> Recall: 0.2956521739130435
+		-> F1-score: 0.2604825380710339
+
+----------------------------------------- GLOVE + XGBOOST -----------------------------------------
+
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7608695652173914
+		-> Precision: 0.8
+		-> Recall: 0.7272727272727273
+		-> F1-score: 0.761904761904762
+	* With tunning:
+		-> Accuracy: 0.7608695652173914
+		-> Precision: 0.8
+		-> Recall: 0.7272727272727273
+		-> F1-score: 0.761904761904762
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.34347826086956523
+		-> Precision: 0.34667453603514986
+		-> Recall: 0.34347826086956523
+		-> F1-score: 0.34201851890822615
+	* With tunning:
+		-> Accuracy: 0.3782608695652174
+		-> Precision: 0.3872254747540788
+		-> Recall: 0.3782608695652174
+		-> F1-score: 0.37852181095842813
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.22608695652173913
+		-> Precision: 0.20585584492234107
+		-> Recall: 0.22608695652173913
+		-> F1-score: 0.2088239043647611
+	* With tunning:
+		-> Accuracy: 0.2608695652173913
+		-> Precision: 0.2908929492644326
+		-> Recall: 0.2608695652173913
+		-> F1-score: 0.25380497311363565
+
+----------------------------------------- GLOVE + SF + TF + SVM -----------------------------------------
+
+** With outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7478260869565218
+		-> Precision: 0.7692307692307693
+		-> Recall: 0.743801652892562
+		-> F1-score: 0.7563025210084033
+	* With tunning:
+		-> Accuracy: 0.7739130434782608
+		-> Precision: 0.7899159663865546
+		-> Recall: 0.7768595041322314
+		-> F1-score: 0.7833333333333333
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.3869565217391304
+		-> Precision: 0.3912137479458166
+		-> Recall: 0.3869565217391304
+		-> F1-score: 0.3849708386424458
+	* With tunning:
+		-> Accuracy: 0.40869565217391307
+		-> Precision: 0.4058965941410849
+		-> Recall: 0.40869565217391307
+		-> F1-score: 0.3965396800451843
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.14347826086956522
+		-> Precision: 0.12421078036158865
+		-> Recall: 0.14347826086956522
+		-> F1-score: 0.09658489872454318
+	* With tunning:
+		-> Accuracy: 0.2565217391304348
+		-> Precision: 0.26873559316351076
+		-> Recall: 0.2565217391304348
+		-> F1-score: 0.2550664736756046
+
+** Without outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7793103448275862
+		-> Precision: 0.7647058823529411
+		-> Recall: 0.8441558441558441
+		-> F1-score: 0.8024691358024691
+	* With tunning:
+		-> Accuracy: 0.7931034482758621
+		-> Precision: 0.7764705882352941
+		-> Recall: 0.8571428571428571
+		-> F1-score: 0.8148148148148148
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.456
+		-> Precision: 0.40590047619047626
+		-> Recall: 0.456
+		-> F1-score: 0.4150990971404414
+	* With tunning:
+		-> Accuracy: 0.496
+		-> Precision: 0.4680148242001901
+		-> Recall: 0.496
+		-> F1-score: 0.4768411142377244
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.08870967741935484
+		-> Precision: 0.007933385785470757
+		-> Recall: 0.08870967741935484
+		-> F1-score: 0.014564275397207511
+	* With tunning:
+		-> Accuracy: 0.20161290322580644
+		-> Precision: 0.20827631150211795
+		-> Recall: 0.20161290322580644
+		-> F1-score: 0.19693901369670452
+
+----------------------------------------- GLOVE + SF + TF + RF -----------------------------------------
+
+** With outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7565217391304347
+		-> Precision: 0.7876106194690266
+		-> Recall: 0.7355371900826446
+		-> F1-score: 0.7606837606837605
+	* With tunning:
+		-> Accuracy: 0.7782608695652173
+		-> Precision: 0.8070175438596491
+		-> Recall: 0.7603305785123967
+		-> F1-score: 0.7829787234042552
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.3565217391304348
+		-> Precision: 0.36008523010774757
+		-> Recall: 0.3565217391304348
+		-> F1-score: 0.3550880886310665
+	* With tunning:
+		-> Accuracy: 0.41739130434782606
+		-> Precision: 0.42004570491034804
+		-> Recall: 0.41739130434782606
+		-> F1-score: 0.41218358854518994
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.2608695652173913
+		-> Precision: 0.24475026275962497
+		-> Recall: 0.2608695652173913
+		-> F1-score: 0.24075167121479132
+	* With tunning:
+		-> Accuracy: 0.2826086956521739
+		-> Precision: 0.2778053830227743
+		-> Recall: 0.2826086956521739
+		-> F1-score: 0.2537313390318348
+		
+** Without outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7724137931034483
+		-> Precision: 0.7894736842105263
+		-> Recall: 0.7792207792207793
+		-> F1-score: 0.7843137254901961
+	* With tunning:
+		-> Accuracy: 0.8068965517241379
+		-> Precision: 0.810126582278481
+		-> Recall: 0.8311688311688312
+		-> F1-score: 0.8205128205128205
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.464
+		-> Precision: 0.43915546218487395
+		-> Recall: 0.464
+		-> F1-score: 0.44742448942869995
+	* With tunning:
+		-> Accuracy: 0.472
+		-> Precision: 0.44324738986503687
+		-> Recall: 0.472
+		-> F1-score: 0.4529327304227304
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.1693548387096774
+		-> Precision: 0.2337733561436226
+		-> Recall: 0.1693548387096774
+		-> F1-score: 0.16447077853624342
+	* With tunning:
+		-> Accuracy: 0.16129032258064516
+		-> Precision: 0.12391153675546465
+		-> Recall: 0.16129032258064516
+		-> F1-score: 0.12973902546957575
+
+----------------------------------------- GLOVE + SF + TF + XGBOOST -----------------------------------------
+
+** With outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.7521739130434782
+		-> Precision: 0.7807017543859649
+		-> Recall: 0.7355371900826446
+		-> F1-score: 0.7574468085106383
+	* With tunning:
+		-> Accuracy: 0.7608695652173914
+		-> Precision: 0.7894736842105263
+		-> Recall: 0.743801652892562
+		-> F1-score: 0.7659574468085106
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.39565217391304347
+		-> Precision: 0.39894214787050064
+		-> Recall: 0.39565217391304347
+		-> F1-score: 0.3913830193461181
+	* With tunning:
+		-> Accuracy: 0.3739130434782609
+		-> Precision: 0.3768770494965472
+		-> Recall: 0.3739130434782609
+		-> F1-score: 0.3732456766373406
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.23043478260869565
+		-> Precision: 0.2106374099641982
+		-> Recall: 0.23043478260869565
+		-> F1-score: 0.21294416216077847
+	* With tunning:
+		-> Accuracy: 0.2782608695652174
+		-> Precision: 0.2651460667478974
+		-> Recall: 0.2782608695652174
+		-> F1-score: 0.26445385532342053
+
+** Without outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.8
+		-> Precision: 0.7926829268292683
+		-> Recall: 0.8441558441558441
+		-> F1-score: 0.8176100628930817
+	* With tunning:
+		-> Accuracy: 0.7862068965517242
+		-> Precision: 0.7948717948717948
+		-> Recall: 0.8051948051948052
+		-> F1-score: 0.8
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.472
+		-> Precision: 0.45618686491087
+		-> Recall: 0.472
+		-> F1-score: 0.46103601313393244
+	* With tunning:
+		-> Accuracy: 0.52
+		-> Precision: 0.5092299023420621
+		-> Recall: 0.52
+		-> F1-score: 0.5137326947297465
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.0967741935483871
+		-> Precision: 0.11104127134724857
+		-> Recall: 0.0967741935483871
+		-> F1-score: 0.09736902882064172
+	* With tunning:
+		-> Accuracy: 0.13709677419354838
+		-> Precision: 0.09345948360130786
+		-> Recall: 0.13709677419354838
+		-> F1-score: 0.10606253537068477
+
+----------------------------------------- TF + SVM -----------------------------------------
+
+** Without outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.5863874345549738
+		-> Precision: 0.6101694915254238
+		-> Recall: 0.6857142857142857
+		-> F1-score: 0.6457399103139014
+	* With tunning:
+		-> Accuracy: 0.581151832460733
+		-> Precision: 0.6033057851239669
+		-> Recall: 0.6952380952380952
+		-> F1-score: 0.6460176991150443
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.3114754098360656
+		-> Precision: 0.24481239589725606
+		-> Recall: 0.3114754098360656
+		-> F1-score: 0.26914818540989954
+	* With tunning:
+		-> Accuracy: 0.3333333333333333
+		-> Precision: 0.28133754527197147
+		-> Recall: 0.3333333333333333
+		-> F1-score: 0.28034058022222635
+- REGION:	
+	* Without tunning:
+		-> Accuracy: 0.08791208791208792
+		-> Precision: 0.03553466306036317
+		-> Recall: 0.08791208791208792
+		-> F1-score: 0.04716868344687893
+
+----------------------------------------- TF + RF -----------------------------------------
+
+** Without outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.5706806282722513
+		-> Precision: 0.6
+		-> Recall: 0.6571428571428571
+		-> F1-score: 0.6272727272727273
+	* With tunning:
+		-> Accuracy: 0.581151832460733
+		-> Precision: 0.6
+		-> Recall: 0.7142857142857143
+		-> F1-score: 0.6521739130434783
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.32786885245901637
+		-> Precision: 0.324554189735122
+		-> Recall: 0.32786885245901637
+		-> F1-score: 0.32388282194337575
+	* With tunning:
+		-> Accuracy: 0.3879781420765027
+		-> Precision: 0.39440839512115355
+		-> Recall: 0.3879781420765027
+		-> F1-score: 0.3613590056350929
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.08241758241758242
+		-> Precision: 0.07689506921649779
+		-> Recall: 0.08241758241758242
+		-> F1-score: 0.0782373705351272
+	* With tunning:
+		-> Accuracy: 0.08791208791208792
+		-> Precision: 0.07443253525186298
+		-> Recall: 0.08791208791208792
+		-> F1-score: 0.07967600258026475
+
+----------------------------------------- TF + XGBOOST -----------------------------------------
+
+** Without outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.6020942408376964
+		-> Precision: 0.6106870229007634
+		-> Recall: 0.7619047619047619
+		-> F1-score: 0.6779661016949152
+	* With tunning:
+		-> Accuracy: 0.5863874345549738
+		-> Precision: 0.6015625
+		-> Recall: 0.7333333333333333
+		-> F1-score: 0.6609442060085836
+-AGE:
+	* Without tunning:
+		-> Accuracy: 0.3442622950819672
+		-> Precision: 0.33708766285585934
+		-> Recall: 0.3442622950819672
+		-> F1-score: 0.33477846579624737
+	* With tunning:
+		-> Accuracy: 0.3333333333333333
+		-> Precision: 0.3094664948986334
+		-> Recall: 0.3333333333333333
+		-> F1-score: 0.3150919248762464
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.08791208791208792
+		-> Precision: 0.078901189122864
+		-> Recall: 0.08791208791208792
+		-> F1-score: 0.07988806065729143
+	* With tunning:
+		-> Accuracy: 0.06043956043956044
+		-> Precision: 0.03828699404675153
+		-> Recall: 0.06043956043956044
+		-> F1-score: 0.045645563227980815
+
+----------------------------------------- SF + SVM -----------------------------------------
+
+** Without outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.6666666666666666
+		-> Precision: 0.7027027027027027
+		-> Recall: 0.6046511627906976
+		-> F1-score: 0.6499999999999999
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.37254901960784315
+		-> Precision: 0.3357455333719524
+		-> Recall: 0.37254901960784315
+		-> F1-score: 0.34934604090614324
+	* With tunning:
+		-> Accuracy: 0.40522875816993464
+		-> Precision: 0.40259823547299833
+		-> Recall: 0.40522875816993464
+		-> F1-score: 0.40225191654960324
+- REGION:	
+	* Without tunning:
+		-> Accuracy: 0.10135135135135136
+		-> Precision: 0.117227808404279
+		-> Recall: 0.10135135135135136
+		-> F1-score: 0.07811852289953314
+	* With tunning:
+		-> Accuracy: 0.11486486486486487
+		-> Precision: 0.11153307162042003
+		-> Recall: 0.11486486486486487
+		-> F1-score: 0.08033515795664133
+
+----------------------------------------- SF + RF -----------------------------------------
+
+** Without outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.6607142857142857
+		-> Precision: 0.6705882352941176
+		-> Recall: 0.6627906976744186
+		-> F1-score: 0.6666666666666666
+	* With tunning:
+		-> Accuracy: 0.6488095238095238
+		-> Precision: 0.6588235294117647
+		-> Recall: 0.6511627906976745
+		-> F1-score: 0.6549707602339181
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.39869281045751637
+		-> Precision: 0.40028011204481784
+		-> Recall: 0.39869281045751637
+		-> F1-score: 0.3962283550009101
+	* With tunning:
+		-> Accuracy: 0.33986928104575165
+		-> Precision: 0.3165583327348033
+		-> Recall: 0.33986928104575165
+		-> F1-score: 0.3259344624600099
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.08783783783783784
+		-> Precision: 0.10019829137476197
+		-> Recall: 0.08783783783783784
+		-> F1-score: 0.08819629190318845
+	* With tunning:
+		-> Accuracy: 0.12162162162162163
+		-> Precision: 0.15494194299341357
+		-> Recall: 0.12162162162162163
+		-> F1-score: 0.11548783294472949
+
+
+----------------------------------------- SF + XGBOOST -----------------------------------------
+
+** Without outliers
+- GENDER:	
+	* Without tunning:
+		-> Accuracy: 0.5952380952380952
+		-> Precision: 0.6216216216216216
+		-> Recall: 0.5348837209302325
+		-> F1-score: 0.575
+	* With tunning:
+		-> Accuracy: 0.5892857142857143
+		-> Precision: 0.6231884057971014
+		-> Recall: 0.5
+		-> F1-score: 0.5548387096774193
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.39215686274509803
+		-> Precision: 0.39022702854757413
+		-> Recall: 0.39215686274509803
+		-> F1-score: 0.38865368064471345
+	* With tunning:
+		-> Accuracy: 0.38562091503267976
+		-> Precision: 0.3895484127044575
+		-> Recall: 0.38562091503267976
+		-> F1-score: 0.38341233929469226
+- REGION:	
+	* Without tunning:
+		-> Accuracy: 0.11486486486486487
+		-> Precision: 0.12936601197470762
+		-> Recall: 0.11486486486486487
+		-> F1-score: 0.11396184484419779
+	* With tunning:
+		-> Accuracy: 0.0945945945945946
+		-> Precision: 0.11303845862669391
+		-> Recall: 0.0945945945945946
+		-> F1-score: 0.08964064789293621
+
+----------------------------------------- TF + SF + SVM -----------------------------------------
+
+** Without outliers
+- GENDER:	
+	* Without tunning:
+		-> Accuracy: 0.6482758620689655
+		-> Precision: 0.6666666666666666
+		-> Recall: 0.6753246753246753
+		-> F1-score: 0.6709677419354838
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.48
+		-> Precision: 0.45100117311882015
+		-> Recall: 0.48
+		-> F1-score: 0.44977052535024137
+	* With tunning:
+		-> Accuracy: 0.496
+		-> Precision: 0.478106651802304
+		-> Recall: 0.496
+		-> F1-score: 0.48246068861994557
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.13709677419354838
+		-> Precision: 0.059959194142507256
+		-> Recall: 0.13709677419354838
+		-> F1-score: 0.07305280623803238
+	* With tunning:
+		-> Accuracy: 0.08064516129032258
+		-> Precision: 0.07452956989247313
+		-> Recall: 0.08064516129032258
+		-> F1-score: 0.07642539336543654
+
+----------------------------------------- TF + SF + RF -----------------------------------------
+
+** Without outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.6344827586206897
+		-> Precision: 0.6538461538461539
+		-> Recall: 0.6623376623376623
+		-> F1-score: 0.6580645161290323
+	* With tunning:
+		-> Accuracy: 0.6275862068965518
+		-> Precision: 0.6493506493506493
+		-> Recall: 0.6493506493506493
+		-> F1-score: 0.6493506493506493
+- AGE:	
+	* Without tunning:
+		-> Accuracy: 0.456
+		-> Precision: 0.42364961636828646
+		-> Recall: 0.456
+		-> F1-score: 0.4298314675577833
+	* With tunning:
+		-> Accuracy: 0.464
+		-> Precision: 0.4233837727200657
+		-> Recall: 0.464
+		-> F1-score: 0.4259108159750106
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.08064516129032258
+		-> Precision: 0.06394312393887945
+		-> Recall: 0.08064516129032258
+		-> F1-score: 0.06873871665254658
+	* With tunning:
+		-> Accuracy: 0.11290322580645161
+		-> Precision: 0.09400223432481496
+		-> Recall: 0.11290322580645161
+		-> F1-score: 0.10159846096178865
+
+----------------------------------------- TF + SF + XGBOOST -----------------------------------------
+
+** Without outliers
+- GENDER:
+	* Without tunning:
+		-> Accuracy: 0.6551724137931034
+		-> Precision: 0.7076923076923077
+		-> Recall: 0.5974025974025974
+		-> F1-score: 0.6478873239436619
+	* With tunning:
+		-> Accuracy: 0.6551724137931034
+		-> Precision: 0.6956521739130435
+		-> Recall: 0.6233766233766234
+		-> F1-score: 0.6575342465753424
+- AGE:
+	* Without tunning:
+		-> Accuracy: 0.472
+		-> Precision: 0.447572192513369
+		-> Recall: 0.472
+		-> F1-score: 0.4458806809545523
+	* With tunning:
+		-> Accuracy: 0.448
+		-> Precision: 0.42473030303030307
+		-> Recall: 0.448
+		-> F1-score: 0.4295196911196911
+- REGION:
+	* Without tunning:
+		-> Accuracy: 0.08064516129032258
+		-> Precision: 0.06390750826234697
+		-> Recall: 0.08064516129032258
+		-> F1-score: 0.06925850560937448
+	* With tunning:
+		-> Accuracy: 0.12903225806451613
+		-> Precision: 0.10458671888937543
+		-> Recall: 0.12903225806451613
+		-> F1-score: 0.11389101446027444

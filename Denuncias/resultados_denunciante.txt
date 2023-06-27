@@ -1,0 +1,562 @@
+----------------------------------------- SVM -----------------------------------------
+
+STYLISTIC FEATURES:
+
+    CHARACTER BASED:
+
+        - GENDER:	
+            * Without tunning & With outliers:
+				-> Accuracy: 0.5638709677419355
+				-> Precision: 0.5638709677419355
+				-> Recall: 1.0
+				-> F1-score: 0.721122112211221
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.5595238095238095
+				-> Precision: 0.5595238095238095
+				-> Recall: 1.0
+				-> F1-score: 0.7175572519083969
+
+        - AGE:
+            * Without tunning & With outliers:
+				-> Accuracy: 0.28516129032258064
+				-> Precision: 0.1629509844993716
+				-> Recall: 0.28516129032258064
+				-> F1-score: 0.13015182649417292
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.26785714285714285
+				-> Precision: 0.07174744897959184
+				-> Recall: 0.26785714285714285
+				-> F1-score: 0.11317907444668007
+        
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.27530364372469635
+				-> Precision: 0.07589451799978117
+				-> Recall: 0.27530364372469635
+				-> F1-score: 0.11898716805050437
+            * Without tunning & Without outliers:
+				-> Accuracy: 0.28771384136858474
+				-> Precision: 0.1099017556954029
+				-> Recall: 0.28771384136858474
+				-> F1-score: 0.14818432814316923
+
+    STRUCTURAL BASED:
+
+        - GENDER:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.5638709677419355
+				-> Precision: 0.5638709677419355
+				-> Recall: 1.0
+				-> F1-score: 0.721122112211221
+			* With tunning & Without outliers:
+				-> Accuracy: 0.5592485549132948
+				-> Precision: 0.5638629283489096
+				-> Recall: 0.9354005167958657
+				-> F1-score: 0.7035957240038873
+                
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.28516129032258064
+				-> Precision: 0.1629509844993716
+				-> Recall: 0.28516129032258064
+				-> F1-score: 0.13015182649417292
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.2674591381872214
+				-> Precision: 0.07153439059985119
+				-> Recall: 0.2674591381872214
+				-> F1-score: 0.1128784170543959
+
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.27530364372469635
+				-> Precision: 0.07579209624809453
+				-> Recall: 0.27530364372469635
+				-> F1-score: 0.11886125570336097
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.27967479674796747
+				-> Precision: 0.07821799193601692
+				-> Recall: 0.27967479674796747
+				-> F1-score: 0.12224667100546481
+
+    SYNTACTIC BASED
+
+        - GENDER:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.5641025641025641
+				-> Precision: 0.5641025641025641
+				-> Recall: 1.0
+				-> F1-score: 0.7213114754098361
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.561877667140825
+				-> Precision: 0.561877667140825
+				-> Recall: 1.0
+				-> F1-score: 0.7194899817850637
+
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.28475033738191635
+				-> Precision: 0.08108275463911518
+				-> Recall: 0.28475033738191635
+				-> F1-score: 0.1262233638394629
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.2676282051282051
+				-> Precision: 0.14186187736158798
+				-> Recall: 0.2676282051282051
+				-> F1-score: 0.13153468250864156
+
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.27530364372469635
+				-> Precision: 0.07579209624809453
+				-> Recall: 0.27530364372469635
+				-> F1-score: 0.11886125570336097
+
+    WORD BASED:
+
+        - GENDER:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.5638709677419355
+				-> Precision: 0.5638709677419355
+				-> Recall: 1.0
+				-> F1-score: 0.721122112211221
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.5548387096774193
+				-> Precision: 0.5548387096774193
+				-> Recall: 1.0
+				-> F1-score: 0.7136929460580913
+
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.28516129032258064
+				-> Precision: 0.1629509844993716
+				-> Recall: 0.28516129032258064
+				-> F1-score: 0.13015182649417292
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.3191489361702128
+				-> Precision: 0.10185604345857854
+				-> Recall: 0.3191489361702128
+				-> F1-score: 0.15442690459849007
+
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.28
+				-> Precision: 0.16587455197132617
+				-> Recall: 0.28
+				-> F1-score: 0.15746425023072835
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.26332288401253917
+				-> Precision: 0.0958154885425405
+				-> Recall: 0.26332288401253917
+				-> F1-score: 0.13369863247717237
+
+    ALL FEATURES:
+
+        - GENDER:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.5641025641025641
+				-> Precision: 0.5641025641025641
+				-> Recall: 1.0
+				-> F1-score: 0.7213114754098361
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.5469026548672566
+				-> Precision: 0.5469026548672566
+				-> Recall: 1.0
+				-> F1-score: 0.7070938215102975
+
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.31039136302294196
+				-> Precision: 0.25032324400745454
+				-> Recall: 0.31039136302294196
+				-> F1-score: 0.21680451643045154
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.3170731707317073
+				-> Precision: 0.18754619364375463
+				-> Recall: 0.3170731707317073
+				-> F1-score: 0.2191587133262637
+
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.3117408906882591
+				-> Precision: 0.19645670526943476
+				-> Recall: 0.3117408906882591
+				-> F1-score: 0.19369014370841792
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.2593320235756385
+				-> Precision: 0.12449886996469563
+				-> Recall: 0.2593320235756385
+				-> F1-score: 0.12405053275994267
+
+----------------------------------------- RF -----------------------------------------
+
+STYLISTIC FEATURES:
+
+    CHARACTER BASED:
+
+        - GENDER:	
+			* Without tunning & With outliers:
+				-> Accuracy: 0.4941935483870968
+				-> Precision: 0.5462012320328542
+				-> Recall: 0.6086956521739131
+				-> F1-score: 0.5757575757575758
+
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.5149253731343284
+				-> Precision: 0.5631313131313131
+				-> Recall: 0.5946666666666667
+				-> F1-score: 0.5784695201037613
+
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.24
+				-> Precision: 0.23358544881243665
+				-> Recall: 0.24
+				-> F1-score: 0.23577066533318777
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.28059701492537314
+				-> Precision: 0.1097855205577464
+				-> Recall: 0.28059701492537314
+				-> F1-score: 0.14209764735643815
+
+        - REGION:
+            * Without tunning & With outliers:
+				-> Accuracy: 0.21997300944669365
+				-> Precision: 0.1860132274842552
+				-> Recall: 0.21997300944669365
+				-> F1-score: 0.19813343038345846
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.2425595238095238
+				-> Precision: 0.21487613883112763
+				-> Recall: 0.2425595238095238
+				-> F1-score: 0.22450855384386537
+    
+    STRUCTURAL BASED:
+        
+        - GENDER:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.567741935483871
+				-> Precision: 0.5716292134831461
+				-> Recall: 0.931350114416476
+				-> F1-score: 0.7084421235857268
+            * Without tunning & Without outliers:
+				-> Accuracy: 0.5578034682080925
+				-> Precision: 0.5625965996908809
+				-> Recall: 0.9405684754521964
+				-> F1-score: 0.7040618955512572
+
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.2167741935483871
+				-> Precision: 0.21585174342598584
+				-> Recall: 0.2167741935483871
+				-> F1-score: 0.21588940006118093
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.17682020802377416
+				-> Precision: 0.1799664714663183
+				-> Recall: 0.17682020802377416
+				-> F1-score: 0.1780064628601479
+
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.18083670715249664
+				-> Precision: 0.1764735087734727
+				-> Recall: 0.18083670715249664
+				-> F1-score: 0.17766342193273535
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.16910569105691056
+				-> Precision: 0.16981842653724386
+				-> Recall: 0.16910569105691056
+				-> F1-score: 0.16920733540826005
+
+    SYNTACTIC BASED:
+        
+        - GENDER:
+        	* Without tunning & With outliers:
+				-> Accuracy: 0.524966261808367
+				-> Precision: 0.5733333333333334
+				-> Recall: 0.6172248803827751
+				-> F1-score: 0.5944700460829493
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.5106685633001422
+				-> Precision: 0.5594405594405595
+				-> Recall: 0.6075949367088608
+				-> F1-score: 0.5825242718446603
+
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.24696356275303644
+				-> Precision: 0.21768516259147586
+				-> Recall: 0.24696356275303644
+				-> F1-score: 0.220756983217656
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.2639344262295082
+				-> Precision: 0.2577002803696779
+				-> Recall: 0.2639344262295082
+				-> F1-score: 0.2540147705908829
+
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.24696356275303644
+				-> Precision: 0.18954572612980164
+				-> Recall: 0.24696356275303644
+				-> F1-score: 0.19047396471155145
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.22928994082840237
+				-> Precision: 0.198407506764197
+				-> Recall: 0.22928994082840237
+				-> F1-score: 0.20875265833675424
+
+    WORD BASE:
+
+        - GENDER:
+        	* Without tunning & With outliers:
+				-> Accuracy: 0.5561290322580645
+				-> Precision: 0.5962732919254659
+				-> Recall: 0.6590389016018307
+				-> F1-score: 0.6260869565217392
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.5387096774193548
+				-> Precision: 0.5779569892473119
+				-> Recall: 0.625
+				-> F1-score: 0.6005586592178771
+        
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.25161290322580643
+				-> Precision: 0.2441087379239908
+				-> Recall: 0.25161290322580643
+				-> F1-score: 0.24103397129331855
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.3617021276595745
+				-> Precision: 0.3737868607689436
+				-> Recall: 0.3617021276595745
+				-> F1-score: 0.35841804166340263
+
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.2564102564102564
+				-> Precision: 0.1974567737858103
+				-> Recall: 0.2564102564102564
+				-> F1-score: 0.2068291267040326
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.24877250409165302
+				-> Precision: 0.18889101412869272
+				-> Recall: 0.24877250409165302
+				-> F1-score: 0.2036164410576194
+
+    ALL FEATURES:
+
+        - GENDER:
+        	* Without tunning & With outliers:
+				-> Accuracy: 0.573549257759784
+				-> Precision: 0.6045081967213115
+				-> Recall: 0.7057416267942583
+				-> F1-score: 0.6512141280353202
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.5274336283185841
+				-> Precision: 0.561046511627907
+				-> Recall: 0.6245954692556634
+				-> F1-score: 0.5911179173047474
+        
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.30364372469635625
+				-> Precision: 0.2917399598803683
+				-> Recall: 0.30364372469635625
+				-> F1-score: 0.2772646510036734
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.34146341463414637
+				-> Precision: 0.31233062330623307
+				-> Recall: 0.34146341463414637
+				-> F1-score: 0.3220561237870443
+
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.31039136302294196
+				-> Precision: 0.22571568900390893
+				-> Recall: 0.31039136302294196
+				-> F1-score: 0.2330737657005579
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.25147347740667975
+				-> Precision: 0.20952593755707274
+				-> Recall: 0.25147347740667975
+				-> F1-score: 0.21145115464768424
+
+----------------------------------------- XGBOOST -----------------------------------------
+
+STYLISTIC FEATURES:
+
+    CHARACTER BASED:
+
+        - GENDER:				
+            * Without tunning & With outliers:
+				-> Accuracy: 0.5519568151147098
+				-> Precision: 0.5684713375796179
+				-> Recall: 0.854066985645933
+				-> F1-score: 0.6826003824091779
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.5595611285266457
+				-> Precision: 0.5685185185185185
+				-> Recall: 0.8647887323943662
+				-> F1-score: 0.6860335195530726
+        
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.2670967741935484
+				-> Precision: 0.21360956232358472
+				-> Recall: 0.2670967741935484
+				-> F1-score: 0.1794793974559076
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.2373134328358209
+				-> Precision: 0.22242308374427794
+				-> Recall: 0.2373134328358209
+				-> F1-score: 0.19486440739568878
+        
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.29959514170040485
+				-> Precision: 0.20156152109835865
+				-> Recall: 0.29959514170040485
+				-> F1-score: 0.18767463097939124
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.28780487804878047
+				-> Precision: 0.17980870708902782
+				-> Recall: 0.28780487804878047
+				-> F1-score: 0.1685564307069146
+
+    STRUCTURAL BASED:
+
+        - GENDER:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.567741935483871
+				-> Precision: 0.5722379603399433
+				-> Recall: 0.9244851258581236
+				-> F1-score: 0.7069116360454942
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.5592485549132948
+				-> Precision: 0.5638629283489096
+				-> Recall: 0.9354005167958657
+				-> F1-score: 0.7035957240038873
+        
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.2761290322580645
+				-> Precision: 0.23317343622605755
+				-> Recall: 0.2761290322580645
+				-> F1-score: 0.18736011720601747
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.23328380386329867
+				-> Precision: 0.21984381194529717
+				-> Recall: 0.23328380386329867
+				-> F1-score: 0.18164742461936983
+
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.2838709677419355
+				-> Precision: 0.1820801361399788
+				-> Recall: 0.2838709677419355
+				-> F1-score: 0.2000229962318021
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.26947040498442365
+				-> Precision: 0.2348767305573095
+				-> Recall: 0.26947040498442365
+				-> F1-score: 0.17978758938391728
+
+    SYNTACTIC BASED:
+
+        - GENDER:
+        	* Without tunning & With outliers:
+				-> Accuracy: 0.5574193548387096
+				-> Precision: 0.56657223796034
+				-> Recall: 0.9153318077803204
+				-> F1-score: 0.699912510936133
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.566145092460882
+				-> Precision: 0.5725806451612904
+				-> Recall: 0.8987341772151899
+				-> F1-score: 0.6995073891625616
+        
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.2929032258064516
+				-> Precision: 0.27642248289345067
+				-> Recall: 0.2929032258064516
+				-> F1-score: 0.21735475955706945
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.2639344262295082
+				-> Precision: 0.24562200299029144
+				-> Recall: 0.2639344262295082
+				-> F1-score: 0.20479803645327777
+
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.3049932523616734
+				-> Precision: 0.2686360053663263
+				-> Recall: 0.3049932523616734
+				-> F1-score: 0.19294810280390348
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.28254437869822485
+				-> Precision: 0.232522882637014
+				-> Recall: 0.28254437869822485
+				-> F1-score: 0.21200977846514424
+
+    WORD BASED:
+        
+        - GENDER:
+        	* Without tunning & With outliers:
+				-> Accuracy: 0.5625806451612904
+				-> Precision: 0.5836177474402731
+				-> Recall: 0.782608695652174
+				-> F1-score: 0.6686217008797655
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.5345132743362832
+				-> Precision: 0.558974358974359
+				-> Recall: 0.7055016181229773
+				-> F1-score: 0.6237482117310442
+        
+        - AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.27225806451612905
+				-> Precision: 0.25538066270061466
+				-> Recall: 0.27225806451612905
+				-> F1-score: 0.21077973112816065
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.3170731707317073
+				-> Precision: 0.3073703058459156
+				-> Recall: 0.3170731707317073
+				-> F1-score: 0.3095923155238812
+
+        - REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.2901484480431849
+				-> Precision: 0.19346053285074769
+				-> Recall: 0.2901484480431849
+				-> F1-score: 0.18304567744299163
+			* Without tunning & Without outliers:
+				-> Accuracy: 0.2864157119476268
+				-> Precision: 0.17048943056858715
+				-> Recall: 0.2864157119476268
+				-> F1-score: 0.17404464467422476		
+
+	ALL FEATURES:
+
+        - GENDER:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.5789473684210527
+				-> Precision: 0.5963636363636363
+				-> Recall: 0.784688995215311
+				-> F1-score: 0.6776859504132231
+
+		- AGE:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.2874493927125506
+				-> Precision: 0.2716402898791861
+				-> Recall: 0.2874493927125506
+				-> F1-score: 0.23337552266378686
+
+		- REGION:
+			* Without tunning & With outliers:
+				-> Accuracy: 0.31309041835357626
+				-> Precision: 0.22839493366528826
+				-> Recall: 0.31309041835357626
+				-> F1-score: 0.21162241609233368

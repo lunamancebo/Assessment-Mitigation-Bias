@@ -1,0 +1,115 @@
+% arara: clean: {files: [main.aux, main.idx, main.ilg, main.ind, mainmain.bbl, main.bcf, main.blg, main.run.xml, main.fdb_latexmk, main.fls, main.loe, main.lof, main.lol, main.lot, main.ltb, main.out, main.toc, main.upa, main.upb, main.acn, main.acr, main.alg, main.glg, main.glo, main.gls, main.glsdefs, main.idx,  main.ilg, main.xdy, main.loa, main.gnuploterrors , main.mw, main.fdb_latexmk ]}
+% arara: pdflatex: {shell: yes}
+% arara: makeglossaries
+% arara: makeindex: {style: main.ist }
+% !arara: bibtex
+% arara: pdflatex: {shell: yes}
+% arara: pdflatex: {shell: yes}
+% arara: clean: {files: [main.aux, main.idx, main.ilg, main.ind, main.bbl, main.bcf, main.blg, main.run.xml, main.fdb_latexmk, main.fls, main.loe, main.lof, main.lol, main.lot, main.ltb, main.out, main.toc, main.upa, main.upb, main.acn, main.acr, main.alg, main.glg, main.glo, main.gls, main.glsdefs, main.idx,  main.ilg, main.xdy, main.loa, main.gnuploterrors , main.mw, main.fdb_latexmk ]}
+
+
+\documentclass[epsbased,copyright,final,covers,extendedindex,firstnumbered,tfg,gnuplot]{main}
+\usepackage{pdfpages}
+\usepackage{tikz,color}
+\usepackage{pgf-pie}
+\usepackage{bchart}
+\usepackage{rotating}
+\usepackage{glossaries}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\setlength{\abovedisplayskip}{12pt}
+\setlength{\belowdisplayskip}{12pt}
+
+% REVISE
+\usepackage{longtable}
+\usepackage{lscape}
+\usepackage[export]{adjustbox}
+% \usepackage{geometry}
+
+\advisor{Lara Quijano-Sánchez}
+\levelin{Computer Engineering}
+\title{Author Profiling}
+\subtitle{An analysis of the differences in writing styles in formal and informal texts}
+\author{Luna Mancebo Rodríguez}
+\privateaddress{C\textbackslash\ Francisco Tomás y Valiente nº 11}
+\copyrightdate{20 de marzo de 2023}
+
+% \dedication{A mis amigas}
+% \famouscite{For most of history, Anonymous was a woman.\\[0.1em]
+% \begin{flushright}Virginia Woolf\end{flushright}}
+
+\makeglossaries
+\newacronym{API}{API}{Application Programming Interface.}
+\newacronym{BERT}{BERT}{Bidirectional Encoder Representations from Transformers.}
+\newacronym{BILTSM}{BILTSM}{Bidirectional Long Short-Term Memory.}
+\newacronym{CNN}{CNN}{Convolutional Neural Network.}
+\newacronym{RNN}{RNN}{Recurrent Neural Network.}
+\newacronym{DNN}{DNN}{Deep Neural Network.}
+\newacronym{DT}{DT}{Decision Tree.}
+\newacronym{KNN}{KNN}{K-Nearest Neighbours.}
+\newacronym{LDA}{LDA}{Latent Dirichlet Allocation.}
+\newacronym{LR}{LR}{Logistic Regression.}
+\newacronym{LSTM}{LSTM}{Long Short-Term Memory.}
+\newacronym{ML}{ML}{Machine Learning.}
+\newacronym{NB}{NB}{Naive Bayes.}
+\newacronym{NLP}{NLP}{Natural Language Processing.}
+\newacronym{RF}{RF}{Random Forest.}
+\newacronym{SVM}{SVM}{Support Vector Machine.}
+\newacronym{XGBoost}{XGBoost}{eXtreme Gradient Boosting.}
+\newacronym{FE}{FE}{Feature engineering.}
+\newacronym{RegLog}{RegLog}{Logistic Regression.}
+\newacronym{MLP}{MLP}{Multilayer Perceptron.}
+\newacronym{PDF}{PDF}{Probability Density Function.}
+\newacronym{BoW}{BoW}{Bag of Words.}
+\newacronym{TF-IDF}{TF-IDF}{Term Frequency - Inverse Document Frequency.}
+\newacronym{AIA}{AIA}{Artificial Intelligence Act}
+\newacronym{BiGRU}{BiGRU}{Bidirectional Gated Recurrent Unit}
+\newacronym{GBDT}{GBDT}{Gradient Boosted Decision Trees}
+\newacronym{LSA}{LSA}{Latent Semantic Analysis}
+\newacronym{AI}{AI}{Artificial Intelligence}
+
+%\prefacefile{inicio/prefacio}
+\ackfile{init/acknowledgments}
+\resumenfile{init/summary}
+\abstractfile{init/abstract}
+
+\keywords{Algunas}
+\palabrasclave{Otras}
+
+\coverdata
+{
+  Escuela Politécnica Superior \\
+  Universidad Autónoma de Madrid \\
+  C\textbackslash Francisco Tomás y Valiente nº 11
+}
+
+
+\usepackage[numbers]{natbib}
+\bibliographyconfig[abbrvnat]{main}
+% \usepackage{natbib}
+% \usepackage[natbibapa]{apacite} 
+% \setcitestyle{authoryear,open={(},close={)}} %Citation-related commands
+
+% \usepackage{apacite}
+% \bibliographystyle{apacite}
+% \bibliographystyle{abbrvnat}
+
+\datadir{data}
+\graphicsdir{img}
+\logosdir{img}
+\codesdir{codes}
+
+\begin{document}
+
+%1
+\chapter{Introduction\label{CAP:INTRODUCTION}}{intro/introduction}
+%2
+\chapter{State of the Art\label{CAP:STATEOFTHEART}}{StateOfTheArt/stateoftheart}
+%2
+\chapter{Methods\label{CAP:METHODS}}
+\section{Datasets\label{SEC:DATASETS}}{Methods/datasets}
+\section{Data pre-processing\label{SEC:DP}}{Methods/dataPreprocessing}
+\section{Feature selection\label{SEC:FS}}{Methods/featureExtraction}
+\printglossary
+
+\end{document}

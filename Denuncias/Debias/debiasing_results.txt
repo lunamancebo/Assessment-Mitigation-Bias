@@ -1,0 +1,5 @@
+			* With tunning: {'C': 10, 'gamma': 1, 'kernel': 'rbf'}
+				-> Accuracy: 0.5646900269541779
+				-> Precision: 0.5646900269541779
+				-> Recall: 1.0
+				-> F1-score: 0.7217915590008613

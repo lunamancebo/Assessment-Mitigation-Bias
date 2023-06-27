@@ -1,0 +1,592 @@
+{
+    "data": [
+        {
+            "tweet_id": "1628360177979125761",
+            "text": "@JoseLuis86532 Manana padel?",
+            "created_at": "2023-02-22T11:44:54.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1628357146881531907",
+            "text": "@robertoferriol @JusticieroESP_ @PedroMartnlpez2 @plazadeportiva_ Uy Rober!!! Se ha cagado ENCIMA. Pero ya es tarde para algunos. https://t.co/FxniOsoeJd",
+            "created_at": "2023-02-22T11:32:51.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1628325012275855361",
+            "text": "@robertoferriol @plazadeportiva_ Mamarriol?",
+            "created_at": "2023-02-22T09:25:10.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1628320949828288512",
+            "text": "@plazadeportiva_ @robertoferriol \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb grande Rober",
+            "created_at": "2023-02-22T09:09:01.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1628156565386665984",
+            "text": "@jmitorres @Broncoicoper Igual tu no, aunque el comentario que te haya salido primero ha sido ese, pero otros si. A la vista esta",
+            "created_at": "2023-02-21T22:15:49.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1628156042822418432",
+            "text": "@Broncoicoper @jmitorres Que haya gente justificando ese tweet, y hay mas asi, me parece deleznable. Al nivel de lo que ha quedado esta red social. Pero bueno",
+            "created_at": "2023-02-21T22:13:44.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1628116555023130625",
+            "text": "@AlbertoVCF14 De esta gente me lo creo, desde luego",
+            "created_at": "2023-02-21T19:36:50.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1628081964698808341",
+            "text": "@FustiiVCF Yo tambien busco algo asi",
+            "created_at": "2023-02-21T17:19:23.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1628076803641290756",
+            "text": "@Valenciagandiap Esto... cagon. https://t.co/409RSKN70N",
+            "created_at": "2023-02-21T16:58:52.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1628048777054486532",
+            "text": "@Valenciagandiap Te esperamos en la radio, o en comisaria, que hoy tenemos para varios alli.",
+            "created_at": "2023-02-21T15:07:30.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1628013668913844224",
+            "text": "@Broncoicoper Eso es lo que vamos a hacer esta tarde",
+            "created_at": "2023-02-21T12:48:00.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627956163009474560",
+            "text": "@CoRR_YT Lo peor es que luego ni aparece. Sabe donde trabajamos, los torneos que organizamos... lo sabe todo.",
+            "created_at": "2023-02-21T08:59:29.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627936845324513280",
+            "text": "@Paul_Chanza Por cierto, si esto es justificar el mercado... \u201cAPROBADO JUSTO\u201d. https://t.co/IgBVPDxejD",
+            "created_at": "2023-02-21T07:42:44.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627936734288781313",
+            "text": "@Cratotw Aprobado justo. Si eso es justificarlo... os creeis las cuatro cosas que leeis por aqui. https://t.co/IgBVPDxejD",
+            "created_at": "2023-02-21T07:42:17.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627936427366391809",
+            "text": "@Paul_Chanza Yo nunca he llamado todomalista a nadie ni dije que gran mercado. Puedes revisarlo. Y si, pensaba que podiamos entrar en Europa: \u00bfque tiene de malo eso? \u00bfPor pensar eso hay que amenazar? Porque lo de \u201cesto no esta bien, PERO....\u201d Es justificar la violencia verbal.",
+            "created_at": "2023-02-21T07:41:04.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627933651861221376",
+            "text": "Pues nada, asi amanece uno. https://t.co/9zMa7LFNHc",
+            "created_at": "2023-02-21T07:30:02.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627803384240562177",
+            "text": "Alguno hoy se ha equivocado de cuenta y ha puesto en la principal algo que twittearia desde sus cuentas falsas que no son pocas. Bona nit y ojala el Valencia se salve de esta, ojala, y pase ya esta pesadilla.",
+            "created_at": "2023-02-20T22:52:24.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627786488158060547",
+            "text": "Ni levantar la pelota Guillamon. Ni levantar la pelota.",
+            "created_at": "2023-02-20T21:45:16.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627785986712170504",
+            "text": "Se veia venir que iba a ser en balon parado. Todos los partidos igual. Asi es IMPOSIBLE mantener la categoria.",
+            "created_at": "2023-02-20T21:43:16.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627785593592721414",
+            "text": "Segunda Division.",
+            "created_at": "2023-02-20T21:41:42.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627780371340267521",
+            "text": "Era la segunda amarilla a Djene.",
+            "created_at": "2023-02-20T21:20:57.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627777216162549764",
+            "text": "Las putas gracias de que Gay\u00e0 saque los corners. LAS PUTAS GRACIAS.",
+            "created_at": "2023-02-20T21:08:25.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627769391587774476",
+            "text": "Lo de Yunus es sonrojante.",
+            "created_at": "2023-02-20T20:37:20.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627768797766602767",
+            "text": "Si eso no es tarjeta...",
+            "created_at": "2023-02-20T20:34:58.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627763453124280320",
+            "text": "No puedes fallar eso",
+            "created_at": "2023-02-20T20:13:44.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627760607687573505",
+            "text": "@vdevcf1 @RadioTaronja_ @papigavi Ah vale jajajajaja",
+            "created_at": "2023-02-20T20:02:25.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627758547831250945",
+            "text": "@sanchis14 Justo lo que he comentado hoy en @lagrada914. Esto es lo que hay que hacer.",
+            "created_at": "2023-02-20T19:54:14.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627758081416241153",
+            "text": "@vdevcf1 @RadioTaronja_ @papigavi Joer, pues justo Alvaro es muy humilde",
+            "created_at": "2023-02-20T19:52:23.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627755770849685529",
+            "text": "Buf, que dolor de cabeza y que tension.",
+            "created_at": "2023-02-20T19:43:12.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627751302296965139",
+            "text": "@javierromerota3 Miedo",
+            "created_at": "2023-02-20T19:25:27.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627748430171803669",
+            "text": "@Pabloovcf_ Buf, justo esos... cuanto paquetorro junto...",
+            "created_at": "2023-02-20T19:14:02.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627701155441655808",
+            "text": "LA PRESION DEL NANO. https://t.co/kQDKSfoUYn",
+            "created_at": "2023-02-20T16:06:11.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627700684614164480",
+            "text": "Posicion para el Nano. https://t.co/aa9uuvSPGg",
+            "created_at": "2023-02-20T16:04:19.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627675380478869505",
+            "text": "@FerElTomatxAzul Es un tweet historico",
+            "created_at": "2023-02-20T14:23:46.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627663456269737987",
+            "text": "Vamos con lo de hoy\n\nhttps://t.co/OwRqINUSzU https://t.co/sAQY4xvaF0",
+            "created_at": "2023-02-20T13:36:23.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627625906742124546",
+            "text": "@drakulVCF DEP. Mucho animo amigo",
+            "created_at": "2023-02-20T11:07:10.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627614045124673537",
+            "text": "@PepVcf2 Me ha pasado...",
+            "created_at": "2023-02-20T10:20:02.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627444735093751808",
+            "text": "Hoy es \u201cla nit\u201d. Y cuenta la leyenda que quan arriba... siempre esta el. \n\nEncomendados al Pipo Baraja. https://t.co/E0WEInLkqe",
+            "created_at": "2023-02-19T23:07:15.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627331860714889219",
+            "text": "@nunismx @marcenazi Sin sentido. Pero que esperas de este \u201ctipo\u201d...",
+            "created_at": "2023-02-19T15:38:44.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627329885520683008",
+            "text": "@marcenazi Menudo mojonazo",
+            "created_at": "2023-02-19T15:30:53.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627278502163537921",
+            "text": "GOOOOOOOOOOL DE TEJON. Empata el VCF Mestalla en un partido que se ha complicado desde el principio con la expulsion de Gozalbez. Quedan 15\u2019.",
+            "created_at": "2023-02-19T12:06:42.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1627028419241250818",
+            "text": "Era la Copa.",
+            "created_at": "2023-02-18T19:32:58.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626647298099843073",
+            "text": "@robertoferriol @JordiWild @elxokas MAMARRIOL...",
+            "created_at": "2023-02-17T18:18:32.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626578447551062018",
+            "text": "EN DIRECTO\n\nhttps://t.co/OwRqINUSzU https://t.co/LiF5gMd2Vj",
+            "created_at": "2023-02-17T13:44:56.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626523995750207488",
+            "text": "No hacia falta la comparacion mister https://t.co/GxQP4KVEBD",
+            "created_at": "2023-02-17T10:08:34.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626521844122517504",
+            "text": "Futbol Espanol MANCHADO.",
+            "created_at": "2023-02-17T10:00:01.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626354586733666305",
+            "text": "Gay\u00e0 cuando \u201ccritico\u201d el arbitraje fue sancionado con 4 partidos. \n\nPor poner en contexto...",
+            "created_at": "2023-02-16T22:55:24.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626341967721381888",
+            "text": "El 10 que todos sabemos. https://t.co/eRiS8jLNpr",
+            "created_at": "2023-02-16T22:05:15.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626301382721404932",
+            "text": "Orgullo*.",
+            "created_at": "2023-02-16T19:23:59.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626301209853165568",
+            "text": "Que mala posesion. Que mala opcion. Se acabo la Copa otro ano mas a las primeras de cambio. Esta vez con mucho, mucho orgulloso.",
+            "created_at": "2023-02-16T19:23:18.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626300560671494146",
+            "text": "Me va a dar algo.",
+            "created_at": "2023-02-16T19:20:43.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626294925083000832",
+            "text": "Que les regalen el pase a semis y ya esta.",
+            "created_at": "2023-02-16T18:58:19.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626293693312299008",
+            "text": "Ya se lo estan facilitando, como siempre.",
+            "created_at": "2023-02-16T18:53:26.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626272939917164546",
+            "text": "@ppabloruizz_ @prjvch22 Asi es",
+            "created_at": "2023-02-16T17:30:58.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626230753590902784",
+            "text": "@FerElTomatxAzul Fer, tu no te bajes de ahi...",
+            "created_at": "2023-02-16T14:43:20.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626227611084165121",
+            "text": "A ver si se le pega algo a Hugo. https://t.co/RwwFotCWK2",
+            "created_at": "2023-02-16T14:30:50.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626226483533578240",
+            "text": "@MisterGafan Lo dicho. Hoy tema cerrado.",
+            "created_at": "2023-02-16T14:26:22.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626195256839471104",
+            "text": "@LPF_Valencia Te lo firmo ya.",
+            "created_at": "2023-02-16T12:22:17.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626144517320482816",
+            "text": "QUE NO TENGA SENTIDO. @valenciabasket #CopaACB https://t.co/5cU5mur6kD",
+            "created_at": "2023-02-16T09:00:39.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1626003452139560960",
+            "text": "Cuando echamos la vista atras... Carlos y Ruben. Cuando hablamos de \u201cese gran VCF\u201d... Carlos y Ruben. Cuando hablamos de la epoca dorada... Carlos y Ruben. Cuando hablamos de los salvadores de 2008... Carlos y Ruben. Cuando hablamos de leyendas... Carlos y Ruben.\n\nEstamos con vosotros https://t.co/2bjxIl4IKl",
+            "created_at": "2023-02-15T23:40:07.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625917218230861832",
+            "text": "\u201cEl sueno de toda mi vida\u201d.",
+            "created_at": "2023-02-15T17:57:27.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625890476078297095",
+            "text": "@natxvcf @lagrada914 @robertoferriol Gracias amigo. Cuando quieras coges el micro! Que estas invitado. Tu y @Lescaire1",
+            "created_at": "2023-02-15T16:11:11.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625888198864916481",
+            "text": "Orgulloso de programas como hoy. Amunt @lagrada914 @robertoferriol https://t.co/wktNOdn10P",
+            "created_at": "2023-02-15T16:02:08.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625877751126233088",
+            "text": "@VCF_Blog Lo es!",
+            "created_at": "2023-02-15T15:20:37.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625876665489408001",
+            "text": "Mensaje de Ruben Baraja en su cuenta personal de Instagram. Recien creada. https://t.co/wnaa6PVHtj",
+            "created_at": "2023-02-15T15:16:19.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625857350069518336",
+            "text": "@EduGalan14 Ilusion deportiva ninguna, pero a mi me hace mucha ilusion personal entrevistar a ambos, sobre todo por la edad que tengo. Y, periodisticamente, toca hablar de quien es Baraja",
+            "created_at": "2023-02-15T13:59:33.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625852575273652225",
+            "text": "Os esperamos, muy currado el programa de hoy. \n\nhttps://t.co/OwRqINUSzU https://t.co/X8PHX8PaZq",
+            "created_at": "2023-02-15T13:40:35.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625850235917414400",
+            "text": "MENUDO PROGRAMON HOY \u26bd\ufe0f\n\nhttps://t.co/OwRqINUSzU https://t.co/fwpI8wUR7F",
+            "created_at": "2023-02-15T13:31:17.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625833681058250755",
+            "text": "Define Valencia CF. https://t.co/f5kPYGymKm",
+            "created_at": "2023-02-15T12:25:30.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625827063125901317",
+            "text": "@MisterGafan Manana ya no se habla",
+            "created_at": "2023-02-15T11:59:12.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625826263309996035",
+            "text": "De esto se hablara hoy en Twitter un ratete y ya esta. Que autentica mamarrachada. VALORS https://t.co/eDOYJNEjBn",
+            "created_at": "2023-02-15T11:56:02.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625812040689278976",
+            "text": "Demasiado oscuro el coche. https://t.co/6Dn5C5iE9l",
+            "created_at": "2023-02-15T10:59:31.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625793712490962945",
+            "text": "@elisolohayuno Soltando factores",
+            "created_at": "2023-02-15T09:46:41.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625553315302965248",
+            "text": "@zantiz1 @Meditat61780179 @lagrada914 @robertoferriol Me he perdido ya.",
+            "created_at": "2023-02-14T17:51:26.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625549047263117349",
+            "text": "@zantiz1 @lagrada914 @robertoferriol Y a veces nos equivocamos, eso desde luego. Ha pasado, pasa y seguira pasando. Pero siempre con buena fe",
+            "created_at": "2023-02-14T17:34:28.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625548828475637795",
+            "text": "@zantiz1 @lagrada914 @robertoferriol Pues estaba en RadioEsport, ni mas ni menos. Y te equivocas. La linea editorial la marcamos Roberto Ferriol y Jorge Ruiz, nadie mas",
+            "created_at": "2023-02-14T17:33:36.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625528802322395137",
+            "text": "@TheRiocuarto @lagrada914 @robertoferriol Se lo he dicho ya amigo",
+            "created_at": "2023-02-14T16:14:01.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625525107895435264",
+            "text": "@TheRiocuarto @lagrada914 @robertoferriol Y encima vino Vicente... \ud83e\udd72 https://t.co/SDGBytfwKu",
+            "created_at": "2023-02-14T15:59:21.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625524621008113664",
+            "text": "@albertoolci @lagrada914 @robertoferriol Se merece mucho mas, la verdad.",
+            "created_at": "2023-02-14T15:57:25.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625524220049457153",
+            "text": "A Vicente le vino el Atletico y le dijo: \u201cte doy un cheque en blanco y te vienes\u201d. Y el dijo... \u201cno\u201d, Merchina Peris, hija de Vicente Peris. En @lagrada914. \n\nQue gran entrevista. Enhorabuena amigo @robertoferriol ojala te valoraran mas por aqui. https://t.co/BN8DZrdxZO",
+            "created_at": "2023-02-14T15:55:49.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625501318948220928",
+            "text": "\u00bfCOMO???????? https://t.co/CaMrqPj2Ex",
+            "created_at": "2023-02-14T14:24:49.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625468284177944579",
+            "text": "Salvadnos leyendas. https://t.co/dVFmROQ4TI",
+            "created_at": "2023-02-14T12:13:33.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625468138732019713",
+            "text": "Marchena acompanara a Ruben Baraja.",
+            "created_at": "2023-02-14T12:12:58.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        },
+        {
+            "tweet_id": "1625467746338103298",
+            "text": "BARAJA ENTRENADOR https://t.co/rIWZPuIo9M",
+            "created_at": "2023-02-14T12:11:25.000Z",
+            "user_id": "1010955393063964672",
+            "username": "jorgeruve"
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1627709671770292228",
+            "text": "@anacubilla_ Esas cosas son eternas ,se nos quedan en la memoria",
+            "created_at": "2023-02-20T16:40:01.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1624869225847291904",
+            "text": "@EVernacci @HiginioGOMEZOr2 La importancia de dejar un producto asi en las mejores manos , nada puede salir mal",
+            "created_at": "2023-02-12T20:33:06.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1622314202919583748",
+            "text": "@ricardsampere Indudablemente un rte es algo mas , no solo comer bien , pero esa primera piedra puede ser un buen augurio , pecados de Juventud",
+            "created_at": "2023-02-05T19:20:21.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1622311640313069568",
+            "text": "@ricardsampere Jovenes , pero sobradamente preparados",
+            "created_at": "2023-02-05T19:10:10.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1620888438588448768",
+            "text": "@Bernievinyes Nada puede salir mal",
+            "created_at": "2023-02-01T20:54:53.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1619357347348094977",
+            "text": "@mariasindias Pocos sitios que pongan eso de aperitivo",
+            "created_at": "2023-01-28T15:30:52.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1618517041614573569",
+            "text": "@pilarportero En su linea !!!",
+            "created_at": "2023-01-26T07:51:47.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1615031788161888259",
+            "text": "@ricardsampere Viven que mejor que muchas personas",
+            "created_at": "2023-01-16T17:02:38.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1612056092162551808",
+            "text": "@imiravet @EVernacci @rosa_tovar_l @nathalie_valero @TeresaVaquerizo @EscauriMarta @anacubilla_ @anadefuentes @albertochicote @aparadaf @Bernievinyes @profesorFP @chelusgarcia @ToniMassanes @Pacomoraleschef Siempre recordare ese monumento al ingenio, de los mejores platos de mi vida , las sopas de ajo de Manolo de la Osa , plato humilde ,elevado al mayor nivel de la alta cocina .",
+            "created_at": "2023-01-08T11:58:17.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1609644335124840448",
+            "text": "@mariasindias Pintaza",
+            "created_at": "2023-01-01T20:14:49.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1609537064101638150",
+            "text": "@anacubilla_ Siempre esta lo que nunca se olvida",
+            "created_at": "2023-01-01T13:08:34.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1608233346081132546",
+            "text": "@anacubilla_ El paraiso",
+            "created_at": "2022-12-28T22:48:03.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1604478156143992832",
+            "text": "@anacubilla_ Eso es de estrella Michelin",
+            "created_at": "2022-12-18T14:06:16.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1603130141689122816",
+            "text": "@Pacomoraleschef @alexandrasumasi @imiravet No pongo ni una coma mas , la fortuna de contar con su amistad",
+            "created_at": "2022-12-14T20:49:45.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1603045786815700994",
+            "text": "@rosa_tovar_l @futurobloguero @nathalie_valero @EVernacci @Lluis_Daga @SerpicoCNI @la_picaeta @andonixef @imiravet @gastroillogical @profesorFP @ToniMassanes @anacubilla_ @mariasindias @anadefuentes @pilarportero @chef_betty @DiariGastronomi @InakiCaroUnsain Y algo mas .no se si es mejor persona que profesional o viceversa,",
+            "created_at": "2022-12-14T15:14:33.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1602654496974323722",
+            "text": "@EVernacci El dia promete",
+            "created_at": "2022-12-13T13:19:42.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1602576479170199552",
+            "text": "@Cris_cace @gonz_fischer @EVernacci @Zoordie Yo tengo este https://t.co/4wXHRSNwhq",
+            "created_at": "2022-12-13T08:09:41.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1602382562856402949",
+            "text": "@EVernacci @Zoordie Y yo y yo",
+            "created_at": "2022-12-12T19:19:08.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1601978507151777792",
+            "text": "@Zoordie Pues tiene pinton !!",
+            "created_at": "2022-12-11T16:33:34.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1601606744110927872",
+            "text": "@fcarrascoo @mgarridocierva @Dabizdiverxo Yo creo que a el tampoco le gusta , pero la calificacion no se la doy yo",
+            "created_at": "2022-12-10T15:56:18.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1601483174240227329",
+            "text": "@ricardsampere @MisterEspeto Ya vera , una joya , deseando que lleguen cada ano",
+            "created_at": "2022-12-10T07:45:17.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1601313431248076800",
+            "text": "@mgarridocierva @Dabizdiverxo No hay palabra para definir su ingenio . El mejor cocinero de el mundo y esta en Madrid , no se si sabemos valorar suficientemente la suerte que tenemos",
+            "created_at": "2022-12-09T20:30:47.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1600832725598044161",
+            "text": "@jesusfdezprieto @csanchaoria @igNachoSolana Dificil encontrar sitios asi , top",
+            "created_at": "2022-12-08T12:40:38.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1599856828455583745",
+            "text": "@ivanizqui @luis_lera Lo de Luis es sublime , esta de dulce",
+            "created_at": "2022-12-05T20:02:46.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1599852611624398848",
+            "text": "@ivanizqui @luis_lera Eres un artista",
+            "created_at": "2022-12-05T19:46:01.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1599850072661196800",
+            "text": "@rosa_tovar_l Sabia que quedaban en muy buenas manos",
+            "created_at": "2022-12-05T19:35:55.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1598697520414265344",
+            "text": "@Pazalvarezcalvo @Cesarmartincruz @cincodias Mucha suerte donde la vida te lleve !!",
+            "created_at": "2022-12-02T15:16:05.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1598697151344873474",
+            "text": "@mariasindias Llegas a ver la altura de el liston???",
+            "created_at": "2022-12-02T15:14:37.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1598086730133143553",
+            "text": "@cook_obsession @R_lakasa Totalmente de acuerdo , un seguro",
+            "created_at": "2022-11-30T22:49:02.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1596504152024252416",
+            "text": "@carlosms1568 @FerruzAlberto Un templo",
+            "created_at": "2022-11-26T14:00:26.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1593687851190964225",
+            "text": "@El_Sequero @adolfosangar @GourmetbyBeites @ViridianaRest @Avilaautentica1 @RRVDT @DOZESalamanca @Fokacha_Lakasa Para mi ,el mejor que conozco , que color !!!",
+            "created_at": "2022-11-18T19:29:27.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1593274740571082754",
+            "text": "@robledosumiller Yo el verano pasado en la bodega de Gutierrez de Vega , algunos pura ambrosia",
+            "created_at": "2022-11-17T16:07:54.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1587882167031717889",
+            "text": "@LasEsparteras @robertinho_MF @TRIPEA_MADRID @Kitchen_154 Muchas gracias . Procuramos hacer las cosas bien con la pasion que nos conlleva nuestra profesion",
+            "created_at": "2022-11-02T18:59:44.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1587870221934657536",
+            "text": "@MisterEspeto @rosa_tovar_l Buena combinacion , gran plato !!!",
+            "created_at": "2022-11-02T18:12:16.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1587820762089590784",
+            "text": "@ricardsampere Eso es imbatible!!",
+            "created_at": "2022-11-02T14:55:44.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1587397550398644224",
+            "text": "@EVernacci Eso sin duda , yo me rechupeteo todo eso , lo mas rico",
+            "created_at": "2022-11-01T10:54:03.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1587167154620825605",
+            "text": "@EVernacci @saulcereto El coche se arregla",
+            "created_at": "2022-10-31T19:38:32.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1583799789439062016",
+            "text": "@futurobloguero @noeliaSolla @CruzBlancaValle Eso es por persona?? Ya no cenas",
+            "created_at": "2022-10-22T12:37:50.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1583340197525102592",
+            "text": "@EVernacci El que lo prueba, repite y repite ......",
+            "created_at": "2022-10-21T06:11:34.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1581903420042383361",
+            "text": "@ricardsampere @rosa_tovar_l @sestevezb @anacubilla_ @nathalie_valero @InakiCaroUnsain @EVernacci @JoseAgullo1 @RestLaBuenaVida @yanetacosta @imiravet @profesorFP @chelusgarcia @Pacomoraleschef @alexandrasumasi @complicidadgast @aboronatmiro @Moithechef Yo me he comprado un baby y una cartera , como en el cole",
+            "created_at": "2022-10-17T07:02:20.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1581352895651360768",
+            "text": "@futurobloguero @OPercebeiro Pues las luras las tengo y las patatas tambien",
+            "created_at": "2022-10-15T18:34:45.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1581314665572839424",
+            "text": "@cook_obsession Es verdad que son una maravilla , pero en tus manos se subliman",
+            "created_at": "2022-10-15T16:02:50.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1581038507509760000",
+            "text": "@carlosms1568 Yo pase por lo mismo , ahora me la comeria entera , me encanta",
+            "created_at": "2022-10-14T21:45:29.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1577719256174792720",
+            "text": "@EVernacci Es de otro planeta !!",
+            "created_at": "2022-10-05T17:55:57.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1577208016436596736",
+            "text": "@EVernacci @rosa_tovar_l Un gran dia",
+            "created_at": "2022-10-04T08:04:28.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1576311928317968384",
+            "text": "@Pazalvarezcalvo @TreZerestaurant Lo digo por activa y por pasiva, esta de dulce",
+            "created_at": "2022-10-01T20:43:44.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1575747027438272512",
+            "text": "@robledosumiller Indudablemente son mejores las trufas de invierno , son el colofon de la mejor temporada",
+            "created_at": "2022-09-30T07:19:01.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1575601339215716353",
+            "text": "@SkoOrp @robledosumiller Cuando quieras",
+            "created_at": "2022-09-29T21:40:07.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1575594444891357185",
+            "text": "@robledosumiller Totalmente de acuerdo , y no te olvides de las trufas",
+            "created_at": "2022-09-29T21:12:43.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1573746775730651138",
+            "text": "@cook_obsession @SanzSaul @TreZerestaurant Esta en forma !!!",
+            "created_at": "2022-09-24T18:50:44.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1573019543445950464",
+            "text": "@Bonbibendum @TreZerestaurant @SanzSaul Esta de dulce Saul , imprescindible y que punto esa pechuga",
+            "created_at": "2022-09-22T18:40:59.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1572664015393783810",
+            "text": "@lpachecotorres6 @rosa_tovar_l @Dabizdiverxo @_CEIM_ @autonomosata @AcadMadGastro @FACYRE @ACYRE_ @lsuarezdelezo @IdiazAyuso @QuencodePepa @jorgerodrigodo @JuanRubioRuiz Y la suerte que este en Madrid",
+            "created_at": "2022-09-21T19:08:14.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1572242023200997379",
+            "text": "@mariasindias Recuerdo unas al sarmiento , me encantaron",
+            "created_at": "2022-09-20T15:11:23.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1571933914737922052",
+            "text": "@mariasindias Que pinta tiene eso !!!",
+            "created_at": "2022-09-19T18:47:05.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1571231383879667714",
+            "text": "@cook_obsession @luis_lera Como pinta eso XD , toda la razon con las formulas de Luis Lera",
+            "created_at": "2022-09-17T20:15:28.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1571196053340184578",
+            "text": "@anacubilla_ Mucho animo !!",
+            "created_at": "2022-09-17T17:55:05.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1570786201761902602",
+            "text": "@mariasindias Buen augurio",
+            "created_at": "2022-09-16T14:46:28.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1570657858345406464",
+            "text": "@EVernacci @fernandohelado @rosa_tovar_l @chef_betty @ToniMassanes @guimarey_iPOu @nathalie_valero @mariasindias @imiravet @profesorFP @chelusgarcia @luis_e_lui @DiariGastronomi @Pacomoraleschef @RestLaBuenaVida @InakiCaroUnsain En su linea !!",
+            "created_at": "2022-09-16T06:16:29.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1570451060577423360",
+            "text": "@mgarridocierva Son muy buenos estos chicos , con un muy buen curriculum detras",
+            "created_at": "2022-09-15T16:34:45.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1569359630370734084",
+            "text": "@ricardsampere Ese mitico de Santi Santamaria que esta en nuestra memoria , yo lo repito asiduamente . Un gran legado",
+            "created_at": "2022-09-12T16:17:47.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1568647954071953408",
+            "text": "@Dabizdiverxo En una palabra espectacular , uno de esos platos 10",
+            "created_at": "2022-09-10T17:09:50.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1566477903709208581",
+            "text": "@Bernievinyes Me encanta ese pescado dificil de encontrar en Madrid",
+            "created_at": "2022-09-04T17:26:50.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1565682209440370694",
+            "text": "@lombardia Me encantan los mercados",
+            "created_at": "2022-09-02T12:45:02.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1565677107694510085",
+            "text": "@rosa_tovar_l @anacubilla_ @alexandrasumasi @alex_aelos @EVernacci @EscauriMarta @profesorFP @imiravet @ToniMassanes @DiariGastronomi @javierS_gastro @juliaplozano @nathalie_valero @InakiCaroUnsain De Vuelta al recreo !!",
+            "created_at": "2022-09-02T12:24:46.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1563130558770597889",
+            "text": "@carlosms1568 @MovistarPlus Abrimos debate , yo me quedo con la elegancia de Pele",
+            "created_at": "2022-08-26T11:45:41.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1563127282214248456",
+            "text": "@ricardsampere No me extrana que ponga todos los dias el cartel de completo !!!",
+            "created_at": "2022-08-26T11:32:40.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1562683372991705089",
+            "text": "@mariasindias Te ahorras la merienda",
+            "created_at": "2022-08-25T06:08:44.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1561612188111994880",
+            "text": "@mariasindias Y postre , no nos saltamos un paso",
+            "created_at": "2022-08-22T07:12:13.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1561609225377390605",
+            "text": "@mariasindias Pues tan ricamente despues de un arroz",
+            "created_at": "2022-08-22T07:00:27.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1559119165214134272",
+            "text": "@Bernievinyes @sandrakilani @JADuyos @EVernacci @CasaFarpon Sin duda esos y mas",
+            "created_at": "2022-08-15T10:05:50.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1559118872262868997",
+            "text": "@ManuelAguinaga @RestLaBuenaVida Sin comer no nos quedamos , antes morir que perder la vida",
+            "created_at": "2022-08-15T10:04:40.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1559114468365312001",
+            "text": "@sandrakilani @JADuyos @EVernacci @Bernievinyes @CasaFarpon Cuantos sitios hay en Asturias con estrella sin michelin ,Farpon , Castru.....",
+            "created_at": "2022-08-15T09:47:10.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1559113741203120128",
+            "text": "@ManuelAguinaga @RestLaBuenaVida Las esperas siempre son eternas",
+            "created_at": "2022-08-15T09:44:17.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1558718598406979584",
+            "text": "@complicidadgast @FerruzAlberto @JADuyos @2001_fede @rodrigovarona @carlosms1568 @jmoranmoya @Bernievinyes @Toniondara Muy de acuerdo",
+            "created_at": "2022-08-14T07:34:08.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1558537995791245314",
+            "text": "@carlosms1568 \ud83d\ude02\ud83d\ude02\ud83d\ude02imagino Jaen a las 16 horas",
+            "created_at": "2022-08-13T19:36:29.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1558537622573703175",
+            "text": "@mariasindias Aqui en Javea a las 10 de la manana, 38\u00b0 asfixiante",
+            "created_at": "2022-08-13T19:35:00.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1558536739047854084",
+            "text": "@mariasindias Manda un poco , de el fresco me refiero",
+            "created_at": "2022-08-13T19:31:29.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1556661167380209666",
+            "text": "@mariasindias @BizzoMadrid No , que todo lo que pesco me lo como",
+            "created_at": "2022-08-08T15:18:38.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1556660169597239298",
+            "text": "@mariasindias @BizzoMadrid La de el pescado es buenisima",
+            "created_at": "2022-08-08T15:14:40.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1556632268554342402",
+            "text": "@mariasindias @BizzoMadrid Que no pare la musica",
+            "created_at": "2022-08-08T13:23:48.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1555692780525158400",
+            "text": "@MisterEspeto @rosa_tovar_l Creo escuela , sus jefes de partida hoy dia son todos estrellas michelin y soles de Repsol . Un genio",
+            "created_at": "2022-08-05T23:10:36.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1555569261241851905",
+            "text": "@EVernacci Que bueno es Ricardo !!!",
+            "created_at": "2022-08-05T14:59:47.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1554556753458728960",
+            "text": "@mariasindias Que gran acompanante es el huevo",
+            "created_at": "2022-08-02T19:56:26.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1552772258199998464",
+            "text": "@EVernacci @JotaRoUg Yo no lo hubiera explicado mejor",
+            "created_at": "2022-07-28T21:45:30.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1552771457058586624",
+            "text": "@catacletas Es un top",
+            "created_at": "2022-07-28T21:42:19.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1551195745235132417",
+            "text": "@mariasindias Como en casa .....",
+            "created_at": "2022-07-24T13:21:00.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1551193241428627456",
+            "text": "@mariasindias En que bar ???",
+            "created_at": "2022-07-24T13:11:03.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1550902069086879744",
+            "text": "@carlosms1568 @RicardCamarena Es un retop",
+            "created_at": "2022-07-23T17:54:02.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1550901767742922752",
+            "text": "@mgarridocierva En la variedad esta la riqueza de Espana",
+            "created_at": "2022-07-23T17:52:50.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1550901412900511744",
+            "text": "@ricardsampere Por algo asi se espera lo que haga falta",
+            "created_at": "2022-07-23T17:51:25.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1550856231727861761",
+            "text": "@mariasindias Sacha es un top!",
+            "created_at": "2022-07-23T14:51:53.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1550039774379053056",
+            "text": "@EVernacci Es lo que tienen los templos",
+            "created_at": "2022-07-21T08:47:35.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1550036761421746176",
+            "text": "@aboronatmiro @AmbassadeLlivia Lo veo todos los domingos , sobre las 13,30 en la 2 , muy interesante siempre",
+            "created_at": "2022-07-21T08:35:36.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1550034660335534080",
+            "text": "@InakiCaroUnsain @rosa_tovar_l @EVernacci @IniakiOyarbide @chef_betty @sestevezb @carmenartola @imiravet @EscauriMarta @anacubilla_ @vgacebo @ILTrovatore1 @alex_aelos @ToniMassanes @DiariGastronomi @profesorFP @Pacomoraleschef Menos de 4 dias perfectos",
+            "created_at": "2022-07-21T08:27:15.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1550031373850886145",
+            "text": "@InakiCaroUnsain @rosa_tovar_l @EVernacci @IniakiOyarbide @chef_betty @sestevezb @carmenartola @imiravet @EscauriMarta @anacubilla_ @vgacebo @ILTrovatore1 @alex_aelos @ToniMassanes @DiariGastronomi @profesorFP @Pacomoraleschef Mas pequenos = menos agua , para escalfar son ideales",
+            "created_at": "2022-07-21T08:14:12.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1550017589442740224",
+            "text": "@aboronatmiro @AmbassadeLlivia Lo vere",
+            "created_at": "2022-07-21T07:19:25.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1550011473036017664",
+            "text": "@EVernacci Y pensar que hace un tiempo se desechaban",
+            "created_at": "2022-07-21T06:55:07.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1548648019452907520",
+            "text": "@mariasindias Todo un caballero!!",
+            "created_at": "2022-07-17T12:37:14.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1547290708071030784",
+            "text": "@PedroAntonD @EVernacci @MisterEspeto Mi primera visita alla donde vaya es a los mercados , te das cuenta lo que se respira en las ciudades",
+            "created_at": "2022-07-13T18:43:46.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        },
+        {
+            "tweet_id": "1546863616879742978",
+            "text": "@pilarportero @NunezFeijoo Esa voz me suena",
+            "created_at": "2022-07-12T14:26:40.000Z",
+            "user_id": "2370919537",
+            "username": "Higinio_Gomez"
+        }
+    ]
+}

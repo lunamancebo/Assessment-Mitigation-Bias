@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "tweet_id": "1538674741141155840",
+            "text": "Muy recomendado! \ud83d\udc4c\ud83c\udffc https://t.co/440kn39Yzr",
+            "created_at": "2022-06-20T00:07:00.000Z",
+            "user_id": "85251873",
+            "username": "AnaMCalleja"
+        },
+        {
+            "tweet_id": "1487378598004731907",
+            "text": "@marthadebayle Mango!",
+            "created_at": "2022-01-29T10:54:26.000Z",
+            "user_id": "85251873",
+            "username": "AnaMCalleja"
+        },
+        {
+            "tweet_id": "1485870037533614084",
+            "text": "Como se ven los flujos de trenes, aviones y barcos en Europa. Todo esta hecho con opendata. Genial trabajo! https://t.co/n4C2DWUri4",
+            "created_at": "2022-01-25T06:59:57.000Z",
+            "user_id": "85251873",
+            "username": "AnaMCalleja"
+        },
+        {
+            "tweet_id": "1476160847965790211",
+            "text": "Asi es como lucira la emblematica Rambla de Barcelona, con los cambios estrategicos que se le aplicaran. Priorizando aun mas al peatonal y la infraestructura verde https://t.co/aibhFdma4p",
+            "created_at": "2021-12-29T11:59:06.000Z",
+            "user_id": "85251873",
+            "username": "AnaMCalleja"
+        },
+        {
+            "tweet_id": "1171099354653954048",
+            "text": "@AyuntamientoVLL Tendran un ajuste de horario de servicio para el viernes en sus oficinas para tramitar el empadronamiento y dni? Por el tema de las fiestas. Gracias!",
+            "created_at": "2019-09-09T16:33:38.000Z",
+            "user_id": "85251873",
+            "username": "AnaMCalleja"
+        }
+    ]
+}

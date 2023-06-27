@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1625428876074655744",
+            "text": "El domingo vermu https://t.co/XQiKpiiyD4",
+            "created_at": "2023-02-14T09:36:57.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1623700925595410438",
+            "text": "@Javi_Fdez90 Eso sin duda le dio las fuerzas necesarias",
+            "created_at": "2023-02-09T15:10:42.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1619995577869279233",
+            "text": "Si alguien se lo puede pasar.. https://t.co/RWTXY0IiTD",
+            "created_at": "2023-01-30T09:46:58.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1617977398250831873",
+            "text": "@Villenenrique @dggalin Esto no te va a librar de invitarme a cenar \u2764\ufe0f",
+            "created_at": "2023-01-24T20:07:26.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1615811315255152660",
+            "text": "@andres_trasado @Ruldia @vigalondo @alexdelaIglesia Jajajajajaja",
+            "created_at": "2023-01-18T20:40:12.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1615810900211941376",
+            "text": "@andres_trasado @Ruldia @vigalondo @alexdelaIglesia La firma Nacho, pero la hizo Alex, eso es asi",
+            "created_at": "2023-01-18T20:38:33.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1615810305090588694",
+            "text": "@Ruldia @andres_trasado @vigalondo @alexdelaIglesia Bueno, pero es la pelicula que le hubiera gustado hacer a Alex, eso esta claro",
+            "created_at": "2023-01-18T20:36:11.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1615297180889145349",
+            "text": "@CurroCoello @VaqueroEH Ya me hubiera gustado parecerme. Al padre, digo",
+            "created_at": "2023-01-17T10:37:13.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1605300090306179073",
+            "text": "@heavytory @ElTorres72 Te envidio \ud83d\ude0a",
+            "created_at": "2022-12-20T20:32:21.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1605298625445171200",
+            "text": "@heavytory Claro! De mi amado @ElTorres72",
+            "created_at": "2022-12-20T20:26:31.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1598274785603391491",
+            "text": "@vitosantanar @victoramat01 @nabi_onandia @JordiLlatzer \ud83d\ude0a Os mando un abrazo a todos",
+            "created_at": "2022-12-01T11:16:18.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1594598815666937857",
+            "text": "@yakubiuk @enjutomojamuto Ni idea, que pena \ud83d\ude02",
+            "created_at": "2022-11-21T07:49:18.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1591865771885748224",
+            "text": "@EsteparioTotal Bien hallado Juanjo, muchas gracias. Respetare las normas \ud83d\ude01",
+            "created_at": "2022-11-13T18:49:10.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1590298564101804033",
+            "text": "@crisgapink Jajaja \u2764\ufe0f",
+            "created_at": "2022-11-09T11:01:38.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1583936547900252160",
+            "text": "@AlbaceteBPSAD Jajaja \u2764\ufe0f\ud83e\udd87",
+            "created_at": "2022-10-22T21:41:15.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1582779329549066240",
+            "text": "@bantha_king Vale, me dicen que esta arreglado ya, efectivamente llevabas razon \ud83d\ude0c",
+            "created_at": "2022-10-19T17:02:53.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1582774887709433860",
+            "text": "@bantha_king Si?? Voy a ver, muchas gracias",
+            "created_at": "2022-10-19T16:45:14.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1573993339023761408",
+            "text": "@DORibera Eternamente agradecido y maravillado \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "created_at": "2022-09-25T11:10:30.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1573993104939655168",
+            "text": "@raulperez_76 Ay mi ovejita \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "created_at": "2022-09-25T11:09:34.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1567499421968990212",
+            "text": "El 18 amenizaremos el vermu en @salagalileo \n\nhttps://t.co/NCpQFYX4er",
+            "created_at": "2022-09-07T13:05:59.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1563814794766983169",
+            "text": "@YSABELMARINMOR8 @PepeFarruqo @Berto_Romero @Buenafuente @manolosoloactor @chidolula Di que si \ud83d\udc83\ud83d\udc83\ud83d\udc83\ud83d\udc83",
+            "created_at": "2022-08-28T09:04:36.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1563123074157146112",
+            "text": "@PepeFarruqo @Berto_Romero @Buenafuente @manolosoloactor @chidolula Gracias amigo \u2764\ufe0f",
+            "created_at": "2022-08-26T11:15:56.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1562488256372961283",
+            "text": "@n_torreblanca Inolvidable \u2764\ufe0f",
+            "created_at": "2022-08-24T17:13:24.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1560900073025830914",
+            "text": "@aalcant @LibretaCoronas Gracias \ud83e\udd29",
+            "created_at": "2022-08-20T08:02:32.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1537648174571180033",
+            "text": "@LuisFabraFuis @ivoox @ElTerrat Os estoy haciendo el podcast \ud83d\ude01",
+            "created_at": "2022-06-17T04:07:47.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1536792553357549572",
+            "text": "@LuisFabraFuis @ivoox @ElTerrat Bravo!! Esa humildad para reconocer el merito de los demas os llevara lejos \ud83c\udf92\u23ea",
+            "created_at": "2022-06-14T19:27:51.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1535946431592386561",
+            "text": "@DavidRamrezMa13 Yo?? Estoy muy feliz, ademas sabes que subimos de dos en dos. En dos tiembla uropa \ud83e\udd87\ud83e\udd87\ud83e\udd87\ud83e\udd87",
+            "created_at": "2022-06-12T11:25:40.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1535204867869917187",
+            "text": "Mitico Julio https://t.co/CRntqgp0Kh",
+            "created_at": "2022-06-10T10:18:57.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1531637758728577024",
+            "text": "Fliper boy ha vuelto https://t.co/DNWQEjxX28",
+            "created_at": "2022-05-31T14:04:32.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1531328059286163456",
+            "text": "@ElHumanoide @natxosanchez @Hanky_solo @XoseCastro Seria precioso si no fueramos la misma persona \ud83d\ude0a",
+            "created_at": "2022-05-30T17:33:54.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1526893009526304770",
+            "text": "\ud83d\udc82\u200d\u2640\ufe0fcinta 25, lo que nos convierte en inmortales segun nuestro barometro https://t.co/xTi0HrSiFE",
+            "created_at": "2022-05-18T11:50:36.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1486283568603086852",
+            "text": "@wallylopez Jejeje asi empezaste tu",
+            "created_at": "2022-01-26T10:23:11.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1486277738956832779",
+            "text": "Nueva entrega de la investigacion. El bar de los broder tolquin sigue en el ojo del huracan https://t.co/tY7i8GpFU7",
+            "created_at": "2022-01-26T10:00:01.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1482072990821015556",
+            "text": "@NaizuArt Me encanta, claro!",
+            "created_at": "2022-01-14T19:31:51.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1481921724493012994",
+            "text": "Nueva cinta de la investigacion \ud83d\ude93\n\n https://t.co/d8SqMmHv0k",
+            "created_at": "2022-01-14T09:30:46.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1480987441452437510",
+            "text": "@estereotipejo @FrankCroft A ver si hay suerte...",
+            "created_at": "2022-01-11T19:38:16.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1480869943331725322",
+            "text": "@manueljabois @Borovil Pero mas mio",
+            "created_at": "2022-01-11T11:51:22.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1479938256095559684",
+            "text": "@MasallaOrion Jajaja hostia y que buena historia! Un abrazo, leyenda",
+            "created_at": "2022-01-08T22:09:10.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1479428012550627336",
+            "text": "@faustianovich @nievesclaqueta Felicidades tio majo",
+            "created_at": "2022-01-07T12:21:39.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1479141094671765504",
+            "text": "@ZocoRomero @angelmartin_nc Yo soy las voces que oia",
+            "created_at": "2022-01-06T17:21:32.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1479141006977253385",
+            "text": "@ZocoRomero @angelmartin_nc No es la primera vez que compartimos piso",
+            "created_at": "2022-01-06T17:21:11.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1476636970185015298",
+            "text": "@ibon20200 Si que esta!",
+            "created_at": "2021-12-30T19:31:02.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1476497653685006337",
+            "text": "@Aire_Azul @PirataPiratobic @4Colors Todo es broma",
+            "created_at": "2021-12-30T10:17:27.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1476202453532086281",
+            "text": "Nueva cinta de la investigacion. El bar de los broder tolquin sigue vigilado. La policia no entiende de navidades \n https://t.co/J5ue2j9u8M",
+            "created_at": "2021-12-29T14:44:26.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1475123151138926596",
+            "text": "@DanaFdez3 @galleguiceitor @LateMotivCero Muchas gracias, Dana. Por tus palabras y por distinguir las churras de las merinas. \u2764\ufe0f",
+            "created_at": "2021-12-26T15:15:40.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1475043338713804800",
+            "text": "@diostuitero @Buenafuente Usted es omnipresente, puede oir las que tenemos en privado. De recuerdos por los cielos \ud83d\ude18",
+            "created_at": "2021-12-26T09:58:31.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1474687094270353408",
+            "text": "@carnecrudaradio @LateMotivCero @Buenafuente @Berto_Romero @BobPopVeTV Gracias Javier. \u00bfQue te vamos a contar? \ud83d\ude0a\u2764\ufe0f",
+            "created_at": "2021-12-25T10:22:56.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1474451076216762379",
+            "text": "@Buenafuente @LateMotivCero Eres el mejor, jefe \u2764\ufe0f",
+            "created_at": "2021-12-24T18:45:05.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1474445320662786053",
+            "text": "Felices fiestas a todos \u2764\ufe0f\n https://t.co/Ds3tFDJjtp",
+            "created_at": "2021-12-24T18:22:12.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1474431404163403790",
+            "text": "@CuentameTiempo Estoy muy orgulloso \ud83d\ude02",
+            "created_at": "2021-12-24T17:26:55.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1474117540330852362",
+            "text": "@thehardmenpath @LateMotivCero Ahi empezo la debacle \ud83d\ude02",
+            "created_at": "2021-12-23T20:39:44.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1473615112363782147",
+            "text": "Con mucha pena, la ultima tonteria. Gracias a todo el equipo por estos anos \u2764\ufe0f https://t.co/9rTLURjlLr",
+            "created_at": "2021-12-22T11:23:15.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1473434987672317956",
+            "text": "Tenemos 3 joyas en maquillaje \n https://t.co/urxfSozdvB",
+            "created_at": "2021-12-21T23:27:30.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1471828877836177411",
+            "text": "Nueva cinta! El bar de los broder tolquin \ud83d\udc6e\u200d\u2642\ufe0f\ud83d\udea8 siempre descansa https://t.co/V0TKqp4FoZ",
+            "created_at": "2021-12-17T13:05:24.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1471436235243728907",
+            "text": "El codigo \n https://t.co/iLqHR7Im8r",
+            "created_at": "2021-12-16T11:05:11.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1469367114725269507",
+            "text": "El maravilloso gilipollas de @gonzalocortizo \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f https://t.co/8XBdwIwT6T",
+            "created_at": "2021-12-10T18:03:14.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1466434643071324163",
+            "text": "@estopaoficial Sabeis que es mutuo \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "created_at": "2021-12-02T15:50:38.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1466059409696739329",
+            "text": "Nueva cinta!! Creo que van 13 ya \ud83d\udc6e\u200d\u2642\ufe0f https://t.co/6bqSeJHp1n",
+            "created_at": "2021-12-01T14:59:35.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1461269717423988737",
+            "text": "La investigacion continua \n https://t.co/CdHXB76U0U",
+            "created_at": "2021-11-18T09:47:04.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1459803239650676739",
+            "text": "@ILUSTRESignoran Eso es imposible \u2764\ufe0f",
+            "created_at": "2021-11-14T08:39:48.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1459100407846871055",
+            "text": "Fue un honor, fuerza la Palma \u2764\ufe0f\n https://t.co/MqIyvGbS72",
+            "created_at": "2021-11-12T10:07:00.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1458127100708261892",
+            "text": "Los otros preparativos \n\n https://t.co/uVRQsIkPVD",
+            "created_at": "2021-11-09T17:39:26.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1458122804503760898",
+            "text": "Los preparativos \n https://t.co/RyeYca6VZt",
+            "created_at": "2021-11-09T17:22:21.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1456220242179497988",
+            "text": "Nueva cinta \ud83d\ude94\ud83d\udea8\ud83d\udc6e\u200d\u2642\ufe0f\n\n https://t.co/FutHeqozBL",
+            "created_at": "2021-11-04T11:22:15.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1453320932613832706",
+            "text": "@enriquelavigne @fernavarro17 @BurningJohnny @MuddyWatersB Pues ya te vale! \ud83d\ude0e",
+            "created_at": "2021-10-27T11:21:26.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1451861528731344896",
+            "text": "El 10 de los broder tolquin viene con una promo sobria y equilibrada https://t.co/RsvOJOQdpq",
+            "created_at": "2021-10-23T10:42:17.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1451452110973849600",
+            "text": "El martes en batan \ud83d\ude0e https://t.co/d2nO0d3Fip",
+            "created_at": "2021-10-22T07:35:24.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1451087011750850562",
+            "text": "Pues ya ha llegado la cinta diez de la investigacion de los broder tolquin, pasen por spotify y ahi mis companeros les daran mas indicaciones\n\n https://t.co/O2dJuQgoUb",
+            "created_at": "2021-10-21T07:24:38.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1450753324156919813",
+            "text": "La fortaleza \n https://t.co/mjiaFu7EXc",
+            "created_at": "2021-10-20T09:18:40.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1448926795928059905",
+            "text": "El juego del sacristan \n https://t.co/my4LevwDYU",
+            "created_at": "2021-10-15T08:20:42.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1445659435729182725",
+            "text": "Nueva cinta de los broder tolquin \ud83d\udd14\ud83d\udd14\ud83d\udd14\ud83d\udd14\ud83d\udd14\ud83d\udd14\ud83d\udd14\ud83d\udd14 https://t.co/zmxqhosj3G",
+            "created_at": "2021-10-06T07:57:23.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1443699515375108098",
+            "text": "Las horas de ensayo y esfuerzo al final dan sus frutos https://t.co/SwPZFJ4cde",
+            "created_at": "2021-09-30T22:09:21.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1441129841269559301",
+            "text": "Nueva cinta, nuevos horizontes. \n\nhttps://t.co/wwp8tQBdm6",
+            "created_at": "2021-09-23T19:58:23.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1440940125962256385",
+            "text": "El mercader \n\n https://t.co/eWlkEr7UId",
+            "created_at": "2021-09-23T07:24:32.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1438121554286632965",
+            "text": "@lorenagm7 Eso es un nivel inalcanzable",
+            "created_at": "2021-09-15T12:44:32.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1435935922630049792",
+            "text": "@PepeFarruqo @manu_dskto @vengamonjas Estuve hace poco! Nos acordamos de ti \ud83c\udf7b\ud83c\udf7b",
+            "created_at": "2021-09-09T11:59:37.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1435632732000894979",
+            "text": "Mi cunado el pies planos (ya q os sonaba antiguo \u201cpasma\u201d) me ha pasado otra cinta de la investigacion. El BBT no para de aportar al gran vacio \n https://t.co/q2O7pDquPX",
+            "created_at": "2021-09-08T15:54:50.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1435532237273980931",
+            "text": "@Aire_Azul Gracias a ti. Los demas no existen, hablan desde mi cabeza",
+            "created_at": "2021-09-08T09:15:30.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1433939507406151686",
+            "text": "@DeArganzuela @luka7doncic Vivimos juntos",
+            "created_at": "2021-09-03T23:46:34.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1433928008268668928",
+            "text": "Alcaraz \ud83d\ude4c",
+            "created_at": "2021-09-03T23:00:52.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1432692082657857537",
+            "text": "@_danielmartin_ Estas increible !\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\u2764\ufe0f",
+            "created_at": "2021-08-31T13:09:45.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1426960992756453378",
+            "text": "@rodrigocortes Pero me estoy tomando unas pastillas y me voy a curar \u2764\ufe0f\u200d\ud83e\ude79. Eres un bonico y tu libro es maravilloso",
+            "created_at": "2021-08-15T17:36:26.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1425426802487476231",
+            "text": "Mis contactos en la pasma me han pasado la cinta 5 de la investigacion. El bar de los broder tolquin no para. que no es lo mismo que no descansar. Eso si lo hacemos\n\nhttps://t.co/HTV6mzc8U1",
+            "created_at": "2021-08-11T12:00:07.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1425425902146572298",
+            "text": "@pilarlj Me alegro!! \u2764\ufe0f",
+            "created_at": "2021-08-11T11:56:32.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1423266940726951936",
+            "text": "Este gorrion chillon se ha perdido por Albacete, si andan por ahi y se lo cruzan por favor llamad al telefono.\ud83d\udc26\ud83d\udc26\ud83d\udc26 https://t.co/Xbiho9J9Hw",
+            "created_at": "2021-08-05T12:57:36.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1420304199980625921",
+            "text": "Ya ha llegado la cinta 4 de la investigacion. Las grabaciones en El bar de los broder tolquin siguen dando fruto\n\nhttps://t.co/jw00WYuGCb",
+            "created_at": "2021-07-28T08:44:43.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1419923996641009673",
+            "text": "@Zibeless Claro",
+            "created_at": "2021-07-27T07:33:56.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1418918862888874001",
+            "text": "Cinta 03: Marineros &amp; sonadores - El Bar de los Broder Tolquin | Podcast on Spotify https://t.co/04h4FVi6sk",
+            "created_at": "2021-07-24T12:59:53.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1416371237727752192",
+            "text": "@MarlefiKa Pues ahi tienes 3 chorradas \ud83d\ude0a",
+            "created_at": "2021-07-17T12:16:32.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1416137872156016641",
+            "text": "@grufp Jajajaja hostia peor aun",
+            "created_at": "2021-07-16T20:49:13.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1415301152959238151",
+            "text": "ya puedes escuchar la cinta 3! \ud83d\ude0a https://t.co/5bR3oqZdCi",
+            "created_at": "2021-07-14T13:24:24.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1414873040740134920",
+            "text": "Manana \ud83c\udfa7 https://t.co/44qGDGybEf",
+            "created_at": "2021-07-13T09:03:14.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1413872394742247428",
+            "text": "@plenaccion @Buenafuente Yo lo que diga el jefe, ya lo sabe \ud83d\ude0a",
+            "created_at": "2021-07-10T14:47:02.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1413619970404147207",
+            "text": "@CleofeCorcoba La rivalidad es buena, nos hace mas trastornados",
+            "created_at": "2021-07-09T22:03:59.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1412744181718601728",
+            "text": "\u00bfTe he contado que tengo un hermano?\n https://t.co/REvCQTC6kd",
+            "created_at": "2021-07-07T12:03:55.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1411020150174793730",
+            "text": "@PerisMencheta No me lo podia seguir guardando, lo siento",
+            "created_at": "2021-07-02T17:53:13.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1410542434958860289",
+            "text": "Ya me ha enviado la policia la segunda cinta de El Bar de los Broder Tolquin. Sin otro particular, reciban un cordial saludo\n\n https://t.co/1YnADDK3wG",
+            "created_at": "2021-07-01T10:14:57.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1407693710893236225",
+            "text": "Agujero de gusano triquitraun \n https://t.co/uPzklcLtae",
+            "created_at": "2021-06-23T13:35:09.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1405937950110760975",
+            "text": "@SofiMoraXxX @IgnatiusFarray @MiguelNoguera @pepecolubi \ud83d\ude0d que honor",
+            "created_at": "2021-06-18T17:18:23.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        },
+        {
+            "tweet_id": "1405842837338480640",
+            "text": "@sweetllaceria No, me dicen q solo en spotify \ud83e\udd37",
+            "created_at": "2021-06-18T11:00:26.000Z",
+            "user_id": "268819103",
+            "username": "picuetin"
+        }
+    ]
+}

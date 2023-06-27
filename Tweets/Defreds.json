@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1628149828025741314",
+            "text": "@Luis_Endera Gracias \ud83c\udf88",
+            "created_at": "2023-02-21T21:49:03.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1628148795539173378",
+            "text": "Al final no solo es quien te encuentre. Es quien sepa perderse contigo.",
+            "created_at": "2023-02-21T21:44:57.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1628148471105462273",
+            "text": "Contigo no hay dias iguales. No hay nada facil pero tampoco de mentira.",
+            "created_at": "2023-02-21T21:43:39.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1628148064799100929",
+            "text": "Perdonar es facil. Sostener y ayudar con la reparacion ya es mas complicado.",
+            "created_at": "2023-02-21T21:42:02.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1628049075172933633",
+            "text": "\u201cDos trocitos de fruta\u201d",
+            "created_at": "2023-02-21T15:08:41.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1628011830982463488",
+            "text": "Menos mal que quedan abrazos de esos donde se aprieta tanto que parece que te van a romper,  y en cambio, te reconstruyen.",
+            "created_at": "2023-02-21T12:40:42.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1627983688469291009",
+            "text": "Llega a casa, se pone la cara limpia y el corazon transparente.",
+            "created_at": "2023-02-21T10:48:52.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1627982881736781825",
+            "text": "Fue duro decidirlo, pero ahora tengo toda esa paz que necesitaba.",
+            "created_at": "2023-02-21T10:45:40.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1627959726548873216",
+            "text": "Veo que te vas a estrellar otra vez.",
+            "created_at": "2023-02-21T09:13:39.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1627599080091164673",
+            "text": "Por cierto, me ha llegado esto de @Yosoycorra y ya tengo ganas de empezarlo. https://t.co/6DetsOvpAd",
+            "created_at": "2023-02-20T09:20:34.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1627598446113787904",
+            "text": "@Yosoycorra Que bien cuentas las cosas.",
+            "created_at": "2023-02-20T09:18:03.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1627571740141314049",
+            "text": "Cuando quieres estar lejos de casa para poder acompanar a esa persona mas tiempo.",
+            "created_at": "2023-02-20T07:31:56.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1627420977800904706",
+            "text": "Aqui os dejo 10\u20ac de descuento para vuestra proxima reserva de hotel. \n\nDa igual cuando y donde. Te lo guardas y los usas cuando quieras.\n\nhttps://t.co/FR101MR7Qp",
+            "created_at": "2023-02-19T21:32:51.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1627404571998822400",
+            "text": "15 de marzo en todas las librerias. https://t.co/NjoOcOGUXM",
+            "created_at": "2023-02-19T20:27:40.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1627266831349153792",
+            "text": "Regala tu tiempo a quien te lo llene.",
+            "created_at": "2023-02-19T11:20:20.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1626926893143302144",
+            "text": "Nos vemos en nada, Barcelona.\n\nhttps://t.co/xQZ2S80wpq https://t.co/qIMddRpWFP",
+            "created_at": "2023-02-18T12:49:32.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1626915230394507264",
+            "text": "Hoy juega el Celta. El mejor momento del fin de semana.",
+            "created_at": "2023-02-18T12:03:12.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1626914982288936962",
+            "text": "Nos asusta. Nos acojona. Nos hace sentir vulnerables. Pero ni de cona queremos pararlo.",
+            "created_at": "2023-02-18T12:02:13.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1626914036389478400",
+            "text": "Decian que el mundo estaba dormido. Y mire a la izquierda, y efectivamente estabas tu alli dormida. Y te veia respirar.",
+            "created_at": "2023-02-18T11:58:27.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1626913398972637185",
+            "text": "Haces que las semanas parezcan horas por lo rapido que pasa el tiempo estando juntos. Y la vez parecen anos de lo bien que encajamos.",
+            "created_at": "2023-02-18T11:55:55.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1626633153610645537",
+            "text": "@FranciscodPaula Yo la vi desde el coche pero no me dio tiempo a sacar la foto.",
+            "created_at": "2023-02-17T17:22:19.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1626179285034606593",
+            "text": "@Danny_DGR @PilarAsdasd Donde puedo verlo?",
+            "created_at": "2023-02-16T11:18:49.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1626163100608000000",
+            "text": "La chica de los mil peros que si te mira fijamente a los ojos es que ha resuelto todas sus dudas.",
+            "created_at": "2023-02-16T10:14:30.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1626161738335887362",
+            "text": "@PilarAsdasd @Danny_DGR Dalo por hecho.",
+            "created_at": "2023-02-16T10:09:05.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1626161581154246661",
+            "text": "Aprovechar cada rato libre para hacer cosas contigo.",
+            "created_at": "2023-02-16T10:08:28.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1626157773669933057",
+            "text": "@PilarAsdasd @Danny_DGR Tomando notas para hacer un juego de mesa de Defreds \ud83d\ude01",
+            "created_at": "2023-02-16T09:53:20.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625970446163144704",
+            "text": "Nos agobiamos por adelantado pensando cosas que no van a pasar.",
+            "created_at": "2023-02-15T21:28:58.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625969503849906183",
+            "text": "No lo intentas porque no quieres que vuelva a doler.",
+            "created_at": "2023-02-15T21:25:13.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625967240305643521",
+            "text": "Lo prometido es deuda. Los 10\u20ac de regalo que podeis guardar para utilizar en vuestra proxima reserva de hotel.\n\nhttps://t.co/XP3iUglc8U https://t.co/Jx2DBLinPU",
+            "created_at": "2023-02-15T21:16:13.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625958636060114959",
+            "text": "Eres de esas personas que nadie quiere perder.",
+            "created_at": "2023-02-15T20:42:02.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625815811083452417",
+            "text": "@Don_Sopalajo Y pactados.",
+            "created_at": "2023-02-15T11:14:30.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625815740904341505",
+            "text": "Estabilidad, no pido mas.",
+            "created_at": "2023-02-15T11:14:13.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625584395280080928",
+            "text": "@Lidia_Sango Gracias \u2764\ufe0f",
+            "created_at": "2023-02-14T19:54:56.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625554929023688704",
+            "text": "Huevos fritos con patatas es el amor.",
+            "created_at": "2023-02-14T17:57:51.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625535599590445056",
+            "text": "A ti, que me cuidas cada dia.",
+            "created_at": "2023-02-14T16:41:02.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625463410568593409",
+            "text": "@ElDiaDespues @RealBetis \u201cLa que le hace los mandaos a Dr\u00e0cula\u201d. \ud83d\ude02\ud83d\ude02",
+            "created_at": "2023-02-14T11:54:11.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625429765984329731",
+            "text": "Todo el ano. https://t.co/CEOdCdgQ1n",
+            "created_at": "2023-02-14T09:40:29.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625419004620816385",
+            "text": "El erizo y la tortuga. https://t.co/Ua189pYiUQ",
+            "created_at": "2023-02-14T08:57:44.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625148475951222786",
+            "text": "@carpi_car Eso molaba. https://t.co/LimAoIHOqC",
+            "created_at": "2023-02-13T15:02:45.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625147235179585536",
+            "text": "Manana es cuando me roban todas las frases \ud83d\ude06",
+            "created_at": "2023-02-13T14:57:49.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625146272314191874",
+            "text": "@ColegioApostol Un placer volver a casa. Son unos alumnos muy interesados en aprender y escuchar.",
+            "created_at": "2023-02-13T14:53:59.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625145158319673346",
+            "text": "La chica a la que cada vez que le gusta alguien, su mente entra en un circulo vicioso de destruccion. Y el corazon queda defectuoso.",
+            "created_at": "2023-02-13T14:49:34.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625144537667567616",
+            "text": "No olvides hablar de los aciertos. Que muchas veces solo nos acordamos de comentar los errores.",
+            "created_at": "2023-02-13T14:47:06.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1625144022015565826",
+            "text": "Tiene unas ojeras preciosas \ny una habitacion desordenada como ella. \nUn corazon grande que, cuando quiere, \nquiere de verdad. \nDe lo bonita que esta cuando duerme \nno voy a decir nada, \nno tengo manera de explicarlo con palabras.",
+            "created_at": "2023-02-13T14:45:03.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624881506169626632",
+            "text": "\u00bfLas llenamos? https://t.co/gE56Pv2AlG",
+            "created_at": "2023-02-12T21:21:54.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624881375621926914",
+            "text": "Por si no conociais mi web...\n\nAhi teneis todos mis libros especificados y toda la informacion de mis proximos eventos en Malaga, Valladolid y Barcelona.\n\nhttps://t.co/xPAvJAlHEi",
+            "created_at": "2023-02-12T21:21:23.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624789756113571844",
+            "text": "@P0mbinh0 @PremiosGoya Lo decia de broma. Peliculon ademas.",
+            "created_at": "2023-02-12T15:17:19.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624743774302748673",
+            "text": "@Don_Sopalajo Peliculon.",
+            "created_at": "2023-02-12T12:14:36.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624713067136180225",
+            "text": "Un unico detalle puede marcar todo el futuro.",
+            "created_at": "2023-02-12T10:12:35.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624523582884745217",
+            "text": "@PremiosGoya Muy merecido.",
+            "created_at": "2023-02-11T21:39:39.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624509686555852800",
+            "text": "Familia. https://t.co/wXXD9M4ptN",
+            "created_at": "2023-02-11T20:44:25.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624369447199813632",
+            "text": "Las historias mas especiales son las que no necesitan mucho mas que toda la confianza y muchas risas.",
+            "created_at": "2023-02-11T11:27:10.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624064119291711488",
+            "text": "Demasiado corta es la vida como para ir con ella siempre con dudas.",
+            "created_at": "2023-02-10T15:13:54.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624063550468550659",
+            "text": "Valladolid y Barcelona.\n\nUltimas entradas:\n\nhttps://t.co/EgpLS7gPEa https://t.co/RyDKyqBpQ7",
+            "created_at": "2023-02-10T15:11:38.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624047526587383808",
+            "text": "En los dias en los que no me apetece nada, apareces para sacarme de casa y llevarme al fin del mundo.",
+            "created_at": "2023-02-10T14:07:58.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624043756608528385",
+            "text": "A todo volumen. https://t.co/WvIk6PR2kN",
+            "created_at": "2023-02-10T13:52:59.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1624002477556211713",
+            "text": "Croquetas es todo lo que quiero para San Valentin.",
+            "created_at": "2023-02-10T11:08:57.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623641570703470593",
+            "text": "Ojala se quede. https://t.co/F303ZYrl1n",
+            "created_at": "2023-02-09T11:14:50.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623615830033399809",
+            "text": "No devuelvas el dano que te hicieron en el pasado. El presente no tiene culpa.",
+            "created_at": "2023-02-09T09:32:33.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623421309043589122",
+            "text": "Malaga.\n\nYo estare el sabado 4 de marzo por la tarde. https://t.co/5cDgO4bmXX",
+            "created_at": "2023-02-08T20:39:36.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623418968160567297",
+            "text": "Viniendo a Twitter para ver si le pasa algo a Instagram.",
+            "created_at": "2023-02-08T20:30:18.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623414355403460610",
+            "text": "Ella. https://t.co/69GNxaqoEU",
+            "created_at": "2023-02-08T20:11:58.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623386917445197824",
+            "text": "@nocilla La lengua.",
+            "created_at": "2023-02-08T18:22:56.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623386398337146895",
+            "text": "@_eJ_05 @Silviaaguilarr_ Medio millon de ejemplares ademas.",
+            "created_at": "2023-02-08T18:20:53.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623381114676039680",
+            "text": "@MartinVarela93 @gabriveiga10 Esta guapisima.",
+            "created_at": "2023-02-08T17:59:53.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623381027249848323",
+            "text": "@RCCelta @Pontifex_es Aqui le rezamos a Iago Aspas.",
+            "created_at": "2023-02-08T17:59:32.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623380640446947347",
+            "text": "@Mundo_Facundo La amarilla, porque asi podria volver al primer dia que probe los chaskis Facundo.",
+            "created_at": "2023-02-08T17:58:00.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623379379995680787",
+            "text": "@Yosoycorra Es una sensacion que nunca se olvida.",
+            "created_at": "2023-02-08T17:52:59.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623367508156682247",
+            "text": "Cuenta atras para el 15 de marzo. https://t.co/NjoOcOGUXM",
+            "created_at": "2023-02-08T17:05:49.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623334688654872577",
+            "text": "El amor es saber llegar a tiempo y no marcharte ante el primer problema.",
+            "created_at": "2023-02-08T14:55:24.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623297772400128001",
+            "text": "Aprender a sanar. El objetivo del ano.",
+            "created_at": "2023-02-08T12:28:43.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623294751503007746",
+            "text": "Estar ahi, a su lado. Aunque todavia no entiendas su problema.",
+            "created_at": "2023-02-08T12:16:42.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623284400103235585",
+            "text": "Besos en la frente. https://t.co/HShlZQdsvV",
+            "created_at": "2023-02-08T11:35:34.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623267599751565312",
+            "text": "Estan volando las entradas para Barcelona. Son pocas. https://t.co/U4kDWpv1rC",
+            "created_at": "2023-02-08T10:28:49.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623267462266466304",
+            "text": "El abrazo que hace que lo entiendas todo.",
+            "created_at": "2023-02-08T10:28:16.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623079820568428544",
+            "text": "Hablan de frio como si hiciera tanto como en una relacion que se apaga.",
+            "created_at": "2023-02-07T22:02:39.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623079621100019718",
+            "text": "Deja de buscar todo el tiempo a personas que solo estan un rato.",
+            "created_at": "2023-02-07T22:01:51.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623079398013341702",
+            "text": "Sabes convertirme un dia triste en uno para recordar.",
+            "created_at": "2023-02-07T22:00:58.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623062814737723408",
+            "text": "Lo hemos intentado. https://t.co/Q1ErJLWanY",
+            "created_at": "2023-02-07T20:55:04.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1623062506284412949",
+            "text": "El amor siempre contiene la mayor de las amistades.",
+            "created_at": "2023-02-07T20:53:51.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1622956768371286016",
+            "text": "Me hubiera enamorado locamente.",
+            "created_at": "2023-02-07T13:53:41.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1622955001201979393",
+            "text": "Los silencios incomodos te avisan mucho antes de que todo se esta acabando.",
+            "created_at": "2023-02-07T13:46:39.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1622712740308561927",
+            "text": "\u00a1BARCELONA!\n\nUn evento unico e intimo. La magia de las letras @Defreds y @Redry13 unidas por primera vez en Barcelona\n\nAbrazate a la sensibilidad en un recital exclusivo. Habra firma de libros y fotos al finalizar. Entradas muy limitadas.\n\nhttps://t.co/xQZ2S80wpq https://t.co/tMqRtLViLM",
+            "created_at": "2023-02-06T21:44:00.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1622376386823426048",
+            "text": "Hay personas que jamas ven nada malo en lo que hacen.",
+            "created_at": "2023-02-05T23:27:27.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1622286562934284288",
+            "text": "Vivimos dos historias diferentes pero a la vez. \n\nTu siempre para un rato. \nYo siempre para siempre.",
+            "created_at": "2023-02-05T17:30:31.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1622225363706281984",
+            "text": "Las personas que mas me gustan son aquellas que son capaces de sacar sonrisas sin darse cuenta. \n\nY todos conocemos alguna.",
+            "created_at": "2023-02-05T13:27:20.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1621993436017483776",
+            "text": "Vamossssssss https://t.co/S3LJKVrruK",
+            "created_at": "2023-02-04T22:05:44.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1621901068224307204",
+            "text": "Conectar en el humor.",
+            "created_at": "2023-02-04T15:58:42.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1621831498348302337",
+            "text": "Si necesitas menospreciar a alguien para darte valor, ya dice mucho de ti.",
+            "created_at": "2023-02-04T11:22:16.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1621830616844058627",
+            "text": "Pase lo que pase, si te atreves terminas ganando.",
+            "created_at": "2023-02-04T11:18:45.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1621828529846353920",
+            "text": "@alfredgarcia @eurovision_tve Eres un artista. Haces honor a la palabra.",
+            "created_at": "2023-02-04T11:10:28.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1621253369175080962",
+            "text": "Fui salvavidas y luego me lanzaron a mi al mar.",
+            "created_at": "2023-02-02T21:04:59.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1621237518954905606",
+            "text": "Volver al sitio donde nos entendimos por primera vez.",
+            "created_at": "2023-02-02T20:02:00.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1621232274782953475",
+            "text": "El problema es que hay gente que ni se queda siempre a tu lado ni se marcha nunca del todo. Se pone ahi, apoyada en la puerta y sonriendo.",
+            "created_at": "2023-02-02T19:41:10.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1621079225280389120",
+            "text": "\u201cDesde que tu estas...\u201d",
+            "created_at": "2023-02-02T09:33:00.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1620746933404061697",
+            "text": "Febrero https://t.co/FTmM7kRoBG",
+            "created_at": "2023-02-01T11:32:35.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1620721005512781825",
+            "text": "Las ultimas unidades a mitad de precio.\n\nhttps://t.co/a7SfM9ykJE https://t.co/I0DWL1RDAz",
+            "created_at": "2023-02-01T09:49:33.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1620710686832865281",
+            "text": "Mirada pequena con corazon grande.",
+            "created_at": "2023-02-01T09:08:33.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1620710369575714817",
+            "text": "Estaba dividido en trozos y tu ayudaste a sanar los rotos.",
+            "created_at": "2023-02-01T09:07:18.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        },
+        {
+            "tweet_id": "1620292328895434754",
+            "text": "@RCCelta @ElDiaDespues @aspas10 Cinco minutos pueden recordarse toda la vida.",
+            "created_at": "2023-01-31T05:26:09.000Z",
+            "user_id": "160159077",
+            "username": "Defreds"
+        }
+    ]
+}

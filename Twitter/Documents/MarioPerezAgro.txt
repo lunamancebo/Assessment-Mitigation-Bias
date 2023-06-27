@@ -1,0 +1,326 @@
+¡Sigo por aqui! Queria compartir con ustedes mi cuenta de GitHub, donde empezare a compartir mis pequenos  proyectos y contribuciones al mundo del desarrollo de software en #GIS ¡Echadle un vistazo! 
+
+🔗https://t.co/O9KKAvz5Vt
+
+#GitHub #Geospatial  #Programacion #GIS #WebMapping.
+@atvingeniero @unirioja ¡Gracias por la recomendacion Alberto! Es una tendencia consolidada y las nuevas generaciones de #IngAgricolas deben de estar al dia. Cada vez hay mas demanda de un perfil tecnico-tecnologico y que mejor, que comenzar de la base. #Unirioja #Agricultura40.
+Espero que os haya gustado tanto como a mi poder participar en todas esas labores que ayudaban al agricultor a destacar del resto con un solo "click".
+¡Os atenderan encantados!
+#Trimble #AgriculturaDePrecision #Dronica #SolucionesSatelitales #DJI #Multispectral #GIS.
+🔹Este software permite a los agricultores generar mapas de prescripcion.
+   🔹La combinacion de imagenes satelite y datos de vuelo de drones ayuda a identificar areas con mayores necesidades de nutrientes y recursos, maximizando la produccion y eficiencia de los agricultores.
+¿Por que aplicar tecnologia en el campo que ofrece @AGROSAPTRIMBLE ?
+    🔹 La empresa utiliza vuelos de drones para recopilar imagenes detalladas de los cultivos, que luego se procesan en el software Trimble AgSoftware.
+Comparto un pequeno extracto de las funciones que desempenaba en mi anterior cargo. A dia de hoy, mis companeros de @Trimble_Ag @Vantageoeste @AGROSAPTRIMBLE continuan dando el mejor servicio al agricultor. https://t.co/jRhHN4hArs.
+Tendremos nueva sede #Bosonit
+Una muy buena noticia para la comunidad.
+
+https://t.co/l6le8HlHrt.
+Ayer conocimos a #Humi de #Umibots, empresa del grupo dedicada al desarrollo de soluciones #roboticas.
+Ademas conocimos de primera mano los proyectos activos que tienen. Muy prometedores, se vienen soluciones en el sector #agricola y #vitivinicola .
+
+🔗🤖 https://t.co/V7NQ6cFHBd https://t.co/01yGfzmaNN.
+Os comparto el catalogo de Catalogo de
+soluciones tecnologicas para Destinos Turisticos Inteligentes que ha publicado @SEGITTUR .
+
+🔗Enlace: https://t.co/JwGyAPpRLz 
+
+¡Aparecemos en la pagina 104, @Elliot_Cloud ! 
+🏙️🧠📊💻 https://t.co/btVKPWSXhk.
+En resumen, #OverpassTurbo es una herramienta esencial para cualquier persona que trabaje con datos de #OpenStreetMap y quiera acceder a ellos de forma rapida y sencilla.
+Si estas interesado en aprender mas sobre Overpass Turbo API ➡️ TE LEO 👀🛰️
+
+Gracias por compartir.
+Ademas si no estas muy familiarizado con la #programacion te recomiendo utiizar el #AsistenteFacil donde puedes crear la consulta de mediante una interfaz grafica en lugar de escribir el lenguaje de consulta manualmente. https://t.co/9kPNNaL3wE.
+Como os adelantaba, es  especialmente util para proyectos de analisis de datos de #OSM, automatizacion de tareas de edicion y generacion de mapas personalizados.
+Hace unos dias comentaba el calculo del #NDVI de los Parques y Jardines de #Logrono: https://t.co/WuEqLZBbcu.
+Utilizando un lenguaje de consulta especifico, puedes seleccionar los datos que desees de #OpenStreetMap, como puntos de interes, carreteras y edificios o cualqueir activo que tengas en mente. Te puede ayudar la documentacion: https://t.co/2eARM7ILeF.
+#OverpassTurboAPI es una herramienta en linea que permite a los desarrolladores y usuarios de #GIS acceder facilmente a los datos de #OpenStreetMap.
+¿Quieres realizar pruebas de #GIS y no sabes de donde obtener tus datos de entrada? Hoy hablamos de la API  #OverpassTurbo y como nos puede ayudar en el manejo de #OpenData en relacion con #GIS https://t.co/fzJ5pjNJY8.
+Mirad lo que ha dicho el #CEO DE #google :
+
+¡ Esto es una muy buena noticia ! 
+
+👀🙌🏼 https://t.co/Bg166BF09W.
+Con Geopandas puedes crear mapas y visualizaciones geograficas utilizando las herramientas de visualizacion de Python como Matplotlib y folium. #GeoVisualization #DataViz https://t.co/d5pg1zycmY.
+Ademas, Geopandas tiene una integracion nativa con otras bibliotecas de Python para analisis de datos como Pandas y Numpy. #DataAnalysis #PythonLibraries https://t.co/BLDoKJcDJq.
+Geopandas tambien tiene una interfaz para trabajar con proyecciones de coordenadas y sistemas de referencia de coordenadas. #CoordinateReferenceSystem #Projections https://t.co/pTp5e9kN8v.
+Con Geopandas puedes realizar operaciones espaciales como uniones, agregaciones y buffering. #SpatialAnalysis #GeoOperations https://t.co/vI5oIOSxxV.
+Geopandas es una biblioteca de #Python para tratamiento de #datosGIS. Permite trabajar con datos geograficos en formato de tabla y manejar formatos populares como #Shapefile y #GeoJSON. #GeoPandas #GIS #DataScience.
+Os traigo un pequeno resumen de #geopandas una de las bibliotecas mas utilizadas de #Python para el tratamiento de datos #GIS https://t.co/RqsK1c4glP.
+Recordad seguirme para mas noticias e informacion sobre SIG y programacion. #GIS #programacion #Agro #SmartCities.
+Estas son solo algunas de las librerias de programacion mas utilizadas en servicios de SIG. ¿Conoces alguna otra libreria que deba incluir en el hilo? Contesta al hilo utilizando el hashtag #libreriasSIG.
+#GDAL: Es una libreria de software libre que permite la lectura y escritura de diferentes formatos de mapas y datos geograficos. Muy utilizada en proyectos de SIG. #python #programacion https://t.co/FInWb1AGPm.
+#GEOS: Es una libreria de software libre que proporciona una serie de herramientas para realizar operaciones espaciales. Es compatible con varios lenguajes de programacion, incluyendo #Python, #Java y #C++. https://t.co/WTQ6dYoHXR.
+#Proj4: Es una libreria de software libre que permite la transformacion de coordenadas entre diferentes sistemas de referencia espacial. Es muy utilizada en proyectos de SIG y cartografia. https://t.co/jVMZIh0r3D.
+#Geopandas: Es una libreria de Python que proporciona una interfaz para trabajar con datos #vectoriales. Es construida sobre las librerias pandas, fiona, shapely, proj4 y geos. https://t.co/1C1HjVQR70.
+#Rasterio: Es una libreria de #Python que proporciona una interfaz para trabajar con datos #raster. Es compatible con las librerias GDAL y PROJ. #analisisRaster https://t.co/a3UBg05SXH.
+#Shapely: Es una libreria de Python que proporciona una interfaz para trabajar con objetos #vectoriales. Es muy util para realizar operaciones espaciales y analisis en proyectos de SIG https://t.co/e2ihyV6rxo.
+#Fiona: Es una libreria de #Python que proporciona una interfaz para trabajar con diferentes formatos de archivos #vectoriales. Es muy facil de usar y es compatible con la mayoria de las librerias de SIG. https://t.co/mRDbzT997M.
+¿Quieres trabajar con datos geograficos en tus proyectos de #programacion? Os presentolas principales librerias de #GIS disponibles en el mercado:.
+Tambien lo he calculado para ciudadades como Rota, Vitoria, Valencia y Madrid
+¿Quieres saber mas? ¿Alguna ciudad en concreto?
+
+ESCRIBEME 👀 ✍️🏽
+
+¡Gracias por compartir!
+
+#python #GIS.
+Calculo de diferentes indices #espectrales en #ParquesYJardines utilizando #Imagenes #Satelitales en este caso con #Sentinel2 .
+
+Como ultimante os he mostrado, ciudad de pruebas #Logrono ,  ultima semana de Agosto
+
+🐍🛰️🌍
+
+#Python #GIS #Rasterio #Geopandas #Fiona #Shapely https://t.co/JEiLq22Mqh.
+Alrededor de 400 lineas de codigo y unos meses de  evolucion y aprendizaje.
+Al principio puede que lo veas imposible, ¿Al acabar? Quieres otro reto.
+El proceso costoso que realizaba habitualmente, se resume a 40 seg, escalable a cualquier ciudad.
+¡Otra buena noticia en este comienzo del ano! @InfoZinnae 👀🌊
+
+#clusters #agua #empresas #pymes #Tecnologia #IoT #SmartCity https://t.co/hVAktOBvJL.
+¡Buenos dias comunidad! Lo primero de todo, feliz 2023.
+Cerramos un 2022 de cambios, lo definiria como una evolucion. Un salto que me ha ayudado a crecer como persona e impulsar mi perfil laboral.
+Este 2023 no me quiero quedar atras y teneros cerca.
+¡Vamos a por ello! 
+🌍🚜🛰️🐍.
+Espero que os haya gustado y os pareis a reflexionar como seran las ciudades del futuro para ti. ¿En que te basas para realizar esa distincion de lo que hoy en dia es una ciudad? 
+
+OS LEO 👀
+
+¡Gracias por compartir y mostrar vuestra opinion!
+
+Feliz miercoles. 
+
+#SmartCity #IoT.
+La idea global de planificacion de #CiudadDelFuturo es compleja y dificil de planificar, pero la reflexion de este hilo trata de ayudar a guiar en la direccion correcta para tratar de establecer como seran las ciudades del futuro.
+[7/7].
+Toda la logistica se gestiona bajo tierra y se traslada a la capa superficial para la entrega de ultima milla. En las areas de alta y media densidad la entrega se realiza a traves del nucleo de cada edificio en el sotano. [6/7] https://t.co/YqyzG6TbPc.
+A diferencia de la capa superficial, la capa subterranea de HMG Smart City aplica un sistema de cuadricula para optimizar la energia, la logistica y el transporte. Para garantizar la neutralidad de carbono, la principal fuente de energia son la vegetacion subterranea 
+[5/7] https://t.co/T9Q1f2OtZn.
+Los edificios se clasifican segun su uso y densidad, reduciendose la densidad a medida que estan mas cerca de la naturaleza. Estan construidos con materiales ecologicos como la madera a fin de disminuir la contaminacion y son reciclables una vez sean demolidos. 
+[4/7] https://t.co/zelTxGr2sa.
+¡¡ESO ES!! Volvemos a los #hexagonos. Justifican esta eleccion debido a la una facil modificacion con cuestiones topograficas adversas teniendo siempre en cuenta una #escalabilidad
+[3/7] https://t.co/mZ5F9vHD8h.
+Este modelo de referencia que os muestro en imagenes representa un diseno funcional y sostenible que crea una sinergia entre las personas y la naturaleza mediante una urbanizacion minima ... ¿Pero, no os resulta algo familiar el estilo geometrico que han elegido? [2/7].
+El modelo de #SmartCity pretende dar respuesta a los principales #desafios urbanos y conectar a las personas con la naturleza a traves de la minimalizacion urbanistica y dar prioridad al uso de energias renovables, movilidad autonoma, logistica inteligente.
+[1/7] https://t.co/bhFlHalJJN.
+Hablabamos hace unos dias sobre #H3 la tecnologia que hace triunfar a #Uber . Hoy os cuento el modelo de ciudad inteligente del futuro, de la mano de #HyundaiMotorGroup .
+Pero Mario, ¿Que es  HMG Smart City?
+
+Adentro HILO ⬇️ https://t.co/gjcVLjNMSB.
+Hace unos dias hable sobre #H3 🧮 la libreria de #Python 🐍que ha dado tanto exito a #Uber 🚗
+
+Os dejo enlace del 'mini-hilo', y tratare de incorporar mas contenido del estilo.
+
+https://t.co/HRVhTJspJ0
+
+¡Que tengais buena semana!.
+Os dejo algun enlace para ampliar informacion y realizar tus primeras pruebas:
+- https://t.co/UPk7mthUSK
+- https://t.co/BFq7zHxF1Q
+- https://t.co/wURcwGkOy1.
+He tratado de ordenar y comprimir tanta informacion sobre el tema, recuerda, si te ha gustado el 'hilo' y puedes aportar mas, no dudes en compartir tus ideas.
+Para mas 'mini-hilos' como este, compartiendo me ayudas a llegar a gente con los mismos interes  ^^
+¡GRACIAS! 
+
+#UBER #H3.
+Por ello, realizar un analisis de ubicacion exacta para #geolocalizar cada evento es muy #dificil y #costoso. El analisis de #areas, como #barrios dentro de una ciudad, es mucho mas practico.
+[7/8] https://t.co/SEgCw5ClgG.
+Una correcta gestion de la #informacion #geografica permiten conprender mejor y #optimizar el mercado tanto para los usuarios como para los 
+propios conductores. Asi, se puede dinamizar el precio del trayecto, saber en que puntos de la ciudad hay mayor #demanda...
+[6/8] https://t.co/uoSS6iQUZC.
+#H3 parte de 122 celdas base sobre la Tierra, con 10 celdas por cara. Admite hasta 16 #resoluciones,
+cada resolucion mas fina tiene celdas con un septimo del area de la #resolucion mas gruesa.
+
+[5/8] https://t.co/pWoFAinxSZ.
+¿Porque hexagonos? Los hexagonos tienen solo una distancia entre el centro de un hexagono al de sus vecinos.
+En comparacion a las dos distancias de los cuadrados o a las 3 de los triangulos.
+[4/8] https://t.co/Rao7jsWTDb.
+¿Que es y para que lo utilizan? Los sistemas de cuadricula sirven para analizar grandes conjuntos de #datos #espaciales, dividiendo grandes areas en celdas. 
+[3/8] https://t.co/6iB45h0jPd.
+Hoy os vengo a hablar de #H3, el indice espacial jerarquico hexagonal de #Uber.
+
+¿Lo conoces? Aqui te muestro algunas de sus particularidades ⬇️ 
+[2/8].
+¿Alguna vez has viajado en #Uber y te has preguntado la #tecnologia que funciona por detras de cada viaje?
+Aqui te lo tratare de explicar, 
+
+Dentro MINI- HILO. 
+🚗🗺️📊
+[1/8].
+Y algo muy basico y que veo muy poco...
+Modifica tu URL personalizada y mas accesible.
+ Editar URL y perfil publico -&gt;
+
+#LinkidIn #Visibilidad #Perfil https://t.co/dYlBobHT2y.
+¿Has usado alguna vez esta aplicacion para LinkedIn que te permite realizar una revision gratuita de tu perfil en tan solo 10 segundos? ⏱️
+
+🔗 Enlace: https://t.co/Frs9WNDSEl.
+¡Que bueno que se lleve a cabo en #LaRioja! #Datagri junto con la Conferencia Mundial del Enoturismo son dos grandes eventos que pueden liderar un cambio positivo. ¡Aqui nos vemos!
+
+@rutasvinoespana @LaRiojaEuropa @rutagarnacha
+
+#Enoturismo #Wine #Agriculture #technologies 
+🍇🍷 https://t.co/tGz3FNqhHY.
+👓 LECTURA OBLIGADA ‼️.
+Y yo, tambien aspiro a ello.
+Hoy es un relato de ciencia-ficcion, manana sera realidad.
+
+¿Estas preparado?
+
+#AgroTech #NomadaDigital #Digitalizacion 
+🚜🤖🌍 https://t.co/KpjSArJqI0.
+¿Lo que mas me gusta de @CodelyTV ? Lo sencillo que se hace aprender sin darte cuenta de que pase el tiempo.
+
+🐍 https://t.co/uhz7HX1JVy.
+@MaqETSIA @enrique @unisevilla @MaizSostenible @EITFood @catedracorteva @ETSIASevilla ¡Enhorabuena Enrique! Trabajazo que queda reflejazo. Una suerte la mia. ¡A seguir!.
+¡Buenos y lluviosos dias por La Rioja!
+Aprovechando esta semana de lluvias, os traigo #GoogleFloodHub ¿Lo conoces? 💡
+Se trata de una herramienta de #IA de #Google que advierte del riesgo de inundacion en areas monitorizadas 🌊.
+
+🔗 Enlace: https://t.co/FZs3zkI0q4 https://t.co/gU7gHEvAHj.
+Asistire a la jornada organizada por #FPCUP_AGRO.
+"Aplicaciones de #Copernicus para el Sector #Agro". 
+
+🔗Enlace del evento https://t.co/UQGqsOU2aQ https://t.co/QpgssTcgb5.
+✈️¿Que esta pasando en el espacio aereo de Espana?
+🚀Los restos de un cohete chino descontrolado, han obligado a tomar medidas de cierra en los aeropuertos de Barcelona, Reus e Ibiza.
+
+@ENAIRE #CocheteChino #20toneladas https://t.co/3cWe80Yw4K.
+Las ciudades no son ruidosas, los coches lo son.
+Un usuario de @reddit ha compartido este mapa donde se observa claramente que las zonas mas ruidosas coinciden con grandes avenidas.
+
+🔗https://t.co/NUlVVyi3fw https://t.co/5KCaHPf7OE.
+¿Viste este primer "mini-hilo" en referencia al #1Week1Map?
+¿Que os parecio? Os leo 👀 https://t.co/zYgaAnejmh.
+Por ultimo, agruparemos los valores que estan en el mismo rango de tiempo y obtendremos el mapa deseado
+Gracias por haber llegado hasta aqui, este es el primer hilo del proposito #1Week1Map
+RT para + difusion y para estar etent@s las proximas semanas
+ Fin del hilo 🙌🏽
+#GIS #Python https://t.co/3XiZXxHdZf.
+Dejemos la teoria y vayamos a la practica, lo visual, lo que gusta👀.
+Estudiaremos las zonas agrupadas en 5', 15', 25', 40' y +60'min por paleta de colores.
+ Hilo 👇🏽 https://t.co/ePRuyW6fTE.
+Se trata de un mapa #isocrono ¿Que es esto? Se definene asi los mapas que representan zonas a las cuales se puede llegar en un mismo tiempo. Utilizado en areas tales como #Hidrologia, #Transporte y #Geomarketing 🗺️📊  Hilo 👇🏽.
+En el siguiente mini-hilo os mostrare el como hacerlo. (Si creeis que os puede servir, contactadme 📩)
+El ejemplo esta basado en la ciudad de #Logrono, #LaRioja con la ayuda de #python y el uso de sus librerias: #geopandas, #shapely, #networkx, #osmnx y #matplotlib 🐍🗒️  Hilo 👇🏽.
+Como calcular el tiempo de viaje para cualquier lugar del mundo:
+¿Has pensado alguna vez hasta donde puedes llegar caminando en 10 minutos desde su posicion actual? ¿Y en coche?
+Como comente, comienzo el #1Week1Map con un mapa de Isocronas y tiempos de trayecto.
+¿Ideas?💡 Hilo 👇🏽.
+Expectativas muy altas con la nueva actualizacion de #QGIS a la version 3.28 #Firenze 🗺️✅
+
+🔗Dejo enlace oficial de @qgis https://t.co/9UdIJhpH02.
+#OpenStreetMap en Logrono.
+Plan de vuelo sobre la capital riojana.
+
+¡Gracias @abandondsausage !
+Estaremos al tanto 👀 https://t.co/NppopTeBu8.
+Voy a tratar de (como hobbie propio)  y creo que visualmente interesante para ustedes, subir un mapa distinto cada semana. 
+Compartire el codigo --&gt; Discutir el codigo y su visualizacion puede ayudarnos a aprender
+
+🗺️🐍📊
+
+#1Week1Map #Hobbie #LearningMaps #Python #PythonCode #GIS.
+Quisiera saber vuestra opinion acerca de @geopois #Premium . Me ha parecido muy interesante y posiblemente le de bastante uso. ¿Como lo ven?
+#Geopois #Recomendacion.
+Asistire a la  #CEsri22 .
+Evento puntero donde se trataran retos y novedades que embarca la tecnologia #geoespacial 
+🏙️🔗Como disenar y gestionar el concepto de #Ciudad como #SmartCity.
+
+#GIS #Puertos #BIM #GemelosDigitales https://t.co/01mYzNj7vD.
+@Marcolain Puesto en practica. Las posibilidades que nos brinda una ciudad conectada son infinitas y mas cuando de manera natural no se repiten 2 situaciones iguales. Es el futuro.
+¿Realizas la ruta mas optima?
+Con estas pocas lineas de codigo te enseno a como visualizar los mapas del anterior tweet.
+
+#Python #programming #coding #developer #pgrouting #osm #QGIS 
+
+🐍🗺️ https://t.co/RsobMnWrlF https://t.co/cNKELjQEhy.
+Analisis de redes de transporte:
+OSMnx 🫱🏾‍🫲🏽NetworkX 🫱🏽‍🫲🏾Python
+Ruta mas corta entre dos puntos, estudio de centralidad, identificando aquellas vias mas criticas y teniendo en cuenta velocidades de circulacion.
+
+Ejemplo: Ciudad de Logrono, La Rioja 📍
+
+#Python #OpenStreetMap #Routes https://t.co/EkFn8t7Wtc.
+Gracias a vosotros por fomentar este tipo de actividades y seguirme tan de cerca. Ojala se sumen post y contribuir en la comunidad AgroTech.
+¡Nos leemos! https://t.co/OeAajK7M8f.
+Hace 3 anos me decidi a crear esta cuenta donde compartir mis inquietudes profesionales y leer en que punto se encuentra el sector.
+Sin duda un decision acertada. El feed cada dia es mejor y colaborar no tiene precio.
+#MiAniversarioDeTwitter https://t.co/bKoAzTMIz2.
+He finalizado el Curso de Backend con Node.js: API REST con Express.js
+Ladrillo a ladrillo. 
+
+#NodeJS #JavaScript #Backend #GIS
+
+💻🗺️ https://t.co/EZeu8hQxUX.
+¿Quieres sorprender realizando mapas?
+La app de https://t.co/Lu3ZVsBJhN te ayudara
+
+Es una aplicacion web, muy facil de usar, que te permitira crear mapas a partir de datos de #OpenStreetMap  esteticamente muy bonitos.
+😍😍😍😍
+
+🌐💻✅.
+Mucha intriga por el futuro con #Kazel , con ganas de poder ver este proyecto @facmartoni.
+El analisis de severidad de incendios a traves del indice NBR (Normalized Burn Ratio) a traves de imagenes satelitales de #Sentinel2 nos muestran la catastrofe de la Sierra Culebra, #Zamora donde ardieron +30.000Ha.
+
+#satelitalimage #remotesensing #fire https://t.co/AqK8ARmyBU.
+La necesidad de volvio hobbie.
+
+- Curso Python Intermedio 🐍
+- Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda 📊
+- Curso de Introduccion a la Terminal y Linea de Comandos 💻
+#pythondeveloper #data #py #programming #DataScience.
+🔥Por desgracia,  los incendios son temas de actualidad
+¿Conocen alguna herramienta destinada a la prediccion de incendios que utilice #imagenes #satelitales o la posible propagacion de estos en el caso que se den? 🛰️🗺️
+Me gustaria conocer como esta este tema...
+Os leo 👀⬇️
+#GIS.
+👀Usando #Mapbox y #Turf se pueden hacer aplicaciones y mapas dinamicos bastante curiosos.
+
+Comparto el link de esta app que muestra los 8 aeropuertos mas cercanos a un punto elegido.
+🔗https://t.co/vLVjniT5WK
+
+Fuente: @willy_maps ✅
+#GIS #SIG #Mapas #Cartografia #3D #opensource https://t.co/LBy00iTHGB.
+🚚¿Sabes como funcionan las #apis de calculos de rutas en diferentes medios de transporte?
+La utilidad de poder incluir restricciones al vehiculo dan cierta ventaja respecto a otras apis ya conocidas.
+💭 ¿Que opinas?
+
+#optimizacion #rutas #gis #googlemaps https://t.co/VfOap1n0hi.
+Feliz dia paisanos de La Rioja.
+🍇🏔️🌱🌾
+Salud. https://t.co/zFopLcrjH5.
+Hoy damos comienzo al segundo de los cursos por parte de @bgeo_opengis, "GIS WATER - EPANET" @Giswater 
+💧💻📊
+#OpenSource #GIS #WaterManagement #GISWATER https://t.co/QJWoJz8fnH.
+Interesante los temas tratados en las #GeoJornadas2022 organizadas por @MADRID .
+@geoportalmadrid
+Una cita con la innovacion donde se han tratado asuntos de #cartografia, #datos, #GIS...
+Impresiona la cantidad de puertas abiertas y posibilidades que nos arroja el dato.
+🗺️🖥️📡 https://t.co/m0iYlRtAhz.
+🟢Valorar tener la oportunidad de poder realizar trabajo desde cualquier otro lado. Es algo muy #positivo
+🟢Tener un espacio de trabajo adecuado, imprencindible
+🔴Si que es verdad que el trabajo puede que en algunas ocasiones no sea tan fluido como de normal.
+Y tu, ¿Que opinas?👀.
+Finalizamos la semana con vuelta a casa.
+He estado toda la semana realizando #teletrabajo desde #Sevilla, oportunidad que hasta el momento no se habia dado. Ha sido un periodo corto como para sacar conclusiones pero... 
+⬇️⬇️.
+Rutas de envio globales. ¿Arte?
+Fuente: @flexport
+Feliz dia de la tierra 
+#EarthDay #DataAnalytics https://t.co/0aKpIAJ4wM.
+Desde Septiembre que solicite la conversion de certificados de piloto UAS/dron. 
+Por fin he recibido dicho acreditativo.
+Seguimos 🚀🛰️
+ 
+#AESA #ENAIRE #UAS #STS #A1 #A2 #A3 https://t.co/2JbzPakXGW.
+👋🏼 Espero poder traer pronto contenido de lo que actualmente estamos elaborando de la mano de Elliot Cloud
+Ya sean temas relacionados con Agricultura, Smart City o Energia/Agua.
+Todo ello relacionado con datos GIS.
+Tratando proyectos muy novedosos y disruptivos.
+¡Buena SS!
+🔋🗺️🛰️.
+@martinezguanter @Elliot_Cloud ¡Gracias @martinezguanter por tus palabras! Es una suerte estar rodeado de gente comprometida que suma.
+Eternamente agradecido con el equipo de @AgroPlanning / @AGROSAPTRIMBLE / @Dronsap . Una suerte poder trabajar de lo que mas te gusta y rodeado de profesionales. Espero seguir de cerca todos vuestros exitos.

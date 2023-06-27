@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1626684852207603808",
+            "text": "@MiguelFernandi No ho...",
+            "created_at": "2023-02-17T20:47:45.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1620818446765412352",
+            "text": "Recien aterrizado @vicama8 https://t.co/wkW9lTY9Iy",
+            "created_at": "2023-02-01T16:16:45.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1620558244484902914",
+            "text": "Camarasa \u23f0",
+            "created_at": "2023-01-31T23:02:48.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1618698508055498753",
+            "text": "Se abre el telon y aparece... Manu Vallejo \ud83e\ude84 https://t.co/CpgP05Apoy",
+            "created_at": "2023-01-26T19:52:52.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1617097605351104514",
+            "text": "@JaimeFPaino Tu vas... El resto vuelven. Jaja",
+            "created_at": "2023-01-22T09:51:27.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1614606835377442816",
+            "text": "@joselurr Te lo compro pero que se la den tambien a los \u2018grandes\u2019; \u00bfNo?. Hacerlo con los \u2018pequenos\u2019 es gratis.",
+            "created_at": "2023-01-15T12:54:02.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1600188033847808000",
+            "text": "En los 3 ultimos mundiales (Brasil, Rusia, Qatar) Espana solo ha ganado 3 partidos. No parece que el problema sea de ahora o solo de Luis Enrique.",
+            "created_at": "2022-12-06T17:58:51.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1599396771222126593",
+            "text": "Pachuca se fija en el argentino Leo Sequeira para reforzar el ataque del Real Oviedo.",
+            "created_at": "2022-12-04T13:34:40.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1598643427587096576",
+            "text": "Creo que hoy es un buen dia para esto \ud83e\udd17. Desde las 20:00h y con acceso \ud83c\udf9f\ufe0f gratuito. https://t.co/zLjX9uQYKo",
+            "created_at": "2022-12-02T11:41:09.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1598424359491739678",
+            "text": "@tjuanmarti Ahi ya hay contacto del delantero con el balon. Quiza un frame antes el esferico este mas nitidamente fuera.",
+            "created_at": "2022-12-01T21:10:39.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1598423582878605327",
+            "text": "En Argentina \ud83c\udde6\ud83c\uddf7 al menos pudieron juzgarlo en directo. https://t.co/S1oSApZbr1",
+            "created_at": "2022-12-01T21:07:34.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1598409513618513932",
+            "text": "\u00bfPerdona? https://t.co/F1cOh9xGqO",
+            "created_at": "2022-12-01T20:11:39.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1598074128090959872",
+            "text": "26% \n+3\nNada mas que decir.",
+            "created_at": "2022-11-30T21:58:57.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1586651600046678019",
+            "text": "Vista mil veces la \u2018repe\u2019 me reafirmo... Ni le roza el brazo. El arbitro pita corner y alguien le dice por linea interna que es penalti. https://t.co/GN4pZFOowG",
+            "created_at": "2022-10-30T09:29:54.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1586427215775879168",
+            "text": "@RobertoBayon_ Porque NO la hay. Alucinante.",
+            "created_at": "2022-10-29T18:38:17.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1586426372142030851",
+            "text": "No es que le rebote en la mano... Simplemente ni la toca. \ud83d\ude4c\ud83c\udffb \ud83d\udd2b https://t.co/OTRKSPYqUR",
+            "created_at": "2022-10-29T18:34:56.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1563856732719353863",
+            "text": "@joselurr El @VeSuOviedo Gijon tambien mola mucho...",
+            "created_at": "2022-08-28T11:51:14.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1554892523574890496",
+            "text": "@quiquepeinado Menos mal, crei que era yo solo \ud83e\udd23",
+            "created_at": "2022-08-03T18:10:40.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1554016502906556416",
+            "text": "@AstonMartinF1 anuncia un contrato de larga duracion con @alo_oficial a partir de 2023 \ud83c\udfce \ud83d\udca8",
+            "created_at": "2022-08-01T08:09:41.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1548275423502483456",
+            "text": "\u00a1Que bonito! https://t.co/GvsTF0U6xN",
+            "created_at": "2022-07-16T11:56:41.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1547109074474618883",
+            "text": "Jony Montiel regresaba anoche a Madrid despues de que el Levante se interesase vivamente por sus servicios y el Rayo Vallecano declinase enviar el contrato de cesion al Real Oviedo.",
+            "created_at": "2022-07-13T06:42:01.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1546277584916324353",
+            "text": "@Mlserrano @estoesLaMODA Una carpa muy guapa... ;)",
+            "created_at": "2022-07-10T23:37:59.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1540018885780508673",
+            "text": "@LaLiga siempre remando a favor. \u00bfNun quies taza? Dos \u2615\ufe0f \u2615\ufe0f https://t.co/vhhiHojYa1",
+            "created_at": "2022-06-23T17:08:09.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1537030851065700352",
+            "text": "\u00bfNos subimos al @VeSuOviedo ?\n\n#NoHayVeranoSinVESU https://t.co/beTVzXi18d",
+            "created_at": "2022-06-15T11:14:46.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1534494732793044993",
+            "text": "Con lagrimas en los ojos... Se despide un paisanu. https://t.co/xrbZdMMEuf",
+            "created_at": "2022-06-08T11:17:08.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1532279879168835584",
+            "text": "@joanvich @VeSuOviedo @GroundControlSP Touche \ud83e\udd3a \ud83d\ude1c",
+            "created_at": "2022-06-02T08:36:06.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1532061637661835269",
+            "text": "A ver si @joanvich nos guia para hacer un buen @VeSuOviedo ;) https://t.co/q28rJHslg7",
+            "created_at": "2022-06-01T18:08:53.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1531977457280110593",
+            "text": "@AForcelledo Bonito yes tu \ud83e\udd23\ud83e\udd23",
+            "created_at": "2022-06-01T12:34:23.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1531584548168949762",
+            "text": "Ruben Reyes confirma el fichaje del portero frances Quentin Braat (@QuentinBraat ) que jugara en el Real Oviedo la proxima temporada. https://t.co/nDJqQMyR4B",
+            "created_at": "2022-05-31T10:33:06.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1530947975547174914",
+            "text": "Llega el @RealOviedo al Tartiere https://t.co/c7Wn3CfSGM",
+            "created_at": "2022-05-29T16:23:35.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1530907412072386562",
+            "text": "Ya puestos que suspendan las carreras con lluvia \ud83c\udf27... Total",
+            "created_at": "2022-05-29T13:42:24.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1530899402780463104",
+            "text": "El ridiculo que esta haciendo la @F1 con la lluvia.",
+            "created_at": "2022-05-29T13:10:35.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1529540623656681472",
+            "text": "Asi se sigue escribiendo la deslocalizacion de lo que fue la caja de todos los asturianos... https://t.co/RIVQUG7hQI",
+            "created_at": "2022-05-25T19:11:16.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1529090824755191808",
+            "text": "Ahora si. https://t.co/vnYAp9BuEZ",
+            "created_at": "2022-05-24T13:23:56.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1529010805852852224",
+            "text": "@joanvich @joselurr @librosdelko @GrantLibreria @RaquelPelaezG Pues pasate tambien por Oviedo. Jaja",
+            "created_at": "2022-05-24T08:05:58.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1528310488802775040",
+            "text": "@CaliGlezL Tambien te puedes acordar de los empates ante el Lugo o el Huesca en el Tartiere o el penalti fallado ante la Real B... Nadie se acuerda de como ganaste en Alcorcon. Desde mi punto de vista el error esta en el partido de ayer. Ir mas alla es hacerse trampas al solitario.",
+            "created_at": "2022-05-22T09:43:09.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1528304923716239360",
+            "text": "@CaliGlezL Daba igual siempre que hubieses puntuado en Las Palmas. Era la condicion sine qua non. Evidentemente siempre es mejor sumar pero esa valoracion se hacia desde el punto de vista del partido en el Insular y la dependencia solo de uno mismo.",
+            "created_at": "2022-05-22T09:21:03.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1524395836326748160",
+            "text": "Un abrazu fuerte a la familia y a la redaccion de El Comercio. Dolorosa notica :( DEP https://t.co/Pjy89MOYwD",
+            "created_at": "2022-05-11T14:27:43.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1518227897915486209",
+            "text": "@Mlserrano No olvides el papel de Montiel. Fundamental.",
+            "created_at": "2022-04-24T13:58:32.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1515441979710218243",
+            "text": "@jmlopezcampa Gracias por tu reflexion Jose Manuel. Quiza no te falte razon. Se agradece la educacion y mas por este canal.",
+            "created_at": "2022-04-16T21:28:18.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1515433298784395273",
+            "text": "@franllera Eso tambien se lo puedes comentar a la directiva del Sporting. Fue la que decidio que no hubiese nadie a quien dirigirse.",
+            "created_at": "2022-04-16T20:53:48.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1515432426297827346",
+            "text": "@franllera Ningun gesto justifica una agresion y tu como deportista deberias saberlo mejor que yo.",
+            "created_at": "2022-04-16T20:50:20.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1515431423557185541",
+            "text": "@franllera \u00bfLo que haya hecho justifica una agresion? En fin...",
+            "created_at": "2022-04-16T20:46:21.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1515429356163710982",
+            "text": "@AForcelledo \u00a1Que pena! https://t.co/uXWfQAEwR0",
+            "created_at": "2022-04-16T20:38:08.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1515428441511899140",
+            "text": "@jgtorre No me extrana que lo estes. Viendo a futbolistas a patadas y punetazos",
+            "created_at": "2022-04-16T20:34:30.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1515428071066816515",
+            "text": "@AlfonsoSuarez_ Si. Sobre todo Femenias.",
+            "created_at": "2022-04-16T20:33:02.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1515361186014978052",
+            "text": "En ruta... https://t.co/jvVmzSqGKv",
+            "created_at": "2022-04-16T16:07:15.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1514351132302528512",
+            "text": "Consejos vendo y para mi no tengo.",
+            "created_at": "2022-04-13T21:13:39.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1513852701108576263",
+            "text": "@isaacfcorrales @AForcelledo @iLossini @NachoAzparren Resumen en 3 palabras. Controlar el relato.",
+            "created_at": "2022-04-12T12:13:04.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1509181203282370563",
+            "text": "Hora de presentar las candidaturas \ud83d\uddf3 https://t.co/IOkIeZ8j8r",
+            "created_at": "2022-03-30T14:50:12.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1501620090160222216",
+            "text": "Visionarios. @enjutomojamuto https://t.co/KLMKLi6aX2",
+            "created_at": "2022-03-09T18:05:02.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1501250541757816840",
+            "text": "\ud83d\ude09 Debo estar enfermo. En menos de una semana he coincidido dos veces con las opiniones de @elisabeni en @Juliaenlaonda",
+            "created_at": "2022-03-08T17:36:35.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1500784649303375874",
+            "text": "@S86Murillo @ElAstu85 Las preguntas se hacen tal y como las pasamos y se contestan, aunque al no ser ruedas de prensa presenciales no hay opcion de repreguntar.",
+            "created_at": "2022-03-07T10:45:18.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1500593752355844099",
+            "text": "@S86Murillo Claro. Son espacios de opinion y es lo que hago, opinar. Las ruedas de prensa no son el foro para ello.",
+            "created_at": "2022-03-06T22:06:44.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1500593156026515458",
+            "text": "@ElAstu85 Te muestro mis preguntas en la previa de este partido. Un saludo https://t.co/f8Xpl66pxV",
+            "created_at": "2022-03-06T22:04:22.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1500591949090283521",
+            "text": "@S86Murillo Te invito a que escuches mis preguntas en las ruedas de prensa en las que puedo estar presente. Ahora mismos, solo las del Tartiere.",
+            "created_at": "2022-03-06T21:59:34.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1500588058412040197",
+            "text": "Min. 85. Otra oportunidad para Matheus",
+            "created_at": "2022-03-06T21:44:07.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1499126306054811650",
+            "text": "@RodrigoFaez En el plano master es horrible https://t.co/QrqnyCh2GR",
+            "created_at": "2022-03-02T20:55:38.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1497562157051002886",
+            "text": "Solos. Les hemos dejado SOLOS. \u00a1Que pena! https://t.co/JaCJIDXXJU",
+            "created_at": "2022-02-26T13:20:16.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1492900249211478018",
+            "text": "El abanico...",
+            "created_at": "2022-02-13T16:35:30.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1488136177752363009",
+            "text": "Contamos en @RTPAOficial desde las 14:00h que el Real Oviedo avanza en el fichaje de Rodrigo Tarin y trabaja en la incorporacion de Borja Garces. La primera operacion esta encarrilada y la segunda mas complicada, aunque se apurara hasta el final del mercado.",
+            "created_at": "2022-01-31T13:04:47.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1487791160781418498",
+            "text": "\u00a1Vaya puto animal Rafa Nadal! \ud83c\udfbe (Con perdon) #AusOpen",
+            "created_at": "2022-01-30T14:13:49.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1487040402997792769",
+            "text": "A partir de las 14:00h en @RTPAOficial escuchamos a @Esteban1portero : \u201cYo me identifico con @joanfeme1 y me gustaria que fuera el portero del ascenso del Real Oviedo a primera division. Esta creciendo y tiene margen de mejora\u201d.",
+            "created_at": "2022-01-28T12:30:34.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1484599034534891524",
+            "text": "Pues eso. Con dos pivotes. 4-4-2 https://t.co/jpzILEZfMe",
+            "created_at": "2022-01-21T18:49:27.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1482698270635876357",
+            "text": "@carlosmiquelf1 El Toyota \ud83e\udd70",
+            "created_at": "2022-01-16T12:56:29.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1482469156402434063",
+            "text": "@2010MisterChip @Radioestadio El efecto que te engana es porque si te fijas le da dos veces. Primero en la cabeza por detras y con la fuerza de la caida y el impacto acaba dandole tambien en la cara.",
+            "created_at": "2022-01-15T21:46:04.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1482091951256133633",
+            "text": "@JuanFueyo10 @IntegraEnergia Madre mia \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f \u00a1Estan locos!",
+            "created_at": "2022-01-14T20:47:11.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1482079508744359941",
+            "text": "@pecenteno Regalo de @IntegraEnergia ho https://t.co/caTKbMA8bO",
+            "created_at": "2022-01-14T19:57:45.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1482073805111631877",
+            "text": "@pecenteno Si quieres te mando mi factura",
+            "created_at": "2022-01-14T19:35:05.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1482071376710324226",
+            "text": "Hola @IntegraEnergia igual se os ha ido un poco la pinza y tal. https://t.co/tksAj26Noa",
+            "created_at": "2022-01-14T19:25:26.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1480589645952036868",
+            "text": "En un buen momento para recordarlo...@MiguelLinaresCF https://t.co/1yca6EapDw",
+            "created_at": "2022-01-10T17:17:34.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1476988036131045383",
+            "text": "Las declaraciones de Bolo no deberian caer en saco roto. El tecnico de la Ponferradina no solo cuestiona a los servicios medicos del Real Oviedo... Tambien pone en jaque los protocolos de una @LaLiga que deberia tomar cartas en el asunto.",
+            "created_at": "2021-12-31T18:46:03.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1476939975216316420",
+            "text": "@davidaguado7_ \u201cMe gustaria que me diesen una explicacion de como unas personas que dan positivo el domingo pueden jugar el viernes\".",
+            "created_at": "2021-12-31T15:35:04.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1476885956284268565",
+            "text": "@MiguelFernandi Un buen argumentu si se hubiese utilizao siempre ;)",
+            "created_at": "2021-12-31T12:00:25.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1474104025914257423",
+            "text": "Asi que para poder entrar en los bares si. Todo en orden.",
+            "created_at": "2021-12-23T19:46:01.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1472130853211885568",
+            "text": "@naciogf Jaja hay que barrer pa casa ho \ud83d\ude1c",
+            "created_at": "2021-12-18T09:05:20.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1469211558416900100",
+            "text": "@Olguitaa90 @VeSuOviedo @link_ovd @fivoviedo Gran parte de la \u2018culpa\u2019 hay que apuntarsela a @culturaoviedo ;)",
+            "created_at": "2021-12-10T07:45:06.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1467897719607996418",
+            "text": "@carlosmiquelf1 @marca Lo siento pero no. Respeto total tu opinion pero el fin no justifica los medios. Y lo de Max no es de ayer ni de hace una semana. Me quedo con el \u201cno era necesario\u201d de su ingeniero. Y con el lamentable \u2018papelon\u2019 de la FIA.",
+            "created_at": "2021-12-06T16:44:23.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1466466917678473219",
+            "text": "Por si no teneis plan para este \u2018finde\u2019... https://t.co/v91NilIjB5",
+            "created_at": "2021-12-02T17:58:53.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1464217096120852483",
+            "text": "Pues se viene evento en Oviedo el proximo finde... \n\nhttps://t.co/6dRiNodOZl https://t.co/Aput9EYfmU",
+            "created_at": "2021-11-26T12:58:54.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1462445288111673359",
+            "text": "7 anos y 105 carreras despues... https://t.co/0sNibOvM6c",
+            "created_at": "2021-11-21T15:38:22.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1460191654086955009",
+            "text": "@joselurr @sidlowe Si ho... Maravilloso. Echale un ojo. https://t.co/Gk9Wiq9FLU",
+            "created_at": "2021-11-15T10:23:14.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1456029773013131269",
+            "text": "@perrifilms De la deportividad de Antony no hablamos, \u00bfno?",
+            "created_at": "2021-11-03T22:45:24.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1455196663707013126",
+            "text": "Ya en Pravia para la Gala del Deporte Asturiano https://t.co/XdVY2OmDWU",
+            "created_at": "2021-11-01T15:34:55.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1449800007461318658",
+            "text": "Se va un lateral zurdo para que entre un central zurdo que mueve al central diestro a la banda derecha y al lateral de la derecha a la izquierda... Es el alcalde el que quiere que sean los vecinos el alcalde... Mi no entender.",
+            "created_at": "2021-10-17T18:10:32.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1447320699585155074",
+            "text": "@AForcelledo Imaginate que la dejas pasar y no esta o no pintan el fuera de juego. El problema es que esa norma es un sinsentido que beneficia al infractor. Pero ahi esta. Para mi el debate no es el como se haya aplicado, sino que hace ahi.",
+            "created_at": "2021-10-10T21:58:39.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1447319457664225282",
+            "text": "@AForcelledo No. Yo no entiendo nada. Solo expuse la norma a la que se han agarrado los arbitros para dar validez al gol. No he entrado a calificar -ahora si- lo absurdo de la misma.",
+            "created_at": "2021-10-10T21:53:43.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1447305698770042883",
+            "text": "@Dalaienator @luisvrueda Creo que no me has leido bien. Yo no he defendido nada. He explicado a que se agarran los arbitros para dar validez al gol.",
+            "created_at": "2021-10-10T20:59:02.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1447305214634217479",
+            "text": "@luisvrueda Yo no estoy justificando la accion, simplemente intento arrojar luz para que se sepa en base a que se ha validado el gol. \n\nNo he entrado a valorar la decision.",
+            "created_at": "2021-10-10T20:57:07.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1447304383016931331",
+            "text": "@isaacfcorrales @ivan_ivanovic9 Lee la norma https://t.co/U8U9CZVRJS",
+            "created_at": "2021-10-10T20:53:49.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1447304200355028993",
+            "text": "@luisvrueda Home Luis. \u00bfCuando has visto un pase queriendo a un contrario?",
+            "created_at": "2021-10-10T20:53:05.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1447303823807090699",
+            "text": "@isaacfcorrales @ivan_ivanovic9 Si la toca Eric se considera que el balon llega de un contrario. Es una norma nueva que empezaremos a ver cada vez mas en el futuro. El toque de Eric -en el caso de que haya sucedido- habilita a Mbappe aun cuando alla iniciado la accion en posicion antirreglamentaria.",
+            "created_at": "2021-10-10T20:51:35.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1447302539314143234",
+            "text": "@isaacfcorrales @ivan_ivanovic9 Si. Si la toca habilita. Es una norma que entro en vigor este ano.",
+            "created_at": "2021-10-10T20:46:29.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1447302044327596040",
+            "text": "La normativa de este ano dice... https://t.co/ynw2djEvwp https://t.co/hdYi3HoQ3p",
+            "created_at": "2021-10-10T20:44:31.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1447299935494344704",
+            "text": "Igual en lo que hay que fijarse es en esto... \ud83d\udc47\ud83c\udffb https://t.co/3mKR25YOUQ",
+            "created_at": "2021-10-10T20:36:08.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1442217422338109445",
+            "text": "Lo que no se pudo ver en la tele...Otra leccion de @alo_oficial a \ud83d\ude4c\ud83c\udffb https://t.co/LGGQ4AuF3f",
+            "created_at": "2021-09-26T20:00:03.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1440616752778416137",
+            "text": "Seguimos sumando propuestas y escenarios... https://t.co/VUWBziVxsQ",
+            "created_at": "2021-09-22T09:59:33.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1437754494310395906",
+            "text": "@balonperi \u00bfComo Pablo Castro? \ud83d\ude1c https://t.co/WYmllpPIew",
+            "created_at": "2021-09-14T12:25:58.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1436333494616068106",
+            "text": "@MiguelFernandi \u201cSe permite el consumo en barra siempre que se mantenga la distancia de seguridad (1,5 metros) entre clientes de diferentes grupos de convivencia en hosteleria, restauracion y terrazas\u201d.",
+            "created_at": "2021-09-10T14:19:25.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        },
+        {
+            "tweet_id": "1434970987745980419",
+            "text": "Ahora tiraran la linea que les salga de los...",
+            "created_at": "2021-09-06T20:05:18.000Z",
+            "user_id": "128333158",
+            "username": "InigoDominguez"
+        }
+    ]
+}

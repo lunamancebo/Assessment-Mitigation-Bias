@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1628129775146483713",
+            "text": "@Bonmatweet Recordas cando no 15M dician que dimitir non era un nome ruso?",
+            "created_at": "2023-02-21T20:29:22.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1628083789439152161",
+            "text": "@ArtaiFreiman Totalmente de acuerdo, y para ello es necesario gestionar suelo para poder construirla.",
+            "created_at": "2023-02-21T17:26:38.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1628082934119792640",
+            "text": "@_brunopardo @CiudadesCaminan @inesreygarcia El sentido unico obligaba a quitar un sentido de lineas de bus de la calle y defendemos (tambien vecinos y comerciantes en las reuniones) que el bus tiene que ir por San Andres. Es la espina dorsal del centro.",
+            "created_at": "2023-02-21T17:23:14.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1628082504124051458",
+            "text": "@mementotuitere @CiudadesCaminan @inesreygarcia Ya se tramito como un concurso licitacion de proyecto, es cierto que no fue un concurso de ideas con jurado como va a ser Santa Lucia. Hubo 3 propuestas si no me equivoco y la que se esta licitando fue la ganadora.",
+            "created_at": "2023-02-21T17:21:31.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1628013952188747778",
+            "text": "16.000 personas dejaron la ciudad de los 15 minutos para unirse a la movilidad insostenible de vehiculos de estos ayuntamientos a #Coruna. A lo mejor si que hay demanda y crecimiento posible en la ciudad y solo hay que atenderlo... https://t.co/gRACpz0EPX",
+            "created_at": "2023-02-21T12:49:07.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627948130133069824",
+            "text": "Xa esta en licitacion o novo San Andres. Un San Andres con mais espazo peonil, con paradas de bus mais accesibles, con vexetacion e pavimentos permeables, e sobre todo con arboredo. As moreras voltaran a San Andres despois de decadas! @CiudadesCaminan @inesreygarcia #CorunaCamina https://t.co/ZietRq4DJg",
+            "created_at": "2023-02-21T08:27:34.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627946636851793920",
+            "text": "Hoy @vozcoruna publica un bonito reportaje sobre una de nuestras joyas modernistas, el edificio situado en San Nicolas obra del arquitecto Ricardo Boan #arquitectura #modernismo https://t.co/8ohTdFlmGV",
+            "created_at": "2023-02-21T08:21:38.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627774761383219219",
+            "text": "@OteroTuitea Que tienes que decir de la peatonalizacion de Alcalde Marchesi? Deportivista!",
+            "created_at": "2023-02-20T20:58:40.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627771510306885677",
+            "text": "@el_goio Las bicis estaban en la calzada. Se subieron a la acera y se giraron para poder elevar la calzada con la obra. Ahora ya terminada la obra se vuelven a colocar. Pero imagino que la realidad rompe con el relato maquiavelico.",
+            "created_at": "2023-02-20T20:45:45.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627752034223984655",
+            "text": "Hay monumentos nacionales y luego esta el Avila en Granada... https://t.co/HobgLTkE16",
+            "created_at": "2023-02-20T19:28:21.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627720879109963784",
+            "text": "@pablotaboada O esta vista de Colonia ... pero que bien bajar del tren y estar en la catedral. https://t.co/i0v9DQNgQl",
+            "created_at": "2023-02-20T17:24:33.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627410897688829954",
+            "text": "@Anakrix Por aqui tambien combatimos la barbarie! https://t.co/HFpr2J4qMS",
+            "created_at": "2023-02-19T20:52:48.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627366334903332870",
+            "text": "@jandry_says @inesreygarcia Mies van der Rohe, el arquitecto.",
+            "created_at": "2023-02-19T17:55:43.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627365315863617539",
+            "text": "Poco se esta hablando de la camiseta de la jefa @inesreygarcia y el plan de los arquitectos para dominar el mundo... #arquitectura https://t.co/2sadGKeWB0 https://t.co/kdvqlIyROy",
+            "created_at": "2023-02-19T17:51:40.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627342231836270592",
+            "text": "Los espanoles estamos encantados, tenemos 80.000\u20ac mas para sostener servicios publicos gracias que tu estuviste haciendo el indio en un reality, nada por lo que levantarse. https://t.co/Mq0LbUlxpi",
+            "created_at": "2023-02-19T16:19:57.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627063202554191872",
+            "text": "Ya esta publicado el concurso de ideas para la rehabilitacion del mercado de Santa Lucia de Manuel Gallego Jorreto para uso de centro civico y de salud #arquitectura #Coruna https://t.co/dq6jiiypKr https://t.co/SvemgyWt0G",
+            "created_at": "2023-02-18T21:51:11.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627033536891916291",
+            "text": "Todo lo que rodea este acto es tan penoso que no se por donde empezar... https://t.co/ZB3jk6k95b",
+            "created_at": "2023-02-18T19:53:18.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1627032554862784512",
+            "text": "@superkarmen Estuvieron esta semana de @CorunaSostible plantando los nuevos arboles en la obra que acabamos de terminar y ya me confirmaron que se va a mejorar tambien ese espacio.",
+            "created_at": "2023-02-18T19:49:24.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626970795703508996",
+            "text": "@superkarmen En Coruna tambien! \ud83d\ude09 https://t.co/0muLkVGMm7",
+            "created_at": "2023-02-18T15:44:00.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626846522527678465",
+            "text": "Una de las grandes ventajas del tren en otros paises europeos es que las estaciones estan en el centro de las ciudades, la gran mayoria sin necesidad de soterrar nada. Aqui vamos al reves y despues nos sorprendera que se use menos el tren... https://t.co/tx0h19l0rG",
+            "created_at": "2023-02-18T07:30:10.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626568888992296961",
+            "text": "@salcedista @Mjailov @inesreygarcia En ambas intervencions os percorridos peonis melloraron significativamente. Tanto na calidade dos espazos como na seguridade dos cruces.",
+            "created_at": "2023-02-17T13:06:57.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626554157610983425",
+            "text": "@Bonmatweet Don Eusebio... y alguna calle mas del Ensanche \ud83e\udd23",
+            "created_at": "2023-02-17T12:08:25.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626503682379374595",
+            "text": "@souljazzbossa No es reaccionismo defender que la Torre Hercon, por seguir tu ejemplo, tiene que conservarse como es y como se proyecto aunque pueda mejorar su eficiencia.",
+            "created_at": "2023-02-17T08:47:51.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626485945645031424",
+            "text": "Los edificios singulares y los conjuntos urbanos de la ciudad deben poder mejorar su eficiencia energetica pero al mismo tiempo tiempo tenemos que garantizar que se hace con criterios de calidad arquitectonica, paisaje urbano y estetica urbana #arquitectura https://t.co/82Dlx6H0IX",
+            "created_at": "2023-02-17T07:37:22.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626485044926611457",
+            "text": "Proteger el patrimonio arquitectonico de #Coruna no se limita a proteger los bienes catalogados, tambien es proteger su paisaje urbano: \u201cEl Concello fijara criterios en obras de edificios de viviendas singulares para evitar danos esteticos\u201d #arquitectura https://t.co/bcfYGKk9AC",
+            "created_at": "2023-02-17T07:33:47.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626478197809242112",
+            "text": "@borjasoto No os preocupeis porque si como parece con esos solo no se garantiza la visibilidad se pondran todos otra vez. Pusimos esos ayer por ver como funcionaba por que la realidad del cruce ya no es igual que antes. Pero esta claro que si sigue sin verse se pondran todos.",
+            "created_at": "2023-02-17T07:06:35.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626355708521287683",
+            "text": "y cosiendo barrios... #CorunaCamina @CiudadesCaminan @RedCiudadesBici https://t.co/aK7cy7So5S",
+            "created_at": "2023-02-16T22:59:51.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626355705857953794",
+            "text": "Recuperando espacio... @CiudadesCaminan @RedCiudadesBici https://t.co/2eU0Ndqm3b",
+            "created_at": "2023-02-16T22:59:51.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626355703664214016",
+            "text": "Ya estan actualizadas a finales de 2022 las imagenes de google y podemos ver como hemos cambiado... @inesreygarcia #Coruna https://t.co/Zu29Kao1zx",
+            "created_at": "2023-02-16T22:59:50.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626275797324509184",
+            "text": "O corte servira para poner en practica parte do derradeiro tramo da Rolda Peonil, o que comunica Ramon Cabanillas con Rua Barcelona, e do que xa estamos a traballar no proxecto constructivo #Coruna @inesreygarcia @CiudadesCaminan https://t.co/YYYkUFAYo0",
+            "created_at": "2023-02-16T17:42:19.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626274946174316546",
+            "text": "Este luns cortamos o cruce de Ramon y Cajal coa Avenida do Exercito co finalidade de dar un impulso grande as obras e cambiar todo o firme da calzada. O impulso xa e visible desde o primeiro dia de corte #Coruna https://t.co/KJ8pcrsCpq",
+            "created_at": "2023-02-16T17:38:56.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626134027466932224",
+            "text": "@Mariagonzalezvo @vocescoruna @TranviasCoruna Es carisimo, 38 ctmos... inasumible!",
+            "created_at": "2023-02-16T08:18:58.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1626110903195258881",
+            "text": "@FetucciniPadano @inesreygarcia @ConcelloCoruna Teniendo en cuenta que el 23 y el 23A comparten recorrido, si va de urgencia yo me subiria en el 23 y no esperaria 54 minutos.",
+            "created_at": "2023-02-16T06:47:05.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625919372928614416",
+            "text": "@envidioso9 @CorunaSostible @ConcelloCoruna Ahi se ven 11 estaciones con bicis electricas. En estos momentos 15. Y obviamente no se ven las que estan en uso...",
+            "created_at": "2023-02-15T18:06:01.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625911853174992913",
+            "text": "@Bonmatweet Esta moi feo o das autocitas pero... \u201cEl objetivo no es la renovacion del parque movil de la ciudad, sino la reduccion del parque movil\u201d \ud83e\udd23 https://t.co/1X0JDJCtMq",
+            "created_at": "2023-02-15T17:36:08.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625838243819266048",
+            "text": "En rigor la unica administracion que \u201cesta haciendo\u201d en presente vivienda publica en Coruna es el @ConcelloCoruna https://t.co/6KyPeDyD4H https://t.co/YuKqDQr2xh",
+            "created_at": "2023-02-15T12:43:38.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625789754158600193",
+            "text": "El palacio de Veeduria, sin duda una de las obras clave de este mandato: #Coruna esconde un tesoro frente a la plaza de Azcarraga https://t.co/YEzZ7i96Xi",
+            "created_at": "2023-02-15T09:30:57.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625781869986955266",
+            "text": "En Alcalde Marchesi, un dos tramos da Rolda Peonil, xa se pode comprobar a significativa ampliacion do espazo que se gana ao vehiculo privado. O 70/30 en favor da circulacion rodada cambiara por un 70/30 en favor da mobilidade peonil con zonas de estancia e arboredo #CorunaCamina https://t.co/XMmFOPlBRs",
+            "created_at": "2023-02-15T08:59:38.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625599792582737920",
+            "text": "Un repaso a las alturas de #Coruna, las que son y las que iban a ser. Fuimos siempre un referente en la construccion residencial en altura, y debemos seguir siendolo en aras de un modelo de ciudad mas sostenible y con mayor densidad https://t.co/EVCBH5JXlh",
+            "created_at": "2023-02-14T20:56:07.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625598483833970689",
+            "text": "Solo el 10% de los viajeros de bus paga en efectivo \u2066@TranviasCoruna\u2069 #Coruna  https://t.co/R3RqdEkGFk",
+            "created_at": "2023-02-14T20:50:55.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625597086673543174",
+            "text": "@MNievesAbarcaC Eso seria un metropolitano, no? \ud83e\udd23",
+            "created_at": "2023-02-14T20:45:22.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625552831280254980",
+            "text": "@pablomirasfdez \ud83d\ude2c\ud83d\ude2c esta claro que hay que moverlo...",
+            "created_at": "2023-02-14T17:49:30.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625183396912668672",
+            "text": "@jandry_says Aviso",
+            "created_at": "2023-02-13T17:21:30.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625175655884197888",
+            "text": "Hoy es el #DiaMundialdelaRadio y en mi caso es el recuerdo de esa @La_SER que sonaba (y suena) permanentemente en casa de mis padres. Sobre todo ese @hora25 con Carlos Llamas donde sonaban voces como Miguel Angel Aguilar, Carlos Carnicero o Carlos Mendo.",
+            "created_at": "2023-02-13T16:50:45.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625172178969804810",
+            "text": "@DexA_AlbA @EloyTP @inesreygarcia @ConcelloCoruna @OCastrillon Obra nuestra no es, perdona que os lei ahora.",
+            "created_at": "2023-02-13T16:36:56.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625139162604077056",
+            "text": "@undiscurso @DavidCastelo1 No es fardar de nada... son obras privadas. En todo caso es destacar que el Plan Especial esta funcionando.",
+            "created_at": "2023-02-13T14:25:44.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1625138905895821314",
+            "text": "@Adeus65 @inesreygarcia Podriamos hablar del ano que estuvo encima de la mesa de la Xunta sin moverse, pero lo importante es que se avance y se avance de forma coordinada entre administraciones y con el uso que quieren los vecinos.",
+            "created_at": "2023-02-13T14:24:43.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624763527763267584",
+            "text": "@ekain_arq @Ayto_SS Si, la verdad es que la planta atico es terrible...",
+            "created_at": "2023-02-12T13:33:06.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624736698562215942",
+            "text": "Impulso a la red ciclista y ciclable en #Coruna en este mandato @RedCiudadesBici https://t.co/9t74phdZz0",
+            "created_at": "2023-02-12T11:46:29.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624734606036533249",
+            "text": "El PSOE sube y se asienta como la fuerza mas votada en A Coruna \u2066@inesreygarcia\u2069 \u2066@PSOE_Coruna\u2069 #Coruna  https://t.co/gQBoRD7aeO",
+            "created_at": "2023-02-12T11:38:10.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624732899017740289",
+            "text": "Continuamos mejorando la imagen urbana de la ciudad historica a traves del desarrollo del Plan Especial en las intervenciones privadas en locales comerciales. Dos ejemplos recientes. #arquitectura #Coruna https://t.co/AMOzoQagBF",
+            "created_at": "2023-02-12T11:31:23.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624475200480845824",
+            "text": "La semana que viene daremos un importante impulso al proyecto de centro civico y de salud de Santa Lucia en la Falperra #Coruna @inesreygarcia https://t.co/HOxKhjuIiP",
+            "created_at": "2023-02-11T18:27:23.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624442900305125377",
+            "text": "@ekain_arq @Ayto_SS Sin ser una maravilla a mi el ano pasado no me habia disgustado este, que se ve en tu imagen y le habia hecho foto. Continua la textura del muro. A lo mejor es que de ver tanta vulgaridad a poco que se sale ya me llama la atencion... https://t.co/uqEcl0qhc8",
+            "created_at": "2023-02-11T16:19:02.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624307769514893312",
+            "text": "Este espacio es un complemento al aire libre del centro juvenil Remanso impulsado por @coruna_social. Para la practica deportiva estamos licitando el nuevo skatepark de Eiris disenado por uno de los mayores expertos en estos recintos, Daniel Yabar. https://t.co/0Ladj6RDZ4",
+            "created_at": "2023-02-11T07:22:05.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624305631778807812",
+            "text": "Me alegra la critica porque es justo lo que buscabamos, un espacio donde los ninos y ninas que ya no van a parques infantiles puedan ir a \u201cmerendar\u201d y a pasar la tarde al aire libre. Una opcion de ocio para los que no tienen espacios, no para la practica deportiva profesional. https://t.co/1g52g53amb https://t.co/nO0PfgHcP1",
+            "created_at": "2023-02-11T07:13:35.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624126190435897364",
+            "text": "La rehabilitacion esta financiada con el 1,5% cultural del @mitmagob y se coordina desde el servicio de Edificacion con un magnifico proyecto de Luis Gil y Cristina Nieto que va trabajando sobre las diferentes capas historicas del edificio con gran carino y cuidado #arquitectura https://t.co/eQQdZI1xaq",
+            "created_at": "2023-02-10T19:20:33.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624124275413090331",
+            "text": "Hoy @inesreygarcia y yo estuvimos aqui, en el antiguo Palacio de los Marqueses de Camarasa, Intendencia del Reino de Galicia y Gobierno Militar. En 11 meses seran 4.000 m2 de usos civicos, culturales y vecinales #Coruna https://t.co/R5nmhjdrAk",
+            "created_at": "2023-02-10T19:12:56.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624121463555883018",
+            "text": "@moni_pardo @jaumente @inesreygarcia @CiudadesCaminan Si, hay que darle la vuelta.",
+            "created_at": "2023-02-10T19:01:46.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624113880656904195",
+            "text": "@chunychunay @enkifundabrente @ASPACECoruna @inesreygarcia Vamos a instalar otro mas en Plaza de Pontevedra ahora \ud83d\ude09",
+            "created_at": "2023-02-10T18:31:38.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624090518853496832",
+            "text": "Desde hoy entran en funcionamiento tres nuevas estaciones de BiciCoruna: Ventorrillo, Parque de Oza y Magistrado Manuel Artime. Ya son 35 las estaciones operativas y 7.000 los usuarios dados de alta #Coruna @inesreygarcia https://t.co/pA0wQLIilO",
+            "created_at": "2023-02-10T16:58:48.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624042165386059776",
+            "text": "@_brunopardo Esperemos que pronto! Los problemas de suministro a nivel global estan retrasando todo.",
+            "created_at": "2023-02-10T13:46:40.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1624041560139616263",
+            "text": "@danielrios1996 @inesreygarcia Aun no esta elegida, a ver si es posible que sean tilos como los que ya hay.",
+            "created_at": "2023-02-10T13:44:15.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623968833248677890",
+            "text": "@jornwlucas @inesreygarcia Indican donde estan las tapas de los registros. Ahora hay que picar el asfalto en esos puntos y elevarlas al nuevo nivel.",
+            "created_at": "2023-02-10T08:55:16.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623963525755334662",
+            "text": "#CorunaCamina, no lo decimos solo nosotros, tambien lo dicen los estudios de la Xunta sobre movilidad. Las inversiones en peatonalizaciones, humanizaciones y mejoras de accesibilidad peatonal estan refrendadas por la realidad de nuestra ciudad @inesreygarcia @CiudadesCaminan https://t.co/uGkyezNwx8",
+            "created_at": "2023-02-10T08:34:10.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623962434317811713",
+            "text": "@emosqueira @luislo1969 @vocescoruna Esta requerido a la compania suministradora desde hace semanas de forma reiterada...",
+            "created_at": "2023-02-10T08:29:50.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623959234659360770",
+            "text": "En Fernandez Latorre ya se puede comprobar el ancho de las nuevas aceras con respecto a las existentes. Incorporaran arbolado simetrico al situado en la acera de los pares. Avanzamos a buen ritmo para tener una avenida mas sostenible, mas accesible y mas segura @inesreygarcia https://t.co/pPvSqcaC5P",
+            "created_at": "2023-02-10T08:17:07.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623775581471907842",
+            "text": "@borjasoto Si, los reponemos.",
+            "created_at": "2023-02-09T20:07:21.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623758483907612678",
+            "text": "@AgradoOrzan @quincemil15000 Puede parecer menos pero son 3,25 metros por sentido.",
+            "created_at": "2023-02-09T18:59:25.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623731248228098048",
+            "text": "@Regnotti_PSA_87 Chapuza seria dejar las tapas de los registros debajo del asfalto... antes de insultar es interesante saber del tema que se habla...",
+            "created_at": "2023-02-09T17:11:11.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623731069689249793",
+            "text": "@castrofeitor @ConcelloCoruna Son as marcas para saber onde estan as tapas dos rexistros... agora picase neses puntos e se levantan a nova cota.",
+            "created_at": "2023-02-09T17:10:29.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623717470635794434",
+            "text": "@nissanantamotor @OndaCeroCoruna @MasDeUno @marinedacity @ConcelloCoruna @Nissan_ESP @marinedacitygal Muchas gracias a vosotros!!",
+            "created_at": "2023-02-09T16:16:26.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623717390436429824",
+            "text": "@PabloDBouza \ud83e\udd23\ud83e\udd23 nada, nada. Se viene de vuelta!",
+            "created_at": "2023-02-09T16:16:07.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623685816626081792",
+            "text": "@iusnaufragii Todo semella que e Payo Gomez 5. Ampliado posteriormente. https://t.co/UyvVtCODWF",
+            "created_at": "2023-02-09T14:10:39.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623684811482177538",
+            "text": "@PabloDBouza Tengo que ir a verla, que ademas me tienen \u201csecuestrado\u201d el cuadro que tenemos en el despacho en Urbanismo. Un cuadro maravilloso.",
+            "created_at": "2023-02-09T14:06:40.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623684112560140290",
+            "text": "Sabor Iberico en la Union tambien nos lleva por el buen camino. Unos bocatas estupendos. https://t.co/FtI4nUkkkO",
+            "created_at": "2023-02-09T14:03:53.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623683215545311232",
+            "text": "@PabloBrunPintor @AgradoOrzan @ConcelloCoruna Cuando mandasteis la primera foto no se veia el tramo que era. Realmente de Palomar hacia abajo no estaba previsto intervenir pero aprovechamos para ampliar un poco mas en la zona de calzada que estaba peor.",
+            "created_at": "2023-02-09T14:00:19.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623682616963506181",
+            "text": "@deportivista22 Si, obviamente. El proyecto definitivo contempla elevar toda la zona peatonal al mismo nivel.",
+            "created_at": "2023-02-09T13:57:57.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623587273253040128",
+            "text": "@iguardans El nivel de tension post pandemia es terrible... y cuando digo post pandemia es porque creo firmemente que esta relacionado...",
+            "created_at": "2023-02-09T07:39:05.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623424029712424961",
+            "text": "@HomerGZ @_brunopardo @EloyTP @vmpcoruna @liza_mobi Es unidireccional, solo subida. Pero hay que marcar la banda de seguridad entre aparcamiento y carril.",
+            "created_at": "2023-02-08T20:50:25.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623422656996311042",
+            "text": "La avenida de Finisterre ya tiene carril bici #Coruna \u2066@RedCiudadesBici\u2069  https://t.co/ehdJADuLd1",
+            "created_at": "2023-02-08T20:44:57.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623388477403308055",
+            "text": "@EloyTP @_brunopardo @vmpcoruna @liza_mobi Si, va el carril y la zona de seguridad para separar del aparcamiento.",
+            "created_at": "2023-02-08T18:29:08.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623387710793588748",
+            "text": "Hay otras Corunas dentro de #Coruna. Rio de Quintas. Santuario de Santa Gema de Andres Fernandez-Albalat #arquitectura https://t.co/uthTrCDnrI",
+            "created_at": "2023-02-08T18:26:05.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1623243475297701889",
+            "text": "Ya se puede ver en la Avenida la nueva configuracion con carril bici incorporado #Coruna https://t.co/rST6mDVIPa https://t.co/6Tkxtaw3zm",
+            "created_at": "2023-02-08T08:52:57.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1622938270228160513",
+            "text": "@Tuiteando8 @perecillapm @inesreygarcia @ConcelloCoruna Esta es la realidad de la calle. Todo ese espacio central es peatonal. https://t.co/YnDVk88KGt",
+            "created_at": "2023-02-07T12:40:11.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1622718696379539456",
+            "text": "@saculrac @perecillapm @inesreygarcia @ConcelloCoruna Es una peatonalizacion en la que hay 9 metros centrales para uso peatonal y las terrazas en las zonas laterales.",
+            "created_at": "2023-02-06T22:07:40.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1622718461242736647",
+            "text": "@perecillapm @inesreygarcia @ConcelloCoruna La calle es peatonal, hay 9 metros de zona peatonal central.",
+            "created_at": "2023-02-06T22:06:44.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1622679118713061381",
+            "text": "Han valorado el impulso dado por el gobierno de @inesreygarcia a la infraestructura ciclista con 18 proyectos ya ejecutados en este mandato que suponen 19 km mas de vias ciclistas y ciclables, ademas de la nueva Red de BiciCoruna #Coruna https://t.co/9Ic02OYr10",
+            "created_at": "2023-02-06T19:30:24.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1622676641129308161",
+            "text": "Estos dias hemos podido saber que somos finalistas en los premios BikeFriendly que entrega la @RedCiudadesBici en la categoria de Aceleracion #Coruna https://t.co/iX9HPD4QAT",
+            "created_at": "2023-02-06T19:20:33.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1622676638109470730",
+            "text": "Nuevas mejoras en la red ciclista de la ciudad. Poco a poco vamos cosiendo la malla de carriles bici y vias ciclables @RedCiudadesBici @inesreygarcia #Coruna https://t.co/6Tkxtaw3zm",
+            "created_at": "2023-02-06T19:20:33.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1622671219521736704",
+            "text": "Biblioteca do Castrillon #Coruna @Cultura_Coruna https://t.co/t3otfO8n7F",
+            "created_at": "2023-02-06T18:59:01.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1622607293039669248",
+            "text": "@martileaks @EloyTP @AVbirloque Es bueno recordar lo que habia... a ver si vamos a pensar que teniamos una joya arquitectonica. Como se puede ver el volumen en cuanto a altura es similar. https://t.co/XDpEZkDI6X",
+            "created_at": "2023-02-06T14:44:59.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1621990640136364033",
+            "text": "@ekain_arq Aqui todos esperabamos que actuase con ese vestido... fail",
+            "created_at": "2023-02-04T21:54:38.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1621990475388395533",
+            "text": "Otro ano mas que no ganaremos Eurovision... https://t.co/5dWBh3ycNM",
+            "created_at": "2023-02-04T21:53:59.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1621981005484539915",
+            "text": "@jgpa_ @EloyTP @ConcelloCoruna Si! Estudiamos.",
+            "created_at": "2023-02-04T21:16:21.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1621939447414636548",
+            "text": "@RichiGarciaCoru @inesreygarcia Si, esta previsto pero no incluido en esta obra.",
+            "created_at": "2023-02-04T18:31:13.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1621930393116049416",
+            "text": "Hoy lo presento @inesreygarcia en la Coraza de Riazor en el marco del evento Eidus con el que promocionamos las obras ya en marcha. https://t.co/cHgSzZplcg",
+            "created_at": "2023-02-04T17:55:14.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1621930378343718914",
+            "text": "Asi quedara el Paseo Maritimo de #Coruna tras las obras: mas zonas peatonales, mas zonas verdes, zonas deportivas y de ocio, carril para corredores y un carril bici mejorado @inesreygarcia https://t.co/C4LeTwZZ8q",
+            "created_at": "2023-02-04T17:55:10.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1621895337135702018",
+            "text": "Alli estuvimos esta manana apoyando a la @ContraCancerAC @inesreygarcia @JiBorrego @MRivasL #Coruna https://t.co/g2mYEgF4oq https://t.co/XQyVMB8kze",
+            "created_at": "2023-02-04T15:35:56.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1621848487238180864",
+            "text": "@oscarmiguelares @luz10_com El jueves entrando en Valladolid es posible que la viese justo antes de un hotel NH? Es una maravilla de proyecto!",
+            "created_at": "2023-02-04T12:29:46.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        },
+        {
+            "tweet_id": "1621847964133036033",
+            "text": "Hacia tiempo que no veia una campana tan lamentable como la que esta haciendo Elena Candia en Lugo... estaria bien que explicase si piensa habilitar plazas en la muralla, ese video es de la Ronda. https://t.co/wu4h5lyL7f",
+            "created_at": "2023-02-04T12:27:41.000Z",
+            "user_id": "46972459",
+            "username": "dinisss"
+        }
+    ]
+}

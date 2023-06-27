@@ -1,0 +1,514 @@
+@ferjerez3d Es una pregunta con sarcasmo. 😅 Evidentemente, lo correcto seria devolver directamente el valor. :).
+@Xopsy Ni confirmo ni desmiento que el codigo del tweet sea de un proyecto mio de hace tiempo. 😅.
+@nstlopez Creo que no es necesario esperar al pattern matching para hacer esto mas facil...
+@ZeroCodigo1 Hay una forma todavia mas sencilla y mucho mas evidente. Eso es lo tricky del codigo jajaja.
+@Rainyx_093 Ojala, lo estamos esperando. jajaja.
+@ZeroCodigo1 Me he encontrado este codigo en un proyecto real.
+
+Si lo ves bien, veras que hay otra forma MUCHO mas sencilla de hacer esto. :D.
+@jaimebgar jajaja la madre que te pario.
+Ojala existiera una forma mejor de hacer esto en JavaScript... https://t.co/BTSH3hmkYq.
+@JehuFrayle @cloudinary Bien dicho 😊.
+¿Por que es importante esto?
+
+Si aprendes algo y no lo pones en practica... ¿Realmente lo has aprendido?
+
+Por eso en nuestro curso de React estamos aprendiendo en base a proyectos:
+https://t.co/QfzuNKcSIr
+
+¡Espero que te sirva el consejo a la hora de aprender programacion!.
+- ¿Que quiero crear? Twiiter.
+- ¿Que he aprendido? Como funciona el estado en React.
+- ¿Que hago?
+
+Crear la parte de la UI de Twitter que puedes seguir o dejar de seguir a alguien.
+
+NO hace falta que hagas el backend. Intenta enfocarte en lo que has aprendido y ya esta. https://t.co/RGsD2mB7fU.
+¿Como escapar del Tutorial Hell en Programacion?
+
+Piensa en un producto sencillo que quieras crear. Aunque ya exista.
+
+Cada vez que aprendas algo de un tutorial, crea lo que sea de ese producto, por pequeno que te parezca, con lo que has aprendido.
+
+Te pongo un ejemplo:.
+¡Comparte estos 7 TRUCOS con un RT para que llegue a mas gente!
+
+Si veo que hay interes, hacemos otra lista con 7 TRUCOS mas
+
+¡Y ahora a ponerlos en practica en tu dia a dia para ser mas productivo programando con VSCODE!.
+Si haces hover encima de un color en CSS, te abrira un selector
+
+Alli puedes elegir el color y la transparencia que quieras
+
+Cada vez que selecciones un nuevo color cambiara el valor
+
+Haz clic en la barra con el color para cambiar entre formatos rgba, hexadecimal, hsl y hwb https://t.co/A0aaj1PrIR.
+Si tienes que ordenar lineas alfabeticamente.
+NI SE TE OCURRE hacerlo MANUALMENTE
+
+1. Selecciona las lineas que quieres ordenar
+2. Abre la Paleta de Comandos
+3. Selecciona "Sort lines ascending" (o descending)
+4. Enter y... ¡listo! https://t.co/vn16NM0iWM.
+Hay 4 ATAJOS de TECLADO que me parecen ESENCIALES para la vida del programador:
+
+- Mover lineas de codigo arriba y abajo
+- Cortar, copiar y pegar una linea sin seleccionar
+- Eliminar una linea completa
+- Comentar/Descomentar lineas
+
+Te los enseno aqui: https://t.co/4RBBrg6tcv.
+En Visual Studio Code puedes pinear los archivos de tu proyecto
+
+De esta forma no tendras que andar buscandolos cada dos por tres
+
+Yo lo suelo usar para el archivo package.json y asi lo tengo siempre visible
+
+Te quedaran asi: https://t.co/aVlc7LTUlh.
+Desde la terminal, puedes abrir la carpeta en la que te encuentras en Visual Studio Code.
+
+Para hacerlo, ejecuta el comando:
+$ code .
+
+¿No te encuentra el ejecutable de Code?
+Ejecuta esto en tu editor: https://t.co/zGXRB2WQBn.
+¡NO uses ninguna extension para COLOREAR tus parentesis!
+
+Code ahora lo tiene integrado y funciona de LUJO.
+
+Detectaras mas rapido las llaves y parentesis de tu CODIGO.
+
+Funciona en cualquier lenguaje de programacion.
+
+Activa estas opciones y mira como queda en el codigo: https://t.co/qYcp5y6Y1U.
+¿Necesitas crear un fichero y a la vez algun directorio?
+
+¡NO crees la carpeta primero y luego el archivo!
+
+Puedes crear el fichero directamente con toda su estructura DE UNA VEZ
+
+Separa las carpetas con / y finalmente anade el archivo
+
+¡Y asi lo haces todo de una! Mira: https://t.co/UbqSFyMZo3.
+PROGRAMA mas rapido con estos 7 TRUCAZOS para Visual Studio Code:.
+Like si tu tambien eres asi. https://t.co/NrZKbPp0sQ.
+¿Quieres aprender como funcionan los ALGORTIMOS en PROGRAMACION?
+
+Este recurso te explica paso a paso su ejecucion y te crea la representacion visual de cada paso
+
++70 algoritmos explicados y disponible en JavaScript, Java y C++
+
+🔗 https://t.co/jRAvfY85ub https://t.co/t9q8wYV62R.
+@raulmn_ ¿Me explicas tu comentario, Raul? El 40% de mi publico es de Espana.
+Os tengo que decir algo.
+
+No me acostumbro a tener mas de 1000 personas viendo mis directos en Twitch.
+
+En un nicho como es la programacion...
+
+La comunidad de desarrollo hispana es lo maximo. Gracias. https://t.co/KeVuUD6bq6.
+Estamos en directo repasando las noticias de JavaScript
+
+Salseo en el Open Source
+Map vs Object
+Recursos gratuitos
+Novedades jugosas de Angular
+Lighthouse 10
+
+¡Vente a ponerte al dia! https://t.co/5wq6SbRpPd.
+@DesoraJr Normalmente abren las convocatorias en abril/mayo. Este ano supongo que tambien lo haran.
+
+Puedes estudiar el contenido y esperar a que ofrezcan la oportunidad de presentarse mas adelante.
+Si quieres aprender o mejorar en programacion, no te pierdas mi canal de Twitch:
+https://t.co/Wz7O5LmTpt
+
+Todos los dias estoy haciendo directos para ayudarte.
+
+Hoy estaremos revisando las novedades de programacion en JavaScript:.
+{10} CiberSeguridad por CISCO
+
+Entiende y controla la seguridad de redes, aplicaciones y servidores...
+Maneja datos de forma confidencial.
+
+Este curso gratis de 30 horas te da un certificado final y Badge al completarlo.
+
+Disponible en Espanol.
+
+➥ https://t.co/082DFq0kBq https://t.co/B055Q0o28p.
+{9} DevOps
+
+La universidad de Helsinky tiene un curso con certificacion para DevOps.
+
+Son 6 semanas de contenido y al final tienes que hacer una entrega con examen para conseguirlo.
+
+➥  https://t.co/xIgit3hjSI https://t.co/DbONHZGu9w.
+{7} Redis
+
+Redis es un motor de base de datos en memoria y es muy usado para guardar sesiones de usuario o datos que tienen que ser muy rapidos.
+
+Disponibles cursos de Redis con .NET, Java, JavaScript y Python.
+
+Con certificado oficial.
+
+➥  https://t.co/SUfevOHFMg https://t.co/RYqn9Ci1EE.
+{6} Test Automation University
+
+Aprende a automatizar tus tests en el navegador y certificate.
+
+Puedes aprender en diferentes lenguajes de programacion: Java, JavaScript, Python, C# y mas.
+
+➥  https://t.co/ihJZNXZ1d3 https://t.co/pvuiSF3FXg.
+{5} Oracle Infraestructure
+
+Consigue todos los conocimientos que necesitas para administrar una infraestructura en la nube.
+
+Ademas te dan acceso a recursos gratuitos de Oracle para poder completar la certificacion y para tus propios proyectos.
+
+➥  https://t.co/1yJtVAOGDo https://t.co/phq8FGjLtd.
+{3} FreeCodeCamp
+
+¡Contenido en espanol y gratis!
+
+8 Certificaciones disponibles:
+- Diseno web responsive
+- Algortimos de JavaScript y Estructuras de Datos
+- React.js
+- Visualizacion de datos
+- BackEnd y Apis
+- Y 3 de Python
+
+➥ https://t.co/P5o31u5QtB https://t.co/AXBIyLBeQx.
+{2} Python
+
+¿Ya sabes este lenguaje de programacion?
+
+¡Animate a conseguir estas certificaciones muy vinculadas a la Inteligencia Artificial y el Machine Learning!
+
+- Ciencias de Datos con Python y Big Data.
+- IBM Cloud y Kubernetes.
+
+➥  https://t.co/oBwxIoZ8Xc https://t.co/4WQQ5wBSIA.
+{1} Harvard
+
+¿Estudiar en Harvard y conseguir un certificado gratuito? ¡Es posible!
+
+Tienes toda la informacion aqui:
+https://t.co/1CZhWu5TxR
+
+Si quieres el certificado verificado (con mas valor) entonces si habra que pagar. https://t.co/FuOeAhYW47.
+¿Quieres CERTIFICACIONES gratis para PROGRAMADORES?
+
+¡Te traigo buenas noticias! 
+
+AQUI tienes una COLECCION de certificados que puedes hacer SIN COSTE.
+
+[ H I L O ] ⇩.
+@progesunam ¡Ahi nos vemos! ❤️.
+La tecnica definitiva para solucionar bugs en tu codigo. https://t.co/f5a1rY97Tf.
+@jantocv Tu riete...
+¿Sabes que puedes ejecutar CUALQUIER codigo de JAVASCRIPT usando solo 6 simbolos?
+
+¿No te lo crees? Aqui te lo enseno: https://t.co/PUBESrBLbs.
+@_yangenmanuel Jajajaja tengo 4 sudaderas de GitHub. ❤️.
+De lunes a jueves estoy haciendo streams en Twitch para aprender y mejorar en programacion.
+
+➡️ https://t.co/Wz7O5LmTpt
+
+Hablamos de JavaScript, React, Desarrollo Web, CSS y mucho mas. ¡Pasate!.
+{7} Under the Hood
+
+Aprende como funciona por debajo React.
+Desde las props, hasta el estado y el render.
+Todo con diagramos y explicado al detalle.
+
+🔗 https://t.co/hwvQ5GhxHU https://t.co/6jPhA1Fdli.
+{6} Awesome React
+
+Coleccion de recursos, tutoriales y herramientas.
+Resumen de los mejores componentes para usar en tu proyecto.
+Guia de articulos para seguir aprendiendo.
+
+🔗 https://t.co/pNMkssLyMa.
+{5} React Patterns
+
+Patrones de diseno en React.
+Composicion de componentes y UI.
+Ejemplos y explicaciones de cada uno.
+Consejos para mejorar rendimiento.
+
+🔗 https://t.co/0PwkEhQ1Yd.
+{4} React Coding Challenges
+
+Retos de programacion para practicar tus conocimientos.
+Actualmente cuenta con cuatro retos diferentes.
+Nivel facil, medio y avanzado.
+
+🔗 https://t.co/jvQpnmeqUO https://t.co/O2urDi2RtR.
+{3} Testing Workshop de Kent C. Dodds]
+
+Este repositorio es el material que usa en un workshop para aprender a hacer tests en React.
+
+Tienes todos los ejercicios, con su solucion, en el propio repositorio.
+
+¡Perfecto para aprender y practicar!
+
+🔗 https://t.co/FHOm0LaxxR.
+{2} React Express
+
+Aprende React con ejemplos interactivos
+Finaliza con una aplicacion de Todo
+Totalmente gratis y super practico
+
+🔗 https://t.co/TDYuYCUqQo https://t.co/DX09GLppUs.
+{1} Preguntas de entrevista
+
+Casi 100 preguntas con ejemplos practicos
+Explicaciones sencillas y directas
+Totalmente en espanol
+De principiante a avanzado
+
+🔗 https://t.co/zBp33i9qO9.
+RECURSOS para APRENDER y MEJORAR en REACT
+
+Todos son totalmente GRATIS.
+
+[ H I L O ].
+Asi se empieza el fin de semana. https://t.co/RPvnEeJb62.
+Video de 7 HORAS donde desarrollamos el clon desde cero:
+https://t.co/y9YaFkfclH
+
+Tambien puedes encontrar todo el codigo fuente disponible en la descripcion del mismo video.
+¡Plan para este fin de semana 🔥!
+
+CREA un clon de TikTok con React DESDE CERO.
+
+Sigue este video de 7 HORAS donde lo hacemos paso a paso:
+- Supabase para el backend
+- Vite como empaquetador de aplicaciones
+- Codigo disponible
+
+Te dejo el video en el siguiente tuit: https://t.co/oiIwvFRM7v.
+¡Este es el MEJOR buscador para PROGRAMADORES!
+
+- Extrae las respuestas de Stack Overflow
+- Te ofrece snippets de codigo directamente
+- Tiene herramientas para traducir entre lenguajes
+- Su ChatGPT para explicarte el codigo
+
+Es totalmente GRATIS:
+https://t.co/WjQuz6QMBJ https://t.co/RtrSWjZGvm.
+Que alegria recibir estos mensajes. ❤️ https://t.co/YMClakFeoF.
+@carmenansio Esto pasa mas de lo que creemos, por desgracia.
+
+Hay gente que fusila un curso, lo reedita o lo graba y luego le saca rendimiento sin mencionar el original ni siquiera.
+
+Bien hecho en avisar al autor original para que tenga constancia.
+Hablamos en Twitch con el creador de CodeGPT.
+
+La extension de ChatGPT para Visual Studio Code. ¡Tiene ya mas de 150.000 descargas!
+
+Nos comenta sus secretos, como hacer una extension desde cero y mas. ¡Vente! https://t.co/zMBjsTNlrz.
+[5] Webflow
+
+Una de las mas miticas.
+
+Un editor para crear el diseno que quieres hasta el minimo detalle.
+
+Interfaz muy sencilla para usuarios que quieren mas control.
+
+https://t.co/0k6vjQsCL7 https://t.co/cTiLCbkFdC.
+[4] Glide
+
+Transforma tus datos en aplicaciones o webs
+
+Conectate con un Excel o un AirTable...
+
+¡Puedes crear hasta BackOffices enteros!
+
+https://t.co/oZKCrxR0iD https://t.co/Sp8zeWO9WG.
+[3] mmm
+
+Con este nombre tan curioso tenemos la mas radical
+
+Tiene un editor en tiempo real de tu pagina para cambiar textos o mover elementos
+
+Gratis para siempre... a no ser que necesites un dominio propio (15$ al mes)
+
+https://t.co/2EzIMkfW5W https://t.co/b7XcuLQMoc.
+[2] Super
+
+Crea tu proxima pagina con disenos super bonitos
+Conexion con Notion para la base de datos
+Disponibles plantillas gratuitas
+
+https://t.co/c1Avw53QOb https://t.co/8iilMWQRQr.
+[1] Typedream
+
+Crea desde un portfolio hasta una tienda
+Conectate con Notion
+Cientos de plantillas a elegir
+
+https://t.co/SV9rBimwlO https://t.co/ORn8dMOyOd.
+¿Quieres sacar una PAGINA WEB y no tienes ni idea de PROGRAMAR?
+
+¡Te comparto las MEJORES herramientas NO CODE para conseguirlo!
+
+Todas con planes GRATUITOS.
+
+[ H I L O ].
+@SterlingMaury @DotCSV @MoureDev Claro que les falta mucho, era una bromilla. :)
+
+Pero es innegable que ya, a dia de hoy, nos puede acelerar mucho.
+
+GitHub Copilot, por ejemplo.
+@DotCSV @MoureDev Vamos a aprovecharnos de ella hasta que nos quite el trabajo. 😂
+
+Aunque, la verdad, muchas de estas IAs son simplemente una llamada a GPT-3. ¡Ojala salgan cosas mas potentes y especificas!.
+¡Deja que la IA escriba tus mensajes de commit!
+
+iacommits lee tus ultimos cambios en el codigo y te genera el mensaje automaticamente.
+
+Para instalarla:
+npm install -g aicommits
+
+La utilidad es gratis pero debes usar tu API KEY de GPT-3. https://t.co/Al0YWRUwfg.
+¡ChatGPT integrado en Visual Studio Code!
+
+HOY en Twitch, hablamos con el creador de Code GPT
+
+Una alternativa a GitHub Copilot que genera codigo y te explica el que ya tienes
+
+Empieza a las 18:00H (hora Espana): https://t.co/Hlau41pS6F.
+¿No recuerdas un comando?
+
+¡Usa ChatGPT directamente en tu terminal!
+
+Funciona tan bien que parece magia:
+https://t.co/Smm7AUTJwA https://t.co/nKPClTFljT.
+@S4vitar Mucho animo, Savi! El trabajo que haces en Twitch es enorme y siendo un nicho todavia mas merito.
+
+Nos vemos a la vuelta! 🤗.
+¡En Directo! Resolviendo una Prueba Tecnica de React desde cero.
+
+Aprende useContext, useReducer y useId para crear un carrito de la compra.
+
+¡Estamos en Twitch! Ven a aprender https://t.co/AdJbu4PewQ.
+》 YOU
+
+Un chat conversacional integrado en su buscador
+
+Da explicaciones en Espanol detalladas y es totalmente GRATIS
+
+Aqui un ejemplo:
+https://t.co/BEbWmInuNl https://t.co/VyfzHWybKr.
+》 PERPLEXITY
+
+El Google del futuro
+
+Busca lo que quieras y te extrae la informacion que quieres
+Te comparte las fuentes de donde ha extraido la informacion
+
+https://t.co/dDJa7Cj06x https://t.co/sQeAbi6uMp.
+》 CHATSONIC
+
+Lo mas parecido a ChatGPT pero con respuestas actualizadas a dia de hoy
+
+✓ Total acceso a Internet
+✓ Respuestas rapidas
+✓ 100 generaciones gratuitas por mes
+
+https://t.co/FWv1mqWdR3 https://t.co/ygDIPNAT48.
+ChatGPT es IMPRESIONANTE pero...
+
+¡Existen alternativas todavia MAS POTENTES!
+
+Te comento las MEJORES que debes probar YA para mejorar tu productividad
+
+[ H I L O ].
+En este repositorio tienes todos los videos y proyectos:
+https://t.co/QfzuNKcSIr
+
+Ya llevamos 5 proyectos realizados.
+
+Vamos aprendiendo React mientras creamos ejercicios practicos.
+
+Perfectos para aumentar tu portfolio y seguir aprendiendo React:.
+¡Resuelve una prueba tecnica de React con useContext y useReducer!
+
+HOY en Twitch, creamos un carrito de la compra con estos hooks desde cero
+
+Empezamos a las 18:00H (hora Espana): https://t.co/0r8kLagxjx.
+@brujeriatech Ahi ando esperando que me den acceso. Pero se estan haciendo los interesantes. jajaja.
+@jadrdev OBS, se ve en la foto clarito jajaja.
+¡Super emocionado de anunciar que presentare la T3chFest de este ano!
+
+Junto con mi querida Ari. ❤️
+
+¡Nos vemos el 3 de marzo en Madrid! https://t.co/gH4uO4zxgH.
+@pinchito Tienes razon, puede ser que el velo del hype haya caido.
+@ddialar Pues oye, es que me lo creo totalmente. De verdad, menudo downgrade ha pegado.
+@dovaldev Pues si saben contar... que no cuenten conmigo. jajajaja.
+@eli_yya jajaja No se. Al principio a nivel de codigo hacia virguerias y ahora se hace un lio muy rapido o mete muchos bugs. Ademas que la version free peta muchisimo.
+¿Es cosa mia o ChatGPT cada dia da peores respuestas? https://t.co/bLILy4a9QY.
+@growuphr @gigitb_ @MoureDev 😊 Gracias por la recomendacion!.
+Cuando tu hermana mayor te prepara una tarta de cumpleanos. 😂 https://t.co/zTLQHpOo9L.
+@DiegoMacayaDev Me equivoque 🥹😅.
+@Kevinu1996 ¡Casi todos tienen soporte para el!.
+Crea copias profundas de objetos y arrays en JavaScript.
+
+Con structuredClone es muy facil y te evitas problemas de mutabilidad.
+
+Tiene un soporte del 90% segun CanIUse.
+
+Te dejo un ejemplo: https://t.co/KvJXkveAY7.
+Desarrollando un ChatGPT desde cero con JavaScript, React y Tailwind.
+
+De codigo abierto y paso a paso.
+
+¡Ven a ayudar! Estamos en Twitch. https://t.co/5KYjjovpKM.
+Guia de Buenas Practicas en JavaScript ✓
+
+- Nombrar variables y funciones
+- Objetos, clases y estructuras de datos
+- SOLID en JS
+- Testing y concurrencia
+- Resolucion de problemas
+- Comentarios
+
+Disponible gratis en Espanol y con ejemplos:
+https://t.co/L8aha6kAN3 https://t.co/oAUS6VvMwL.
+@cruzrovira Awwww, muchas gracias, Oscar! ❤️.
+Mejora tu Logica de Programacion con estos recursos gratuitos:
+
+Practica 67 lenguajes de programacion
+» exercism․com
+
+Con pruebas tecnicas de Meta o Uber
+» codesignal․com/developers
+
+Mejora en JavaScript y TypeScript
+» adventjs․dev
+
+Para todos los niveles
+» codewars․com.
+@alvaro_chirou Lo han entrenado bien. jajajaja.
+¡Crea tu propio ChatGPT desde cero con JavaScript y React!
+ 
+Hoy en directo, lo haremos de codigo abierto para que todo el mundo pueda participar.
+
+Estaremos a las 18:00H (Espana) en Twitch. https://t.co/ukty2b7RQM.
+@corteshvictor @93gsaez Creo que no estas entendiendo el chiste.
+
+Como dices, C# puede sumar una vez haces algun tipo de conversion.
+
+El tema es que JavaScript los suma a pelo y hace cosas extranas e inesperadas en lugar de petar.
+
+Vamos, que el chiste en realidad habla bien de C#... 😅.
+Lo podeis comprar aqui:
+https://t.co/OAYEHWMhKT
+
+No se me ocurre mejor regalo. jajaja.
+Este San Valentin no regales flores.
+
+Regalale este peluche y dile que todo va a ir bien. https://t.co/ji6wy6nBJo.
+@HunkStalker Desde luego, Bing Search se nota que usa una version mejorada de ChatGPT. Vamos a alucinar.

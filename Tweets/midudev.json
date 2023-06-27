@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1628348160568328192",
+            "text": "@ferjerez3d Es una pregunta con sarcasmo. \ud83d\ude05 Evidentemente, lo correcto seria devolver directamente el valor. :)",
+            "created_at": "2023-02-22T10:57:09.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628347355878637568",
+            "text": "@Xopsy Ni confirmo ni desmiento que el codigo del tweet sea de un proyecto mio de hace tiempo. \ud83d\ude05",
+            "created_at": "2023-02-22T10:53:57.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628341735154753539",
+            "text": "@nstlopez Creo que no es necesario esperar al pattern matching para hacer esto mas facil...",
+            "created_at": "2023-02-22T10:31:37.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628340890237300737",
+            "text": "@ZeroCodigo1 Hay una forma todavia mas sencilla y mucho mas evidente. Eso es lo tricky del codigo jajaja",
+            "created_at": "2023-02-22T10:28:16.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628338892775497728",
+            "text": "@Rainyx_093 Ojala, lo estamos esperando. jajaja",
+            "created_at": "2023-02-22T10:20:19.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628337319102095362",
+            "text": "@ZeroCodigo1 Me he encontrado este codigo en un proyecto real.\n\nSi lo ves bien, veras que hay otra forma MUCHO mas sencilla de hacer esto. :D",
+            "created_at": "2023-02-22T10:14:04.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628335911631986689",
+            "text": "@jaimebgar jajaja la madre que te pario.",
+            "created_at": "2023-02-22T10:08:29.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628334623724822528",
+            "text": "Ojala existiera una forma mejor de hacer esto en JavaScript... https://t.co/BTSH3hmkYq",
+            "created_at": "2023-02-22T10:03:21.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628146279795552262",
+            "text": "@JehuFrayle @cloudinary Bien dicho \ud83d\ude0a",
+            "created_at": "2023-02-21T21:34:57.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628141049817272331",
+            "text": "\u00bfPor que es importante esto?\n\nSi aprendes algo y no lo pones en practica... \u00bfRealmente lo has aprendido?\n\nPor eso en nuestro curso de React estamos aprendiendo en base a proyectos:\nhttps://t.co/QfzuNKcSIr\n\n\u00a1Espero que te sirva el consejo a la hora de aprender programacion!",
+            "created_at": "2023-02-21T21:14:10.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628141045190955039",
+            "text": "- \u00bfQue quiero crear? Twiiter.\n- \u00bfQue he aprendido? Como funciona el estado en React.\n- \u00bfQue hago?\n\nCrear la parte de la UI de Twitter que puedes seguir o dejar de seguir a alguien.\n\nNO hace falta que hagas el backend. Intenta enfocarte en lo que has aprendido y ya esta. https://t.co/RGsD2mB7fU",
+            "created_at": "2023-02-21T21:14:09.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628141041126674450",
+            "text": "\u00bfComo escapar del Tutorial Hell en Programacion?\n\nPiensa en un producto sencillo que quieras crear. Aunque ya exista.\n\nCada vez que aprendas algo de un tutorial, crea lo que sea de ese producto, por pequeno que te parezca, con lo que has aprendido.\n\nTe pongo un ejemplo:",
+            "created_at": "2023-02-21T21:14:08.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628038424631336962",
+            "text": "\u00a1Comparte estos 7 TRUCOS con un RT para que llegue a mas gente!\n\nSi veo que hay interes, hacemos otra lista con 7 TRUCOS mas\n\n\u00a1Y ahora a ponerlos en practica en tu dia a dia para ser mas productivo programando con VSCODE!",
+            "created_at": "2023-02-21T14:26:22.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628038422966284289",
+            "text": "Si haces hover encima de un color en CSS, te abrira un selector\n\nAlli puedes elegir el color y la transparencia que quieras\n\nCada vez que selecciones un nuevo color cambiara el valor\n\nHaz clic en la barra con el color para cambiar entre formatos rgba, hexadecimal, hsl y hwb https://t.co/A0aaj1PrIR",
+            "created_at": "2023-02-21T14:26:22.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628038421414350850",
+            "text": "Si tienes que ordenar lineas alfabeticamente.\nNI SE TE OCURRE hacerlo MANUALMENTE\n\n1. Selecciona las lineas que quieres ordenar\n2. Abre la Paleta de Comandos\n3. Selecciona \"Sort lines ascending\" (o descending)\n4. Enter y... \u00a1listo! https://t.co/vn16NM0iWM",
+            "created_at": "2023-02-21T14:26:21.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628038419854114816",
+            "text": "Hay 4 ATAJOS de TECLADO que me parecen ESENCIALES para la vida del programador:\n\n- Mover lineas de codigo arriba y abajo\n- Cortar, copiar y pegar una linea sin seleccionar\n- Eliminar una linea completa\n- Comentar/Descomentar lineas\n\nTe los enseno aqui: https://t.co/4RBBrg6tcv",
+            "created_at": "2023-02-21T14:26:21.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628038418096701441",
+            "text": "En Visual Studio Code puedes pinear los archivos de tu proyecto\n\nDe esta forma no tendras que andar buscandolos cada dos por tres\n\nYo lo suelo usar para el archivo package.json y asi lo tengo siempre visible\n\nTe quedaran asi: https://t.co/aVlc7LTUlh",
+            "created_at": "2023-02-21T14:26:21.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628038416515440642",
+            "text": "Desde la terminal, puedes abrir la carpeta en la que te encuentras en Visual Studio Code.\n\nPara hacerlo, ejecuta el comando:\n$ code .\n\n\u00bfNo te encuentra el ejecutable de Code?\nEjecuta esto en tu editor: https://t.co/zGXRB2WQBn",
+            "created_at": "2023-02-21T14:26:20.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628038414946783233",
+            "text": "\u00a1NO uses ninguna extension para COLOREAR tus parentesis!\n\nCode ahora lo tiene integrado y funciona de LUJO.\n\nDetectaras mas rapido las llaves y parentesis de tu CODIGO.\n\nFunciona en cualquier lenguaje de programacion.\n\nActiva estas opciones y mira como queda en el codigo: https://t.co/qYcp5y6Y1U",
+            "created_at": "2023-02-21T14:26:20.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628038413440937984",
+            "text": "\u00bfNecesitas crear un fichero y a la vez algun directorio?\n\n\u00a1NO crees la carpeta primero y luego el archivo!\n\nPuedes crear el fichero directamente con toda su estructura DE UNA VEZ\n\nSepara las carpetas con / y finalmente anade el archivo\n\n\u00a1Y asi lo haces todo de una! Mira: https://t.co/UbqSFyMZo3",
+            "created_at": "2023-02-21T14:26:19.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1628038412161744896",
+            "text": "PROGRAMA mas rapido con estos 7 TRUCAZOS para Visual Studio Code:",
+            "created_at": "2023-02-21T14:26:19.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627918374503153665",
+            "text": "Like si tu tambien eres asi. https://t.co/NrZKbPp0sQ",
+            "created_at": "2023-02-21T06:29:20.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627778675700531200",
+            "text": "\u00bfQuieres aprender como funcionan los ALGORTIMOS en PROGRAMACION?\n\nEste recurso te explica paso a paso su ejecucion y te crea la representacion visual de cada paso\n\n+70 algoritmos explicados y disponible en JavaScript, Java y C++\n\n\ud83d\udd17 https://t.co/jRAvfY85ub https://t.co/t9q8wYV62R",
+            "created_at": "2023-02-20T21:14:13.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627761646687887362",
+            "text": "@raulmn_ \u00bfMe explicas tu comentario, Raul? El 40% de mi publico es de Espana.",
+            "created_at": "2023-02-20T20:06:33.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627744797271154688",
+            "text": "Os tengo que decir algo.\n\nNo me acostumbro a tener mas de 1000 personas viendo mis directos en Twitch.\n\nEn un nicho como es la programacion...\n\nLa comunidad de desarrollo hispana es lo maximo. Gracias. https://t.co/KeVuUD6bq6",
+            "created_at": "2023-02-20T18:59:36.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627717433233473536",
+            "text": "Estamos en directo repasando las noticias de JavaScript\n\nSalseo en el Open Source\nMap vs Object\nRecursos gratuitos\nNovedades jugosas de Angular\nLighthouse 10\n\n\u00a1Vente a ponerte al dia! https://t.co/5wq6SbRpPd",
+            "created_at": "2023-02-20T17:10:52.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627680246827712513",
+            "text": "@DesoraJr Normalmente abren las convocatorias en abril/mayo. Este ano supongo que tambien lo haran.\n\nPuedes estudiar el contenido y esperar a que ofrezcan la oportunidad de presentarse mas adelante.",
+            "created_at": "2023-02-20T14:43:06.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627670658548174848",
+            "text": "Si quieres aprender o mejorar en programacion, no te pierdas mi canal de Twitch:\nhttps://t.co/Wz7O5LmTpt\n\nTodos los dias estoy haciendo directos para ayudarte.\n\nHoy estaremos revisando las novedades de programacion en JavaScript:",
+            "created_at": "2023-02-20T14:05:00.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627670654085390339",
+            "text": "{10} CiberSeguridad por CISCO\n\nEntiende y controla la seguridad de redes, aplicaciones y servidores...\nManeja datos de forma confidencial.\n\nEste curso gratis de 30 horas te da un certificado final y Badge al completarlo.\n\nDisponible en Espanol.\n\n\u27a5 https://t.co/082DFq0kBq https://t.co/B055Q0o28p",
+            "created_at": "2023-02-20T14:04:59.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627670649475854337",
+            "text": "{9} DevOps\n\nLa universidad de Helsinky tiene un curso con certificacion para DevOps.\n\nSon 6 semanas de contenido y al final tienes que hacer una entrega con examen para conseguirlo.\n\n\u27a5  https://t.co/xIgit3hjSI https://t.co/DbONHZGu9w",
+            "created_at": "2023-02-20T14:04:58.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627670639824830466",
+            "text": "{7} Redis\n\nRedis es un motor de base de datos en memoria y es muy usado para guardar sesiones de usuario o datos que tienen que ser muy rapidos.\n\nDisponibles cursos de Redis con .NET, Java, JavaScript y Python.\n\nCon certificado oficial.\n\n\u27a5  https://t.co/SUfevOHFMg https://t.co/RYqn9Ci1EE",
+            "created_at": "2023-02-20T14:04:55.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627670634691014656",
+            "text": "{6} Test Automation University\n\nAprende a automatizar tus tests en el navegador y certificate.\n\nPuedes aprender en diferentes lenguajes de programacion: Java, JavaScript, Python, C# y mas.\n\n\u27a5  https://t.co/ihJZNXZ1d3 https://t.co/pvuiSF3FXg",
+            "created_at": "2023-02-20T14:04:54.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627670630161154048",
+            "text": "{5} Oracle Infraestructure\n\nConsigue todos los conocimientos que necesitas para administrar una infraestructura en la nube.\n\nAdemas te dan acceso a recursos gratuitos de Oracle para poder completar la certificacion y para tus propios proyectos.\n\n\u27a5  https://t.co/1yJtVAOGDo https://t.co/phq8FGjLtd",
+            "created_at": "2023-02-20T14:04:53.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627670620518449153",
+            "text": "{3} FreeCodeCamp\n\n\u00a1Contenido en espanol y gratis!\n\n8 Certificaciones disponibles:\n- Diseno web responsive\n- Algortimos de JavaScript y Estructuras de Datos\n- React.js\n- Visualizacion de datos\n- BackEnd y Apis\n- Y 3 de Python\n\n\u27a5 https://t.co/P5o31u5QtB https://t.co/AXBIyLBeQx",
+            "created_at": "2023-02-20T14:04:51.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627670615359471618",
+            "text": "{2} Python\n\n\u00bfYa sabes este lenguaje de programacion?\n\n\u00a1Animate a conseguir estas certificaciones muy vinculadas a la Inteligencia Artificial y el Machine Learning!\n\n- Ciencias de Datos con Python y Big Data.\n- IBM Cloud y Kubernetes.\n\n\u27a5  https://t.co/oBwxIoZ8Xc https://t.co/4WQQ5wBSIA",
+            "created_at": "2023-02-20T14:04:50.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627670610787565569",
+            "text": "{1} Harvard\n\n\u00bfEstudiar en Harvard y conseguir un certificado gratuito? \u00a1Es posible!\n\nTienes toda la informacion aqui:\nhttps://t.co/1CZhWu5TxR\n\nSi quieres el certificado verificado (con mas valor) entonces si habra que pagar. https://t.co/FuOeAhYW47",
+            "created_at": "2023-02-20T14:04:48.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627670606790504448",
+            "text": "\u00bfQuieres CERTIFICACIONES gratis para PROGRAMADORES?\n\n\u00a1Te traigo buenas noticias! \n\nAQUI tienes una COLECCION de certificados que puedes hacer SIN COSTE.\n\n[ H I L O ] \u21e9",
+            "created_at": "2023-02-20T14:04:47.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627619800150147072",
+            "text": "@progesunam \u00a1Ahi nos vemos! \u2764\ufe0f",
+            "created_at": "2023-02-20T10:42:54.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627603186600009730",
+            "text": "La tecnica definitiva para solucionar bugs en tu codigo. https://t.co/f5a1rY97Tf",
+            "created_at": "2023-02-20T09:36:53.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627341583241687040",
+            "text": "@jantocv Tu riete...",
+            "created_at": "2023-02-19T16:17:22.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1627323542684545026",
+            "text": "\u00bfSabes que puedes ejecutar CUALQUIER codigo de JAVASCRIPT usando solo 6 simbolos?\n\n\u00bfNo te lo crees? Aqui te lo enseno: https://t.co/PUBESrBLbs",
+            "created_at": "2023-02-19T15:05:41.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626977490190098432",
+            "text": "@_yangenmanuel Jajajaja tengo 4 sudaderas de GitHub. \u2764\ufe0f",
+            "created_at": "2023-02-18T16:10:36.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626945752114102274",
+            "text": "De lunes a jueves estoy haciendo streams en Twitch para aprender y mejorar en programacion.\n\n\u27a1\ufe0f https://t.co/Wz7O5LmTpt\n\nHablamos de JavaScript, React, Desarrollo Web, CSS y mucho mas. \u00a1Pasate!",
+            "created_at": "2023-02-18T14:04:29.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626945747236098049",
+            "text": "{7} Under the Hood\n\nAprende como funciona por debajo React.\nDesde las props, hasta el estado y el render.\nTodo con diagramos y explicado al detalle.\n\n\ud83d\udd17 https://t.co/hwvQ5GhxHU https://t.co/6jPhA1Fdli",
+            "created_at": "2023-02-18T14:04:27.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626945743188635648",
+            "text": "{6} Awesome React\n\nColeccion de recursos, tutoriales y herramientas.\nResumen de los mejores componentes para usar en tu proyecto.\nGuia de articulos para seguir aprendiendo.\n\n\ud83d\udd17 https://t.co/pNMkssLyMa",
+            "created_at": "2023-02-18T14:04:27.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626945739161993217",
+            "text": "{5} React Patterns\n\nPatrones de diseno en React.\nComposicion de componentes y UI.\nEjemplos y explicaciones de cada uno.\nConsejos para mejorar rendimiento.\n\n\ud83d\udd17 https://t.co/0PwkEhQ1Yd",
+            "created_at": "2023-02-18T14:04:26.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626945733826908164",
+            "text": "{4} React Coding Challenges\n\nRetos de programacion para practicar tus conocimientos.\nActualmente cuenta con cuatro retos diferentes.\nNivel facil, medio y avanzado.\n\n\ud83d\udd17 https://t.co/jvQpnmeqUO https://t.co/O2urDi2RtR",
+            "created_at": "2023-02-18T14:04:24.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626945729678778370",
+            "text": "{3} Testing Workshop de Kent C. Dodds]\n\nEste repositorio es el material que usa en un workshop para aprender a hacer tests en React.\n\nTienes todos los ejercicios, con su solucion, en el propio repositorio.\n\n\u00a1Perfecto para aprender y practicar!\n\n\ud83d\udd17 https://t.co/FHOm0LaxxR",
+            "created_at": "2023-02-18T14:04:23.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626945724700131330",
+            "text": "{2} React Express\n\nAprende React con ejemplos interactivos\nFinaliza con una aplicacion de Todo\nTotalmente gratis y super practico\n\n\ud83d\udd17 https://t.co/TDYuYCUqQo https://t.co/DX09GLppUs",
+            "created_at": "2023-02-18T14:04:22.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626945720669417474",
+            "text": "{1} Preguntas de entrevista\n\nCasi 100 preguntas con ejemplos practicos\nExplicaciones sencillas y directas\nTotalmente en espanol\nDe principiante a avanzado\n\n\ud83d\udd17 https://t.co/zBp33i9qO9",
+            "created_at": "2023-02-18T14:04:21.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626945716810645505",
+            "text": "RECURSOS para APRENDER y MEJORAR en REACT\n\nTodos son totalmente GRATIS.\n\n[ H I L O ]",
+            "created_at": "2023-02-18T14:04:20.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626885390513721344",
+            "text": "Asi se empieza el fin de semana. https://t.co/RPvnEeJb62",
+            "created_at": "2023-02-18T10:04:37.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626861417583312896",
+            "text": "Video de 7 HORAS donde desarrollamos el clon desde cero:\nhttps://t.co/y9YaFkfclH\n\nTambien puedes encontrar todo el codigo fuente disponible en la descripcion del mismo video.",
+            "created_at": "2023-02-18T08:29:22.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626861413057630208",
+            "text": "\u00a1Plan para este fin de semana \ud83d\udd25!\n\nCREA un clon de TikTok con React DESDE CERO.\n\nSigue este video de 7 HORAS donde lo hacemos paso a paso:\n- Supabase para el backend\n- Vite como empaquetador de aplicaciones\n- Codigo disponible\n\nTe dejo el video en el siguiente tuit: https://t.co/oiIwvFRM7v",
+            "created_at": "2023-02-18T08:29:21.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626593974621466635",
+            "text": "\u00a1Este es el MEJOR buscador para PROGRAMADORES!\n\n- Extrae las respuestas de Stack Overflow\n- Te ofrece snippets de codigo directamente\n- Tiene herramientas para traducir entre lenguajes\n- Su ChatGPT para explicarte el codigo\n\nEs totalmente GRATIS:\nhttps://t.co/WjQuz6QMBJ https://t.co/RtrSWjZGvm",
+            "created_at": "2023-02-17T14:46:38.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626331442551705600",
+            "text": "Que alegria recibir estos mensajes. \u2764\ufe0f https://t.co/YMClakFeoF",
+            "created_at": "2023-02-16T21:23:26.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626322376936853504",
+            "text": "@carmenansio Esto pasa mas de lo que creemos, por desgracia.\n\nHay gente que fusila un curso, lo reedita o lo graba y luego le saca rendimiento sin mencionar el original ni siquiera.\n\nBien hecho en avisar al autor original para que tenga constancia.",
+            "created_at": "2023-02-16T20:47:24.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626266089637175299",
+            "text": "Hablamos en Twitch con el creador de CodeGPT.\n\nLa extension de ChatGPT para Visual Studio Code. \u00a1Tiene ya mas de 150.000 descargas!\n\nNos comenta sus secretos, como hacer una extension desde cero y mas. \u00a1Vente! https://t.co/zMBjsTNlrz",
+            "created_at": "2023-02-16T17:03:44.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626257778632269826",
+            "text": "[5] Webflow\n\nUna de las mas miticas.\n\nUn editor para crear el diseno que quieres hasta el minimo detalle.\n\nInterfaz muy sencilla para usuarios que quieren mas control.\n\nhttps://t.co/0k6vjQsCL7 https://t.co/cTiLCbkFdC",
+            "created_at": "2023-02-16T16:30:43.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626257772605059074",
+            "text": "[4] Glide\n\nTransforma tus datos en aplicaciones o webs\n\nConectate con un Excel o un AirTable...\n\n\u00a1Puedes crear hasta BackOffices enteros!\n\nhttps://t.co/oZKCrxR0iD https://t.co/Sp8zeWO9WG",
+            "created_at": "2023-02-16T16:30:42.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626257767504773121",
+            "text": "[3] mmm\n\nCon este nombre tan curioso tenemos la mas radical\n\nTiene un editor en tiempo real de tu pagina para cambiar textos o mover elementos\n\nGratis para siempre... a no ser que necesites un dominio propio (15$ al mes)\n\nhttps://t.co/2EzIMkfW5W https://t.co/b7XcuLQMoc",
+            "created_at": "2023-02-16T16:30:40.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626257762752536577",
+            "text": "[2] Super\n\nCrea tu proxima pagina con disenos super bonitos\nConexion con Notion para la base de datos\nDisponibles plantillas gratuitas\n\nhttps://t.co/c1Avw53QOb https://t.co/8iilMWQRQr",
+            "created_at": "2023-02-16T16:30:39.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626257757572571136",
+            "text": "[1] Typedream\n\nCrea desde un portfolio hasta una tienda\nConectate con Notion\nCientos de plantillas a elegir\n\nhttps://t.co/SV9rBimwlO https://t.co/ORn8dMOyOd",
+            "created_at": "2023-02-16T16:30:38.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626257753554489344",
+            "text": "\u00bfQuieres sacar una PAGINA WEB y no tienes ni idea de PROGRAMAR?\n\n\u00a1Te comparto las MEJORES herramientas NO CODE para conseguirlo!\n\nTodas con planes GRATUITOS.\n\n[ H I L O ]",
+            "created_at": "2023-02-16T16:30:37.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626235423629647875",
+            "text": "@SterlingMaury @DotCSV @MoureDev Claro que les falta mucho, era una bromilla. :)\n\nPero es innegable que ya, a dia de hoy, nos puede acelerar mucho.\n\nGitHub Copilot, por ejemplo.",
+            "created_at": "2023-02-16T15:01:53.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626234294321688579",
+            "text": "@DotCSV @MoureDev Vamos a aprovecharnos de ella hasta que nos quite el trabajo. \ud83d\ude02\n\nAunque, la verdad, muchas de estas IAs son simplemente una llamada a GPT-3. \u00a1Ojala salgan cosas mas potentes y especificas!",
+            "created_at": "2023-02-16T14:57:24.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626227965263753216",
+            "text": "\u00a1Deja que la IA escriba tus mensajes de commit!\n\niacommits lee tus ultimos cambios en el codigo y te genera el mensaje automaticamente.\n\nPara instalarla:\nnpm install -g aicommits\n\nLa utilidad es gratis pero debes usar tu API KEY de GPT-3. https://t.co/Al0YWRUwfg",
+            "created_at": "2023-02-16T14:32:15.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1626215086636277765",
+            "text": "\u00a1ChatGPT integrado en Visual Studio Code!\n\nHOY en Twitch, hablamos con el creador de Code GPT\n\nUna alternativa a GitHub Copilot que genera codigo y te explica el que ya tienes\n\nEmpieza a las 18:00H (hora Espana): https://t.co/Hlau41pS6F",
+            "created_at": "2023-02-16T13:41:04.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625981665804800005",
+            "text": "\u00bfNo recuerdas un comando?\n\n\u00a1Usa ChatGPT directamente en tu terminal!\n\nFunciona tan bien que parece magia:\nhttps://t.co/Smm7AUTJwA https://t.co/nKPClTFljT",
+            "created_at": "2023-02-15T22:13:33.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625965588823638029",
+            "text": "@S4vitar Mucho animo, Savi! El trabajo que haces en Twitch es enorme y siendo un nicho todavia mas merito.\n\nNos vemos a la vuelta! \ud83e\udd17",
+            "created_at": "2023-02-15T21:09:40.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625903913596596224",
+            "text": "\u00a1En Directo! Resolviendo una Prueba Tecnica de React desde cero.\n\nAprende useContext, useReducer y useId para crear un carrito de la compra.\n\n\u00a1Estamos en Twitch! Ven a aprender https://t.co/AdJbu4PewQ",
+            "created_at": "2023-02-15T17:04:35.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625858811214053379",
+            "text": "\u300b YOU\n\nUn chat conversacional integrado en su buscador\n\nDa explicaciones en Espanol detalladas y es totalmente GRATIS\n\nAqui un ejemplo:\nhttps://t.co/BEbWmInuNl https://t.co/VyfzHWybKr",
+            "created_at": "2023-02-15T14:05:22.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625858805220380677",
+            "text": "\u300b PERPLEXITY\n\nEl Google del futuro\n\nBusca lo que quieras y te extrae la informacion que quieres\nTe comparte las fuentes de donde ha extraido la informacion\n\nhttps://t.co/dDJa7Cj06x https://t.co/sQeAbi6uMp",
+            "created_at": "2023-02-15T14:05:20.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625858799893639179",
+            "text": "\u300b CHATSONIC\n\nLo mas parecido a ChatGPT pero con respuestas actualizadas a dia de hoy\n\n\u2713 Total acceso a Internet\n\u2713 Respuestas rapidas\n\u2713 100 generaciones gratuitas por mes\n\nhttps://t.co/FWv1mqWdR3 https://t.co/ygDIPNAT48",
+            "created_at": "2023-02-15T14:05:19.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625858795456053248",
+            "text": "ChatGPT es IMPRESIONANTE pero...\n\n\u00a1Existen alternativas todavia MAS POTENTES!\n\nTe comento las MEJORES que debes probar YA para mejorar tu productividad\n\n[ H I L O ]",
+            "created_at": "2023-02-15T14:05:18.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625845184733880321",
+            "text": "En este repositorio tienes todos los videos y proyectos:\nhttps://t.co/QfzuNKcSIr\n\nYa llevamos 5 proyectos realizados.\n\nVamos aprendiendo React mientras creamos ejercicios practicos.\n\nPerfectos para aumentar tu portfolio y seguir aprendiendo React:",
+            "created_at": "2023-02-15T13:11:13.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625845180279447553",
+            "text": "\u00a1Resuelve una prueba tecnica de React con useContext y useReducer!\n\nHOY en Twitch, creamos un carrito de la compra con estos hooks desde cero\n\nEmpezamos a las 18:00H (hora Espana): https://t.co/0r8kLagxjx",
+            "created_at": "2023-02-15T13:11:12.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625844126074691591",
+            "text": "@brujeriatech Ahi ando esperando que me den acceso. Pero se estan haciendo los interesantes. jajaja",
+            "created_at": "2023-02-15T13:07:01.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625821316187029505",
+            "text": "@jadrdev OBS, se ve en la foto clarito jajaja",
+            "created_at": "2023-02-15T11:36:22.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625783304166293504",
+            "text": "\u00a1Super emocionado de anunciar que presentare la T3chFest de este ano!\n\nJunto con mi querida Ari. \u2764\ufe0f\n\n\u00a1Nos vemos el 3 de marzo en Madrid! https://t.co/gH4uO4zxgH",
+            "created_at": "2023-02-15T09:05:19.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625777287621709825",
+            "text": "@pinchito Tienes razon, puede ser que el velo del hype haya caido.",
+            "created_at": "2023-02-15T08:41:25.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625775908719034368",
+            "text": "@ddialar Pues oye, es que me lo creo totalmente. De verdad, menudo downgrade ha pegado.",
+            "created_at": "2023-02-15T08:35:56.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625772244961050625",
+            "text": "@dovaldev Pues si saben contar... que no cuenten conmigo. jajajaja",
+            "created_at": "2023-02-15T08:21:23.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625772217177980931",
+            "text": "@eli_yya jajaja No se. Al principio a nivel de codigo hacia virguerias y ahora se hace un lio muy rapido o mete muchos bugs. Ademas que la version free peta muchisimo.",
+            "created_at": "2023-02-15T08:21:16.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625770386884272128",
+            "text": "\u00bfEs cosa mia o ChatGPT cada dia da peores respuestas? https://t.co/bLILy4a9QY",
+            "created_at": "2023-02-15T08:14:00.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625624653740867584",
+            "text": "@growuphr @gigitb_ @MoureDev \ud83d\ude0a Gracias por la recomendacion!",
+            "created_at": "2023-02-14T22:34:54.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625602080747520001",
+            "text": "Cuando tu hermana mayor te prepara una tarta de cumpleanos. \ud83d\ude02 https://t.co/zTLQHpOo9L",
+            "created_at": "2023-02-14T21:05:12.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625585811444883474",
+            "text": "@DiegoMacayaDev Me equivoque \ud83e\udd79\ud83d\ude05",
+            "created_at": "2023-02-14T20:00:34.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625582369762598912",
+            "text": "@Kevinu1996 \u00a1Casi todos tienen soporte para el!",
+            "created_at": "2023-02-14T19:46:53.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625570380051058696",
+            "text": "Crea copias profundas de objetos y arrays en JavaScript.\n\nCon structuredClone es muy facil y te evitas problemas de mutabilidad.\n\nTiene un soporte del 90% segun CanIUse.\n\nTe dejo un ejemplo: https://t.co/KvJXkveAY7",
+            "created_at": "2023-02-14T18:59:14.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625541378397683716",
+            "text": "Desarrollando un ChatGPT desde cero con JavaScript, React y Tailwind.\n\nDe codigo abierto y paso a paso.\n\n\u00a1Ven a ayudar! Estamos en Twitch. https://t.co/5KYjjovpKM",
+            "created_at": "2023-02-14T17:04:00.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625533887634980866",
+            "text": "Guia de Buenas Practicas en JavaScript \u2713\n\n- Nombrar variables y funciones\n- Objetos, clases y estructuras de datos\n- SOLID en JS\n- Testing y concurrencia\n- Resolucion de problemas\n- Comentarios\n\nDisponible gratis en Espanol y con ejemplos:\nhttps://t.co/L8aha6kAN3 https://t.co/oAUS6VvMwL",
+            "created_at": "2023-02-14T16:34:14.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625528643186266112",
+            "text": "@cruzrovira Awwww, muchas gracias, Oscar! \u2764\ufe0f",
+            "created_at": "2023-02-14T16:13:24.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625496820888502272",
+            "text": "Mejora tu Logica de Programacion con estos recursos gratuitos:\n\nPractica 67 lenguajes de programacion\n\u00bb exercism\u2024com\n\nCon pruebas tecnicas de Meta o Uber\n\u00bb codesignal\u2024com/developers\n\nMejora en JavaScript y TypeScript\n\u00bb adventjs\u2024dev\n\nPara todos los niveles\n\u00bb codewars\u2024com",
+            "created_at": "2023-02-14T14:06:57.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625476982136885248",
+            "text": "@alvaro_chirou Lo han entrenado bien. jajajaja",
+            "created_at": "2023-02-14T12:48:07.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625476588576931840",
+            "text": "\u00a1Crea tu propio ChatGPT desde cero con JavaScript y React!\n \nHoy en directo, lo haremos de codigo abierto para que todo el mundo pueda participar.\n\nEstaremos a las 18:00H (Espana) en Twitch. https://t.co/ukty2b7RQM",
+            "created_at": "2023-02-14T12:46:33.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625475992264273924",
+            "text": "@corteshvictor @93gsaez Creo que no estas entendiendo el chiste.\n\nComo dices, C# puede sumar una vez haces algun tipo de conversion.\n\nEl tema es que JavaScript los suma a pelo y hace cosas extranas e inesperadas en lugar de petar.\n\nVamos, que el chiste en realidad habla bien de C#... \ud83d\ude05",
+            "created_at": "2023-02-14T12:44:11.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625436114638045184",
+            "text": "Lo podeis comprar aqui:\nhttps://t.co/OAYEHWMhKT\n\nNo se me ocurre mejor regalo. jajaja",
+            "created_at": "2023-02-14T10:05:43.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625436113027358720",
+            "text": "Este San Valentin no regales flores.\n\nRegalale este peluche y dile que todo va a ir bien. https://t.co/ji6wy6nBJo",
+            "created_at": "2023-02-14T10:05:43.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        },
+        {
+            "tweet_id": "1625435011607416832",
+            "text": "@HunkStalker Desde luego, Bing Search se nota que usa una version mejorada de ChatGPT. Vamos a alucinar.",
+            "created_at": "2023-02-14T10:01:20.000Z",
+            "user_id": "4882508632",
+            "username": "midudev"
+        }
+    ]
+}

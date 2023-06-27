@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1620529464533983233",
+            "text": "Buff \u00a1que cansino el tema!, con dos \"a\" me sentiria mas identificada con la carta. https://t.co/Crqn1ycT0v",
+            "created_at": "2023-01-31T21:08:26.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1608126059156832257",
+            "text": "La calima nos trajo \u201ccigarrones\u201d a La Palma. https://t.co/e8KmE6GMIr",
+            "created_at": "2022-12-28T15:41:44.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1606407534830657542",
+            "text": "@Aliciasuarezpe_ @eugenioglez70 \u00a1Un gusto conversar contigo!",
+            "created_at": "2022-12-23T21:52:56.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1604950716862406663",
+            "text": "@laudocampo @eugenioglez70 @laautonomica \u00a1Gracias a ti Laura!",
+            "created_at": "2022-12-19T21:24:04.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1555884593353555968",
+            "text": "@JuanjoMartinS @GTCtelescope @laautonomica @veronicamartinj \u00a1Que buen recuerdo! Se alineo el universo de los Martin\ud83d\ude01, gracias Juanjo, \u00a1te admiro!",
+            "created_at": "2022-08-06T11:52:48.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1529877344776757248",
+            "text": "@Ana_C_1969 @laautonomica \u00a1Gracias Ana! A seguir disfrutando de Canarias\ud83e\udd70",
+            "created_at": "2022-05-26T17:29:17.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1501583990599335937",
+            "text": "@rakelglez14 @laautonomica @tot_canarias @eugenioglez70 @RTVCes Muchas gracias por su comentario. La sintonia es la cancion de @anaguerra \u201cTarde o temprano\u201d",
+            "created_at": "2022-03-09T15:41:36.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1494786855082074116",
+            "text": "\u00a1Companeros/as de lujo! https://t.co/SLO90wI5CE",
+            "created_at": "2022-02-18T21:32:12.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1474014173193457669",
+            "text": "Nos escuchamos pronto, \u00a1felices fiestas! https://t.co/K1MEU0FWmz",
+            "created_at": "2021-12-23T13:48:59.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1445380427183706112",
+            "text": "\u00a1Gracias por atendernos! https://t.co/sP3CMqFVlZ",
+            "created_at": "2021-10-05T13:28:42.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1444810190377848839",
+            "text": "Se cumplen dos semanas. Asi esta esta noche. #volcanlapalma @laautonomica https://t.co/cgsKiA3a3Q",
+            "created_at": "2021-10-03T23:42:47.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1444631436485697537",
+            "text": "Pedro Sanchez de nuevo en La Palma para anunciar nuevas medidas de reconstruccion. Toda la informacion en @laautonomica #somosmasfuertesqueelvolcan #RTVCconLaPalma #rtvc https://t.co/CF8BYBRlx5",
+            "created_at": "2021-10-03T11:52:29.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1438487928687185920",
+            "text": "\u00bfTe apuntas? #canariasradio #rtvc https://t.co/kJLhaX1dga",
+            "created_at": "2021-09-16T13:00:22.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1428401627887804419",
+            "text": "Nunca me he quejado de la panza de burro, vuelve por favor.",
+            "created_at": "2021-08-19T17:01:01.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1369711358040739840",
+            "text": "@anamartincoello @tot_canarias @eugenioglez70 @andresmolina63 Gracias Ana, te echaremos de menos. \u00a1Mucha suerte!\ud83d\ude18",
+            "created_at": "2021-03-10T18:06:50.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1349796575560798208",
+            "text": "@perezestibaliz @laautonomica @tot_canarias @RTVCes @BDCanariasTV @eugenioglez70 \u00a1Gracias a ti! Que buen rato \ud83d\ude18",
+            "created_at": "2021-01-14T19:12:36.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1336252864809799685",
+            "text": "Contigo todo mejor! https://t.co/DHtZzX7qe8",
+            "created_at": "2020-12-08T10:14:44.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1327729357171929093",
+            "text": "\u00a1Gracias por tus palabras! https://t.co/aPAwEO7ptR",
+            "created_at": "2020-11-14T21:45:21.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1323688699989839878",
+            "text": "@SandraGolpeA3TV @A3Noticias \u00a1Eres buena hasta en los silencios Sandra, companera!",
+            "created_at": "2020-11-03T18:09:13.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1314281260563525638",
+            "text": "\u00a1 Las entrevistas, ahora, con Tomas Galvan, tienen su punto! https://t.co/0wFXjwCFz8",
+            "created_at": "2020-10-08T19:07:25.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1313562546801180674",
+            "text": "@MarcialMo \u00a1Que gran medico y que gran persona!",
+            "created_at": "2020-10-06T19:31:30.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1307024076544892929",
+            "text": "@ElvisSanfiel @tot_canarias @eugenioglez70 @laautonomica @RTVCes \u00a1a ti siempre!",
+            "created_at": "2020-09-18T18:29:57.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1305230605219659778",
+            "text": "@martarddz @RTVCes \u00a1Eres tan buena!",
+            "created_at": "2020-09-13T19:43:20.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1304389817451646976",
+            "text": "\u00a1Es una sensacion curiosa! https://t.co/bhJm2lLsLe",
+            "created_at": "2020-09-11T12:02:21.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1303381556871024641",
+            "text": "@TomasGalvanM @issbel2006 \u00a1Los oyentes salen ganando contigo Tomas! \ud83d\ude0d",
+            "created_at": "2020-09-08T17:15:53.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1303070201064427520",
+            "text": "\u00a1Gracias por seguirnos hoy lunes en el estreno, seguimos, manana mas!\n\u23f0 15:00\n\ud83d\udcfb Canarias Radio https://t.co/hPQd5uHCPK",
+            "created_at": "2020-09-07T20:38:40.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1302846425559072769",
+            "text": "\u00a1Ya suena la nueva temporada en @laautonomica, a esta hora con @Migueldaswani y todo el equipo!",
+            "created_at": "2020-09-07T05:49:28.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1302613515589562368",
+            "text": "\u00a1Manana nueva temporada en @laautonomica! https://t.co/9HditsHFQw",
+            "created_at": "2020-09-06T14:23:58.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1301894546545152003",
+            "text": "@MariaDomenechV @laautonomica @eugenioglez70 \u00a1Gracias Maria! Y yo de escuchar ese tandem con @KBarrosoG insuperable!!",
+            "created_at": "2020-09-04T14:47:02.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1301461329455308800",
+            "text": "\u00a1Equipazo en las mananas de @laautonomica! https://t.co/HquoX1tbH8",
+            "created_at": "2020-09-03T10:05:35.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1301220040394633219",
+            "text": "@andresillo1974 @anamartincoello @cecastroramos Jajajaja ay Andres, pero que pasa!!!\ud83d\ude0e",
+            "created_at": "2020-09-02T18:06:47.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1301154636720680961",
+            "text": "\u00a1Ya queda poco para empezar este nuevo reto! \u00a1Feliz de compartirlo con mi companero @eugenioglez70 en @laautonomica \ud83d\ude03 https://t.co/RcC0b3A0d5",
+            "created_at": "2020-09-02T13:46:54.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1300797323107274753",
+            "text": "@TomasGalvanM @TiempodeAlisios \u00a1Deseando escucharte Tomas! Encantada de que los oyentes de los sabados a los que tengo tanto carino cuenten con tu compania. \u00a1Mucha suerte  companero!\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+            "created_at": "2020-09-01T14:07:04.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1300456326649327617",
+            "text": "\u00a1Ilusionada con el nuevo proyecto en @laautonomica! https://t.co/2uwR1NaRia",
+            "created_at": "2020-08-31T15:32:04.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1281852893113573376",
+            "text": "\u00a1Suerte companero, en lo profesional, te admiro y en lo personal, te quiero! https://t.co/KK3qtLDHEz",
+            "created_at": "2020-07-11T07:28:40.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1269180928888393730",
+            "text": "@nauticacanaria Espero que no cierren el Cidemat. Alli hice hace anos un curso de buceo. Creo que es una pena que se pierda esa opcion deportiva en Tenerife.",
+            "created_at": "2020-06-06T08:14:48.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1243262173192900608",
+            "text": "La UME, Unidad Militar de Emergencias, hoy en La Palma @UMEgob #EsteVirusLoParamosUnidos https://t.co/N5CtAbAYO5",
+            "created_at": "2020-03-26T19:42:55.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1242904086871187464",
+            "text": "\u00a1Que ganas tenemos todos de contar buenas noticias! #EsteVirusLoParamosUnidos https://t.co/yPApQ7juPY",
+            "created_at": "2020-03-25T20:00:01.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1242533102565634052",
+            "text": "@TomasGalvanM Que linda!!! Esa sonrisa me recuerda a alguien \ud83d\ude0d",
+            "created_at": "2020-03-24T19:25:51.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1241844012992077827",
+            "text": "@RTVCes @edurnepergamino \u00a1Equipazo!",
+            "created_at": "2020-03-22T21:47:39.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1240923015573110784",
+            "text": "De la radio a casa. #EsteVirusLoParamosUnidos https://t.co/FZsfQdGRak",
+            "created_at": "2020-03-20T08:47:56.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1228286517359120384",
+            "text": "El embajador de Japon se compromete en La Palma a incentivar las colaboraciones en Astrofisica de su gobierno y expertos de su pais con la isla. @laautonomica @CabLaPalma https://t.co/ePZy8jvNcn",
+            "created_at": "2020-02-14T11:55:00.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1227932402863026176",
+            "text": "@RTVEAndalucia @rne @radio5_rne Jajaj me encanta!!! Yo quiero ese ventilador por favor!!! Que viva la radio!!!. Felicidades companeros y companeras de este medio tan magico.\ud83d\udcfb\ud83d\ude0d",
+            "created_at": "2020-02-13T12:27:53.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1217857681798705157",
+            "text": "@cynmtn No pierdas la esperanza, tal vez amplian vuelos, otra cosa es donde dormir.",
+            "created_at": "2020-01-16T17:14:32.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1217800904457498626",
+            "text": "@Mayte84605941 @GustavodeDios @LosIndianos @laautonomica A mi la radio antigua me llego al corazon \ud83d\ude09",
+            "created_at": "2020-01-16T13:28:55.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1217799162428907521",
+            "text": "Presentacion este mediodia en Santa Cruz de  La Palma. https://t.co/BuQgXpctN9",
+            "created_at": "2020-01-16T13:22:00.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1217798123583688704",
+            "text": "Tambien el cartel de \"Los Indianitos\". Su autora es Ivana Lorenzo Perez, tambien alumna de la escuela de Arte Manolo blahnik. https://t.co/bugjNfqrZV",
+            "created_at": "2020-01-16T13:17:52.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1217796984985280512",
+            "text": "Ya conocemos el cartel de @LosIndianos 2020. Su autora es Laura Abreu Diaz, alumna de la escuela de Arte Manolo blahnik. Te lo contamos en @laautonomica https://t.co/CEWUVhuHiR",
+            "created_at": "2020-01-16T13:13:21.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1213079328071786497",
+            "text": "El tema da para un debate y precisamente se quejan de que han faltado sus aportaciones y se ha actuado con prisas. https://t.co/v2nynhG5Ge",
+            "created_at": "2020-01-03T12:47:04.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1208705801650618368",
+            "text": "Bar Paris, Brena Baja, La Palma. Quinto premio 66212. En directo la Loteria de Navidad en @RTVCes y @laautonomica https://t.co/1JZe0WdPRr",
+            "created_at": "2019-12-22T11:08:14.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1208656144501268480",
+            "text": "Rtvc ya esta contando el sorteo de loteria de Navidad. Por primera vez radio y TV unidas para contar la suerte. @MariaDomenechV @mercedesmartinr @RTVCes @laautonomica https://t.co/vexsiq6H9f",
+            "created_at": "2019-12-22T07:50:55.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1206631815475273728",
+            "text": "@KBarrosoG Eso no se hace https://t.co/FyYyrGRV8N",
+            "created_at": "2019-12-16T17:46:57.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1200481081205628928",
+            "text": "Vicky Palma @MeteoRTVC, en Los Sauces parece que ha llovido algo ultimamente. https://t.co/olBqodW51u",
+            "created_at": "2019-11-29T18:26:08.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1193608357338386433",
+            "text": "Otra vez falta una hora para que cierren los colegios electorales en Canarias y ya conocemos los sondeos. #10N",
+            "created_at": "2019-11-10T19:16:23.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1193599291035672579",
+            "text": "Hasta que empiecen los especiales en Canarias Radio @laautonomica y Tv Canaria @RTVCes sobre el #10N voy a contar cuantas veces dice Ferreras  \"atencion\". \ud83d\udc69\u200d\ud83d\udcbb #manias",
+            "created_at": "2019-11-10T18:40:21.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1193597194684764160",
+            "text": "@AncorRodriguez4 Jajajaj",
+            "created_at": "2019-11-10T18:32:01.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1193101284158689280",
+            "text": "A punto de empezar,  en directo... https://t.co/2uoirHbzaQ",
+            "created_at": "2019-11-09T09:41:27.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1190263285574197248",
+            "text": "Este sabado, en directo, a las 10:00 de la manana, en Canarias Radio.\ud83d\udcfb @laautonomica @RTVCes https://t.co/XHaQH69AfU",
+            "created_at": "2019-11-01T13:44:15.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1178784510688845826",
+            "text": "Andres Acosta, creador, como a el le gusta definirse, presenta su nueva coleccion #awara en su isla natal, #lapalma. Un canario universal, comprometido con la moda sostenible y el medio ambiente. Muchos le conocen... https://t.co/Ti4xDyB0Kj",
+            "created_at": "2019-09-30T21:31:42.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1177672134874816513",
+            "text": "Manana sabado \ud83d\udd59 10 :00 am, toca programa en Canarias Radio @laautonomica. Te dejo chuleta por si no la tienes sintonizada\ud83d\ude09\ud83c\udfa7 @RTVCes https://t.co/NSIH9YBqOR",
+            "created_at": "2019-09-27T19:51:31.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1177667623204659200",
+            "text": "@Lauryn1978 \u00bfEn serio? \u00a1ay Laura si tu y yo nos hubieramos conocido desde entonces que hasta hice noche en la puerta!\ud83e\udd23, pero delante de mi no te habria dejado poner,  ya te lo digo!",
+            "created_at": "2019-09-27T19:33:36.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1175331267245740032",
+            "text": "En 10 minutos empezamos,  en directo, en Canarias Radio...\ud83c\udfa7\ud83c\udfa4 https://t.co/iUfHGz4XoY",
+            "created_at": "2019-09-21T08:49:45.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1174787875306692608",
+            "text": "\u00a1Ya queda menos para el sabado! \u00a1seguimos con novedades en Canarias Radio!\ud83c\udfa7\ud83c\udfa4 https://t.co/aqq2S4Op2n",
+            "created_at": "2019-09-19T20:50:30.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1156267943199723521",
+            "text": "@Lauryn1978 @josuefumero Muy recomendable ese documental,  me encanto!",
+            "created_at": "2019-07-30T18:18:54.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1146883864310308876",
+            "text": "@joseluisdiaz2 Es tendencia por lo visto en muchos   ayuntamientos porque ya van unos cuantos y muchos trabajadores y pensionistas a ver si consiguen, si acaso, la subida del IPC. Lo llaman desafeccion de la politica.",
+            "created_at": "2019-07-04T20:49:55.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1146542991269666816",
+            "text": "@Lauryn1978 Jajajaj pues anda que la primera opcion...",
+            "created_at": "2019-07-03T22:15:25.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1146394133717815296",
+            "text": "@letimartinllare @MeteoRTVC Ya me gustaria!!!\ud83d\ude0a",
+            "created_at": "2019-07-03T12:23:55.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1146355583580352515",
+            "text": "@MeteoRTVC Gracias, me quedo con el \"de vez en cuando\"\ud83d\ude02",
+            "created_at": "2019-07-03T09:50:44.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1143079591348711424",
+            "text": "A punto de empezar la constitucion del @CabLaPalma. Lo contamos en Canarias Radio @laautonomica. https://t.co/Z0UbNHN2zw",
+            "created_at": "2019-06-24T08:53:06.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1142488325074432001",
+            "text": "En la radio @laautonomica informamos siempre con criterios periodisticos y dando voz a todas las fuerzas politicas y sectores sociales tal y como pone el documento. Me alegra que nos citen, #CanariasRadioExiste, pero lo que dice el documento no nos define. https://t.co/wYvQSbwZtP",
+            "created_at": "2019-06-22T17:43:37.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1141794366761132032",
+            "text": "Equipazo! https://t.co/wlODqdL0Xy",
+            "created_at": "2019-06-20T19:46:05.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1139231063929212929",
+            "text": "@Lindocalvito @Lidiaroguz @TomasGalvanM @TiempodeAlisios @KBarrosoG @GamaLgtb @laautonomica @RTVCes @CMMrtn Jajaj eso esta por ver...",
+            "created_at": "2019-06-13T18:00:26.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1139228922200150017",
+            "text": "@Lindocalvito @Lidiaroguz @TomasGalvanM @TiempodeAlisios @KBarrosoG @GamaLgtb @laautonomica @RTVCes @CMMrtn Jajaja Fer!!! puede ser una mezcla explosiva",
+            "created_at": "2019-06-13T17:51:55.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1139181749924028416",
+            "text": "@Lidiaroguz @TomasGalvanM @TiempodeAlisios @KBarrosoG @GamaLgtb @laautonomica @RTVCes @CMMrtn \u00a1Tomo nota!\ud83d\ude09",
+            "created_at": "2019-06-13T14:44:28.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1132604414513041408",
+            "text": "Programacion especial #Elecciones26M, en Canarias Radio @laautonomica. \u00a1Vive la radio! https://t.co/9DT5Fg729K",
+            "created_at": "2019-05-26T11:08:29.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1130524370311569411",
+            "text": "Me pregunto @rtvc si en otros medios de comunicacion, incluidos publicos, como @rtve @RTVECanarias se promociona tanto a su competencia @La_SER. Canarias Radio @laautonomica existe. https://t.co/WzjtBRr0pz",
+            "created_at": "2019-05-20T17:23:08.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1122563533127004161",
+            "text": "Aqui, en Canarias, abiertos todavia  los colegios electorales y recibiendo ya datos de encuestas y cabalas de ganadores y perdedores. \ud83e\udd14",
+            "created_at": "2019-04-28T18:09:37.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1111740532542312453",
+            "text": "No se si se puede ser mas motivador y simpatico que Antonio Esteva, @EstevaSexta, \u00a1pero esta dificil! https://t.co/xQjzlKUozk",
+            "created_at": "2019-03-29T21:22:52.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1111251137175404551",
+            "text": "@SandraGolpeA3TV @A3Noticias Cuidate mucho\u2764. Me ha encantado conocerte en el curso de locucion. Siempre los mas grandes son los mas humildes. Me llevo a Canarias una gran experiencia y ganas de repetir!",
+            "created_at": "2019-03-28T12:58:11.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1111174241381163008",
+            "text": "Este sabado presenta @TiempodeAlisios, @Javier_granados, atentos a este reportaje de @TomasGalvanM \ud83c\udfa7 https://t.co/KlCDvWuBP4",
+            "created_at": "2019-03-28T07:52:38.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1106160727239376897",
+            "text": "\u00bfSe supone que es gracioso lo de nombrar el restaurante en este tema de abusos de un medico contra mujeres? @laprovincia_es https://t.co/yJl8RWK5At",
+            "created_at": "2019-03-14T11:50:43.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1101581476779442177",
+            "text": "\u00a1Lo firmo! https://t.co/DrzxLl4VT5",
+            "created_at": "2019-03-01T20:34:25.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1096697062782103554",
+            "text": "Hoy viene a @TiempodeAlisios Maria Milagros Correa Guzman, para hablar de como era Tenerife hace 50 anos. No te pierdas su voz y su timple. https://t.co/K9MvkTNA8W",
+            "created_at": "2019-02-16T09:05:30.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1096465913132605440",
+            "text": "@MMeneses33 @miguelmguedes @laautonomica @Carlos_1963_ @victorhugopi @eugenioglez70 @RTVCes @joseluisdiaz2 @MariaDomenechV @KBarrosoG @TodoGolesRadio \u00a1Te echare de menos!",
+            "created_at": "2019-02-15T17:46:59.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1096465391004643328",
+            "text": "Gran reportaje manana en @laautonomica, en @TiempodeAlisios, guion de @TomasGalvanM y montaje de @Gustavowijeweer \ud83c\udfa7\ud83c\udfa4 https://t.co/W86JDrmuU2",
+            "created_at": "2019-02-15T17:44:55.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1095673505713053696",
+            "text": "\u00a1Gracias Radio por existir! Feliz dia de la radio. https://t.co/9yONd4w4BI",
+            "created_at": "2019-02-13T13:18:15.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1050055421937897472",
+            "text": "El premio Nobel de Fisica de 2015, Takaaki Kajita, el ministro de ciencia,  Pedro Duque y el presidente del Cabildo de La Palma,  Anselmo Pestana, en la inauguracion del nuevo telescopio... https://t.co/nvOe9fDIHX",
+            "created_at": "2018-10-10T16:08:16.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1050024697805574144",
+            "text": "Corte de cinta al estilo japones para inaugurar el nuevo telescopio del Roque de los Muchachos, en La Palma. en Roque de los Muchachos Observatory https://t.co/2wRFtVSz78",
+            "created_at": "2018-10-10T14:06:11.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1050022004743647232",
+            "text": "Inauguracion del nuevo telescopio del Roque de los Muchachos, en La Palma, por el ministro de ciencia, Pedro Duque. #ciencia, #LaPalma, #Canarias en Roque de los Muchachos Observatory https://t.co/8i51YwCUzu",
+            "created_at": "2018-10-10T13:55:29.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1049259863656882178",
+            "text": "A las tres de la tarde Bajada de La Virgen de Guadalupe, en directo, en Canarias Radio, con Maria Domenech,  Kiko Barroso, Ana Freire, Fernando Gonzalez y David Morales. #Lustrales... https://t.co/btxVUVvRe6",
+            "created_at": "2018-10-08T11:27:00.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1049038291184615425",
+            "text": "\u00a1Que amable Juanes! en Parador de La Gomera https://t.co/uQJUvt4nZL",
+            "created_at": "2018-10-07T20:46:33.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1048665506092339201",
+            "text": "El lunes, desde las 3 de la tarde en Canarias Radio,  Bajada de la Virgen de Guadalupe. en La Gomera, Islas Canarias https://t.co/gYeJLkVIu0",
+            "created_at": "2018-10-06T20:05:14.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1048264580814790656",
+            "text": "Ya en La Gomera para contar en Canarias Radio las Fiestas Lustrales de La Gomera. #LaGomera, #Lustrales. en Alajero, Canarias, Spain https://t.co/FRuYdirR9J",
+            "created_at": "2018-10-05T17:32:06.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1045412895272652802",
+            "text": "@Lauryn1978 Y que lo digas! Irrepetible!",
+            "created_at": "2018-09-27T20:40:31.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1043404182865293313",
+            "text": "Listas para la seccion \"Mi gente\" de Tiempo de alisios. Nos escuchamos a las 10:00 am, en Canarias Radio. \u00a1Que soplen buenos vientos!\ud83c\udf2c\ud83c\udfa4\ud83d\udcfb\ud83c\udfa7 https://t.co/hjWsLqZhx5",
+            "created_at": "2018-09-22T07:38:37.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1042833071534473217",
+            "text": "@issbel2006 @TiempodeAlisios @laautonomica Gracias Isabel!!!",
+            "created_at": "2018-09-20T17:49:13.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1007190279332483073",
+            "text": "Santa Cruz de La Palma concede la insignia de oro a \"Soso\", la Negra Tomasa de Los Indianos. @laautonomica https://t.co/RJ7FHuIyAr",
+            "created_at": "2018-06-14T09:17:29.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "1001920742144004098",
+            "text": "@DavidRprod @laautonomica @Lauryn1978 @cecastroramos @Carlos_1963_ @AntonioJose_Fde @raquelquinones5 @NoemiGalvan78 @paolallinares @Javier_granados @RTVCes Jajajaj...\u00a1falta me hacia!",
+            "created_at": "2018-05-30T20:18:14.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "995222293138890752",
+            "text": "@ComeparaLlevar @jrodriguezalamo Jajajajaj",
+            "created_at": "2018-05-12T08:40:59.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        },
+        {
+            "tweet_id": "994295596323364865",
+            "text": "@jrodriguezalamo Gracias a todos... ya recorde que puse: Federico, para recordar llamarlo\ud83d\ude0a",
+            "created_at": "2018-05-09T19:18:37.000Z",
+            "user_id": "634867789",
+            "username": "mercedesmartinr"
+        }
+    ]
+}

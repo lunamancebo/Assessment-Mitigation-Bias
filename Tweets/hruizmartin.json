@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1628114416519548941",
+            "text": "@isaacguerrerop @profesmadeinuk @EfectoMcguffin @mallemar Tanto para ensenar a leer como para ensenar a escribir, no parece haber diferencias relevantes si se hace con letra ligada o letra \"de imprenta\". No es una variable que deba preocuparnos demasiado.",
+            "created_at": "2023-02-21T19:28:20.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1627770137657937920",
+            "text": "@carsecor \u00a1Felicidades, Carlos! \ud83d\ude4c\ud83c\udffb",
+            "created_at": "2023-02-20T20:40:17.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1627768036139716613",
+            "text": "@esperanzag_s \u00a1Enhorabuena, Esperanza! \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+            "created_at": "2023-02-20T20:31:56.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1627767328480940034",
+            "text": "@nolo14 @sebasesrad @CMeritocraciaUN @c_magro @carlcandel @AYtranslator @Dani_Turienzo @mallemar @garblaman @imgende @NuriaLopezRoca @turmasalduitana Mil gracias por la mencion, Manuel. \u00a1Un abrazo!",
+            "created_at": "2023-02-20T20:29:08.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1626890581417902085",
+            "text": "@profesmadeinuk @maestroll11 @MarianaMorale19 \u00a1Iba a decir exactamente lo mismo! \ud83e\udd23 \u00a1Espero que los disfrutes!",
+            "created_at": "2023-02-18T10:25:15.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1625903164267409431",
+            "text": "@jacreslun @paidografia Un hilo repleto de imprecisiones y pseudociencia...",
+            "created_at": "2023-02-15T17:01:36.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1624481284197171201",
+            "text": "@JC_avenda Hola, Jorge. Pues diria que para ayudarte en ese proposito el mas oportuno seria \"Aprendiendo a aprender\". \u00a1Que vaya muy bien!",
+            "created_at": "2023-02-11T18:51:34.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623793766401179648",
+            "text": "@pitiklinov Claro, y tambien lo podemos plantear al reves: \"el cerebro es tan complejo que nos permite lograr cosas tan extraordinarias como entenderlo\".\nNinguno de los dos es un argumento valido.",
+            "created_at": "2023-02-09T21:19:37.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623707111761887235",
+            "text": "@nolo14 @unizar @pbeltranp @MathBits @ISTFoundation \u00a1Muchas gracias, Manuel! \u00a1Un abrazo!",
+            "created_at": "2023-02-09T15:35:17.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623684385328271362",
+            "text": "Orgulloso de participar en la creacion de la Catedra Math Bits de Educacion Matematica de la @unizar, que inicia hoy su andadura bajo la direccion del gran @pbeltranp. Su mision consiste en transferir el conocimiento cientifico en didactica matematica a los centros educativos. https://t.co/aCsZYw8QFj",
+            "created_at": "2023-02-09T14:04:58.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623669691465056257",
+            "text": "@profesoratticus @JoseMsguer Eso que senalas es muy interesante, pues para los interpretes nos parece normal que repasen \"evocando\"; pero cuando se trata de adquirir conocimientos, muchos creen que vale con observar a otro explicandolos (oralmente o por escrito) en vez de tratar de hacerlo uno mismo.",
+            "created_at": "2023-02-09T13:06:35.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623624435314950144",
+            "text": "@JoseMsguer @profesoratticus En efecto, ese es uno de los beneficios indirectos de evocar. Pero solo ocurre si evocas. Si te limitas a releer no te percatas de lo q realmente no sabes (o no serias capaz de evocar sin leerlo de nuevo). Luego hay beneficios directos por el hecho q lo evocado se recuerda mejor.",
+            "created_at": "2023-02-09T10:06:45.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623601429721088000",
+            "text": "@profesoratticus Eso, ademas de otros beneficios metacognitivos. \nAqui te dejo un hilo al respecto, por si te interesa ahondar en el concepto de la practica de la evocacion (retrieval practice):\nhttps://t.co/xORbYYZvke",
+            "created_at": "2023-02-09T08:35:20.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623600794057449472",
+            "text": "@profesoratticus La importancia radica en que repasar por medio de evocar lo aprendido (para explicarlo, aplicarlo, practicarlo, etc.), como si nos evaluaramos, en vez de hacerlo volviendo a consultarlo, tiene efectos diferenciales en la durabilidad y capacidad de transferencia de lo aprendido.",
+            "created_at": "2023-02-09T08:32:49.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623598841994919936",
+            "text": "@JoseMsguer @profesoratticus Entonces, si entiendes el concepto, \u00bfte sigue pareciendo una cuestion estetica diferenciar entre evocar y repasar?",
+            "created_at": "2023-02-09T08:25:03.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623598443334598659",
+            "text": "@JoseMsguer @profesoratticus No hay un concepto tuyo y uno mio. La practica de la evocacion (retrieval practice en ingles) se refiere a recuperar de la memoria lo aprendido (para explicarlo, aplicarlo, ponerlo en practica) en vez de consultarlo de nuevo. La diferencia conlleva beneficios para el aprendizaje.",
+            "created_at": "2023-02-09T08:23:28.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623377726940844049",
+            "text": "@JoseMsguer @profesoratticus Y te garantizo que ese matiz es crucial en cuanto a los distintos resultados que alcanzan los estudiantes repasando de un modo o de otro. Lo cual lo convierte en una precision lexica muy relevante.",
+            "created_at": "2023-02-08T17:46:25.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623377137729212425",
+            "text": "@JoseMsguer @profesoratticus 1) Haciendolo a partir de tus conocimientos, no mirando como lo ha hecho otra persona.\n2) Explicandotelos y aplicandolos para calcular el IRPF, en vez de releerlos.\n\u00bfPor que dices que no encaja? \u00bfComprendes que evocar es ponerse a prueba?",
+            "created_at": "2023-02-08T17:44:05.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623346188899561473",
+            "text": "@profesoratticus Y lo mas importante es que el matiz no es baladi. Tiene repercusiones muy relevantes en el aprendizaje. Este  es precisamente uno de los resultados mas robustos en la investigacion en psicologia cognitiva del aprendizaje.",
+            "created_at": "2023-02-08T15:41:06.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623345577667731462",
+            "text": "@profesoratticus Creo que la diferencia es evidente. Hay distintas formas de repasar. No todas implican evocar. Y las encuestas a estudiantes reflejan que la mayoria de los que repasan no evocan, sino que releen. Tu mismo indicas que es una acepcion, una forma de entender el repaso. No la unica.",
+            "created_at": "2023-02-08T15:38:40.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623311983129899011",
+            "text": "@JoseMsguer @profesoratticus No es una cuestion estetica, sino una precision lexica muy relevante. Se puede repasar de muchas formas, unas mas eficaces que otras. Releer es un modo de repasar muy habitual pero poco eficaz. En cambio, evocar (tratar de recordar antes de comprobar si es correcto) es + eficaz.",
+            "created_at": "2023-02-08T13:25:11.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623310737086062593",
+            "text": "@profesoratticus En otras palabras, practicar la evocacion (retrieval practice) significa ponerse a prueba, evaluarse, en vez de volver a leer o consultar lo que se desea aprender sin haber intentado sacarlo de la memoria. Y tiene otras ventajas, como darnos mejor idea de que necesitamos revisar.",
+            "created_at": "2023-02-08T13:20:14.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623309893087162369",
+            "text": "@profesoratticus No es una cuestion estetica, sino una precision lexica muy relevante. Se puede repasar de muchas formas, unas mas eficaces que otras. Releer es un modo de repasar muy habitual pero poco eficaz. En cambio, evocar (tratar de recordar antes de comprobar si es correcto) es + eficaz.",
+            "created_at": "2023-02-08T13:16:52.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623306171938402304",
+            "text": "@SanabriaLucenaD @a_garciahermoso Eso es. Ademas debemos repetir lo de siempre: correlacion no implica causalidad.",
+            "created_at": "2023-02-08T13:02:05.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1623073248572317699",
+            "text": "@MoisLlorente @Librosalaula Comprender algo no depende de tecnicas de estudio, sino de tener los conocimientos previos oportunos, de haberlos podido construir por medio de buenas secuencias didacticas y de tiempo y oportunidades para lograrlo. El problema que indicas no se resuelve con tecnicas de estudio.",
+            "created_at": "2023-02-07T21:36:32.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1622313775452790792",
+            "text": "@AntonioCode Desafortunado titular que solo busca el clic. Mas preciso hubiera sido: Un estudio (de 2018, por cierto) sugiere que leer en voz alta es mejor tecnica de estudio que leer en silencio, aunque la diferencia es muy pequena y hay estrategias mucho mas eficaces.",
+            "created_at": "2023-02-05T19:18:39.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1622277237192916997",
+            "text": "@abrahamgprieto Muchas gracias, Abraham. Me alegra que te haya gustado el libro, aunque vaya dirigido a un publico juvenil. Espero que tus hijos lo disfruten tambien. Veras que \"Aprendiendo a aprender\" es muy parecido en el contenido, pero distinto en la forma y profundidad. \u00a1Un saludo!",
+            "created_at": "2023-02-05T16:53:28.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1621570334250999809",
+            "text": "@tolobv \u00a1No se si me conviene que partas con tan altas expectativas! \u00a1Pero muchas gracias!",
+            "created_at": "2023-02-03T18:04:29.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1621553045162033152",
+            "text": "@tolobv Pues solo puedo decir que espero que te resulte interesante. \u00a1Y muchas gracias por leerlo y compartirlo!",
+            "created_at": "2023-02-03T16:55:47.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1621552560568926208",
+            "text": "@orientacayon \u00a1Pues espero que disfrutes tambien con el resto! \u00a1Buena lectura!",
+            "created_at": "2023-02-03T16:53:52.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1621492345056149505",
+            "text": "@chewy_20 \u00a1Oh! \u00a1Espero que su lectura te resulte estimulante! \u00a1Gracias por compartirla!",
+            "created_at": "2023-02-03T12:54:35.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1621192670713454595",
+            "text": "@Manel_Sanyudo @profesmadeinuk @EfectoMcguffin \u00bfQue es una caja de aprendizaje?",
+            "created_at": "2023-02-02T17:03:47.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1621044817344987141",
+            "text": "@HistCotidianas @Selenita_Valery Oh, ya veo. El pantallazo que muestras no es de una revista cientifica, sino de un noticiario web. Asi que para probar tu tesis de que en las revistas cientificas se alerta de que la ciencia avanza usas un pantallazo de una web que no es de una revista cientifica. Estupendo.",
+            "created_at": "2023-02-02T07:16:16.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1621032593625067521",
+            "text": "@HistCotidianas @Selenita_Valery Tu ultima frase es totalmente innecesaria y desafortunada. Leo articulos cientificos cada dia desde hace mas de 15 anos y jamas he visto ese aviso tan naif. Consultando las revistas cientificas puede verse que no es nada habitual. Te ruego evites las descalificaciones personales.",
+            "created_at": "2023-02-02T06:27:42.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1620883212817027074",
+            "text": "@SergioMJGR @pmateo21 \u00a1Eso es! Porque si no llevan cebolla yo poca tortilla comeria \ud83e\udd23",
+            "created_at": "2023-02-01T20:34:07.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1620881721368662023",
+            "text": "@SergioMJGR @pmateo21 \u00bfNinguno ha planteado que dependera del tamano de las tortillas que prepare cada uno? \ud83d\ude03",
+            "created_at": "2023-02-01T20:28:11.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1620866319485898754",
+            "text": "@eneko_fc @rmsantaisabel @colegiosRC \u00a1Ha sido un placer, Inaki! \u00a1Gracias por la invitacion!",
+            "created_at": "2023-02-01T19:26:59.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1620776989652312065",
+            "text": "@NachodeVicente @Claustrovirtual Lamento si no se entendio bien, pero lo que queria decir es que a veces cuesta evocar un recuerdo bien consolidado, mientras que otras veces resulta facil. La consolidacion y la capacidad de evocacion son procesos distintos. Ahi tienes la referencia de los Bjork para saber mas.",
+            "created_at": "2023-02-01T13:32:01.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1620125705425281024",
+            "text": "@Diegopreparado1 Me parece que fue William Deming quien dijo algo asi como: \"In God we trust; all others bring data.\"",
+            "created_at": "2023-01-30T18:24:03.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1620123913417277440",
+            "text": "@dennymade Por el momento no lo tengo previsto, pero nunca se sabe. Muchas gracias por su interes.",
+            "created_at": "2023-01-30T18:16:56.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1620122575593705472",
+            "text": "@dennymade Si buscas en Google \"learning styles myth\" encontraras muchos documentos. Aun mejor en Google Scholar, para referencias academicas. Tambien esta muy bien este video: https://t.co/WsSev7DvSe",
+            "created_at": "2023-01-30T18:11:37.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1620119837686272001",
+            "text": "@dennymade Claro. \u00bfPueden ser en ingles?",
+            "created_at": "2023-01-30T18:00:44.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1619741455962214401",
+            "text": "@Indomitus8 Si deseas leer algo distinto a lo habitual sobre ese tema, te recomiendo el capitulo 9 de \"What babies know\" de Elizabeth Spelke. \u00a1Disfruta de las clases!",
+            "created_at": "2023-01-29T16:57:11.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1619663519254986752",
+            "text": "@Psychon_ @A_IvanRodriguez @FisicoDelMal Tambien comento sucintamente esta circunstancia aqui: \nhttps://t.co/Z4pFhK4U1c",
+            "created_at": "2023-01-29T11:47:29.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1619662096249274368",
+            "text": "@Psychon_ @A_IvanRodriguez @FisicoDelMal Casi siempre me lamento de ello cuando hablo del potencial de ese conocimiento cientifico para ayudar a mejorar la educacion. En el libro de \"\u00bfComo aprendemos?\" indico lo siguiente: https://t.co/93kcX29tTj",
+            "created_at": "2023-01-29T11:41:50.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1619661411952779266",
+            "text": "@Psychon_ @A_IvanRodriguez @FisicoDelMal Hola, Juan Carlos. Como sabes trato de contribuir a transferir los conocimientos de las ciencias cognitivas a la comunidad educativa. En esta labor he notado que, a pesar de que sabemos muchas cosas relevantes desde hace tiempo, por algun motivo apenas han llegado a las aulas.",
+            "created_at": "2023-01-29T11:39:07.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1619660350236000257",
+            "text": "@undivaga @Psychon_ @A_IvanRodriguez @FisicoDelMal Me sorprende que opine de ese modo sobre un libro que no ha leido, y del que solo ha mirado parte del indice. Si bien tiene sus enormes limitaciones, el libro va mucho mas alla de lo que usted ha deducido sin leerlo. Gracias y un saludo.",
+            "created_at": "2023-01-29T11:34:53.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1619393685854253056",
+            "text": "@Rodericus Muchas gracias, Rodrigo. Si, el primero va expresamente dirigido a docentes y enfocado al ambito educativo. El segundo es para conocer mejor que es la memoria y como funciona, y entender su relevancia y sus repercusiones en los diversos aspectos de nuestra vida.",
+            "created_at": "2023-01-28T17:55:16.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1619266095525007360",
+            "text": "@BeatrizMDC1 @da_dedo \u00a1Asi es! \u00a1Un saludo!",
+            "created_at": "2023-01-28T09:28:16.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1619260066686963722",
+            "text": "@BeatrizMDC1 @da_dedo Tambien podemos aprovechar mejor la capacidad de la MT disponiendo un entorno sin distracciones, dosificando el aprendizaje, espaciandolo para ir consolidando lo aprendido... En fin, valiendose de las recomendaciones de la Teoria de la Carga Cognitiva.",
+            "created_at": "2023-01-28T09:04:18.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1619257585005395969",
+            "text": "@BeatrizMDC1 @da_dedo Por otro lado, la ventaja que proporciona la codificacion dual tampoco se puede \"trabajar\". Lo que se puede es aprender esa estrategia y usarla para aprovechar mejor la capacidad de la MT (y el modo en que funciona la memoria a largo plazo, estableciendo conexiones).",
+            "created_at": "2023-01-28T08:54:27.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1619256755409793024",
+            "text": "@BeatrizMDC1 @da_dedo De lo que depende sobre todo es de los conocimientos que hemos adquirido, la profundidad con que los hemos adquirido y el grado de automatizacion que hemos logrado en las tareas. Eso no se puede \"trabajar\" de manera general. Es especifico de lo que aprendemos.",
+            "created_at": "2023-01-28T08:51:09.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1619246595438174209",
+            "text": "@A_IvanRodriguez Muchisimas gracias, Antonio. No podemos mejorar la MT de forma general mediante su ejercitacion. Pero aquello que aprendemos en profundidad ocupa menos \"espacio\" en la MT. Cuanto mejor sabemos sobre algo, mejor se nos da pensar con y sobre ello, y aprender mas acerca de ello.",
+            "created_at": "2023-01-28T08:10:47.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618956899692744704",
+            "text": "@mediinacris @EfectoMcguffin Muchas gracias. Si la hay, no es relevante. Hay diferencias al tomar apuntes (pequenas), quizas porque a mano somos mas lentos y eso nos obliga a resumir sobre la marcha. Pero si tenemos tiempo, lo importante es el procesamiento semantico que hacemos con la informacion.",
+            "created_at": "2023-01-27T12:59:38.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618956284778385408",
+            "text": "@GmaJegopu Pero estas dando por hecho que hay estilos cognitivos. Las pruebas no permiten concluir tal cosa (dejando de lado casos asociados a trastornos), o por lo menos no hay pruebas de que ajustar la ensenanza a esos supuestos estilos sirva de nada.",
+            "created_at": "2023-01-27T12:57:11.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618856884425080832",
+            "text": "@lmmencia Hola, Loli. Es improbable pero no imposible.",
+            "created_at": "2023-01-27T06:22:12.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618855492608200706",
+            "text": "@GmaJegopu Puedo intentarlo. \u00bfQue dudas tienes?",
+            "created_at": "2023-01-27T06:16:40.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618600221596061697",
+            "text": "@mr_rookes @profesmadeinuk @ferrero_mar @psyacademy_ @Profesauria1 @mininacheshire Insisto, tambien hay pruebas a favor de que la Tierra es plana. Pero resulta que tambien encajan con que no lo sea. Te agarras a un clavo ardiendo, David. Si de Juan o de mi no te fias, discute con una de las personas que mas sabe sobre el constructo inteligencia: @ROBERTO_COLOM",
+            "created_at": "2023-01-26T13:22:19.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618597926720409604",
+            "text": "@mr_rookes @profesmadeinuk @ferrero_mar @psyacademy_ @Profesauria1 @mininacheshire Ya, David, pero es que nadie la ha actualizado, y por lo tanto no existe ninguna \"version\" que sea valida. Ponerse en la posicion de que \"alguien ya la probara\" no es cientifico, y menos con todas la pruebas en su contra.",
+            "created_at": "2023-01-26T13:13:12.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618595344069324801",
+            "text": "@mr_rookes @edithprou1 @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire Entonces escribiste un libro donde das la teoria por valida... Comprendo perfectamente que te cueste aceptar que no lo sea. Yo he debido retractarme varias veces y, aunque es lo correcto, nunca es agradable.",
+            "created_at": "2023-01-26T13:02:56.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618594186344935425",
+            "text": "@mr_rookes @edithprou1 @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire \u00bfPor que?",
+            "created_at": "2023-01-26T12:58:20.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618579695859298304",
+            "text": "@mr_rookes @edithprou1 @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire Eso intentamos, si.\nA ver, en un twit, \u00bfme podrias resumir tu posicion en relacion a la teoria de las IM de Gardner, por favor? Me perdi con tantas vueltas... Gracias por anticipado.",
+            "created_at": "2023-01-26T12:00:45.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618572464245862402",
+            "text": "@mr_rookes @edithprou1 @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire No me malinterpretes, no estoy hablando de interes economico. Me referia a que probablemente has estado incluyendo las IM en tus formaciones, y como es logico, ahora te resulta conflictivo aceptar que quizas fue una equivocacion. En ciencia nos pasa frecuentemente.",
+            "created_at": "2023-01-26T11:32:01.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618571332232544256",
+            "text": "@chungaanonima @mr_rookes @edithprou1 @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire No, no sirven, ni esa observacion tenia ese cometido. Pero a veces vale la pena reflexionar sobre que hace que uno se incline por seguir defendiendo una teoria que la comunidad cientifica no respalda.",
+            "created_at": "2023-01-26T11:27:31.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618570412669169664",
+            "text": "@mr_rookes @edithprou1 @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire Aplica a todas las piruetas que estas dando para tratar de salvaguardar una teoria que hace aguas por todas partes.",
+            "created_at": "2023-01-26T11:23:52.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618538255401783296",
+            "text": "@mr_rookes @edithprou1 @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire Pero aqui toca aplicar otro principio basico del metodo cientifico: la navaja de Ockham.\nEn fin, como ya te han dicho por ahi, tus motivaciones por seguir sosteniendo una teoria que la comunidad cientifica ha descartado parecen basados en un compromiso personal.",
+            "created_at": "2023-01-26T09:16:05.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618537414330572800",
+            "text": "@mr_rookes @edithprou1 @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire Claro, David, pero el texto continua, y dice que el motivo es meramente argumentativo: siempre puedes decir que los estudios que lo refutan no son de confianza o su contradiccion es aparente. Y asi podriamos estar siempre sosteniendo que la Tierra es plana. --&gt;",
+            "created_at": "2023-01-26T09:12:45.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618311588553035776",
+            "text": "@mr_rookes @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire David, si quieres seguir sosteniendo una teoria que no encaja con una enorme cantidad de datos empiricos, alla tu. Cuando una teoria resulta ser acertada, el tiempo le da la razon. Se acumulan las pruebas a su favor y los escepticos terminan abrazandola. No es el caso de las IM.",
+            "created_at": "2023-01-25T18:15:24.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618308388047425536",
+            "text": "@mr_rookes @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire No, un solo experimento no puede confirmar una teoria, solo puede aportar pruebas a su favor. En cambio, un solo experimento puede refutar una teoria (asumiendo que este bien hecho y sea replicable).",
+            "created_at": "2023-01-25T18:02:41.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618307730166677506",
+            "text": "@mr_rookes @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire Si una teoria no es capaz de explicar un conjunto de resultados (pruebas contradictorias) ya no vale, por muchos resultados que si explique.",
+            "created_at": "2023-01-25T18:00:04.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618307343879659521",
+            "text": "@mr_rookes @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire No es asi. En absoluto. La ciencia consiste en refutar teorias. No es posible confirmar una teoria, solo aportar pruebas en su favor. Puede que estes confundiendo los resultados negativos (los que no aportan pruebas a favor) con los que aportan pruebas contradictorias.",
+            "created_at": "2023-01-25T17:58:32.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618298076053254145",
+            "text": "@mr_rookes @ferrero_mar @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire Disculpa, David. En ciencia lo que importan no son los resultados que coinciden con una teoria, sino los que la refutan. Hay muchas observaciones que coinciden con la nocion de que la Tierra es plana, pero lo importante son las pruebas que son incompatibles con tal cosa.",
+            "created_at": "2023-01-25T17:21:42.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618295099418640384",
+            "text": "@PascualGil1 Tienes razon, suele estar sobrevalorada si se compara con los factores que atanen al alumno (entorno socioeconomico, habilidad cognitiva, etc.); pero no en relacion a los factores que dependen del docente.",
+            "created_at": "2023-01-25T17:09:52.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1618157379484520448",
+            "text": "@umbertoleon @smartinezho1 @_garcia_molina \u00a1Vaya! Deseo que disfrutes de la lectura, Umberto. Del mio solo indicar que se trata de un libro de divulgacion especialmente dirigido al publico no especialista. \u00a1Tenlo en cuenta, por favor! \ud83d\ude04 \u00a1Un abrazo!",
+            "created_at": "2023-01-25T08:02:37.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1617928320070602752",
+            "text": "@FisicoDelMal \u00a1Me alegra mucho que el libro te este resultando interesante y util! Y te estoy agradecido por que lo compartas. \u00a1Un saludo!",
+            "created_at": "2023-01-24T16:52:25.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1617824575592747008",
+            "text": "@carsecor @UV_EG \u00a1Enhorabuena a la @UV_EG por este gran fichaje! \u00a1Disfruta de esta nueva etapa, Carlos!",
+            "created_at": "2023-01-24T10:00:11.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1616412091765690368",
+            "text": "@mr_rookes @mininacheshire @psyacademy_ @Profesauria1 @profesmadeinuk @ferrero_mar David, el mismo Gardner reconocio que su teoria no es falsable, ergo que no puede someterse al escrutinio cientifico.\nTe rogaria que dejes de acusarnos de falta de rigor, por favor.",
+            "created_at": "2023-01-20T12:27:28.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1616348642679332865",
+            "text": "@mr_rookes @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire @ferrero_mar David, esto es Twitter y he resumido en un twit el hecho de que la propuesta de Gardner no tiene el sustento cientifico adecuado. Ahora mismo debo dejarte pero si quieres luego te paso articulos. Las personas en copia seguro que tambien los pueden aportar. Un abrazo.",
+            "created_at": "2023-01-20T08:15:21.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1616348022681776129",
+            "text": "@mr_rookes @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire @ferrero_mar Pasate cuando quieras por una facultad de psicologia a hablar con cualquiera de la rama cognitiva y, cuando te den su opinion, diles tambien que hablan sin rigor. Venga, un abrazo.",
+            "created_at": "2023-01-20T08:12:53.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1616347318441373697",
+            "text": "@mr_rookes @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire @ferrero_mar Ergo yo hablo sin rigor. Gracias.\n\nHe mirado el primer articulo y esta escrito por un senor que trabaja para una empresa que vende consultoria en inteligencias multiples (\"Multiple Intelligences Research and Consulting, Inc.\"). No me gustan las falacias ad hominem, pero... ejem.",
+            "created_at": "2023-01-20T08:10:05.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1616342055575232514",
+            "text": "@mr_rookes @psyacademy_ @Profesauria1 @profesmadeinuk @mininacheshire @ferrero_mar Disculpa, David, pero no es asi. Nos guste o no, la propuesta de Gardner no tiene el respaldo cientifico adecuado como para seguir sosteniendola. Su aplicacion, tampoco.",
+            "created_at": "2023-01-20T07:49:10.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1615985560165781504",
+            "text": "@JennySozoranga1 @germanrosm @profesmadeinuk @MarianaMorale19 Hola, Jenny. El de \"\u00bfComo aprendemos?\" puedes adquirirlo aqui:\nhttps://t.co/RdHjxdFPfW\nMuchas gracias por tu interes.",
+            "created_at": "2023-01-19T08:12:35.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1615594336640442369",
+            "text": "@germanrosm @profesmadeinuk @MarianaMorale19 \u00a1Muchas gracias, German!",
+            "created_at": "2023-01-18T06:18:00.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1615427151204913159",
+            "text": "@Profesauria1 @profesmadeinuk @mininacheshire @ferrero_mar Con todo el respeto, pero se trata de una nocion sin respaldo cientifico.",
+            "created_at": "2023-01-17T19:13:40.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614910358056992769",
+            "text": "@PepeMe @roserbatlle @profesmadeinuk @juantorreslopez Si, ademas aqui incido en un detalle importante que se suele pasar por alto: la necesidad de dar a los estudiantes una nueva oportunidad en el mismo tipo de tarea tras haber recibido el feedback. Si pasamos a otra tarea no les damos la opcion de mejorar ni de apreciar su mejora.",
+            "created_at": "2023-01-16T09:00:07.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614883154854088704",
+            "text": "@roserbatlle @profesmadeinuk @juantorreslopez @PepeMe \u00a1Muy interesante, Roser! Una curiosidad: \u00bfprobaste a repetir la actividad una vez mas (con otro texto, claro) tras haber dado feedback a los estudiantes sobre sus resumenes y haber compartido con ellos ejemplos adecuados del primer texto?",
+            "created_at": "2023-01-16T07:12:01.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614881133874876416",
+            "text": "@Pradagast @profesmadeinuk Lo siento, Jorge, pero no estoy familiarizado con esa literatura. Quizas quien te pueda ayudar precisamente es @ferrero_mar \n\u00a1Saludos!",
+            "created_at": "2023-01-16T07:04:00.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614701895565692930",
+            "text": "@Jorsalino @CCEducacionUCO @anamartinrider Me parece que no aprende asi. Veras, vuelve a hacerle la primera pregunta.",
+            "created_at": "2023-01-15T19:11:46.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614691880901419008",
+            "text": "@Jorsalino @CCEducacionUCO @anamartinrider Es increible la elegancia de la IA para inventarse las cosas. La tecnica Pomodoro no aparece como tal en ninguno de mis escritos, entre otras cosas. Ni el subtitulo del libro es el que indica. El primer Hector Ruiz que menciona supongo que es el presidente de AMD. \u00a1Gracias! \ud83d\ude03",
+            "created_at": "2023-01-15T18:31:58.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614563326901780481",
+            "text": "@Lwgrina Si solo se basan en eso, mal vamos...",
+            "created_at": "2023-01-15T10:01:08.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614562141587099649",
+            "text": "@JonEducacion Hola, Jon. El efecto Mateo no es mas que el hecho de que, cuanto mas sabemos sobre algo, mas facil nos resulta aprender cosas nuevas relacionadas con ello. Asi que lo comento en todos mis libros, aunque no con ese nombre. \ud83d\ude04",
+            "created_at": "2023-01-15T09:56:26.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614546304289443841",
+            "text": "63) \u00bfEs efectivo hacer resumenes para aprender? https://t.co/JpwOUoSsLH",
+            "created_at": "2023-01-15T08:53:30.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614371416195076096",
+            "text": "@esicresj Bueno, en realidad se trata de psicologia del aprendizaje, \u00a1pero muchas gracias!",
+            "created_at": "2023-01-14T21:18:33.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614371214021070851",
+            "text": "@g3rman94 Si lo hace, no creo que la diferencia sea relevante.",
+            "created_at": "2023-01-14T21:17:45.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614283744159973376",
+            "text": "@mavadillo \u00a1Enhorabuena! \ud83d\ude03",
+            "created_at": "2023-01-14T15:30:11.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614281058261897220",
+            "text": "@peusacarrington Si, estan todos fijados en mi perfil: https://t.co/4D77gVWxKG",
+            "created_at": "2023-01-14T15:19:30.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614183233989623808",
+            "text": "Resumido en un twit:\n\nResumir es una buena estrategia de aprendizaje siempre y cuando\n\n1) implique reelaborar el contenido del texto, no copiar fragmentos;\n\n2) el alumno sepa capturar el trasfondo del texto.\n\nSin embargo, hay estrategias de aprendizaje aun mas efectivas.\n\nFIN",
+            "created_at": "2023-01-14T08:50:47.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614183231779110912",
+            "text": "... otras estrategias generativas suelen proporcionar mejores resultados. Nos referimos a estrategias como ir haciendo pausas para explicarse lo leido, hacerse preguntas sobre lo leido o, sobre todo, autoevaluarse (\u00a1evocacion!) [1].",
+            "created_at": "2023-01-14T08:50:47.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614183229376057346",
+            "text": "En cualquier caso, hacer resumenes no seria de las estrategias mas eficientes a la hora de promover el aprendizaje, segun la investigacion. Si bien seria superior a algunas de las estrategias mas empleadas por los estudiantes, como copiar, subrayar o releer, ...",
+            "created_at": "2023-01-14T08:50:46.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        },
+        {
+            "tweet_id": "1614183226888654848",
+            "text": "La buena noticia es que varios estudios reflejan que la ensenanza explicita sobre como elaborar buenos resumenes les puede ayudar a mejorar y que esta mejora suele tener efectos positivos en su aprendizaje posterior, cuando luego estudian elaborando resumenes (ej. [5]).",
+            "created_at": "2023-01-14T08:50:46.000Z",
+            "user_id": "379295815",
+            "username": "hruizmartin"
+        }
+    ]
+}

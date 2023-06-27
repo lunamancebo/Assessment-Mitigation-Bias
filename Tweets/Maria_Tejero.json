@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1620186322966290433",
+            "text": "@elarjonauta Nueva travesia para el arjonauta, que te lleve a buen puerto! Un abrazo",
+            "created_at": "2023-01-30T22:24:55.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1592247773436739584",
+            "text": "@tferrerm Muchisimas felicidades!",
+            "created_at": "2022-11-14T20:07:06.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1580281955890786304",
+            "text": "@PeioHR @LGHigueras Que figura. @Mujeres_Sombra esto te va a interesar",
+            "created_at": "2022-10-12T19:39:13.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1579179743483949057",
+            "text": "@michaelMCsaez Venezia-Brindisi, una combinacion bastante original. \u00bfTe quedas en Brindisi ciudad o te vas a mover por los alrededores? En agosto estuve en una cocteleria muy recomendable en el centro historico. Dime si quieres consejos gastronomicos tambien",
+            "created_at": "2022-10-09T18:39:25.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1579138786218618880",
+            "text": "@michaelMCsaez Date un salto a Bologna, patria de la mortadella, el ragu y los impagables tortellinis https://t.co/XlUnyfKYX8",
+            "created_at": "2022-10-09T15:56:40.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1574142935997612033",
+            "text": "Ya tenemos encuestas a pie de urna. Fratelli d'Italia en cabeza y la coalicion de las derechas tendria margen de sobra para formar gobierno comodamente #Italia https://t.co/YdL8rdEHRG",
+            "created_at": "2022-09-25T21:04:56.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1574124103925084160",
+            "text": "Recado a Meloni hoy en la via del Pratello, una calle considerada simbolo de la resistencia al fascismo en Bolonia, \"la roja\". Aqui cada 25 de abril se alzan pancartas y suena el \"Bella ciao\". \nDice: \"Que el 25 de septiembre sea una liberacion. Ciao 'bella\" #Italia https://t.co/ILioxbsxPo",
+            "created_at": "2022-09-25T19:50:06.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1567109373335412736",
+            "text": "@Zahr_Bloom Felicidades Azahara. Que bonito celebrarte no solo a ti, si no tambien a los tuyos. Un abrazo",
+            "created_at": "2022-09-06T11:16:04.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1565976580727398400",
+            "text": "@danielboffey Muchos exitos, Daniel! It's been a pleasure meeting &amp; reading you",
+            "created_at": "2022-09-03T08:14:45.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1550775916091129857",
+            "text": "@AneIrazabal Felicidades y un gran abrazo @AneIrazabal @cosimocaridi",
+            "created_at": "2022-07-23T09:32:45.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1535355980153774080",
+            "text": "@migartua La mejor de las noticias. Un abrazo Maria",
+            "created_at": "2022-06-10T20:19:25.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1534271446209466369",
+            "text": "@LeticiaAtenas Lo siento mucho Leticia, un abrazo fuerte fuerte",
+            "created_at": "2022-06-07T20:29:52.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1523684983105548288",
+            "text": "@VictorRomeroEC @elconfidencial @anajoverS @vicentmolins @victorlopezhera @SilviaYusS @pauilaia Buenisima noticia Victor,  muchos exitos!",
+            "created_at": "2022-05-09T15:23:03.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1521918620305170432",
+            "text": "@guerraypaz @PepaBueno @el_pais Enhorabuenisima Moeh \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "created_at": "2022-05-04T18:24:09.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1506356371775762432",
+            "text": "@CarlosBarraganT @Columbia Que buenisima noticia Barragan, aplaudo fuerte",
+            "created_at": "2022-03-22T19:45:20.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1498063855338983424",
+            "text": "@Irenls_ Animo Irene, cuidaos mucho",
+            "created_at": "2022-02-27T22:33:50.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1498063028503433221",
+            "text": "@LeticiaAtenas Un abrazo enorme companera, cuidate",
+            "created_at": "2022-02-27T22:30:33.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1495544661921910784",
+            "text": "Italia: hay que amarla \ud83d\udc9a https://t.co/lQ6sqrojWH",
+            "created_at": "2022-02-20T23:43:27.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1485185622537121796",
+            "text": "@nicolasmsarries Lo que sucedio despues *no* les sorprendera \ud83d\ude02",
+            "created_at": "2022-01-23T09:40:20.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1481195350211936256",
+            "text": "@violetamolina Un abrazo fuerte Violeta",
+            "created_at": "2022-01-12T09:24:25.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1476999008379969536",
+            "text": "@benito_raquel Feliz ano Raquel, un abrazote",
+            "created_at": "2021-12-31T19:29:39.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1474337524281659392",
+            "text": "@globograma Lo siento mucho Myriam, un fuerte abrazo",
+            "created_at": "2021-12-24T11:13:52.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1473674044683792387",
+            "text": "No es tan conocido como Brujas o La Grand Place de Bruselas, pero este es uno de los lugares que mas me impresionan de Belgica \ud83d\udc99\nSe encuentra en La Louvi\u00e8re, tierra de mineros con una historia tremenda https://t.co/KeSneefiv7",
+            "created_at": "2021-12-22T15:17:26.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1473657358354198533",
+            "text": "@diego_bxl Ayyyyy animo Diego! Un abrazo (digital y covid-compliant, claro). Amunt!",
+            "created_at": "2021-12-22T14:11:08.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1473403300825477124",
+            "text": "@tferrerm @MariaT_Food Espero que en la contradiccion en sus terminos que es acompanar ese mensaje con un gif de Spiderman deje entrever la autoparodia y mi afecto al noveno arte \ud83d\udc99",
+            "created_at": "2021-12-21T21:21:36.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1473400705415356416",
+            "text": "Aprovecho tambien para comentaros eso del desdoblamiento de personalidad tuitera\n-Aqui: my views y varietes.\n-En la del fondo de libros convenientemente difuminados para que no se vean los comics hablo de cosas del comer, de ciencia y de la UE \u27a1\ufe0f@MariaT_Food https://t.co/bvghPhBSJm",
+            "created_at": "2021-12-21T21:11:17.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1473397454896877579",
+            "text": "Buenas noches;\nPasaba yo por aqui y me he dicho, \"voy a contarles lo del articulo en @materia_ciencia \", y eso, que he escrito sobre curiosidades de plantas, pestes, cosas europeas y ciencia y le he puesto \"Navidad\" para enganaros y que lo leais \ud83d\udc47 https://t.co/bQY3SHLfSt",
+            "created_at": "2021-12-21T20:58:22.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1466042316003622924",
+            "text": "@nlopeztrujillo (Y tu madre es oro) \ud83d\udc9b",
+            "created_at": "2021-12-01T13:51:40.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1466042211083165701",
+            "text": "@nlopeztrujillo \u00a1Tienes un pelo precioso! En Espana somos ultraortodoxos del alisado, no se por que. En cambio, en Italia los rizos y bucles son lo mas (para ellos y ellas). La gente lleva unos pelazos preciosos con rizos largos y muy mimados \ud83d\udc9a",
+            "created_at": "2021-12-01T13:51:15.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1369369191187415042",
+            "text": "@LaraMalvesiBXL @mtborrasm @rosajimenez @Lperezcejuela Y vaya equipazo, la verdad",
+            "created_at": "2021-03-09T19:27:11.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1364637512128471043",
+            "text": "@MartaMedinadelV \u00bfNecesitan trabajadores que esten dispuestos a morir y ser masticados en lugar de trabajadores que producen bienes valiosos sin perecer en el intento? \nIgual lo que necesitan son comites de empresa.",
+            "created_at": "2021-02-24T18:05:11.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1353357697312284678",
+            "text": "@rdudda Maravilloso \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+            "created_at": "2021-01-24T15:03:13.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1352287818916237313",
+            "text": "@Pottychan hola Clara, queria contactarte para una propuesta de entrevista de cara al Dia Internacional de la Mujer y la Nina en la Ciencia, por parte de @EFSA_EU. \u00bfMe das un correo? \u00a1Gracias!",
+            "created_at": "2021-01-21T16:11:54.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1331312150787272705",
+            "text": "@gascondaniel Felicidades Dani! Aplausos entusiastas",
+            "created_at": "2020-11-24T19:02:05.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1318184549243932673",
+            "text": "@nacho_alarcon @bajoelbillete Alarcon, por tu IG he visto recientemente desfilar noseque maravilla al pesto y una olla humeante con chorizo. Pasame tu dieta!",
+            "created_at": "2020-10-19T13:37:41.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1316120813091815429",
+            "text": "@LauraZornoza Felicidades Zornoza! Darme cuenta de que no tengo acceso a esas magdalenas me confirma que no estoy in the Good Place",
+            "created_at": "2020-10-13T20:57:08.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1272281090045218819",
+            "text": "@adelgadoRne Oh :)))) Feliciades Nono, un abrazo enorme para la super mama",
+            "created_at": "2020-06-14T21:33:44.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1271065964189298689",
+            "text": "@nicolasmsarries Jo, un abrazo enorme Nico.",
+            "created_at": "2020-06-11T13:05:15.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1271020173504413696",
+            "text": "-Ya no estoy en mi mejor momento de la vida, porque a los 78 anos no se esta en el mejor momento de la vida (Silencio). \u00bfA ti que te parece? - le decia Sarda a Evole.\n-Yo no lo se, no los he tenido nunca.\n-Pues los tendras, afortunadamente, porque la alternativa... \u00a1nac!",
+            "created_at": "2020-06-11T10:03:18.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1271019968268820485",
+            "text": "\u201cSiempre he sido mayor, no se que me ha pasado, naci mayor\u201d, le decia Rosa Maria Sarda a\n@jordievole en una entrevista conmovedora. Que sarcamo, que ingenio, que talento... y que tristeza nos deja. Descanse en paz https://t.co/codOErN6yv",
+            "created_at": "2020-06-11T10:02:29.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1270632338247090176",
+            "text": "@RobertoMendez_ Hola Roberto, te escribo de EFSA, \u00bfme puedes dar un email?",
+            "created_at": "2020-06-10T08:22:11.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1269978856582189067",
+            "text": "Vamos! \ud83d\udc47 https://t.co/gAxhsqOABn",
+            "created_at": "2020-06-08T13:05:29.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1269969055148015619",
+            "text": "@IsmaMonzon Y le ponen papas fritas a las pizzas. Congeladas. Espero que tengan un lugar especial reservado en el Tercer circulo, junto al malvado Dr. Oetker",
+            "created_at": "2020-06-08T12:26:32.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1265574523589537794",
+            "text": "@nicolasmsarries Lo siento mucho Nico, un abrazo fuerte, fuerte",
+            "created_at": "2020-05-27T09:24:14.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1265221448647561216",
+            "text": "@Vero_A_G @Alf_ArGzz @na_arriaga @ant_hermosin @PabloDiez_ABC @jborrasarumi @PalomaAlmoguera @Gasparcanela @CSGalache @JuliaRArevalo @GenaroAndoain @estherrebollo @marinmar2018 @PatiVazquez_ @carmen_siguenza @agusmoralespuga @RamonAbarca @Noel_CaballeroC @esanjuanh @sgarmas @viridianaazul @atareports @csantamir @Macchinetta @aambros @javieralbisu @xfontdegloria @_tamaragil @sararomeroe @chinochano @acv1234 @XavierOrtells @irenetorc @nomos46 @FoncillasAdrian @mavidonate @jsantirso @Lucasdelacal @AndresSBraun @dpelagu @rosajimenez @EdurneMG @javi_triana No tenemos Feria del Libro primaveral en Madrid, pero si en las redes. Acepto el reto de @ant_hermosin del #jocdelectura:\n1. Comparto la portada de un libro sin comentarios\n2. Paso el relevo a 6 personas  @nina_tramullas @BeaRios_  @belends @IsmaMonzon @martarias @agusmoralespuga https://t.co/htpHhpPQgq",
+            "created_at": "2020-05-26T10:01:14.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1264933181624668160",
+            "text": "\"Entender que la vida es incierta nos da fuerzas\" https://t.co/7lArNXgIbc por @VictorLapuente",
+            "created_at": "2020-05-25T14:55:46.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1261296193709228035",
+            "text": "@nacho_alarcon @Suanzes @miquelroig Con la legitimidad que me concede mi residencia en el Food Valley italiano, propongo la unica salida posible: pelea de tuppers. Me los manden, ejercere de juez imparcial y sin prejuicios (aunque Alarcon va a perder)",
+            "created_at": "2020-05-15T14:03:40.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1261290027142742017",
+            "text": "@Suanzes @miquelroig Pero bien en la eleccion de la pasta lunga. cc @nacho_alarcon",
+            "created_at": "2020-05-15T13:39:10.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1255190932338675720",
+            "text": "@pppua Yo he pasado ya a la fase de \u201c\u00bfy de azul?\u201d",
+            "created_at": "2020-04-28T17:43:33.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1255168761918873601",
+            "text": "Espana siguiendo la rueda de prensa de Pedro Sanchez sobre las fases de la desescalada https://t.co/jL0gP4LwAs",
+            "created_at": "2020-04-28T16:15:27.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1255167889239400448",
+            "text": "\u201cLa nueva normalidad\u201d. Que yuyu",
+            "created_at": "2020-04-28T16:11:59.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1254487232846667779",
+            "text": "@Suanzes @mapaone @nacho_alarcon esto es una maravilla https://t.co/YJF1hC3hB6",
+            "created_at": "2020-04-26T19:07:18.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1253321233807990786",
+            "text": "@nacho_alarcon Ahora si. Bravo, so proud.",
+            "created_at": "2020-04-23T13:54:02.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1250767058494722048",
+            "text": "No estoy llorando, es que suena Beautiful Ohio https://t.co/b6TUpnTZKZ",
+            "created_at": "2020-04-16T12:44:39.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1250517480700813313",
+            "text": "@nacho_alarcon @EU_Commission \u201cDemasiado pronto\u201d se referia a \u201cunas cuantas decadas antes de que estemos dispuestos a dejar a liderazgo a Bruselas\u201d, sospecho",
+            "created_at": "2020-04-15T20:12:55.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1245665379218853889",
+            "text": "Sobre Hungria. Las cosas se mueven en el Partido Popular Europeo. Veremos https://t.co/FjilzT2lUM",
+            "created_at": "2020-04-02T10:52:24.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1245621021559812096",
+            "text": "@marcobreso Seems fair to me! E non dimenticate la pizza ananas",
+            "created_at": "2020-04-02T07:56:08.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1245390224781463552",
+            "text": "Algu ho havia de dir https://t.co/vnc3kNRrTj",
+            "created_at": "2020-04-01T16:39:02.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1244665014314840068",
+            "text": "Orban lleva anos transitando este camino y ahora ha encontrado el pretexto para culminarlo. \nEl Partido Popular Europeo -mencion de honor a Merkel- le ha amparado hasta lo insostenible. \u00bfY el apoyo de Pablo Casado a cambio de cerrar filas en el tema catalan? Que desastre https://t.co/zXzyQcnCAe",
+            "created_at": "2020-03-30T16:37:18.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1243971751442251776",
+            "text": "@analopezct @nicolasmsarries @pedrojimenezg \u00bfNada de transporte de mercancias? \ud83e\udd14",
+            "created_at": "2020-03-28T18:42:32.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1243968005236801536",
+            "text": "Un mes con esta sensacion de dej\u00e0 vu https://t.co/s5u7G41QHg",
+            "created_at": "2020-03-28T18:27:38.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1242383827391127553",
+            "text": "\ud83c\udf39 Adios Uderzo. Gracias por tanto.\n(Aqui, el homenaje que dedico a las victimas de Charlie Hebdo) https://t.co/s9Bi2tdBn3",
+            "created_at": "2020-03-24T09:32:41.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1239979700115640322",
+            "text": "Estamos a tiempo de montarles un \u201cGood Bye Lenin\u201d https://t.co/rDVMJfDDAn",
+            "created_at": "2020-03-17T18:19:32.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1239868704227278848",
+            "text": "@FGomaL En mi experiencia, intentar no adelantar acontecimientos e ir dia a dia (ej. evitar pensar en el futuro que se nos viene si nos baja el animo en el presente). Aceptarlo como un \"lo normal\" por un tiempo, desacelerar y buscar nuevas rutinas. Es dificil, hay que ir 'pian pianino'",
+            "created_at": "2020-03-17T10:58:29.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1239866632635375616",
+            "text": "@Marta__VR Otro* de vuelta, se entiende",
+            "created_at": "2020-03-17T10:50:15.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1239866448744456193",
+            "text": "@Marta__VR De vuelta, Marta : )",
+            "created_at": "2020-03-17T10:49:31.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1239848426298376192",
+            "text": "@Marta__VR Pero sin cenas, \u00a1es mucho peor!",
+            "created_at": "2020-03-17T09:37:54.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238925778320068608",
+            "text": "\"Es evidente que el impacto economico va a ser grande\", dice Sanchez. Cierto. He llegado tarde, \u00bfha anunciado alguna medida economica concreta o van todas al proximo Consejo de Ministros?",
+            "created_at": "2020-03-14T20:31:38.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238925153351892992",
+            "text": "@cregarla @sietedeoctubre Me acaban de decir lo mismo! Gracias",
+            "created_at": "2020-03-14T20:29:09.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238925015166435332",
+            "text": "Esto tiene sentido, tanto para las peluquerias como para los tintes https://t.co/slZ5A4ef1E",
+            "created_at": "2020-03-14T20:28:36.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238924716141838338",
+            "text": "@velocista_ Eso me acaban de decir. Tiene todo el sentido. Imagino que lo del tinte va en la misma linea. Gracias por responder!",
+            "created_at": "2020-03-14T20:27:25.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238922685230526470",
+            "text": "La economia se recuperara cuando caigan en picado los contagios, dice Sanchez. Tiene razon. \u00bfCuando sera? Esta vez ya no se atreve a hacer predicciones -y tambien hace bien: ayer con la estimacion de los 10.000 contagios peco de optimista.",
+            "created_at": "2020-03-14T20:19:20.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238920877502279683",
+            "text": "Las peluquerias, abiertas. En Belgica tambien. \u00bfCual es el motivo?",
+            "created_at": "2020-03-14T20:12:09.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238920430758645766",
+            "text": "Italia anuncio el cierre del norte del pais el sabado noche de justo hace una semana. Apenas unos dias despues lo extendio a todo el pais. Espana ha decidido decretar las medidas para todo el territorio. Es un acierto",
+            "created_at": "2020-03-14T20:10:23.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238843328881360896",
+            "text": "Llevo 7 dias en los que casi no salgo, no ya de casa, sino de una habitacion porque un amigo ha dado positivo al COVID-19.\nNo tengo sintomas.\nErgo no me han hecho la prueba.\nSi, a ratos me desespero.\nPero se por que lo hago.\nAhora, explicadme lo de Iglesias.\n#YoMeQuedoEnCasa",
+            "created_at": "2020-03-14T15:04:00.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238537291238445057",
+            "text": "\u201cEn momentos de incertidumbre y temor, los humanos nos quedamos sin brujula social que guie nuestros actos, por lo que el cerebro necesita que se le ayude a procesar lo que esta haciendo\u201d. Pero tendemos a proteger a la manada. \nEsto de Javi Salas esta muy bien. https://t.co/Yp5k9QbxLn",
+            "created_at": "2020-03-13T18:47:55.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238535315805163520",
+            "text": "@elisadelanuez La tiene",
+            "created_at": "2020-03-13T18:40:04.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238140572189196288",
+            "text": "En Belgica han puesto en marcha ayudas a autonomos afectados. Just saying https://t.co/0KcuqgIiDI",
+            "created_at": "2020-03-12T16:31:30.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238069640514994182",
+            "text": "@macampoansa Llevo unos dias Marcello siendo la amiga pesada, te lo aseguro.",
+            "created_at": "2020-03-12T11:49:39.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1238068300711690241",
+            "text": "Ya va a ser dificil evitar una cuarentena a la italiana. En nuestras -lavadas- manos hacerla mas o menos corta. Gente, hay informacion sobre que hacer: distancia social. Si, nada de canas, ni cenitas en casas. Cuesta asumirlo y es duro, pero nosotros lo somos mas #YoMeQuedoEnCasa https://t.co/lveXZ9lKDY",
+            "created_at": "2020-03-12T11:44:19.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1237677722161352704",
+            "text": "@Carmen_matas Croquetas digitales \ud83d\udc9c",
+            "created_at": "2020-03-11T09:52:18.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1235515776141889542",
+            "text": "Un texto terapeutico y profilactico. Hombres, mujeres, lean la experiencia de Alicia. Es mas comun de lo que seguramente crean. https://t.co/HMMIKpCE06",
+            "created_at": "2020-03-05T10:41:30.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1234504587689811969",
+            "text": "\"La pandemia de gripe de 1918 causo mas de 25 millones de muertos en menos de 25 semanas. \u00bfPodria volver a ocurrir algo similar hoy en dia? Como vemos, muy probablemente no. Nunca hemos estado mejor preparados para combatir una pandemia\" https://t.co/3ETHF4nOiy",
+            "created_at": "2020-03-02T15:43:24.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1233286601641467905",
+            "text": "@macampoansa @DoriToribio Yo soy claramente del team gripe comun, no de este arribista del 19, que un drama queen y un party popper",
+            "created_at": "2020-02-28T07:03:33.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1232262651813728257",
+            "text": "@IsmaMonzon Genio! :))",
+            "created_at": "2020-02-25T11:14:45.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1229391416654168064",
+            "text": "Mal movimiento de un gobierno de coalicion de izquierdas para con la publica, que ademas pone a @GabrielaCanas en un complicado punto de partida. Le deseo los mayores exitos, Efe merece la pena",
+            "created_at": "2020-02-17T13:05:29.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1229391415475613696",
+            "text": "\"Una agencia publica de noticias no es una agencia de noticias del Gobierno\", dice Garea a modo de despedida. Que no se olvide",
+            "created_at": "2020-02-17T13:05:29.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1229391414280282112",
+            "text": "\u00bfY en terminos politicos? Si la eleccion de Garea por el anterior Gobierno de Sanchez fue aplaudida por el mensaje que enviaba -un profesional respetado, independiente y con ganas-, su destitucion transmite precisamente lo contrario.",
+            "created_at": "2020-02-17T13:05:28.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1229391411457527808",
+            "text": "En terminos empresariales \u00bfQue puede traer de bueno cambiar a un director tras apenas ano y medio de razonablemente buena gestion? Nada. Efe ha sufrido mucho en esta ultima decada, no le hace falta mas inestabilidad.",
+            "created_at": "2020-02-17T13:05:28.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1229391409955921923",
+            "text": "Un movimiento muy poco sensato. No leo una sola linea cuestionando la gestion de @Fgarea. Y me consta que en un ano y medio -un instante en los lentos tiempos de lo publico- ha puesto sobre la mesa voluntad de cambio y logrado avances. Eso, en la Agencia Efe, es mucho. https://t.co/1KNddRWOzc",
+            "created_at": "2020-02-17T13:05:27.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1227169334100971520",
+            "text": "@thewhitewhip @sanchis1970 Evamariasefue buscandoelsol en la plaaaaya",
+            "created_at": "2020-02-11T09:55:43.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1227169228295417856",
+            "text": "@thewhitewhip @danidelpino @Suanzes Un rayo de sol, uooo, en mi corazon, uooo.",
+            "created_at": "2020-02-11T09:55:18.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1225766528211132423",
+            "text": "Como mola el Servicio de Informacion y Noticias Cientificas, proclamo.\nFeliz aniversario. https://t.co/CTV0TBHYgA",
+            "created_at": "2020-02-07T13:01:28.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1225040536337309703",
+            "text": "@LauraZ13 @gonsanchezm Es que en Efe Bruselas teneis musho arte, proclamo",
+            "created_at": "2020-02-05T12:56:38.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1224801476020785152",
+            "text": "@monica_faro @Suanzes Me dicen que tambien se da en Bruselas. Viajes al pasado gratis!",
+            "created_at": "2020-02-04T21:06:42.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1224801241131364358",
+            "text": "@bitacoranova @Suanzes Demasiados anos siendo periodista deja sus huellas, proclamo",
+            "created_at": "2020-02-04T21:05:46.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1224801079210266624",
+            "text": "@simplementnadie @Suanzes Hahhahaa, la \u201ccarta para invitar a ciegad mientras tu invitado ve los precios\u201d, de los inventores de \u201cla fiesta sorpresa a la que nadie sabe que esta invitado, salvo el homenajeado\u201d.",
+            "created_at": "2020-02-04T21:05:07.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1224800679153324034",
+            "text": "@macampoansa @Suanzes Pues la cuestion no es tanto de donde existe el anacronismo o no -aunque en Espana, si se hace, no es una practica extendida-, sino que exista. Con el agravante de que la reserva la hice yo",
+            "created_at": "2020-02-04T21:03:32.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1224800061361704967",
+            "text": "@danidelpino @Suanzes Me informan por el pinganillo de que en Estrasburgo tambien se ha avistado este tipo de anacronismo. \nLo que no me entra en la cabeza es que asuman sin preguntar, que la reserva la hubiera hecho yo y que esto solo se aplique a mujeres. \u00bfY si quiero invitar yo?",
+            "created_at": "2020-02-04T21:01:04.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        },
+        {
+            "tweet_id": "1224799488713330689",
+            "text": "@brussels_photo @Suanzes En sus ojos yo leia \u201con sait pas le faire\u201d",
+            "created_at": "2020-02-04T20:58:48.000Z",
+            "user_id": "208517176",
+            "username": "Maria_Tejero"
+        }
+    ]
+}

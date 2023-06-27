@@ -1,0 +1,109 @@
+As mentioned in chapter \ref{CAP:INTRODUCTION}, the second research question is to compare the results obtained for the main
+task of this study (whether or not differences in writing style exist depending on the gender, age and region of the author of 
+the text), when the employed dataset contains formal or informal texts. Therefore this study uses two different datasets: the 
+Twitter dataset (with informal texts) and the police dataset (with formal texts).
+
+\subsection{Twitter dataset}
+
+The first step in order to build the Twitter dataset is to select which users will conform it. This selection is done manually, as the Twitter API doesn't provide information about the age, gender or nacionality of its users. Therefore the selected users must have this information publicly available in thier profile description. Each demographic trait is grouped as follows:
+\begin{itemize}
+    \item Gender: female and male
+    \item Age: 18-24, 25-34, 35-44, 45-54 and +55
+    \item Region: the selected users nacionality is spanish, as the goal of the study is to analyze different writing styles in the spanish language. Thus the selected users are grouped based on their autonomous community. In Spain there are 17 autonomous communities, all of which are present in the dataset except for ``Islas Baleares''.
+\end{itemize}
+The second step is to obtain the 100 most recent tweets of each of the selected users. The python library \textit{tweepy} is a useful resource to easily access the Twitter API. It provides a function \textit{search all tweets} that permits to indicate a specific search query. For this study, the parameters specified in the query are the language and the number of returned tweets, set to ``Spanish'' and ``100'' respectively. 
+
+The dataset is composed of \textbf{1146} users and 114.600 tweets, of which:
+
+\begin{table}[h]
+    \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{ccccccccccccccccc}
+    \cmidrule(rl){1-8}
+    \morecmidrules
+    \cmidrule(rl){1-8}
+    \multicolumn{1}{c}{} & \multicolumn{2}{c}{\textbf{Gender}} & \multicolumn{5}{c}{\textbf{Age}}\\
+    \cmidrule(rl){2-3} \cmidrule(rl){4-8}
+    & {Female} & {Male} & {18-24} & {25-34} & {35-44} & {45-54} & {+55} \\
+    \cmidrule(rl){1-3} \cmidrule(rl){4-8}
+    \textbf{Count} & 542 & 604 & 187 & 221 & 232 & 267 & 239 \\
+    \textbf{Frequency (\%)} & 47.29 & 52.71 & 16.32 & 19.28 & 20.24 & 23.3 & 20.86 \\
+    \cmidrule(rl){1-8}
+    \\
+    \toprule
+    \toprule
+    \multicolumn{1}{c}{} & \multicolumn{16}{c}{\textbf{Region}}\\
+    \cmidrule(rl){2-17}
+    & {Catalunya} & {Andalucia} & {Murcia} & {Canarias} & {La Rioja} & {Madrid} & {Asturias} & {Castilla-La Mancha} & {Navarra} & {Valencia} & {Galicia} & {Pais Vasco} & {Castilla y Leon} & {Aragon} & {Cantabria} & {Extremadura} \\
+    \midrule
+    \textbf{Count} & 91 & 87 & 81 & 81 & 79 & 76 & 76 & 73 & 73 & 73 & 73 & 63 & 61 & 55 & 53 & 51\\
+    \textbf{Frequency (\%)} & 7.94 & 7.59 & 7.07 & 7.07 & 6.89 & 6.63 & 6.63 & 6.37 & 6.37 & 6.37 & 6.37 & 5.50 & 5.32 & 4.80 & 4.62 & 4.45  \\
+    \bottomrule
+    \end{tabular}}
+    \footnotesize{Table 2: Proportions of Twitter dataset}
+\end{table}
+\vspace{2cm}
+\subsection{Police dataset}
+The dataset is build of 3899 police reports each of which provides the following information:
+\begin{itemize}
+    \item Police officer: gender, age and region of birth.
+    \item Complainant: gender age and region of birth.
+    \item Complaint text: the text has been previously anonimezed replacing sensitive data such as locations, telephone numbers, people's names and dates with specific tags. 
+\end{itemize}
+Hence, after analyzing the dataset, the proportions of each class are:
+
+\begin{table}[h]
+    \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{ccccccccccccccccccc}
+    \cmidrule(rl){1-8}
+    \morecmidrules
+    \cmidrule(rl){1-8}
+    \multicolumn{1}{c}{} & \multicolumn{2}{c}{\textbf{Gender}} & \multicolumn{5}{c}{\textbf{Age}}\\
+    \cmidrule(rl){2-3} \cmidrule(rl){4-8}
+    & {Female} & {Male} & {18-24} & {25-34} & {35-44} & {45-54} & {+55} \\
+    \cmidrule(rl){1-3} \cmidrule(rl){4-8}
+    \textbf{Count} & 878 & 3020 & 18 & 414 & 2348 & 918 & 200 \\
+    \textbf{Frequency (\%)} & 22.5 & 77.5 & 0.46 & 10.61 & 60.28 & 23.53 & 5.12 \\
+    \cmidrule(rl){1-8}
+    \\
+    \toprule
+    \toprule
+    \multicolumn{1}{c}{} & \multicolumn{18}{c}{\textbf{Region}}\\
+    \cmidrule(rl){2-19}
+    & {Catalunya} & {Andalucia} & {Murcia} & {Canarias} & {Madrid} & {Asturias} & {Castilla-La Mancha} & {Navarra} & {Valencia} & {Galicia} & {Pais Vasco} & {Castilla y Leon} & {Aragon} & {Cantabria} & {Extremadura} & {Islas Baleares} & {Melilla} & {Alemania}\\
+    \midrule
+    \textbf{Count} & 78 & 661 & 104 & 42 & 405 & 121 & 485 & 11 & 1189 & 55 & 10 & 171 & 20 & 27 & 454 & 15 & 47 & 3\\
+    \textbf{Frequency (\%)} & 2 & 16.97 & 2.65 & 1.08 & 10.38 & 3.1 & 12.48 & 0.28 & 30.47 & 1.41 & 0.26 & 4.38 & 0.51 & 0.69 & 0.38 & 1.2 & 0.08\\
+    \bottomrule
+    \end{tabular}}
+\end{table}
+\footnotesize{Table 3: Proportions for police officers of Police dataset}
+
+\begin{table}[h]
+    \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{ccccccccccccccccc}
+    \cmidrule(rl){1-8}
+    \morecmidrules
+    \cmidrule(rl){1-8}
+    \multicolumn{1}{c}{} & \multicolumn{2}{c}{\textbf{Gender}} & \multicolumn{5}{c}{\textbf{Age}}\\
+    \cmidrule(rl){2-3} \cmidrule(rl){4-8}
+    & {Female} & {Male} & {18-24} & {25-34} & {35-44} & {45-54} & {+55} \\
+    \cmidrule(rl){1-3} \cmidrule(rl){4-8}
+    \textbf{Count} & 1688 & 2185 & 597 & 638 & 792 & 753 & 1093 \\
+    \textbf{Frequency (\%)} & 43.58 & 56.42 & 15.41 & 16.47 & 20.45 & 19.44 & 28.22 \\
+    \cmidrule(rl){1-8}
+    \\
+    \toprule
+    \toprule
+    \multicolumn{1}{c}{} & \multicolumn{16}{c}{\textbf{Region}}\\
+    \cmidrule(rl){2-17}
+    & {Catalunya} & {Andalucia} & {Murcia} & {Madrid} & {Asturias} & {Castilla-La Mancha} & {Navarra} & {Valencia} & {Galicia} & {Castilla y Leon} & {Aragon} & {Cantabria} & {Extremadura} & {Melilla} & {Latino} & {No hispanohablante} \\
+    \midrule
+    \textbf{Count} & 66 & 461 & 96 & 115 & 18 & 387 & 4 & 1031 & 13 & 70 & 15 & 3 & 338 & 10 & 386 & 824\\
+    \textbf{Frequency (\%)} & 1.7 & 11.9 & 2.48 & 2.97 & 0.46 & 9.99 & 0.1 & 26.62 & 0.34 & 1.81 & 0.39 & 0.08 & 8.73 & 0.26 & 9.97 & 21.28 \\
+    \bottomrule
+    \end{tabular}}
+\end{table}
+\footnotesize{Table 4: Proportions for complainant of Police dataset}

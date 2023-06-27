@@ -1,0 +1,318 @@
+One of our research questions is whether or not significant differences in writing style exist, depending on the author's gender, age or region. That is why we want to analyze other studies that address one or several of our tasks, and see which stylometry techniques they have employed, and the drawn conclusions. Stylometry is the study of writing style, and it dates back several decades \cite{mosteller1963inference}. Computational stylometry distinguishes several subtasks such as determining and verifying author identity, and author profiling.
+
+Most of the studies analyzed in our bibliography research, address the task of author profiling, trying to predict the author's gender. Other papers, like \cite{garcia2022psychographic,espin2022sinai} also try to predict the political ideology of the author. Another common demographic trait to predict in the author profiling task is age \cite{surendran2017stylometry, markov2016adapting,bougiatiotis2016author,delmondes2022multi,radha2022feature,alroobaea2020decision,tai2020online,wu2019neural,alroobaea2020empirical}. Research papers that participated in the PAN 2015 \cite{ifrah2015identification,grivas2015author} also include five different personality traits in their prediction targets. Studies that were submitted to PAN 2019 \cite{valencia2019bots,ouni2021toward,joo2019author} address the task of predicting whether the author of a text is human or a bot, and in case it is human, predict it's gender. In the paper \cite{gomez2019convolutional} not only do they address the gender prediction task, but they also predict the Spanish language variety of the author (between eight different varieties of Spanish). This could be treated as a similar problem as the geographic region characteristic, as the language variety depends on the region of the author. We can therefore conclude that most of the research made thus far focuses on studying differences in writing depending on the gender and age of the author. In this paper we introduce a new demographic trait, the geographic region of the writer.
+
+Besides author profiling, authorship attribution also uses stylometry to help predict the author of a text. For instance, paper \cite{bhargava2013stylometric} uses three different group of features and a \acrshort{SVM} classifier to predict the author of a tweet. Another example is the study conducted in \cite{belvisi2020forensic}, were they use three groups of features (lexical, structural and idiosyncratic features); and three distances (Euclidean, Manhattan and Cosine) to measure the distance between the feature vectors of each author.  
+
+As we mentioned in the introduction, social media is a common platform were people tend to express their ideas and thoughts, therefore most of the studies are conducted using datasets based on tweets. Some papers \cite{delmondes2022multi,radha2022feature,tai2020online,raghunadha2020author,moze2019profiling} use hotel reviews or blog entries as their input text. Others, like \cite{dayanik2021disentangling} use more formal texts, like TEDTalks. The research conducted in \cite{escobar2021gender} compares the gender prediction task when using a formal and informal text dataset. This is one of the research questions posed in our study, as not many studies focus on this approach and we believe it is interesting the comparison between these two types of datasets. 
+
+There are different tasks were stylometry is useful besides the common author profiling. For instance, the studies's \cite{emmery2021adversarial,dayanik2021disentangling} main goal is adversarial stylometry, which consists in rewriting the input text such that its style changes and the stylometric differences are blurred, in order to standarize the texts so that it is difficult to predict demographic traits of the author. This could be a possible mitigation technique in case VeriPol was discriminatory.
+
+Moreover, stylometry is nowadays being used in literary tasks, such as identifying the similarities between novels, or studying the writing style of the authors. For instance, the paper \cite{lozano2020nueva} uses stylometry to prove or refute the hypothesis that \textit{Madam Bovary} had a significant influence on \textit{La Regenta}. The principal feature used is \textit{Most Frequent Words} using n-grams (with n being 1, 2 or 3) and choosing between 100 and 5000 words. The main difference of this paper with the rest of the bibligraphy, is that their study is purely statistical, no classifier is used, and therefore no predictions are made. To perform the contrast of hypothesis, they use two different distances, the Euclidean and the Delta of Burrows. Another example is the problem addressed in \cite{RUIZ-CORNEJO2022} where they use stylometry to study the writing style of a poet through handwritten manuscripts. The experiment is based on the extraction of the most frequent words (100, 300 and 500 most frequent) and applying three different methods: characteristic curve, Chi-squared and Delta of Burrows distance.  
+
+For our first research question, a specific search query was made in order to obtain papers whose main focus was stylometry and feature selection (statistical, stylometric, lexical...). Many classifiers were used, and all of them employed accuracy as the evaluation metric to test the performance of the model. Some of the models that obtained great results were \acrshort{RF} used in \cite{ouni2021toward,raghunadha2020author}, \acrshort{SVM} used in \cite{gomez2019convolutional,wanner2017relevance,grivas2015author} and \acrshort{CNN} used in \cite{surendran2017stylometry,gomez2019convolutional}. We summarize this findings in table \ref{table:SA}
+
+
+\begingroup
+% \setlength{\tabcolsep}{10pt} % Default value: 6pt
+\renewcommand{\arraystretch}{1} % Default value: 1
+\small
+\begin{longtable}{ p{.05\textwidth} p{.12\textwidth} p{.10\textwidth} p{.2\textwidth} p{.18\textwidth} p{.07\textwidth} p{.15\textwidth}}
+\caption{Bibliography research: stylometry query}\\
+\hline
+\hline
+\textbf{ID} & \textbf{Demographic traits} & \textbf{Dataset} & \textbf{Data preprocessing} & \textbf{Feature Extraction} & \textbf{Classifier} & \textbf{Results}\\
+\hline
+\hline
+\endfirsthead
+\multicolumn{7}{c}%
+{} \\
+\hline
+\hline
+\textbf{ID} & \textbf{Demographic traits} & \textbf{Dataset} & \textbf{Data preprocessing} & \textbf{Feature Extraction} & \textbf{Classifier} & \textbf{Results}\\
+\hline
+\hline
+\endhead
+\hline \multicolumn{7}{r}{} \\
+\endfoot
+\hline
+\endlastfoot
+\cite{garcia2022psychographic} 
+& Gender 
+\newline Age
+\newline Political ideology
+& Twitter 
+& Remove hyperlinks
+\newline Lowercase text
+\newline Remove non-alphabetical tokens
+& N-gram based features
+\newline Linguistic features
+\newline Embeddings-based features
+& \acrshort{CNN}
+\newline \acrshort{BERT}
+\newline \acrshort{BiGRU}
+& Gender: 72.02 (BiGRU)
+\newline Age: 46.68 (BiGRU)
+\\
+\hline
+\cite{espin2022sinai} 
+& Gender 
+\newline Profession
+\newline Political ideology
+& Twitter 
+&
+& Word frequency
+\newline Statistical characteristics
+\newline RoBERTa embeddings
+& \acrshort{LR}
+\newline \acrshort{RF}
+\newline \acrshort{DT}
+\newline \acrshort{MLP}
+& Gender: 67 (LR)
+\\
+\hline
+\cite{ouni2021toward} 
+& Bot 
+\newline Gender
+& Twitter 
+&
+& Character based features
+\newline Word based features
+\newline Syntax based features
+\newline Twitter features
+& \acrshort{LR}
+\newline \acrshort{RF}
+\newline \acrshort{SVM}
+\newline \acrshort{CNN}
+\newline \acrshort{KNN}
+& Gender: 88.88 (RF)
+\\
+\hline
+\cite{raghunadha2020author} 
+& Gender
+& Hotel reviews 
+& Stop-word removal
+\newline Stemming
+\newline Remove punctuation marks
+& Content based features
+\newline Syntactic features
+& \acrshort{NB}
+\newline \acrshort{RF}
+& Gender: 93.25 (RF with 8000 frequent terms and 3000 POS n-grams)
+\\
+\hline
+\cite{escobar2021gender} 
+& Gender
+& Twitter
+\newline YouTube
+\newline News posts
+& 
+& Lexical features
+\newline Morphological features
+\newline Syntactical features
+\newline Character-based features
+& \acrshort{LR}
+& Gender: 62.8 (lexical features)
+\\
+\hline
+\cite{joo2019author} 
+& Bot
+\newline Gender
+& Twitter
+& Unify tweets in a single document
+\newline Remove stop words
+\newline Stemming
+\newline Lemmatization
+\newline Spell correction
+\newline Splitting hashtags
+& Psycholinguistic features
+& \acrshort{GBDT}
+& Gender: 88
+\\
+\hline
+\cite{valencia2019bots} 
+& Bot
+\newline Gender
+& Twitter
+& Replace emojis, URL, mentions, special characters
+\newline Lowercase text
+\newline Trim repeated characters
+\newline Remove N-grams repeated in every document
+& N-grams features
+& \acrshort{LR}
+\newline \acrshort{SVM}
+\newline \acrshort{MLP}
+& Gender: 76
+\\
+\hline
+\cite{gomez2019convolutional} 
+& Gender
+\newline Language variety
+& News posts
+& Eliminate source code
+\newline Lowercase text
+\newline Replace emojis, URL, hashtags and numbers with special characters
+& N-grams features
+\newline Bag of Words
+\newline Word embeddings
+\newline Sentence embeddings
+& \acrshort{CNN}
+\newline \acrshort{SVM}
+& Gender: 75.61 (SVM with 8-gram characters)
+\newline Language variety: 94.16 (SVM with combination of features)
+\\
+\hline
+\cite{wanner2017relevance} 
+& Gender
+& Novels
+& 
+& Character-based features
+\newline Word-based features
+\newline Sentence-based features
+\newline Dictionary-based features
+\newline Syntactic features
+\newline Discourse features
+& \acrshort{SVM}
+& Gender: 88.94 (syntactic features)
+\\
+\hline
+\cite{surendran2017stylometry} 
+& Gender
+\newline Age
+& Twitter
+& 
+& Character-based features
+\newline Word-based features
+\newline Semantic features
+\newline Syntactic features
+\newline Vocabulary richness
+\newline Readability-based features
+& \acrshort{CNN}
+\newline \acrshort{NB}
+\newline \acrshort{DT}
+\newline \acrshort{RF}
+\newline \acrshort{SVM}
+& Gender: 97.7 (CNN)
+\newline Age: 90.1 (CNN)
+\\
+\hline
+\cite{pearce2016use} 
+& Gender
+& News posts
+& 
+& Character-based features
+\newline Word-based features
+\newline Sentence-based features
+\newline Discourse features
+\newline Syntactic features
+\newline Dictionary based features
+& \acrshort{RF}
+& Gender: 71.23 (Character-based features)
+\\
+\hline
+\cite{bougiatiotis2016author} 
+& Gender
+\newline Age
+& Twitter
+& Unify tweets in a single document
+\newline Remove emojis, hashtags, links...
+\newline Remove all non-letter characters
+& Structural
+\newline Stylometry
+\newline Second Order Attributes (SOA)
+& \acrshort{NB}
+\newline \acrshort{DT}
+\newline \acrshort{RF}
+\newline \acrshort{SVM}
+& Gender: 75 (N-grams combined with weighed SOA)
+\newline Age: 54 (SOA)
+\\
+\hline
+\cite{modaresi2016exploring} 
+& Gender
+\newline Age
+& Twitter
+& Lowercase
+\newline Remove mentions, hashtags, retweets...
+\newline Remove all non-alphabetic characters
+\newline Remove stopwords
+& Word unigrams that occur at least two times
+\newline Word bigrams
+\newline Character 4-grams
+\newline Average spelling error
+\newline Punctuation feature
+& \acrshort{LR}
+& Gender: 75.64 
+\newline Age: 51.79 
+\\
+\hline
+\cite{markov2016adapting} 
+& Gender
+\newline Age
+& Twitter
+& Replace numbers, URL, mentions, picture links, emojis and slang words for special characters
+\newline Split punctuation marks from adjacent words
+& Character ngrams (affixes, words and punctuation)
+& \acrshort{LR}
+\newline \acrshort{SVM}
+& Gender: 66 (\acrshort{LR} with SOA)
+\newline Age: 44 (\acrshort{LR} with SOA) 
+\\
+\hline
+\cite{ifrah2015identification} 
+& Gender
+\newline Age
+\newline Personality traits
+& Twitter
+& 
+& Stylometry-based features (29 features)
+& \acrshort{NB}
+\newline \acrshort{SVM}
+\newline \acrshort{RF}
+\newline \acrshort{LR}
+& Gender: 73
+\newline Age: 53
+\\
+\hline
+\cite{grivas2015author} 
+& Gender
+\newline Age
+\newline Personality traits
+& Twitter
+& Unify tweets
+\newline Remove HTML tags, hashtags, URL, mentions, replies...
+\newline Remove duplicate tweets
+& Stylometry-based features
+\newline Structural features
+& \acrshort{SVM}
+& Gender: 95
+\newline Age: 78
+\\
+\hline
+\cite{bartoli2015author} 
+& Gender
+\newline Age
+\newline Personality traits
+& Twitter
+&
+& Stylometry-based features
+\newline Content-based features
+& \acrshort{SVM}
+\newline \acrshort{RF}
+& Gender: 76 
+\newline Age: 41 (\acrshort{RF} with 2000 trees)
+\\
+\hline
+\cite{bhargava2013stylometric} 
+& Author identification
+& Twitter
+& Grouping tweets of the same author
+& Lexical features
+\newline Syntactical features
+\newline Twitter-based features
+& \acrshort{SVM}
+& 91.11
+\label{table:SA}
+\end{longtable}
+\endgroup
+

@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1628346427440087040",
+            "text": "@luzsmellado Tengo que cambiar de bar.",
+            "created_at": "2023-02-22T10:50:16.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1628338590106152960",
+            "text": "Presidente Boric ofrece residencia y nacionalidad chilena a exiliados de Nicaragua\nhttps://t.co/Nui9cHfeaF",
+            "created_at": "2023-02-22T10:19:07.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1628328155139244032",
+            "text": "Las citas previas obligatorias y el malestar de los ciudadanos: \"La Administracion nos ningunea\" https://t.co/pKl3MKqmna a traves de @informativost5",
+            "created_at": "2023-02-22T09:37:39.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1628320109482635265",
+            "text": "Detenido en Tarrasa el padre de las dos hermanas asesinadas en Pakistan https://t.co/PptjNsky7t a traves de @ABCespana",
+            "created_at": "2023-02-22T09:05:41.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1628309993370841091",
+            "text": "Hay dias en que Lillo y Martinez estan sembrados. https://t.co/uJvXIGmV5i",
+            "created_at": "2023-02-22T08:25:29.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1628307444198768641",
+            "text": "@pitiklinov @Recuenco Magnifico aserto.",
+            "created_at": "2023-02-22T08:15:21.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1628307087238340608",
+            "text": "@lplacencia @EDO31311 Si los chilenos entendieran algo de impuestos y gasto publico nunca habrian dejado que el pais se suicidara como lo hizo en 2019. De hecho nunca habrian reelegido a Bachelet ni a Pinera.",
+            "created_at": "2023-02-22T08:13:56.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1628304919001280517",
+            "text": "Un 'catalogo de meretrices' para el director general de Ganaderia de Canarias https://t.co/cGMVAgGOvO a traves de @ABCespana",
+            "created_at": "2023-02-22T08:05:19.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1628304673756020737",
+            "text": "La Hacienda paralela hace aguas.\n\nLa burocracia amenaza con retrasar el fondo de pensiones de Escriva hasta final de 2023 https://t.co/HpH7Bp0BMb a traves de @ABCeconomia",
+            "created_at": "2023-02-22T08:04:21.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1628136549081616409",
+            "text": "China ya no es viable como \"fabrica mundial\", advierte uno de los mayores fabricantes de componentes\nhttps://t.co/hxkv2GPsIi",
+            "created_at": "2023-02-21T20:56:17.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1628053987147538441",
+            "text": "Este soldado ucraniano me ha recordado \"el Cadillac de los Cielos\" que gritaba Cristian Bale en 'El Imperio del Sol'. \nhttps://t.co/nJQtL8ckez",
+            "created_at": "2023-02-21T15:28:12.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627990850847313921",
+            "text": "Putin anuncia la suspension del ultimo tratado de armas nucleares firmado con EEUU https://t.co/Gq1QUC0XAp a traves de @epinternacional",
+            "created_at": "2023-02-21T11:17:20.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627982162044547072",
+            "text": "La UEFA multa a Ucrania por los canticos de sus hinchas contra Putin dias antes de estallar la guerra https://t.co/wYsnGRpyMi a traves de @ABC_Deportes",
+            "created_at": "2023-02-21T10:42:48.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627955518445690882",
+            "text": "Y de paso no solo hemos malcriado a las generaciones que vienen, sofronizandolas, sino que les hemos quitado el empleo, la cultura del esfuerzo y cuando trabajan los condenamos a pagar pensiones y deuda.",
+            "created_at": "2023-02-21T08:56:56.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627955011341766658",
+            "text": "\"El deterioro de los servicios publicos con esta administracion esta siendo galopante\"\n\nCausas y consecuencias x Julian Quiros\nhttps://t.co/3tNJcdowpT",
+            "created_at": "2023-02-21T08:54:55.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627951214737469634",
+            "text": "La semana laboral real se hunde hasta las 31,8 horas de media y frena el crecimiento del PIB https://t.co/H3txSEmISB",
+            "created_at": "2023-02-21T08:39:50.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627949772064579586",
+            "text": "\"Carter sigue siendo el presidente mas incomprendido del ultimo siglo. Un liberal sureno, sabia que el racismo era el pecado original de la nacion\"\n\nJimmy Carter\u2019s Presidency Was Not What You Think x Kai Bird\nhttps://t.co/9UWV716knE",
+            "created_at": "2023-02-21T08:34:06.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627946580731994115",
+            "text": "@JosudeMiguel1 Es genial, eso puede generar una corrupcion transterritorial",
+            "created_at": "2023-02-21T08:21:25.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627945646664581120",
+            "text": "Planas: \"El margen empresarial no solo es razonable sino necesario\" @MasDeUno",
+            "created_at": "2023-02-21T08:17:42.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627942317528084483",
+            "text": "@jose_muniz @tab_delete Lo empece a seguir ayer, tras leer tu tuit. Y vi que ganaba un premio especial de los Polk. Dato de contexto: el New York Times gano 3 de esos premios este ano.",
+            "created_at": "2023-02-21T08:04:28.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627939542886977536",
+            "text": "El efecto Pigmalion atrapa a Nadia Calvino x J. A. Zarzalejos https://t.co/QdzfHrXRcr",
+            "created_at": "2023-02-21T07:53:27.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627938491760877571",
+            "text": "\"Hay, pues, un problema de orientacion en las medidas economicas y sociales y... un problema claro de insuficiente intensidad en las ayudas dirigidas a las rentas mas bajas. Y sigo sin entender el porque de la negativa a deflactar la tarifa del IRPF para rentas medias y bajas\"",
+            "created_at": "2023-02-21T07:49:16.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627934111640784898",
+            "text": "Presidente, algo no funciona x Jordi Sevilla https://t.co/Jrm6J18U5u",
+            "created_at": "2023-02-21T07:31:52.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627776940613554201",
+            "text": "\"El Festival de Vina es un espejo donde se reflejan deformados los vicios y virtudes del pais\"\n\nEl karaoke de la patria x @cultrun \nhttps://t.co/4w4wcGiUsS",
+            "created_at": "2023-02-20T21:07:19.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627705088465592324",
+            "text": "Periodismo.\n\nUn estudio desvela las carreras universitarias con mas arrepentidos: hay una que sobresale https://t.co/Szyr7vG35y a traves de @ABCeconomia",
+            "created_at": "2023-02-20T16:21:49.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627645014699376640",
+            "text": "He visto pocas maneras tan poco elegantes de presumir.\n\nEl PP propone al columnista de The Objective Fernando Fernandez para el Banco de Espana. Les falto decir que ellos tumbaron a Cabrales. https://t.co/oFTzmx6qqC",
+            "created_at": "2023-02-20T12:23:06.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627640376923238400",
+            "text": "Cabrales y  la etica de  la renuncia x @rlatorreg via @elmundo_orbyt https://t.co/iU10BTvuDF",
+            "created_at": "2023-02-20T12:04:40.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627637654861774848",
+            "text": "Nueve anos sin David Taguas. De los cuatro \u00abfestines\u00bb que identifico, seguimos incidiendo en tres de ellos, excepto el endeudamiento privado masivo.\n\nCuatro bodas y un funeral, nueve anos despues x Javier Santacruz https://t.co/53Evb5PkN8 a traves de @TheObjective_es",
+            "created_at": "2023-02-20T11:53:51.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627622875409661952",
+            "text": "@vdgolpe11 El unico argumento que no he oido a la banca contra el impuesto es que con el Hacienda se ha quedado con el margen que se iban a repartir con los ahorradores. Por lo demas, han sido muy obedientes.",
+            "created_at": "2023-02-20T10:55:07.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627602952587206656",
+            "text": "@Lenore1789 @astr0l Lo cierto es que queda claro que solo hay un personaje mas irresponsable que el ciudadano con derecho a voto: el accionista minoritario.",
+            "created_at": "2023-02-20T09:35:57.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627602755786362880",
+            "text": "\"Muy bien el Osasuna por fichar personas antes que estrellas\". Una historia que esta en el otro extremo de los sobornadores de arbitros.\n\nY Budimir llevo a Mari Carmen al hospital https://t.co/H9j1WM6gZI",
+            "created_at": "2023-02-20T09:35:11.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627585171028320261",
+            "text": "@GarrochoS Acabo de comprobar que el espiritu es la deflactacion de la tarifa del IRPF.",
+            "created_at": "2023-02-20T08:25:18.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627579351855251461",
+            "text": "Los nigerianos del timon: \u00abNos atamos con los cinturones. Si te duermes y caes al mar, estas muerto\u00bb https://t.co/vbcWn7ORmu a traves de @ABC_Sociedad",
+            "created_at": "2023-02-20T08:02:11.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627568236983115788",
+            "text": "No se la pierdan. Espero que nos haga una Hohlmeier. https://t.co/wLMz4isTaw",
+            "created_at": "2023-02-20T07:18:01.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627544101175406593",
+            "text": "La mejora de las previsiones de crecimiento de Espana es un espejismo x J. Jorrin https://t.co/Ed4LWOoDFr",
+            "created_at": "2023-02-20T05:42:06.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627411164807192577",
+            "text": "\u00bfPara cuando un version woke del Doctor en Desverguenzas?",
+            "created_at": "2023-02-19T20:53:52.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627358539554381824",
+            "text": "Esta es la columna mas importante que se ha publicado este fin de semana de vacaciones mentales en Chile. Y sus noticias no son buenas. \n\nColumna de Pablo Ortuzar: \u00bfEs hoy posible una tregua de elites? https://t.co/pWdklgGhCs a traves de @latercera",
+            "created_at": "2023-02-19T17:24:45.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627356509024800776",
+            "text": "\"La empresa es un terreno fertil para que prosperen personas con rasgos psicopaticos como la nula empatia y la falta de emociones, lo que los convierte en buenos tomadores de decisiones dificiles\"\n\nLas claves del exito del psicopata corporativo x @cultrun \nhttps://t.co/ZWyEeeg59F",
+            "created_at": "2023-02-19T17:16:41.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627353754415529992",
+            "text": "Certificados x David Gistau via @elmundo_orbyt https://t.co/rVB7T7kQm4",
+            "created_at": "2023-02-19T17:05:44.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627271341379387393",
+            "text": "@IraciHassler \u00bfQue me dice de los 6.000 millones de plusvalia del vendedor?",
+            "created_at": "2023-02-19T11:38:15.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627269725708328961",
+            "text": "@MaribelRU4 Cada uno agradece a su dios.",
+            "created_at": "2023-02-19T11:31:50.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627224823611944962",
+            "text": "2) Esto de @adsuara que anade mas motivos para rechazar la castana de la ley trans. https://t.co/d1A0igqL5U",
+            "created_at": "2023-02-19T08:33:24.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627224126652907521",
+            "text": "Y sigue: https://t.co/SxJi7Eo1ni",
+            "created_at": "2023-02-19T08:30:38.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627224038488567808",
+            "text": "Cosas que hay que leer hoy: 1) Pedro J ha hecho los deberes. https://t.co/qbpuCvWzt5",
+            "created_at": "2023-02-19T08:30:17.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627197856300900361",
+            "text": "@passache @BorisvanderSpek \u00bfY funciona bien con vitroceramica?",
+            "created_at": "2023-02-19T06:46:15.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627196836418138113",
+            "text": "@lplacencia A ver que tal con esta tecnologia chilensis https://t.co/Bm4YMUGv5m",
+            "created_at": "2023-02-19T06:42:12.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627188428470116356",
+            "text": "Sanchez el neoliberal. https://t.co/WADXjmY6iY",
+            "created_at": "2023-02-19T06:08:47.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627188195992510465",
+            "text": "@lplacencia Todo es bueno, desde la salida atras, el centrocampista con la pelota con mango...",
+            "created_at": "2023-02-19T06:07:52.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627187943373692929",
+            "text": "@lplacencia Gran pase, pero el control y remate es extraordinario.",
+            "created_at": "2023-02-19T06:06:52.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627184459308052483",
+            "text": "Antonio Cabrales no era \u2018uno di noi\u2019 x @fpasc  via @elmundo_orbyt https://t.co/YxHEfydFlW",
+            "created_at": "2023-02-19T05:53:01.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627182117632282626",
+            "text": "Pense lo mismo cuando lo oi en TV. https://t.co/F8arv6Mj4j",
+            "created_at": "2023-02-19T05:43:43.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1627005172386758656",
+            "text": "Escriva exige a los bancos retener los pagos con tarjeta a profesionales y empresas con deudas con la Seguridad Social https://t.co/b8caYh7Xfq a traves de @ABCeconomia",
+            "created_at": "2023-02-18T18:00:36.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626681187086237697",
+            "text": "Sanchez como Gorbachov tiene una gran imagen en el extranjero, pero en Espana no puede salir a la calle sin que le piten. @BrujulaOndaCero",
+            "created_at": "2023-02-17T20:33:11.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626607210536001537",
+            "text": "Los agradecimientos se vuelven lanzas. Como cambia el talante cuando descubres que no eran de tu cuerda/ La viuda de Saura arremete contra Ayuso: \u201cLa gestion publico-privada de la sanidad debe de ser la mierda de comida que se da a los enfermos\u201d https://t.co/Y9CVsHCOPF",
+            "created_at": "2023-02-17T15:39:14.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626575629708857346",
+            "text": "El CIS salva al PSOE de la 'quema' del si es si frente a Unidas Podemos https://t.co/tmJYKqbow5",
+            "created_at": "2023-02-17T13:33:45.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626560232422883329",
+            "text": "Los ricos son mas ricos. En EE.UU. nones. https://t.co/rQmvXvAh2Z",
+            "created_at": "2023-02-17T12:32:34.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626558534308487170",
+            "text": "@hectorschamis @el_pais Eso decia yo... https://t.co/8R8ygBiTr1",
+            "created_at": "2023-02-17T12:25:49.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626522189565419520",
+            "text": "Tanto como potencia... https://t.co/J51pFTMwfH",
+            "created_at": "2023-02-17T10:01:23.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626522107583627264",
+            "text": "El Chile de Boric, la unica potencia de America Latina que condena abiertamente la ultima ofensiva de Ortega https://t.co/kzXpxeJQzu a traves de @el_pais",
+            "created_at": "2023-02-17T10:01:04.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626519716377264128",
+            "text": "El retrato de las militantes del PP que asistian no es muy favorecedor.\n\nEl Consejero de Sanidad de Madrid, sobre la Atencion Primaria y ante militantes del PP: \u201cHay que ir a un modelo basado en la enfermeria\u201d https://t.co/n0EPM2duWx a traves de @el_pais",
+            "created_at": "2023-02-17T09:51:34.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626484401289715712",
+            "text": "Seria interesante que la prensa divulgara los perfiles profesionales y las conexiones de esos tasadores implicados en una operacion que dana a lo publico. https://t.co/rcXWlgxkSV",
+            "created_at": "2023-02-17T07:31:14.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626480530798653441",
+            "text": "Aragon\u00e8s se llevo a su viaje a Nueva York a un sequito de 20 personas https://t.co/u0EGUc8ITg a traves de @ABCespana",
+            "created_at": "2023-02-17T07:15:51.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626479218405113857",
+            "text": "Muy interesante, sobre todo la opinion de los expertos: \"No siempre sale bien\" / De Cos ya advirtio de los riesgos del sistema de nombramientos del Banco de Espana https://t.co/oJdsWvXKgv a traves de @ABCeconomia",
+            "created_at": "2023-02-17T07:10:38.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626477586544005120",
+            "text": "Columna de Juan Ignacio Brito: Pinera: \u00bfPesadilla III? https://t.co/ECrmDlbzda a traves de @latercera",
+            "created_at": "2023-02-17T07:04:09.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626477145177432067",
+            "text": "@HayDerecho @natalia_velilla @CarlosFEsquer @germanteruel @sarv66 @SafiraCantos Poco vino veo ahi.",
+            "created_at": "2023-02-17T07:02:24.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626476805543665664",
+            "text": "Lo suyo es tener esta conversacion antes de la publicacion y si hay ruido, evitarlo.",
+            "created_at": "2023-02-17T07:01:03.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626473532304629760",
+            "text": "@brendamarting @luzsmellado @el_pais Reuno esos tres rasgos psicopaticos.",
+            "created_at": "2023-02-17T06:48:03.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626472108753620992",
+            "text": "Empiezo a explicarme el por que del despelote legal que llevamos en el ultimo ano.",
+            "created_at": "2023-02-17T06:42:23.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626471958522081281",
+            "text": "Aqui los descargos del diario sobre las imputaciones de Puente: https://t.co/OiHttJHd0q",
+            "created_at": "2023-02-17T06:41:47.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626471708369510404",
+            "text": "@Lleng7 @GarrochoS Yo creo que es simplemente una cuestion de la fuerza de la oralidad que hoy casi no existe. Nadie tiene tiempo para que le cuenten cuentos.",
+            "created_at": "2023-02-17T06:40:48.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626471516182290434",
+            "text": "La directora de Seguridad Juridica y Fe Publica del Ministerio de Justicia responde a las llamadas de ABC previas a la publicacion a toro pasado y por Twitter. https://t.co/qpn9C1Qu9p",
+            "created_at": "2023-02-17T06:40:02.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626463674603905025",
+            "text": "@Lleng7 @GarrochoS Solon, Lincoln, Churchill... incluso Roosevelt. Y la mayoria no tenian cabezas de huevo. Mientras mas atras vamos, mas competencia hay.",
+            "created_at": "2023-02-17T06:08:52.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626146876457201666",
+            "text": "@karlitos @iguardans Eso es exactamente lo que ha ocurrido. Lo que pasa es que Cabrales podia haber seguido la divisa de Cela (\"el que resiste, gana\"). Y si los que lo propusieron lo hubieran validado publicamente, aun mas.",
+            "created_at": "2023-02-16T09:10:02.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626137323724234752",
+            "text": "De hecho, si los abajofirmantes en vez de dejarse llevar por la amistad y la presion social hubiesen actuado como nuestras madres o como el adulto en la sala, quiza octubre de 2017 no se hubiese producido.",
+            "created_at": "2023-02-16T08:32:04.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1626136727558447104",
+            "text": "@iguardans creo que has planteado cuestiones muy importantes y discutibles a raiz del episodio Cabrales, pero en el tema de la responsabilidad personal sobre nuestros actos no puedo mas que darte la razon.",
+            "created_at": "2023-02-16T08:29:42.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625953720713285650",
+            "text": "@Amegoland Pero siempre... \u00a1porque la musica militar (aunque se disfrace de Batuco) nunca me supo levantar!",
+            "created_at": "2023-02-15T20:22:30.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625951133129707527",
+            "text": "@PayoMiguel Antes la de un PSOE que mete en el consejo a sus jefes de gabinete.",
+            "created_at": "2023-02-15T20:12:13.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625950966099939334",
+            "text": "@juanmorano Ya, dejelo. Pense que era una pregunta sincera, no que venia a tomarme el pelo.",
+            "created_at": "2023-02-15T20:11:33.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625878608207138817",
+            "text": "\"Nadie le pregunto a Antonio Cabrales si habia fumado marihuana de joven, pero su eleccion atraia mas talento que las vacilaciones de Villacis\"\n\nCabrales, el abajofirmante x @cultrun  https://t.co/FtEYCgyTWF a traves de @ABCeconomia",
+            "created_at": "2023-02-15T15:24:02.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625738017099902977",
+            "text": "@juanmorano Porque aun no hemos recuperado Pib de 2019. Incluso un gato muerto  es capaz de rebotar si lo tiras de muy alto.",
+            "created_at": "2023-02-15T06:05:22.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625615830716129290",
+            "text": "Se ha empezado a mover el sector primario. Huevos y quesos.",
+            "created_at": "2023-02-14T21:59:51.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625609949244948480",
+            "text": "\"De momento, la leccion del insolito episodio es la dificultad de seleccion en la actual politica espanola\" https://t.co/sY59MrGX8m",
+            "created_at": "2023-02-14T21:36:28.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625609753232609281",
+            "text": "El consejero del Banco de Espana pactado entre el Gobierno y el PP dimite a las seis horas de su nombramiento https://t.co/KFJtPKPlf6",
+            "created_at": "2023-02-14T21:35:42.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625608214732480521",
+            "text": "Dimite Antonio Cabrales, consejero del Banco de Espana a propuesta del PP, pocas horas despues de su nombramiento https://t.co/CgO2rRr7Sv a traves de @ABCeconomia",
+            "created_at": "2023-02-14T21:29:35.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625595001664069677",
+            "text": "Mariana Mazzucato: \"Los McKinsey y los Deloitte no tienen expertise en las areas en las que asesoran\"\nhttps://t.co/v7iS7so9Ve",
+            "created_at": "2023-02-14T20:37:05.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625504850984460288",
+            "text": "@agape9899 @ivarelad @OndaCero_es Lo siento, se me debe haber despistado su tuit.",
+            "created_at": "2023-02-14T14:38:51.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625458563152855043",
+            "text": "La diseccion de su auto que hizo esta manana @ivarelad en la tertulia de Alsina merece ser oida. Minuto 31:40  https://t.co/3wgqk1OdC5 a traves de @OndaCero_es",
+            "created_at": "2023-02-14T11:34:55.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625452735314247682",
+            "text": "Marchena es notable juridicamente. Necesitamos cien Marchenas mas en este pais.",
+            "created_at": "2023-02-14T11:11:46.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625442626987036674",
+            "text": "@GuardillaVivo Viendo a Bendodo en La 1.",
+            "created_at": "2023-02-14T10:31:36.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625442397156003841",
+            "text": "@bidatzi Insolito.",
+            "created_at": "2023-02-14T10:30:41.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625428020965126149",
+            "text": "La mejora del traductor de Google ha hecho que cada vez recurra mas a el y este perdiendo mi ingles.\n\nEl 'efecto GPS' x @cultrun https://t.co/lcokOUM6jl a traves de @ABCeconomia",
+            "created_at": "2023-02-14T09:33:33.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625427647596462081",
+            "text": "\"Espana se encuentra en una crisis de caida de la productividad que la deja en una desventaja competitiva muy grande y que no tiene visos de que vaya a corregirse a corto plazo\"\n\nJuan Ignacio Crespo: \u00abEste Gobierno esta obsesionado con la propaganda\u00bb https://t.co/wR7nykXPLS",
+            "created_at": "2023-02-14T09:32:04.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625414800137134081",
+            "text": "El PP lloriqueando porque la crisis sanitaria en Madrid se ha politizado. \u00a1Todo lo que concierne al Estado es politica y vosotros sois politicos!",
+            "created_at": "2023-02-14T08:41:01.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625411278431834112",
+            "text": "@ingebau Seguro que algun chileno se lia con este tuit",
+            "created_at": "2023-02-14T08:27:02.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625117989304500226",
+            "text": "Por ejemplo: https://t.co/xpBUILtAEf",
+            "created_at": "2023-02-13T13:01:36.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625114106310144003",
+            "text": "Me sorprende que este sistema haya durado tanto sin hacer crisis. Sobre todo porque los que ceden rentabilidad son siempre los mismos. Pero la pandemia ha roto el sistema. Al politico que prometa arreglarlo con evidencias, le voto.",
+            "created_at": "2023-02-13T12:46:10.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625113488577249281",
+            "text": "Sanchez dice que el 30% de gastos sanitario que va al sector privado demuestra que hay que gastar mas en lo publico. Error, demuestra que hay un fallo en lo publico y que a la gente no le queda otra que rascarse el bolsillo y hacerse un seguro.",
+            "created_at": "2023-02-13T12:43:43.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625112797699837953",
+            "text": "\u00bfCreeis que los laboratorios estan felices? Hay un monton de medicamentos de ultima generacion cuya existencia desconocemos hasta que alguien los necesita. Ellos saben como ganar dinero en Espana. Si pagas con cacahuetes tienes monos.",
+            "created_at": "2023-02-13T12:40:58.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625112092549304320",
+            "text": "Los medicos y enfermeros estan hartos de que el sistema se apropie de gran parte de la riqueza que generan y se van. Nos les importa lo que el Estado ha invertido en su formacion. Ya sucedia en la Europa sovietica hace 50 anos.",
+            "created_at": "2023-02-13T12:38:10.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        },
+        {
+            "tweet_id": "1625111414636527617",
+            "text": "Cada frase de Juan I. Crespo es una leccion. Leedlo con atencion. / Juan Ignacio Crespo: \u00abEste Gobierno esta obsesionado con la propaganda\u00bb https://t.co/RT3HQx4lO7 via @ABCeconomia",
+            "created_at": "2023-02-13T12:35:29.000Z",
+            "user_id": "21121637",
+            "username": "cultrun"
+        }
+    ]
+}

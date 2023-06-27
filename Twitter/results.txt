@@ -1,0 +1,1191 @@
+----------------------------------------- SVM -----------------------------------------
+
+TWITTER FEATURES:
+
+    - GENDER:
+		* Linear Kernel:
+			-> Accuracy: 0.625
+			-> Precision: 0.6436170212765957
+			-> Recall: 0.8066666666666666
+		* RBF Kernel:
+			-> Accuracy: 0.6328125
+			-> Precision: 0.6818181818181818
+			-> Recall: 0.7
+    - AGE:
+		* Linear Kernel:
+			-> Accuracy: 0.4533898305084746
+			-> Precision: 0.4296286899344741
+			-> Recall: 0.4533898305084746
+		* RBF Kernel:
+			-> Accuracy: 0.4364406779661017
+			-> Precision: 0.4214543692865067
+			-> Recall: 0.4364406779661017
+    - REGION:
+		* Linear Kernel:
+			-> Accuracy: 0.10215053763440861
+			-> Precision: 0.03265835714384309
+			-> Recall: 0.10215053763440861
+		* RBF Kernel:
+			-> Accuracy: 0.10215053763440861
+			-> Precision: 0.0869664079553723
+			-> Recall: 0.10215053763440861
+
+STYLISTIC FEATURES:
+  
+  CHARACTER BASED:
+
+    - GENDER:
+		* Linear Kernel:
+			-> Accuracy: 0.4751552795031056
+			-> Precision: 0.4751552795031056
+			-> Recall: 1.0
+		* RBF Kernel:
+			-> Accuracy: 0.5031055900621118
+			-> Precision: 0.4851063829787234
+			-> Recall: 0.7450980392156863
+    - AGE:
+		* Linear Kernel:
+			-> Accuracy: 0.3181818181818182
+			-> Precision: 0.3640463593585309
+			-> Recall: 0.3181818181818182
+		* RBF Kernel:
+			-> Accuracy: 0.34265734265734266
+			-> Precision: 0.3686950822257376
+			-> Recall: 0.34265734265734266
+    - REGION:
+		* Linear Kernel:
+			-> Accuracy: 0.08843537414965986
+			-> Precision: 0.013754821788801023
+			-> Recall: 0.08843537414965986
+		* RBF Kernel:
+			-> Accuracy: 0.10204081632653061
+			-> Precision: 0.06449887832440854
+			-> Recall: 0.10204081632653061
+
+  STRUCTURAL BASED:
+
+    - GENDER:
+		* Linear Kernel:
+			-> Accuracy: 0.569620253164557
+			-> Precision: 0.5569620253164557
+			-> Recall: 0.5714285714285714
+		* RBF Kernel:
+			-> Accuracy: 0.560126582278481
+			-> Precision: 0.5471698113207547
+			-> Recall: 0.564935064935065
+    - AGE:
+		* Linear Kernel:
+			-> Accuracy: 0.31785714285714284
+			-> Precision: 0.24767594868938092
+			-> Recall: 0.31785714285714284
+		* RBF Kernel:
+			-> Accuracy: 0.31785714285714284
+			-> Precision: 0.35773915816326524
+			-> Recall: 0.31785714285714284
+    - REGION:
+		* Linear Kernel:
+			-> Accuracy: 0.08856088560885608
+			-> Precision: 0.025062964915363438
+			-> Recall: 0.08856088560885608
+		* RBF Kernel:
+			-> Accuracy: 0.08856088560885608
+			-> Precision: 0.061103238817447156
+			-> Recall: 0.08856088560885608
+
+  SYNTACTICAL BASED:
+
+    - GENDER:
+		* Without tunning
+			-> Accuracy: 0.6191860465116279
+			-> Precision: 0.6187923550642831
+			-> Recall: 0.6191860465116279
+		* Tunning:{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+			-> Accuracy: 0.5726744186046512
+			-> Precision: 0.5709571915804257
+			-> Recall: 0.5726744186046512
+    - AGE:
+		* Without tunning
+			-> Accuracy: 0.4069767441860465
+			-> Precision: 0.39832234396295446
+			-> Recall: 0.4069767441860465
+		* Tunning:{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+			-> Accuracy: 0.39244186046511625
+			-> Precision: 0.39261227855695424
+			-> Recall: 0.39244186046511625
+    - REGION:
+		* Without tunning
+			-> Accuracy: 0.10755813953488372
+			-> Precision: 0.09244371550200428
+			-> Recall: 0.10755813953488372
+		* Tunning:{'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+			-> Accuracy: 0.08139534883720931
+			-> Precision: 0.08280957030315786
+			-> Recall: 0.08139534883720931
+
+  WORD BASED:
+
+    - GENDER:
+		* Linear Kernel:
+			-> Accuracy: 0.5843137254901961
+			-> Precision: 0.6099290780141844
+			-> Recall: 0.6277372262773723
+		* RBF Kernel:
+			-> Accuracy: 0.6039215686274509
+			-> Precision: 0.6384615384615384
+			-> Recall: 0.6058394160583942
+    - AGE:
+		* Linear Kernel:
+			-> Accuracy: 0.3902439024390244
+			-> Precision: 0.4279958371335906
+			-> Recall: 0.3902439024390244
+		* RBF Kernel:
+			-> Accuracy: 0.3821138211382114
+			-> Precision: 0.39781743091949584
+			-> Recall: 0.3821138211382114
+    - REGION:
+		* Linear Kernel:
+			-> Accuracy: 0.04888888888888889
+			-> Precision: 0.00799118424919189
+			-> Recall: 0.04888888888888889
+		* RBF Kernel:
+			-> Accuracy: 0.05333333333333334
+			-> Precision: 0.03493466296421379
+			-> Recall: 0.05333333333333334
+
+  ALL STYLISTIC FEATURES:
+
+    - GENDER:
+		* Without tunning
+			-> Accuracy: 0.6581196581196581
+			-> Precision: 0.6602794163769773
+			-> Recall: 0.6581196581196581
+		* Tunning:'kernel': 'rbf'
+			-> Accuracy: 0.6239316239316239
+			-> Precision: 0.6237475749670871
+			-> Recall: 0.6239316239316239
+    - AGE:
+		* Without tunning
+			-> Accuracy: 0.4068627450980392
+			-> Precision: 0.3975149446751881
+			-> Recall: 0.4068627450980392
+		* Tunning:'kernel': 'rbf'
+			-> Accuracy: 0.4068627450980392
+			-> Precision: 0.3975149446751881
+			-> Recall: 0.4068627450980392
+    - REGION:
+		* Without tunning
+			-> Accuracy: 0.09944751381215469
+			-> Precision: 0.0850320985235937
+			-> Recall: 0.09944751381215469
+		* Tunning:'kernel': 'rbf'
+			-> Accuracy: 0.09944751381215469
+			-> Precision: 0.0850320985235937
+			-> Recall: 0.09944751381215469
+
+N-GRAM FEATURES:
+
+  WORDGRAM:
+    
+    - GENDER:
+		* Linear Kernel:
+			-> Accuracy: 0.5691318327974276
+			-> Precision: 0.5691318327974276
+			-> Recall: 1.0
+		* RBF Kernel:
+			-> Accuracy: 0.5916398713826366
+			-> Precision: 0.625
+			-> Recall: 0.7062146892655368
+    - AGE:
+		* Linear Kernel:
+			-> Accuracy: 0.2379421221864952
+			-> Precision: 0.056616453510613
+			-> Recall: 0.2379421221864952
+		* RBF Kernel:
+			-> Accuracy: 0.26366559485530544
+			-> Precision: 0.27167473469724274
+			-> Recall: 0.26366559485530544
+    - REGION:
+		* Linear Kernel:
+			-> Accuracy: 0.05787781350482315
+			-> Precision: 0.0033498412960990894
+			-> Recall: 0.05787781350482315
+		* RBF Kernel:
+			-> Accuracy: 0.07717041800643087
+			-> Precision: 0.0363645409380606
+			-> Recall: 0.07717041800643087
+
+  CHARGRAM:
+    
+    - GENDER:
+		* Linear Kernel:
+			-> Accuracy: 0.5305466237942122
+			-> Precision: 0.5305466237942122
+			-> Recall: 1.0
+		* RBF Kernel:
+			-> Accuracy: 0.5176848874598071
+			-> Precision: 0.5409836065573771
+			-> Recall: 0.6
+    - AGE:
+		* Linear Kernel:
+			-> Accuracy: 0.24437299035369775
+			-> Precision: 0.05971815841440845
+			-> Recall: 0.24437299035369775
+		* RBF Kernel:
+			-> Accuracy: 0.29260450160771706
+			-> Precision: 0.22375006711249248
+			-> Recall: 0.29260450160771706
+    - REGION:
+		* Linear Kernel:
+			-> Accuracy: 0.05787781350482315
+			-> Precision: 0.0033498412960990894
+			-> Recall: 0.05787781350482315
+		* RBF Kernel:
+			-> Accuracy: 0.05466237942122187
+			-> Precision: 0.007639677973067717
+			-> Recall: 0.05466237942122187
+
+  BOTH:
+
+    - GENDER:
+		* Linear Kernel:
+			-> Accuracy: 0.5337620578778135
+			-> Precision: 0.5337620578778135
+			-> Recall: 1.0
+		* RBF Kernel:
+			-> Accuracy: 0.4758842443729904
+			-> Precision: 0.5104895104895105
+			-> Recall: 0.4397590361445783
+    - AGE:
+		* Linear Kernel:
+			-> Accuracy: 0.26366559485530544
+			-> Precision: 0.06951954591040208
+			-> Recall: 0.26366559485530544
+		* RBF Kernel:
+			-> Accuracy: 0.2572347266881029
+			-> Precision: 0.25707498310321336
+			-> Recall: 0.2572347266881029
+    - REGION:
+		* Linear Kernel:
+			-> Accuracy: 0.04501607717041801
+			-> Precision: 0.002026447203813029
+			-> Recall: 0.04501607717041801
+		* RBF Kernel:
+			-> Accuracy: 0.06752411575562701
+			-> Precision: 0.012729133621426962
+			-> Recall: 0.06752411575562701
+
+TF + SF (ALL):
+
+    - GENDER:
+		* Linear Kernel:
+			-> Accuracy: 0.6129032258064516
+			-> Precision: 0.6344086021505376
+			-> Recall: 0.6082474226804123
+		* RBF Kernel:
+			-> Accuracy: 0.5967741935483871
+			-> Precision: 0.6195652173913043
+			-> Recall: 0.5876288659793815
+    - AGE:
+		* Linear Kernel:
+			-> Accuracy: 0.4825174825174825
+			-> Precision: 0.4431669550987733
+			-> Recall: 0.4825174825174825
+		* RBF Kernel:
+			-> Accuracy: 0.4965034965034965
+			-> Precision: 0.4582380323639065
+			-> Recall: 0.4965034965034965
+    - REGION:
+		* Linear Kernel:
+			-> Accuracy: 0.08771929824561403
+			-> Precision: 0.08153081980313101
+			-> Recall: 0.08771929824561403
+		* RBF Kernel:
+			-> Accuracy: 0.07894736842105263
+			-> Precision: 0.058029689608636977
+			-> Recall: 0.07894736842105263
+
+TF + N-GRAM:
+
+    - GENDER:
+		* Linear Kernel:
+			-> Accuracy: 0.6860986547085202
+			-> Precision: 0.6763005780346821
+			-> Recall: 0.8931297709923665
+		* RBF Kernel:
+			-> Accuracy: 0.6860986547085202
+			-> Precision: 0.6871165644171779
+			-> Recall: 0.8549618320610687
+    - AGE:
+		* Linear Kernel:
+			-> Accuracy: 0.3284313725490196
+			-> Precision: 0.32013431931891384
+			-> Recall: 0.3284313725490196
+		* RBF Kernel:
+			-> Accuracy: 0.3382352941176471
+			-> Precision: 0.3281369774016833
+			-> Recall: 0.3382352941176471
+    - REGION:
+		* Linear Kernel:
+			-> Accuracy: 0.08441558441558442
+			-> Precision: 0.011925982514217807
+			-> Recall: 0.08441558441558442
+		* RBF Kernel:
+			-> Accuracy: 0.09090909090909091
+			-> Precision: 0.025946860157386474
+			-> Recall: 0.09090909090909091
+
+SF + N-GRAM:
+
+    - GENDER:
+		* Without tunning
+			-> Accuracy: 0.6536585365853659
+			-> Precision: 0.6527748320961471
+			-> Recall: 0.6536585365853659
+		* Tunning:'kernel': 'rbf'
+			-> Accuracy: 0.6536585365853659
+			-> Precision: 0.6527748320961471
+			-> Recall: 0.6536585365853659
+    - AGE:
+		* Without tunning
+			-> Accuracy: 0.3898305084745763
+			-> Precision: 0.38533200151238384
+			-> Recall: 0.3898305084745763
+		* Tunning:'kernel': 'rbf'
+			-> Accuracy: 0.3898305084745763
+			-> Precision: 0.38533200151238384
+			-> Recall: 0.3898305084745763
+    - REGION:
+		* Without tunning
+			-> Accuracy: 0.1282051282051282
+			-> Precision: 0.08087094551824674
+			-> Recall: 0.1282051282051282
+		* Tunning:'kernel': 'rbf'
+			-> Accuracy: 0.1282051282051282
+			-> Precision: 0.08087094551824674
+			-> Recall: 0.1282051282051282
+
+TF + SF + N-GRAM:
+
+    - GENDER:
+		* Without tunning
+			-> Accuracy: 0.6724137931034483
+			-> Precision: 0.6700982841912377
+			-> Recall: 0.6724137931034483
+		* Tunning:'kernel': 'rbf'
+			-> Accuracy: 0.6724137931034483
+			-> Precision: 0.6700982841912377
+			-> Recall: 0.6724137931034483
+	- AGE:
+		* Without tunning
+			-> Accuracy: 0.41843971631205673
+			-> Precision: 0.39282348856816945
+			-> Recall: 0.41843971631205673
+		* Tunning:'kernel': 'rbf'
+			-> Accuracy: 0.41843971631205673
+			-> Precision: 0.39282348856816945
+			-> Recall: 0.41843971631205673
+	- REGION:
+		* Without tunning
+			-> Accuracy: 0.12
+			-> Precision: 0.0660676236044657
+			-> Recall: 0.12
+		* Tunning:'kernel': 'rbf'
+			-> Accuracy: 0.12
+			-> Precision: 0.0660676236044657
+			-> Recall: 0.12
+
+
+
+----------------------------------------- RANDOM FOREST -----------------------------------------
+
+TWITTER FEATURES:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.609375
+			-> Precision: 0.6048067269076305
+			-> Recall: 0.609375
+		* Tunning:
+			-> Accuracy: 0.62890625
+			-> Precision: 0.6465364956958393
+			-> Recall: 0.62890625
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.423728813559322
+			-> Precision: 0.4061788439908228
+			-> Recall: 0.423728813559322
+		* Tunning:
+			-> Accuracy: 0.4661016949152542
+			-> Precision: 0.4526202330627454
+			-> Recall: 0.4661016949152542
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.11827956989247312
+			-> Precision: 0.10515270624378784
+			-> Recall: 0.11827956989247312
+		* Tunning:
+			-> Accuracy: 0.0913978494623656
+			-> Precision: 0.07296774646961339
+			-> Recall: 0.0913978494623656
+            
+STYLISTIC FEATURES:
+  
+  CHARACTER BASED:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5217391304347826
+			-> Precision: 0.5219270574654014
+			-> Recall: 0.5217391304347826
+		* Tunning:
+			-> Accuracy: 0.5217391304347826
+			-> Precision: 0.5189399069935438
+			-> Recall: 0.5217391304347826
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.34615384615384615
+			-> Precision: 0.3393400251996293
+			-> Recall: 0.34615384615384615
+		* Tunning:
+			-> Accuracy: 0.3111888111888112
+			-> Precision: 0.3022682477542529
+			-> Recall: 0.3111888111888112
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.07142857142857142
+			-> Precision: 0.0737524880081903
+			-> Recall: 0.07142857142857142
+		* Tunning:
+			-> Accuracy: 0.03741496598639456
+			-> Precision: 0.04238164961740767
+			-> Recall: 0.03741496598639456
+
+  STRUCTURAL BASED:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5221518987341772
+			-> Precision: 0.5210879272726148
+			-> Recall: 0.5221518987341772
+		* Tunning:
+			-> Accuracy: 0.5569620253164557
+			-> Precision: 0.5564082278481012
+			-> Recall: 0.5569620253164557
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.32857142857142857
+			-> Precision: 0.3235052074872681
+			-> Recall: 0.32857142857142857
+		* Tunning:
+			-> Accuracy: 0.3
+			-> Precision: 0.29222676546221427
+			-> Recall: 0.3
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.0996309963099631
+			-> Precision: 0.10488454081214377
+			-> Recall: 0.0996309963099631
+		* Tunning:
+			-> Accuracy: 0.0996309963099631
+			-> Precision: 0.1047729835271017
+			-> Recall: 0.0996309963099631
+
+  SYNTACTICAL BASED:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5581395348837209
+			-> Precision: 0.5561815252894738
+			-> Recall: 0.5581395348837209
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.561046511627907
+			-> Precision: 0.5594771771059146
+			-> Recall: 0.561046511627907
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.34011627906976744
+			-> Precision: 0.3200303873801404
+			-> Recall: 0.34011627906976744
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.3313953488372093
+			-> Precision: 0.30807199455908324
+			-> Recall: 0.3313953488372093
+	- REGION:
+		* Without tunning:
+			-> Accuracy: 0.09011627906976744
+			-> Precision: 0.08155889276426763
+			-> Recall: 0.09011627906976744
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.12209302325581395
+			-> Precision: 0.11356801532876118
+			-> Recall: 0.12209302325581395
+
+  WORD BASED:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.611764705882353
+			-> Precision: 0.6135228251507322
+			-> Recall: 0.611764705882353
+		* Tunning:
+			-> Accuracy: 0.6078431372549019
+			-> Precision: 0.6105574012550757
+			-> Recall: 0.6078431372549019
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.35772357723577236
+			-> Precision: 0.3434613733192866
+			-> Recall: 0.35772357723577236
+		* Tunning:
+			-> Accuracy: 0.3617886178861789
+			-> Precision: 0.3452658319946698
+			-> Recall: 0.3617886178861789
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.06666666666666667
+			-> Precision: 0.06484481859920456
+			-> Recall: 0.06666666666666667
+		* Tunning:
+			-> Accuracy: 0.07555555555555556
+			-> Precision: 0.049115908810798206
+			-> Recall: 0.07555555555555556
+
+  ALL STYLISTIC FEATURES:
+
+    - GENDER:   
+		* Without tunning:
+			-> Accuracy: 0.6495726495726496
+			-> Precision: 0.6501570604134707
+			-> Recall: 0.6495726495726496
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.6367521367521367
+			-> Precision: 0.6379854550907182
+			-> Recall: 0.6367521367521367
+	- AGE:
+		* Without tunning:
+			-> Accuracy: 0.35784313725490197
+			-> Precision: 0.34417176189472204
+			-> Recall: 0.35784313725490197
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.39705882352941174
+			-> Precision: 0.3797085456932004
+			-> Recall: 0.39705882352941174
+	- REGION:
+		* Without tunning:
+			-> Accuracy: 0.055248618784530384
+			-> Precision: 0.04995627615575275
+			-> Recall: 0.055248618784530384
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.09392265193370165
+			-> Precision: 0.08353920117877663
+			-> Recall: 0.09392265193370165
+
+N-GRAM FEATURES:
+
+  WORDGRAM:
+    
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5434083601286174
+			-> Precision: 0.2952926458576731
+			-> Recall: 0.5434083601286174
+		* Tunning:
+			-> Accuracy: 0.5434083601286174
+			-> Precision: 0.2952926458576731
+			-> Recall: 0.5434083601286174
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.24437299035369775
+			-> Precision: 0.05971815841440845
+			-> Recall: 0.24437299035369775
+		* Tunning:
+			-> Accuracy: 0.24437299035369775
+			-> Precision: 0.05971815841440845
+			-> Recall: 0.24437299035369775
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.08038585209003216
+			-> Precision: 0.006461885216240527
+			-> Recall: 0.08038585209003216
+		* Tunning:
+			-> Accuracy: 0.08038585209003216
+			-> Precision: 0.006461885216240527
+			-> Recall: 0.08038585209003216
+
+  CHARGRAM:
+    
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5434083601286174
+			-> Precision: 0.2952926458576731
+			-> Recall: 0.5434083601286174
+		* Tunning:
+			-> Accuracy: 0.5434083601286174
+			-> Precision: 0.2952926458576731
+			-> Recall: 0.5434083601286174
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.24437299035369775
+			-> Precision: 0.05971815841440845
+			-> Recall: 0.24437299035369775
+		* Tunning:
+			-> Accuracy: 0.24437299035369775
+			-> Precision: 0.05971815841440845
+			-> Recall: 0.24437299035369775
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.08038585209003216
+			-> Precision: 0.006461885216240527
+			-> Recall: 0.08038585209003216
+		* Tunning:
+			-> Accuracy: 0.08038585209003216
+			-> Precision: 0.006461885216240527
+			-> Recall: 0.08038585209003216
+
+  BOTH:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5434083601286174
+			-> Precision: 0.2952926458576731
+			-> Recall: 0.5434083601286174
+		* Tunning:
+			-> Accuracy: 0.5434083601286174
+			-> Precision: 0.2952926458576731
+			-> Recall: 0.5434083601286174
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.24437299035369775
+			-> Precision: 0.05971815841440845
+			-> Recall: 0.24437299035369775
+		* Tunning:
+			-> Accuracy: 0.24437299035369775
+			-> Precision: 0.05971815841440845
+			-> Recall: 0.24437299035369775
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.08038585209003216
+			-> Precision: 0.006461885216240527
+			-> Recall: 0.08038585209003216
+		* Tunning:
+			-> Accuracy: 0.08038585209003216
+			-> Precision: 0.006461885216240527
+			-> Recall: 0.08038585209003216
+
+TF + SF (ALL):
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.6831683168316832
+			-> Precision: 0.684903105695185
+			-> Recall: 0.6831683168316832
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.6881188118811881
+			-> Precision: 0.688816818689743
+			-> Recall: 0.6881188118811881
+	- AGE:
+		* Without tunning:
+			-> Accuracy: 0.44047619047619047
+			-> Precision: 0.42807055356821166
+			-> Recall: 0.44047619047619047
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.44642857142857145
+			-> Precision: 0.4056559382646339
+			-> Recall: 0.44642857142857145
+	- REGION:
+		* Without tunning:
+			-> Accuracy: 0.0967741935483871
+			-> Precision: 0.08104602312390252
+			-> Recall: 0.0967741935483871
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.08870967741935484
+			-> Precision: 0.07316628264208908
+			-> Recall: 0.08870967741935484
+
+TF + N-GRAM:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5739910313901345
+			-> Precision: 0.5696163411086153
+			-> Recall: 0.5739910313901345
+		* Tunning:
+			-> Accuracy: 0.6322869955156951
+			-> Precision: 0.6238388619384249
+			-> Recall: 0.6322869955156951
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.28431372549019607
+			-> Precision: 0.27711040702215123
+			-> Recall: 0.28431372549019607
+		* Tunning:
+			-> Accuracy: 0.31862745098039214
+			-> Precision: 0.322204038355154
+			-> Recall: 0.31862745098039214
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.08441558441558442
+			-> Precision: 0.10303030303030303
+			-> Recall: 0.08441558441558442
+		* Tunning:
+			-> Accuracy: 0.09090909090909091
+			-> Precision: 0.08733122036693465
+			-> Recall: 0.09090909090909091
+
+SF + N-GRAM:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.6292682926829268
+			-> Precision: 0.6279074187585827
+			-> Recall: 0.6292682926829268
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.624390243902439
+			-> Precision: 0.6251645373596593
+			-> Recall: 0.624390243902439
+	- AGE:
+		* Without tunning:
+			-> Accuracy: 0.4180790960451977
+			-> Precision: 0.4133669478967479
+			-> Recall: 0.4180790960451977
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.3954802259887006
+			-> Precision: 0.3854386164464175
+			-> Recall: 0.3954802259887006
+	- REGION:
+		* Without tunning:
+			-> Accuracy: 0.10256410256410256
+			-> Precision: 0.10761781372641102
+			-> Recall: 0.10256410256410256
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.08974358974358974
+			-> Precision: 0.07392688644665242
+			-> Recall: 0.08974358974358974
+
+TF + SF + N-GRAM:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.6724137931034483
+			-> Precision: 0.6724691130370644
+			-> Recall: 0.6724137931034483
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.6839080459770115
+			-> Precision: 0.6883743685307036
+			-> Recall: 0.6839080459770115
+	- AGE:
+		* Without tunning:
+			-> Accuracy: 0.3900709219858156
+			-> Precision: 0.3653350195903387
+			-> Recall: 0.3900709219858156
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.4326241134751773
+			-> Precision: 0.41992625661499505
+			-> Recall: 0.4326241134751773
+	- REGION:
+		* Without tunning:
+			-> Accuracy: 0.09
+			-> Precision: 0.08034904569115095
+			-> Recall: 0.09
+		* Tunning:{'criterion': 'entropy', 'max_leaf_nodes': None, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 200}
+			-> Accuracy: 0.09
+			-> Precision: 0.11266477244805419
+			-> Recall: 0.09
+
+
+----------------------------------------- XGBOOST (RF) -----------------------------------------
+
+TWITTER FEATURES:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.640625
+			-> Precision: 0.6395119863013699
+			-> Recall: 0.640625
+		* Tunning:
+			-> Accuracy: 0.62109375
+			-> Precision: 0.6177273330438139
+			-> Recall: 0.62109375
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.3898305084745763
+			-> Precision: 0.38263909075559543
+			-> Recall: 0.3898305084745763
+		* Tunning:
+			-> Accuracy: 0.423728813559322
+			-> Precision: 0.41372295387146774
+			-> Recall: 0.423728813559322
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.07526881720430108
+			-> Precision: 0.07311770517415678
+			-> Recall: 0.07526881720430108
+		* Tunning:
+			-> Accuracy: 0.08602150537634409
+			-> Precision: 0.09923261909472518
+			-> Recall: 0.08602150537634409
+
+STYLISTIC FEATURES:
+  
+  CHARACTER BASED:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5031055900621118
+			-> Precision: 0.493142386024574
+			-> Recall: 0.5031055900621118
+		* Tunning:
+			-> Accuracy: 0.4937888198757764
+			-> Precision: 0.4817183197296938
+			-> Recall: 0.4937888198757764
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.2902097902097902
+			-> Precision: 0.25913561955529785
+			-> Recall: 0.2902097902097902
+		* Tunning:
+			-> Accuracy: 0.33916083916083917
+			-> Precision: 0.19513848360002206
+			-> Recall: 0.33916083916083917
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.08163265306122448
+			-> Precision: 0.0772866284000124
+			-> Recall: 0.08163265306122448
+		* Tunning:
+			-> Accuracy: 0.06802721088435375
+			-> Precision: 0.0700287424911485
+			-> Recall: 0.06802721088435375
+    
+  STRUCTURAL BASED:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5727848101265823
+			-> Precision: 0.5731999815423029
+			-> Recall: 0.5727848101265823
+		* Tunning:
+			-> Accuracy: 0.5822784810126582
+			-> Precision: 0.5824255517689062
+			-> Recall: 0.5822784810126582
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.31785714285714284
+			-> Precision: 0.30874235396027166
+			-> Recall: 0.31785714285714284
+		* Tunning:
+			-> Accuracy: 0.3142857142857143
+			-> Precision: 0.29963429152148663
+			-> Recall: 0.3142857142857143
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.055350553505535055
+			-> Precision: 0.04944615853721562
+			-> Recall: 0.055350553505535055
+		* Tunning:
+			-> Accuracy: 0.05904059040590406
+			-> Precision: 0.06817758959181949
+			-> Recall: 0.05904059040590406
+            
+  SYNTACTICAL BASED:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.6191860465116279
+			-> Precision: 0.6183471189962438
+			-> Recall: 0.6191860465116279
+		* Tunning:{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}
+			-> Accuracy: 0.6308139534883721
+			-> Precision: 0.6300893071205946
+			-> Recall: 0.6308139534883721
+	- AGE:
+		* Without tunning:
+			-> Accuracy: 0.3546511627906977
+			-> Precision: 0.3493955624895969
+			-> Recall: 0.3546511627906977
+		* Tunning:"{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}"
+			-> Accuracy: 0.3691860465116279
+			-> Precision: 0.36880561852056903
+			-> Recall: 0.3691860465116279
+	- REGION:
+		* Without tunning:
+			-> Accuracy: 0.12209302325581395
+			-> Precision: 0.12064670017934694
+			-> Recall: 0.12209302325581395
+		* Tunning:"{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}"
+			-> Accuracy: 0.11337209302325581
+			-> Precision: 0.11933321429908889
+			-> Recall: 0.11337209302325581
+
+  WORD BASED:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.6
+			-> Precision: 0.6109347442680776
+			-> Recall: 0.6
+		* Tunning:
+			-> Accuracy: 0.6274509803921569
+			-> Precision: 0.635072463768116
+			-> Recall: 0.6274509803921569
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.3983739837398374
+			-> Precision: 0.3840705365095609
+			-> Recall: 0.3983739837398374
+		* Tunning:
+			-> Accuracy: 0.4024390243902439
+			-> Precision: 0.39671414382517844
+			-> Recall: 0.4024390243902439
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.08888888888888889
+			-> Precision: 0.0788186201093277
+			-> Recall: 0.08888888888888889
+		* Tunning:
+			-> Accuracy: 0.07111111111111111
+			-> Precision: 0.04111814501288186
+			-> Recall: 0.07111111111111111
+
+  ALL STYLISTIC FEATURES:
+
+    - GENDER:  
+		* Without tunning:
+			-> Accuracy: 0.5512820512820513
+			-> Precision: 0.5503944773175543
+			-> Recall: 0.5512820512820513
+		* Tunning:{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}
+			-> Accuracy: 0.5427350427350427
+			-> Precision: 0.5423609544577286
+			-> Recall: 0.5427350427350427
+	- AGE:
+		* Without tunning:
+			-> Accuracy: 0.4264705882352941
+			-> Precision: 0.4118714934654214
+			-> Recall: 0.4264705882352941
+		* Tunning:"{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}"
+			-> Accuracy: 0.4019607843137255
+			-> Precision: 0.3853148389480569
+			-> Recall: 0.4019607843137255
+	- REGION:
+		* Without tunning:
+			-> Accuracy: 0.09392265193370165
+			-> Precision: 0.08081271554350403
+			-> Recall: 0.09392265193370165
+		* Tunning:"{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}"
+			-> Accuracy: 0.10497237569060773
+			-> Precision: 0.09853138330943628
+			-> Recall: 0.10497237569060773
+
+N-GRAM FEATURES:
+
+  WORDGRAM:
+    
+    - GENDER:
+
+		* Without tunning:
+			-> Accuracy: 0.4758842443729904
+			-> Precision: 0.4640868228537949
+			-> Recall: 0.4758842443729904
+		* Tunning:
+			-> Accuracy: 0.5434083601286174
+			-> Precision: 0.2952926458576731
+			-> Recall: 0.5434083601286174
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.24115755627009647
+			-> Precision: 0.22541154458895368
+			-> Recall: 0.24115755627009647
+		* Tunning:
+			-> Accuracy: 0.2765273311897106
+			-> Precision: 0.2824208815752355
+			-> Recall: 0.2765273311897106
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.07717041800643087
+			-> Precision: 0.07560733828609104
+			-> Recall: 0.07717041800643087
+		* Tunning:
+			-> Accuracy: 0.05466237942122187
+			-> Precision: 0.055698709115107825
+			-> Recall: 0.05466237942122187
+
+  CHARGRAM:
+    
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5241157556270096
+			-> Precision: 0.5025347642710987
+			-> Recall: 0.5241157556270096
+		* Tunning:
+			-> Accuracy: 0.5273311897106109
+			-> Precision: 0.5107204335500155
+			-> Recall: 0.5273311897106109
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.24437299035369775
+			-> Precision: 0.2366946597122409
+			-> Recall: 0.24437299035369775
+		* Tunning:
+			-> Accuracy: 0.26366559485530544
+			-> Precision: 0.2588920137333195
+			-> Recall: 0.26366559485530544
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.07717041800643087
+			-> Precision: 0.06867188001044304
+			-> Recall: 0.07717041800643087
+		* Tunning:
+			-> Accuracy: 0.06109324758842444
+			-> Precision: 0.051772516795213976
+			-> Recall: 0.06109324758842444
+
+  BOTH:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5498392282958199
+			-> Precision: 0.5411680547459258
+			-> Recall: 0.5498392282958199
+		* Tunning:
+			-> Accuracy: 0.5337620578778135
+			-> Precision: 0.5203487838645156
+			-> Recall: 0.5337620578778135
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.2572347266881029
+			-> Precision: 0.2514511490475168
+			-> Recall: 0.2572347266881029
+		* Tunning:
+			-> Accuracy: 0.2604501607717042
+			-> Precision: 0.25215227657882633
+			-> Recall: 0.2604501607717042
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.0707395498392283
+			-> Precision: 0.06438976537643688
+			-> Recall: 0.0707395498392283
+		* Tunning:
+			-> Accuracy: 0.08360128617363344
+			-> Precision: 0.07060129286656705
+			-> Recall: 0.08360128617363344
+
+TF + SF (ALL):
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.6584158415841584
+			-> Precision: 0.6576405577318197
+			-> Recall: 0.6584158415841584
+		* Tunning:{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}
+			-> Accuracy: 0.6633663366336634
+			-> Precision: 0.6628300330033002
+			-> Recall: 0.6633663366336634
+	- AGE:
+		* Without tunning:
+			-> Accuracy: 0.4642857142857143
+			-> Precision: 0.4299867719216873
+			-> Recall: 0.4642857142857143
+		* Tunning:"{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}"
+			-> Accuracy: 0.44642857142857145
+			-> Precision: 0.40972765142541256
+			-> Recall: 0.44642857142857145
+	- REGION:
+		* Without tunning:
+			-> Accuracy: 0.0967741935483871
+			-> Precision: 0.08684323069403715
+			-> Recall: 0.0967741935483871
+		* Tunning:"{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}"
+			-> Accuracy: 0.06451612903225806
+			-> Precision: 0.049927405880292125
+			-> Recall: 0.06451612903225806
+
+TF + N-GRAM:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.6367713004484304
+			-> Precision: 0.6290699941509067
+			-> Recall: 0.6367713004484304
+		* Tunning:
+			-> Accuracy: 0.6322869955156951
+			-> Precision: 0.6239663908560475
+			-> Recall: 0.6322869955156951
+    - AGE:
+		* Without tunning:
+			-> Accuracy: 0.28921568627450983
+			-> Precision: 0.28608730144030386
+			-> Recall: 0.28921568627450983
+		* Tunning:
+			-> Accuracy: 0.31862745098039214
+			-> Precision: 0.31834309481368306
+			-> Recall: 0.31862745098039214
+    - REGION:
+		* Without tunning:
+			-> Accuracy: 0.08441558441558442
+			-> Precision: 0.08502525612915222
+			-> Recall: 0.08441558441558442
+		* Tunning:
+			-> Accuracy: 0.06493506493506493
+			-> Precision: 0.059674293960008236
+			-> Recall: 0.06493506493506493
+
+SF + N-GRAM:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.5902439024390244
+			-> Precision: 0.5876250263406793
+			-> Recall: 0.5902439024390244
+		* Tunning:{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}
+			-> Accuracy: 0.6097560975609756
+			-> Precision: 0.6084378337003052
+			-> Recall: 0.6097560975609756
+	- AGE:
+		* Without tunning:
+			-> Accuracy: 0.3954802259887006
+			-> Precision: 0.3614075659414642
+			-> Recall: 0.3954802259887006
+		* Tunning:{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}
+			-> Accuracy: 0.4067796610169492
+			-> Precision: 0.3872379769579475
+			-> Recall: 0.4067796610169492
+	- REGION:
+		* Without tunning:
+			-> Accuracy: 0.05128205128205128
+			-> Precision: 0.049505116771003055
+			-> Recall: 0.05128205128205128
+		* Tunning:{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}
+			-> Accuracy: 0.0641025641025641
+			-> Precision: 0.0771416083916084
+			-> Recall: 0.0641025641025641
+
+TF + SF + N-GRAM:
+
+    - GENDER:
+		* Without tunning:
+			-> Accuracy: 0.6724137931034483
+			-> Precision: 0.6724691130370644
+			-> Recall: 0.6724137931034483
+		* Tunning:{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}
+			-> Accuracy: 0.6609195402298851
+			-> Precision: 0.6636303072953319
+			-> Recall: 0.6609195402298851
+	- AGE:
+		* Without tunning:
+			-> Accuracy: 0.375886524822695
+			-> Precision: 0.3775006647003901
+			-> Recall: 0.375886524822695
+		* Tunning:{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}
+			-> Accuracy: 0.3829787234042553
+			-> Precision: 0.3825108697449123
+			-> Recall: 0.3829787234042553
+	- REGION:
+		* Without tunning:
+			-> Accuracy: 0.09
+			-> Precision: 0.09021568627450981
+			-> Recall: 0.09
+		* Tunning:{'learning_rate': 0.01, 'n_estimators': 200, 'reg_lambda': 1}
+			-> Accuracy: 0.08
+			-> Precision: 0.07247712418300653
+			-> Recall: 0.08

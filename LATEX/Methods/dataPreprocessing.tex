@@ -1,0 +1,16 @@
+Text pre-processing is a crucial step before moving on to feature extraction.
+
+\subsection{Twitter dataset}
+Tweets are short texts of a maximum length of 280 characters. By themselves they don't represent with enough extent the writing style of their author. Therefore, in order to create each user's text document, the retrieved tweets are concatenated in a single document per user. 
+
+The previous step before feature extrtaction must be cleaning the data, in this case, processing the text and what characters are going to be usefull for the classifier. For the \textit{Twitter-based features}, no cleaning is made, but the rest feature groups must undergo a common cleaning step consisting on:
+\begin{itemize}
+    \item Remove URLs
+    \item Replace emojis with its text counterpart
+    \item Remove mentions: words starting with the character ``@''
+    \item Remove hashtags: words starting with the character ``\#''
+\end{itemize}
+For the \textit{Character-based and Structural-based features} it is enough to just perform this step. However, before extracting \textit{Syntactical-based features} punctuantion symbols are removed, and on top of that, for \textit{Word-based features} stop words are eliminated. In order to do so, a file containing a list of Spanish stop words is used, instead of using the common NLTK library. This decision was made as the file used contained more words than the Spanish NLTK stopword function. 
+
+\subsection{Police dataset}
+For the police dataset, the reports have been previously anonimized, and sensitive data such as names, places, telephone numbers or dates have been replaced with tags. With this dataset the first cleaning step of removing twitter characteristics isn't necessary as it was for the Twitter dataset, instead, the tags related with the anonimization of the data are removed. The rest of the steps are the same, before extracting syntactical-based features punctuation symbols are removed, and for the word-based features stopwords are eliminated.

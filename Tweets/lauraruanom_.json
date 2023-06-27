@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "tweet_id": "1598403670760095744",
+            "text": "@raulalcon15 Si ibas a clase muy bien no se te daba. Asi habras entendido tu.",
+            "created_at": "2022-12-01T19:48:26.000Z",
+            "user_id": "1247253786785087496",
+            "username": "lauraruanom_"
+        },
+        {
+            "tweet_id": "1537093159049641984",
+            "text": "@raulalcon15 @ferruano44 Yo creo que lo tuyo y lo del hormiguero esta pasado de moda ya no? mi rey.",
+            "created_at": "2022-06-15T15:22:21.000Z",
+            "user_id": "1247253786785087496",
+            "username": "lauraruanom_"
+        },
+        {
+            "tweet_id": "1301850172746539010",
+            "text": "@patriciasmh_ Entonces tu no @Elsaruanom_",
+            "created_at": "2020-09-04T11:50:43.000Z",
+            "user_id": "1247253786785087496",
+            "username": "lauraruanom_"
+        },
+        {
+            "tweet_id": "1265387992962813959",
+            "text": "Cuando las palabras tengan menos valor que el silencio, callate",
+            "created_at": "2020-05-26T21:03:01.000Z",
+            "user_id": "1247253786785087496",
+            "username": "lauraruanom_"
+        }
+    ]
+}

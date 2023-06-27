@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1625219257175867392",
+            "text": "Desinformacion en momentos tan duros como los que se viven tras el terremoto de Turquia y Siria. Desmentidos del equipo @Newtral https://t.co/5oapiWMX7N",
+            "created_at": "2023-02-13T19:44:00.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1624733252534648832",
+            "text": "Lo bonita que es Ponferrada \ud83d\udc9a\ud83d\udc9a https://t.co/9JVd76vQA4",
+            "created_at": "2023-02-12T11:32:48.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1623254549300490242",
+            "text": "Romper el tabu y prevenir el suicidio en menores y adolescentes: \u201cAhora reconozco pistas que nos hubieran hecho estar alerta con mi hija\u201d https://t.co/3pP8JxafGe",
+            "created_at": "2023-02-08T09:36:57.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1618916815224324098",
+            "text": "600.000 personas muertas en 2 anos. https://t.co/KvKIdhLzm3",
+            "created_at": "2023-01-27T10:20:21.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1618151356434640899",
+            "text": "@Lau_Ferrero Es maravilloso, para leer y releer \ud83e\udef6\ud83c\udffe",
+            "created_at": "2023-01-25T07:38:41.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1617473613325799424",
+            "text": "Siempre con @MiriamRuiz_  que suma en todo.\u2764\ufe0f\u200d\ud83e\ude79 https://t.co/w6U058afpj",
+            "created_at": "2023-01-23T10:45:35.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1615978736825901056",
+            "text": "\"No lo dejo porque sea duro, lo dejo porque este trabajo conlleva una gran responsabilidad, y no tengo suficiente energia para hacerle justicia\" La honestidad y el ejemplo de Jacinda Ardern\ud83d\udc47\ud83c\udffe https://t.co/HylKXtsTjx",
+            "created_at": "2023-01-19T07:45:28.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1613443588490231809",
+            "text": "\ud83d\udcf9\ud83c\udde7\ud83c\uddf7  Partidarios de Bolsonaro usaron las retransmisiones en directo del asalto al Congreso de Brasil para ganar dinero a pesar de infringir las normas de la plataforma. Un analisis de los verificadores Aos fatos y Lupa. https://t.co/DIr967fHJ0",
+            "created_at": "2023-01-12T07:51:42.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1612492327813058576",
+            "text": "El presidente del Consejo de Transparencia:  \u201cEl porcentaje de resoluciones que no se cumplen es inadmisible y es una patologia\u201d. Entrevista de @MiriamRuiz_ en @ElPeriodico_Esp https://t.co/nRCX5FIQTm",
+            "created_at": "2023-01-09T16:51:44.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1607422577642725376",
+            "text": "\u2018Paraiso\u2019, del escritor tanzano Abdulrazak Gurnah, es uno de los libros que mas me ha gustado descubrir este ano. Y tambien a el, no solo a traves de la novela. Me encantan estas reflexiones en una entrevista reciente en The New York Time. https://t.co/3Zu8ICWlx6",
+            "created_at": "2022-12-26T17:06:21.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1605820413870604289",
+            "text": "Ya estan @YermaRuano y @sanabria_luis \ud83d\udc99\ud83e\udd1e\ud83c\udffe https://t.co/Qpya2m8yYI",
+            "created_at": "2022-12-22T06:59:56.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1603709176387100672",
+            "text": "@Pablo_Moran @Premios_Ondas No me queda nada \ud83e\udd29\ud83c\udf84",
+            "created_at": "2022-12-16T11:10:37.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1603706785042501635",
+            "text": "@Pablo_Moran @Premios_Ondas \ud83d\ude0d\ud83d\ude0d que bonito es",
+            "created_at": "2022-12-16T11:01:07.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1598702112879398915",
+            "text": "\"Nos parece tan incomprensible que un crio pueda quitarse la vida, que nos da miedo y preferimos no enfrentarnos a ello\u201d. Pero mirar hacia otro lado no ayuda. Hay que hablar del sufrimiento de los mas pequenos, acompanarles y valorar la salud mental. https://t.co/3pP8JxafGe",
+            "created_at": "2022-12-02T15:34:20.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1596066254556651520",
+            "text": "Ahora mismo, hay 74.684 casos de violencia de genero activos con medidas de proteccion. 943 de ellos son de menores (!). La comisaria responsable de VioGen alerta del incremento de la violencia digital entre adolescentes y pone la atencion en la formacion. (3) #25Nov",
+            "created_at": "2022-11-25T09:00:23.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1596066253029969920",
+            "text": "Eso supone tener proteccion policial continua. En otros casos, significa que una mujer tenga que ir acompanada por agentes al trabajo, tener un plan de huida o asesoramiento para ensenar a los hijos/as a esconderse en sus propias casas. (2) #25Nov",
+            "created_at": "2022-11-25T09:00:22.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1596066250916270081",
+            "text": "Hace 9 anos, Rosa cogio un barco de Tenerife a Cadiz. Deseaba reunirse con su familia. Pero no era una viajera mas, la acompanaban dos agentes para protegerla del hombre que dias antes le habia dado una paliza. Desde entonces, esta en VioGen (1) https://t.co/k5SZSVQ8yo #25Nov",
+            "created_at": "2022-11-25T09:00:22.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1595531175149330441",
+            "text": "Su asesino quiso borrarla, pero ella es eterna. Eso dicen sus hijas. Un homenaje precioso para no olvidar nunca de donde venimos y hacia donde hay que ir. \ud83d\udc9c #EspecialAnaOrantes https://t.co/sXNhrLOOG0",
+            "created_at": "2022-11-23T21:34:10.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1590984589958606849",
+            "text": "\u00a1Feliz Dia de las librerias! No hay nada como entrar a comprar un libro... y llevarte unos cuantos. \ud83e\udd70\ud83d\ude0d Me encanta el cartel de este ano \ud83d\udc9c https://t.co/NjfGxzLbcd",
+            "created_at": "2022-11-11T08:27:39.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1590806678152192000",
+            "text": "Este mes hay un monton de ciudades donde se corre para luchar contra el cancer de pancreas. Toda la info en el link \ud83d\udcaa\ud83c\udffe\ud83d\udcaa\ud83c\udffe\ud83d\udc47\ud83c\udffe https://t.co/4x4O3dPafe",
+            "created_at": "2022-11-10T20:40:42.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1583041674250375170",
+            "text": "Asi explicaba esta periodista la inflacion en 1982, billete de mil pesetas en mano: \u201cCon este billete de mil pesetas, mi bisabuela pudo haber comprado este rebano de ovejas y la finca. Y ahora solo podria comprar la pierna de un cordero\u201d. Hemeroteca\ud83d\udcfa@ObjetivoLaSexta https://t.co/rMrTBMf9aE",
+            "created_at": "2022-10-20T10:25:21.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1578352822306762752",
+            "text": "Tres plantas, capacidad para unas 100 personas, un hospital y dos dormitorios especiales, uno para el rey y otro para el presidente. Son algunos de los elementos del bunker de la Moncloa. Lo contamos en @ObjetivoLaSexta https://t.co/6OFM5QRhxw",
+            "created_at": "2022-10-07T11:53:31.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1578315150745968641",
+            "text": "\u201cLo mejor que puedo hacer es intentar aportar mi grano de arena, mi piedra, al conocimiento. A ese conocimiento que nos hara, no se si mas felices, pero si mas libres\" Annie Ernaux \ud83d\udc9chttps://t.co/dvAlbGYxQj",
+            "created_at": "2022-10-07T09:23:50.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1570011832407949313",
+            "text": "Que horror https://t.co/iGfpT1hLZN",
+            "created_at": "2022-09-14T11:29:24.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1568565228979232768",
+            "text": "De mi visita a @libro_imposible \ud83d\udc9c https://t.co/ZPgVzq8buh",
+            "created_at": "2022-09-10T11:41:07.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1567780946836955138",
+            "text": "@Pablo_Moran La tierrina, que maravilla \ud83d\udc9a",
+            "created_at": "2022-09-08T07:44:40.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1567474043799977985",
+            "text": "Buenos proyectos en Ponferrada. Hay que ir. \ud83e\udef6\ud83c\udffe https://t.co/xZ9OM8AFlD",
+            "created_at": "2022-09-07T11:25:08.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1564887724280233986",
+            "text": "\"El credo de la Perestroika era la democratizacion y la negacion de la violencia. \u00bfQuien nos va a convencer de que no se pueden resolver los problemas de otra manera que no sea con los aviones, con los bombardeos...?\" Gorbachov, hace 18 anos https://t.co/QHM6pz4HeO",
+            "created_at": "2022-08-31T08:08:02.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1564571049974456323",
+            "text": "La carga mental es un sindrome que afecta a un 71% de mujeres y solo al 12% de hombres. Test de carga mental: cual es tu nivel de estres relacionado con tu exceso de tareas https://t.co/RsXZn5lZpo",
+            "created_at": "2022-08-30T11:09:41.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1564183577536991232",
+            "text": "Aunque el proceso se desarrolla en un hospital, un parto no es una enfermedad. Estas son las reformas que modernizan los paritorios para que dejen de parecer quirofanos y sean adecuados al momento tan importante e intimo. Madres, arquitectas y matronas \ud83d\udc47\ud83c\udffehttps://t.co/8N69cbi9N7",
+            "created_at": "2022-08-29T09:30:00.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1556932676032102401",
+            "text": "\u201cMe animo a leer libros\u201d https://t.co/ZwDWmYasAV",
+            "created_at": "2022-08-09T09:17:31.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1548610313225895937",
+            "text": "La valla de Melilla, la barbaridad de la mutilacion genital femenina, la hambruna en Sudan, el miedo de un nino durante la violencia post electoral en Kenya... 25 anos de fotografia humanitaria. \u2764\ufe0f\u200d\ud83e\ude79Una exposicion de @MedicosdelMundo en Madrid https://t.co/PyYypByRSI",
+            "created_at": "2022-07-17T10:07:25.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1548355278986526720",
+            "text": "Desolador: El director general de Proteccion Civil sobre los incendios por toda Espana en plena ola de calor: \u201cEsto no va a parar, es una evidencia del cambio climatico\u201d https://t.co/BB6GJqxbLU",
+            "created_at": "2022-07-16T17:14:00.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1547935875761184769",
+            "text": "El Tribunal Supremo reconoce el derecho de un padre a disfrutar el permiso de lactancia aunque la madre no trabaje https://t.co/ZXHoSUas1n",
+            "created_at": "2022-07-15T13:27:26.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1542240434520481793",
+            "text": "@masanma Que bonita mi tierra \ud83d\udc9a",
+            "created_at": "2022-06-29T20:15:47.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1540377994119811074",
+            "text": "5 personas muertas... \ud83d\udc47\ud83c\udffe https://t.co/EpfKMAYQfY",
+            "created_at": "2022-06-24T16:55:07.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1540339260112396288",
+            "text": "Retroceso de 50 anos https://t.co/ALR2JV77xj",
+            "created_at": "2022-06-24T14:21:12.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1540041132868083715",
+            "text": "@jafg5 En el cine \ud83d\ude04",
+            "created_at": "2022-06-23T18:36:33.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1540036699044171779",
+            "text": "Que bellisima es \u2018Cinco lobitos\u2019 \u2764\ufe0f\u200d\ud83e\ude79 https://t.co/uSpeZI8iEu",
+            "created_at": "2022-06-23T18:18:56.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1539568336853516289",
+            "text": "En 2021, hubo 377 peticiones para retirar de Internet fotografias, videos sexuales o violentos que se habian difundido sin permiso. Y 215 de ellas fueron a traves del canal especifico para menores... Las denuncias que han llegado a la @AEPD_es https://t.co/u8X29eNwIX",
+            "created_at": "2022-06-22T11:17:49.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1539515510060109824",
+            "text": "Otras consecuencias de la guerra que ha provocado Putin: La Comision Europea tambien alerta del alto riesgo de \"hambruna catastrofica\" en paises del norte de Africa. https://t.co/Iw1ADg30p9",
+            "created_at": "2022-06-22T07:47:55.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1535554211789815808",
+            "text": "Que bonita esta este ano la @FLMadrid, @EvaOrue  Tan completa otra vez y tan bulliciosa (y sin megafonia\ud83d\ude05) \n\nMe he llevado a dos Virginia\ud83d\ude04\n\nLa senora March. Virginia Feito\n\nUn cuarto propio. Virginia Woolf \ud83d\udc9c https://t.co/L4L0ZIFKe0",
+            "created_at": "2022-06-11T09:27:07.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1534834336155017219",
+            "text": "En resumen \ud83d\udc99 https://t.co/1MvIiRsSR7",
+            "created_at": "2022-06-09T09:46:36.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1534580408385511424",
+            "text": "El relato que hace Tara Westover es desgarrador, como la falta de educacion condiciono su bienestar,su seguridad,su entorno,su autoestima, el acceso a la medicina, a las vacunas...Salir de la vida que habian elegido para ella, con toda sulucha interna es asombroso.Y muy valiente\ud83d\udc9c https://t.co/vvif1SvcBc",
+            "created_at": "2022-06-08T16:57:35.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1534561748509986818",
+            "text": "Estremece la alerta de @unicef_es :Si el mundo no amplia su mirada de la guerra en Ucrania y actua de inmediato, habra una inminente explosion de muertes infantiles en el Cuerno de Africa. Millones de ninos y ninas sufren desnutricion aguda grave. Ampliar la mirada...",
+            "created_at": "2022-06-08T15:43:26.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1534453224371019776",
+            "text": "Cincuenta anos de la nina del napalm, la fotografia que ayudo a detener una guerra.https://t.co/hs0Jd5WvzX",
+            "created_at": "2022-06-08T08:32:12.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1532780461033922560",
+            "text": "Terrible. Es una irresponsabilidad enorme. https://t.co/K9mqXLnm1t",
+            "created_at": "2022-06-03T17:45:14.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1531645420585246720",
+            "text": "Casi 5 anos sin fumar. \u00a1Cuanto sufri para dejarlo! Pero, sin duda, la mejor decision. Sobre la (dificil) tarea de dejar de fumar \ud83d\udeac\ud83d\udc47\ud83c\udffe https://t.co/6uqG8PK5vp",
+            "created_at": "2022-05-31T14:34:59.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1529537513660076033",
+            "text": "Dos anos despues, el juicio sigue pendiente. Pedro Munoz, exconcejal de Ponferrada, acusado de violencia machista contra la que era su mujer, a la que lanzo al vacio desde la terraza dejandole graves secuelas, queda en libertad provisional. https://t.co/sDwrvuK0Uw",
+            "created_at": "2022-05-25T18:58:55.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1528642937109860352",
+            "text": "Explicaciones de que https://t.co/hP3EShbsZp",
+            "created_at": "2022-05-23T07:44:11.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1527578033355358209",
+            "text": "El alcalde de Sanxenxo da la fecha de un nuevo viaje del emerito a Espana: el 10 de junio. Para el Campeonato del Mundo de vela porque \"quiere defender el titulo\" ya que Juan Carlos I es el ultimo campeon.",
+            "created_at": "2022-05-20T09:12:38.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1527203414119272448",
+            "text": "La ministra de sanidad sobre la 'viruela del mono': \"Es un virus, no una enfermedad de transmision sexual\". Un virus poco frecuente que no es nuevo, surgio en Africa en los anos 70. https://t.co/44TeJfs5lx",
+            "created_at": "2022-05-19T08:24:02.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1527005289899249664",
+            "text": "La Casa Real confirma la visita del emerito a Espana. Desde manana y hasta el lunes 23, el dia que ira a Madrid \"para estar con Su Majestad el Rey, con Su Majestad la Reina Dona Sofia y demas miembros de su familia\".",
+            "created_at": "2022-05-18T19:16:46.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1526481019028787201",
+            "text": "Los expertos apuntan al impacto de los discursos negacionistas entre los mas jovenes y a la falta de educacion afectivosexual como las principales causas https://t.co/NHganDTC5t",
+            "created_at": "2022-05-17T08:33:30.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1524671676360933382",
+            "text": "Entonces habra que trabajar con las empresas para que superen esa supuesta barrera, no poner trabas al reconocimiento y la cobertura de la salud de la mujer. https://t.co/183emfKFuH",
+            "created_at": "2022-05-12T08:43:49.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1522222630111113216",
+            "text": "Maravillosa @MariaPages_ \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe https://t.co/VORCqraKMU",
+            "created_at": "2022-05-05T14:32:11.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1521881204835954689",
+            "text": "Los hechos probados del abuso sexual de Santi Mina https://t.co/A7tKQLRkKO",
+            "created_at": "2022-05-04T15:55:29.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1517911442107809792",
+            "text": "\u00a1Feliz #DiaDelLibro ! \ud83d\udc9c De la Feria del libro de Ponferrada me he llevado \u2018Las formas del querer\u2019de @imartinrodrigo https://t.co/1VdhkRYuEP",
+            "created_at": "2022-04-23T17:01:03.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1517133391832911874",
+            "text": "El comisionista noventero en @ObjetivoLaSexta https://t.co/U1mLQPK1eP",
+            "created_at": "2022-04-21T13:29:22.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1516396657348419590",
+            "text": "Inaceptable la reaccion de Miguel Angel Rodriguez https://t.co/ZNTjhI8IUl",
+            "created_at": "2022-04-19T12:41:51.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1511986364346163205",
+            "text": "La respuesta al conflicto en Ucrania es un ejemplo. Las personas afectadas por las crisis en todo el mundo merecen el mismo apoyo. La llamada de atencion de Cruz Roja @ifrc https://t.co/sVa3eWIma4",
+            "created_at": "2022-04-07T08:36:55.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1511262677959598080",
+            "text": "Matanza en Bucha: anatomia de un \"crimen de guerra\" https://t.co/VG8dDJKk38",
+            "created_at": "2022-04-05T08:41:14.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1509509051834642437",
+            "text": "El plan de respuesta a la guerra entra en vigor en unas horas. 5 cosas en las que lo vamos a notar \ud83d\udc47\ud83c\udffe@ObjetivoLaSexta https://t.co/rG5ueZhBYD",
+            "created_at": "2022-03-31T12:32:57.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1509460833557958663",
+            "text": "@almudenacid Almudena... que ha sido y es referente de tantas \ud83d\ude4c\ud83c\udffe\ud83d\udc9c\ud83d\udc9c https://t.co/yTWV5NbEct",
+            "created_at": "2022-03-31T09:21:21.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1506677673279606788",
+            "text": "Millones de ninas, alumnas de secundaria, no pueden ir a la escuela porque los talibanes no lo permiten. Llevan meses asi. Se les niega un derecho tan fundamental como la educacion, su progreso, sus oportunidades... https://t.co/LhVrQ1aSp6",
+            "created_at": "2022-03-23T17:02:04.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1506190288330571779",
+            "text": "Que bueno este especial sobre racismo de @alonso_nahiara con datos, historias y testimonios de gaslighting racial: negacion del racismo, minimizacion de los hechos y ausencia de acciones politicas. https://t.co/AeRjJVgTfg",
+            "created_at": "2022-03-22T08:45:23.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1505826551417524224",
+            "text": "Perspectiva de genero para entender que las mujeres sufren una violencia especifica en conflictos y crisis humanitarias, prevenirla y evitarla. \ud83d\udc47\ud83c\udffe https://t.co/2pHXlmcq8b",
+            "created_at": "2022-03-21T08:40:01.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1502965306427379714",
+            "text": "\u201cSiempre te preguntan lo mismo: '\u00bfQue has hecho?' Y no has hecho nada. Te lo han hecho\u201d. En @el_pais sobre menores que viven en centros de proteccion o con familias de acogida. https://t.co/tJlFQ3zEw7",
+            "created_at": "2022-03-13T11:10:27.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1502636950783774723",
+            "text": "Quien me lo regalo me conoce bien. \ud83d\udc9c Me ha encantado Matumbo, un relato sobre las entranas de Kenia, su diversidad, su gente, su historia y la forma de entender el gobierno de un pais con la influencia de la colonizacion. Una cronica maravillosa y muy completa de @javi_triana https://t.co/SUNjEWtbfD",
+            "created_at": "2022-03-12T13:25:41.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1502214152131170309",
+            "text": "Algunos datos nuevos del CGPJ sobre esa \"violencia que usted menciona\" que dice Manueco: el n\u00ba de mujeres victimas de violencia de genero aumento un 9,35% en 2021. Se acordaron 31.212 ordenes de proteccion. 7 de cada 10 sentencias fueron condenatorias. Se llama violencia machista",
+            "created_at": "2022-03-11T09:25:38.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1501936270871646219",
+            "text": "Lo de \"violencia intrafamiliar\" no es nuevo. Casado uso esta expresion en 2019, poco antes de las elecciones. En 2004,Rajoy hizo esa defensa cuando se aprobo la Ley contra la violencia de genero.Y lo llevo en su programa CS en 2015 con una buena polemica\ud83d\udc47\ud83c\udffe https://t.co/ta1U7ZulbM",
+            "created_at": "2022-03-10T15:01:26.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1501633843333373956",
+            "text": "El ataque a un hospital materno infantil... Terrorifico https://t.co/YvHs2IVXbo",
+            "created_at": "2022-03-09T18:59:41.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1501274394064297987",
+            "text": "Fuertes y empoderadas \ud83d\udc9c\ud83d\udcaa\ud83c\udffe #8M https://t.co/kn5hZrIVSY",
+            "created_at": "2022-03-08T19:11:22.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1501268815799332873",
+            "text": "Como lo echabamos de menos \ud83d\udc9c \u00a1Viva la lucha de las mujeres!  #8M https://t.co/ooQ4jaLh1s",
+            "created_at": "2022-03-08T18:49:12.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1500749668728332290",
+            "text": "Dice la ministra Robles en @OndaCero_es  sobre la posicion de U.Podemos en torno a Ucrania: \"Igual no conocen todo lo que ha ocurrido\" porque las conversaciones fueron muchas y Putin \"vulnero todas las normas\". La diplomacia va a seguir, pero \"no podemos permanecer impasibles\"",
+            "created_at": "2022-03-07T08:26:18.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1499663138110775297",
+            "text": "La sana de esos porrazos, las patadas cuando el chico ya esta en el suelo. Al menos siete apaleando a uno. Da verguenza verlo. \u00bfComo es posible que esto pase? https://t.co/oiBvNhPBXa",
+            "created_at": "2022-03-04T08:28:49.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1497486009797382146",
+            "text": "La ayuda humanitaria y de respuesta a emergencias para atender a la poblacion y a sus necesidades en cada caso \ud83d\ude4f\ud83c\udffd https://t.co/wgGZ8IQ7Vn",
+            "created_at": "2022-02-26T08:17:41.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1497289466964238341",
+            "text": "Pedir a la poblacion que se arme para defenderse, difundir tutoriales sobre como hacer bombas caseras, lanzarles a la guerra... que terrible. El delirio de Putin y el conflicto que ha provocado con todas sus consecuencias es incomprensible.",
+            "created_at": "2022-02-25T19:16:41.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1497124662551191552",
+            "text": "Morenatti cuenta como anoche varias personas pedian entrar a una de las estaciones del metro para protegerse cuando las puertas ya habian cerrado. El relato y las imagenes...https://t.co/54MB7mRtku https://t.co/puIn5AZdHz",
+            "created_at": "2022-02-25T08:21:49.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1496856217926438914",
+            "text": "Espanoles en Ucrania: Hay 436 espanoles inscritos en la embajada de Espana en Kiev, segun informa Pedro Sanchez. Un centenar ya han regresado a nuestro pais, quedan 320.",
+            "created_at": "2022-02-24T14:35:07.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1496842710346575882",
+            "text": "Que horror esta nueva guerra https://t.co/MmdehayfaA",
+            "created_at": "2022-02-24T13:41:26.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1496832186854830083",
+            "text": "Comparecencia OTAN: Ursula Von der Leyen habla del \"mayor acto de agresion contra Europa en decadas\" y Charles Michel de \"cataclismo\", el peor ataque desde la segunda guerra mundial que ha pretendido sustituir \"un estado de derecho por un estado de brutalidad\" #UcraniaRusia",
+            "created_at": "2022-02-24T12:59:37.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1496642822866354181",
+            "text": "Ya hay decision. Cuenta @Gela_Vera desde la sede del PP que Casado se ha comprometido a NO presentarse al congreso extraordinario, pero continua en su cargo hasta que se celebre. Asi ha quedado por escrito. No dimite hoy.",
+            "created_at": "2022-02-24T00:27:09.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1496630564081881090",
+            "text": "Esto cuando ya hay prevista una junta directiva nacional el martes para convocar un congreso extraordinario que renueve la presidencia... https://t.co/hF3OCJepgU",
+            "created_at": "2022-02-23T23:38:27.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1496239985904734210",
+            "text": "Egea confirma que ha dimitido esta tarde y que asi se lo ha comunicado a Casado. Dice que para \u201cdar voz a los afiliados\u201d. #ObjetivoEgea https://t.co/yfyRqO8flS",
+            "created_at": "2022-02-22T21:46:26.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1496086405302394881",
+            "text": "Y ahora, el grupo parlamentario: Miembros de la direccion del grupo parlamentario del PP piden la destitucion de Egea y que se celebre un congreso extraordinario https://t.co/OW9Cq9EG2l",
+            "created_at": "2022-02-22T11:36:09.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1495884429109178373",
+            "text": "Que forma mas bella de conmemorar el V centenario de Antonio de Nebrija. Con palabra y musica... como la de Rozalen \ud83d\udc9c. Enhorabuena @Nebrija por ponerle tanto carino y trabajo y extender la figura de quien defendio el conocimiento y aporto tanto a nuestra lengua. \ud83d\udc4f\ud83c\udffe #Nebrija500 https://t.co/QNIsE4WThO",
+            "created_at": "2022-02-21T22:13:34.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1495458494643949568",
+            "text": "Empezar libro y encontrar entre las primeras paginas a la maravillosa Miriam Makeba... \ud83d\udc9c https://t.co/bwFGELvc47",
+            "created_at": "2022-02-20T18:01:04.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1494291295199764481",
+            "text": "Denuncia \u201ccontinuas filtraciones del PP\u201d contra ella y que se han estado \u201cfabricando presuntas corrupciones\u201d contra ella. Pide que se depuren responsabilidades",
+            "created_at": "2022-02-17T12:43:02.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1494290110053077016",
+            "text": "Ayuso, sin freno: \u201cNunca imagine que la direccion nacional de mi partido iba a actuar de una forma tan cruel e injusta contra mi\u201d. \u201cLas declaraciones provienen del entorno de Casado y el no las desmiente\u201d",
+            "created_at": "2022-02-17T12:38:19.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1493506359249326082",
+            "text": "Le preguntan a Manueco especificamente por la ley de violencia de genero y tambien la de memoria democratica, si son intocables. La respuesta: \u201cEl marco de dialogo lo marca quien gana\u201d. En la junta directiva \u201ctendremos la oportunidad de decidir y fijar la posicion\u201d",
+            "created_at": "2022-02-15T08:43:58.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1493498324363755527",
+            "text": "\"Intenta estar delante de un espejo asi, sin moverte. No te vayas, no te muevas. Solo acercate y no te juzgues\" https://t.co/scLMp0OiFQ",
+            "created_at": "2022-02-15T08:12:03.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1493250908595097600",
+            "text": "A preguntas de @Pablo_Moran responde el ministro Albares que a raiz del aviso de Estados Unidos sobre una posible invasion de Ucrania esta semana, han pedido a los espanoles alli que abandonen el pais. Un 40% ya lo ha hecho.",
+            "created_at": "2022-02-14T15:48:54.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1492974235920314370",
+            "text": "\u201cAhora empieza un nuevo futuro para esta tierra\u201d, dice Manueco. Y tanto. A pesar del mensaje de los resultados defiende un gobierno solo del PP: \u201cNos han dado el mandato mayoritario para gobernar. Gobierno del PP con dialogo y acuerdo\u201d",
+            "created_at": "2022-02-13T21:29:30.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1492046696255299584",
+            "text": "La historia detras de la famosa mesa \ud83e\udd76 https://t.co/UBiPeeSc01",
+            "created_at": "2022-02-11T08:03:47.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1491466283715633152",
+            "text": "Prevenir, educar, sensibilizar contra la violencia de genero desde el colegio. https://t.co/tRV8E6lDer",
+            "created_at": "2022-02-09T17:37:26.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1490966941183647744",
+            "text": "4 anos despues... empieza el juicio por la presunta violacion cometida por Jose Maria Lopez Perez en Gran Hermano. https://t.co/mQSRVkFG34",
+            "created_at": "2022-02-08T08:33:14.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1490284106030231558",
+            "text": "La belleza en la forma de escribir de Emilia Pardo Bazan \ud83d\udda4 https://t.co/NhVu3AWXef",
+            "created_at": "2022-02-06T11:19:53.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1489526087667363842",
+            "text": "\"Lo sucedido es ininteligible para el ciudadano medio. Y triste, muy triste. Cuando los ciudadanos no entienden lo que sucede en sus instituciones, lo mas facil es tirar por la calle en medio y echar la antorcha en la urna\". @LuciaMendezEM en https://t.co/EKpfGrzsr7",
+            "created_at": "2022-02-04T09:07:48.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        },
+        {
+            "tweet_id": "1489517014032994307",
+            "text": "\u00bfLes han ofrecido algo por votar en contra? Contesta Sayas (UPN): \"Absolutamente nada\". Dice que PP y Vox no sabian que iban a votar en contra. \u201cYo transfuga no soy, pero puedo entender que haya gente que no le haya gustado la decision que hemos tomado\u201d. https://t.co/1zeKVHYk71",
+            "created_at": "2022-02-04T08:31:44.000Z",
+            "user_id": "222535821",
+            "username": "Lore_Baeza"
+        }
+    ]
+}

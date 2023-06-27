@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1626194567107076096",
+            "text": "@JuezTeo Salen a zasca por cada 3 minutos...",
+            "created_at": "2023-02-16T12:19:32.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1625765819819982848",
+            "text": "@ScientiaJMLN @FECYT_Ciencia A ver que te recomienda @Pachilarrosa ...",
+            "created_at": "2023-02-15T07:55:51.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1625497773989851137",
+            "text": "@abc_es Yo veo mas declive en el que haya hecho el titular, la verdad.",
+            "created_at": "2023-02-14T14:10:44.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1625016411461500929",
+            "text": "@angelj_martinez @UCAM Mucha suerte en tu proximo destino, Angel \ud83d\udcaa\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+            "created_at": "2023-02-13T06:17:58.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1624431592109142017",
+            "text": "Caldo con pelota #Murcia y sonando de fondo Turnedo de @ivanferreiro . \u00bfQue mas quereis? https://t.co/iIYQ8AFeLU",
+            "created_at": "2023-02-11T15:34:06.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1624313776232079360",
+            "text": "@cultrun Estimado John. \nEl porcentaje de error o retraso  de diagnostico en peritonitis, debe ser infimo en comparacion con el acierto. Y menos con final fatal, como este caso. La curacion del cancer no siempre depende del acierto humano. Creo que no es comparable, con todo el respeto.",
+            "created_at": "2023-02-11T07:45:57.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1623376884187729972",
+            "text": "@CarnedeConejoEU En breve cae otro... u otros....",
+            "created_at": "2023-02-08T17:43:04.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1622974830168485888",
+            "text": "@MonSuarezTv Despues de ajusticiar al que metio las avellanas.",
+            "created_at": "2023-02-07T15:05:27.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1621914022491705346",
+            "text": "Magnum de pie franco de @B_casacastillo de la mano de su productor. A veces la vida te ofrece placeres que no tienen precio. Vino en familia #100puntosparker https://t.co/vsdHCbnpn5",
+            "created_at": "2023-02-04T16:50:11.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1621898416677609473",
+            "text": "@nandogerman @AngryJuez @LastKingdom67 Son sectarios",
+            "created_at": "2023-02-04T15:48:10.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1621047915430174720",
+            "text": "Buenos dias desde #Murcia , resto del mundo. https://t.co/2z1tD18EKz",
+            "created_at": "2023-02-02T07:28:35.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1619725721244684288",
+            "text": "@longinosmarin Vaya tela Longinos !!!",
+            "created_at": "2023-01-29T15:54:39.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1619714328302874627",
+            "text": "@yayodelgado Centro social de La Albatalia. Un descubrimiento, Yayo.",
+            "created_at": "2023-01-29T15:09:23.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1619650321495769089",
+            "text": "Conejo frito con patatas al ajo cabanil #Murcia #Huerta https://t.co/rRnEpaINz0",
+            "created_at": "2023-01-29T10:55:02.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1619621963407982593",
+            "text": "\u00bfSalir a correr a esta hora una media maraton, o quedarme en casa a prerparar la base para un arroz con costillejas, pollo campero y ajos tiernos...? https://t.co/klGvX0RKtd",
+            "created_at": "2023-01-29T09:02:21.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1619618149846118400",
+            "text": "No se podia saber... como mucho habra uno o dos casos reduccion de pena... saldremos mejores y mas fuertes... \u00bfos suena? https://t.co/cHGOrF7IM3",
+            "created_at": "2023-01-29T08:47:12.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1619258237026709504",
+            "text": "@natalia_velilla Mas efectivo que la mediacion, seguro que es.",
+            "created_at": "2023-01-28T08:57:02.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1619014169914904576",
+            "text": "Sumartirio, se podria llamar. https://t.co/gBlKaIwT1F",
+            "created_at": "2023-01-27T16:47:12.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1618375831155519488",
+            "text": "La va a votar Rita",
+            "created_at": "2023-01-25T22:30:40.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1618011082567880705",
+            "text": "@Granguadaira La leeeeeche",
+            "created_at": "2023-01-24T22:21:17.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1618009470931730432",
+            "text": "@BrujulaOndaCero a Toni Bolanos le falta decir que llevaba minifalda",
+            "created_at": "2023-01-24T22:14:53.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1617576618788282369",
+            "text": "La fin del mundo https://t.co/PcPFfdqeu0",
+            "created_at": "2023-01-23T17:34:53.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1616497810509074603",
+            "text": "@unchinodechina @pccomponentes Y murcianos.",
+            "created_at": "2023-01-20T18:08:05.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1615614455207067648",
+            "text": "Otros 22 que han salido mejores y mas fuertes https://t.co/6XxbEiAZuh",
+            "created_at": "2023-01-18T07:37:57.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1614364885856419841",
+            "text": "@Javi_Sancho_ No te piques con el",
+            "created_at": "2023-01-14T20:52:36.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1614000287643062294",
+            "text": "@BloopGG Ca sio eso?",
+            "created_at": "2023-01-13T20:43:49.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1613525026338213889",
+            "text": "Mas cosas chulisimas. https://t.co/uA2vcT1SXb",
+            "created_at": "2023-01-12T13:15:18.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1613524719411535875",
+            "text": "\u00bfY si ya no les llamamos jueces, sino comisarios judiciales?",
+            "created_at": "2023-01-12T13:14:05.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1613290387531091979",
+            "text": "Lo del cateto de Rubiales en el trono arabe no lo esperabais, \u00bfVerdad?",
+            "created_at": "2023-01-11T21:42:56.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1612183403125669888",
+            "text": "Version lorquina de la cena espectaculo de @LioPacha en Ibiza. https://t.co/OxAcfXQCXn",
+            "created_at": "2023-01-08T20:24:10.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1612048384319279105",
+            "text": "@FBRegionMurcia @CBJairis @ibaetabasket Buen ambiente esta manana. https://t.co/gEGG846UT7",
+            "created_at": "2023-01-08T11:27:39.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1611624801629622272",
+            "text": "Hemos salido mejores y mas fuertes. https://t.co/1WwIUhUoKA",
+            "created_at": "2023-01-07T07:24:29.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1610921701251874816",
+            "text": "@anajuliabanlei @ladonnaemobile_ Parece suelo murciano.",
+            "created_at": "2023-01-05T08:50:37.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1609948649504604161",
+            "text": "Oficialmente en Huelva de hambre #KDTINF2023 https://t.co/FZcteumVqJ",
+            "created_at": "2023-01-02T16:24:04.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1609577345983053826",
+            "text": "El vestido de Pedroche ha supuesto una contribucion a la paz mundial tan relevante y util como lo fue la App Radar Covid a la erradicacion de la pandemia. Y hasta aqui mi analisis del temita de todos los santos anos... https://t.co/YpicGhOduX",
+            "created_at": "2023-01-01T15:48:38.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1609503393046794240",
+            "text": "7 anos con este fondo de perfil https://t.co/JJcC4hf1kv",
+            "created_at": "2023-01-01T10:54:46.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1609502954771603456",
+            "text": "@MonicaUnchained Aburre sobremanera",
+            "created_at": "2023-01-01T10:53:02.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1609445420501172224",
+            "text": "Buenos dias Twitter. Dia 1 https://t.co/u0MxRj8k6G",
+            "created_at": "2023-01-01T07:04:24.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1609254516737589248",
+            "text": "@DailyMur Pues vaya cifra...",
+            "created_at": "2022-12-31T18:25:49.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1609221780723343367",
+            "text": "Inigo quiere que trabajemos solo 3 dias a la semana mas que el https://t.co/VEw7qZ89RV",
+            "created_at": "2022-12-31T16:15:45.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1609106957083807745",
+            "text": "@francismojo @realvalladolid Vaya vidas de mierda deben tener los que insultan y jalean en masa... vidas de mierda hasta las trancas.",
+            "created_at": "2022-12-31T08:39:28.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1608952366249947136",
+            "text": "@samuelmier \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 Gano con costas, fijo \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "created_at": "2022-12-30T22:25:11.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1607516234186211332",
+            "text": "@rodriguezbraun Buen tiempo, profesor",
+            "created_at": "2022-12-26T23:18:31.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1607281604568748033",
+            "text": "Cosas chulisimas https://t.co/365r2frlsJ",
+            "created_at": "2022-12-26T07:46:11.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1606687970873864192",
+            "text": "@GinesRuizMacia Asi es Gines... se le fue la olla de nuevo al Sr. Echenique.",
+            "created_at": "2022-12-24T16:27:17.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1606547601935007744",
+            "text": "@Sabah_Yacoubi Gracias e igualmente @Sabah_Yacoubi #FelizNavidad",
+            "created_at": "2022-12-24T07:09:31.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1605686046108393482",
+            "text": "Vamos a deportar, si. https://t.co/KhGSAWx0YG",
+            "created_at": "2022-12-21T22:06:00.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1605576149907562497",
+            "text": "- He estado viendo la tv durante una hora y no ha salido en ningun momento @joaquinarte el del Betis.\n- Rapido !!! Pide un deseo !!!",
+            "created_at": "2022-12-21T14:49:18.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1605283747485700124",
+            "text": "@eladioillan9 @ostinus77 Y que lee a la velocidad de superman.",
+            "created_at": "2022-12-20T19:27:24.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1605282548170608643",
+            "text": "@c_recio @unchinodechina Mas bien un evento forbidden",
+            "created_at": "2022-12-20T19:22:38.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604969458371551232",
+            "text": "Justo la noticia que esperabamos hace anos conocer \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23. El plumero, Ana, el plumero ... https://t.co/PBZtNrtcJm",
+            "created_at": "2022-12-19T22:38:32.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604723153477025795",
+            "text": "@PilarGGranja @voz_populi Hay que recaudar para pagar por ejemplo a los asesores redactores de la Ley de solo si es si.",
+            "created_at": "2022-12-19T06:19:48.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604576822498164736",
+            "text": "@tortosajavier Estabas atento \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "created_at": "2022-12-18T20:38:20.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604563940775698432",
+            "text": "Espana ha ganado el titulo a la posesion. \nSeguimos teniendo mas minutos que ningun equipo dando pases para el lado y para atras a pesar de haber caido en cuartos #TikiTaka",
+            "created_at": "2022-12-18T19:47:09.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604535985341026308",
+            "text": "El mundial lo gana el portero, no Messi.",
+            "created_at": "2022-12-18T17:56:04.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604534526906073091",
+            "text": "Ferran que no tire",
+            "created_at": "2022-12-18T17:50:16.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604533175975571457",
+            "text": "La primera conclusion es lo aburrido que juega Espana #tikitaka \nVaya partidazo estamos viendo.",
+            "created_at": "2022-12-18T17:44:54.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604532031891066880",
+            "text": "Paredes tiene antecedentes. Fijo",
+            "created_at": "2022-12-18T17:40:21.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604518018859401216",
+            "text": "Ahora Argentina empieza a dar palos... ya vereis",
+            "created_at": "2022-12-18T16:44:40.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604517908821864448",
+            "text": "Golazo !!",
+            "created_at": "2022-12-18T16:44:14.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604502996389597186",
+            "text": "Yo veo a Theo, y ya no creo",
+            "created_at": "2022-12-18T15:44:59.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604501112161198081",
+            "text": "En posesion sigue ganando Espana",
+            "created_at": "2022-12-18T15:37:29.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604482287596355585",
+            "text": "Arroz con las verduras que habia en el frigorifico #Murcia https://t.co/5jTW3I6PeS",
+            "created_at": "2022-12-18T14:22:41.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604132147559907328",
+            "text": "Aquellos lo llamaran derecha mediatica pero a mi este tweet me parece pura poesia @elmundoes\nHan redactado y aprobado una mierda de Ley, y es intolerable que quieran hacer pasar por culpables a los demas cuando son ellos los unicos responsables; ministra, asesores y palmeros. https://t.co/4aWQUXxUi9",
+            "created_at": "2022-12-17T15:11:21.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1604125570853662720",
+            "text": "@abc_es El proximo presidente progre de Peru",
+            "created_at": "2022-12-17T14:45:13.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1603914249201680384",
+            "text": "No la llamen Avatar... llamenla AGUANTAR... 3 horas, 3 horas !!! https://t.co/6ls6td7PEY",
+            "created_at": "2022-12-17T00:45:30.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1603634252595208193",
+            "text": "\u00bfQuieres preservar la democracia? \nPues no utilices la via de urgencia para modificar leyes organicas, guapeton.",
+            "created_at": "2022-12-16T06:12:54.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1603154378592030722",
+            "text": "@amanzmur Si asi es. A Abalos solo le faltaba el palillo en la boca https://t.co/Fmq8Peo4gD",
+            "created_at": "2022-12-14T22:26:03.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1603147098156945409",
+            "text": "@jotainiesta La diferencia es que los que salen en blanco y negro son buenas personas.",
+            "created_at": "2022-12-14T21:57:07.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1603130589946822656",
+            "text": "Marruecos puede estar muy orgulloso de su seleccion. Han estado fantasticos #Respect",
+            "created_at": "2022-12-14T20:51:32.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1603129845298307072",
+            "text": "@JudgeTheZipper Es que no teneis que ir por ahi...que diria el jurista Patxi.",
+            "created_at": "2022-12-14T20:48:34.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1603128562885738500",
+            "text": "@maxpradera Es que sabes de to",
+            "created_at": "2022-12-14T20:43:28.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1603026162019696640",
+            "text": "Patxi va de pinchos otra vez, y punto https://t.co/pWCd31DdJU",
+            "created_at": "2022-12-14T13:56:34.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1602766158486437888",
+            "text": "Enmiendas que son enmierdas",
+            "created_at": "2022-12-13T20:43:24.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1602765684496371719",
+            "text": "Escolar suena para el Tribunal Constitucional a propuesta de Podemos. Su conocimiento juridico le avala. https://t.co/8IzfNrBzoB",
+            "created_at": "2022-12-13T20:41:31.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1602673382750822405",
+            "text": "El proces era Sanchez",
+            "created_at": "2022-12-13T14:34:45.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1602666416016072704",
+            "text": "\"Solo habra, a lo sumo, uno o dos referendum para la autodeterminacion de Cataluna\" https://t.co/KMeI2Y6Uwr",
+            "created_at": "2022-12-13T14:07:04.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1601354504519450625",
+            "text": "Joaquin, el del Betis es, sin duda, un tipo muy gracioso, pero ya cansa con tanta exposicion.",
+            "created_at": "2022-12-09T23:14:00.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1601321980393058305",
+            "text": "Paredes es un marrano",
+            "created_at": "2022-12-09T21:04:45.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1601298110135021568",
+            "text": "@japardomar @jotainiesta Se pega al banquillo y no lo sacan. Llamadlo LocTite",
+            "created_at": "2022-12-09T19:29:54.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1601244504102961152",
+            "text": "Matame camion https://t.co/eaRs5Qbp7O",
+            "created_at": "2022-12-09T15:56:54.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1601243882079260672",
+            "text": "@SandraMoti @rtelasredes Como casi todo lo que tienen alli.  Una casa seria. Dirfuten !!!",
+            "created_at": "2022-12-09T15:54:25.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1601178470796492800",
+            "text": "Esto lo sabe ERC? https://t.co/p77WxdaAWY",
+            "created_at": "2022-12-09T11:34:30.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1601178268756869120",
+            "text": "Me pinchan y no sangro... https://t.co/HlFvZYWPui",
+            "created_at": "2022-12-09T11:33:42.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1600809165739290625",
+            "text": "Enhorabuena a los chicos y a sus entrenadores Nino Solana @Kappei_Sakamoto y Antonio Lozano . Grandes  !!!! https://t.co/vthkiJFVfU",
+            "created_at": "2022-12-08T11:07:01.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1600231196125904899",
+            "text": "@europapress Pues ya estaria. Me quedo mas tranquilo, desde luego.",
+            "created_at": "2022-12-06T20:50:22.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1600112143642288128",
+            "text": "@Pachilarrosa Mato por eso, Pachi...",
+            "created_at": "2022-12-06T12:57:18.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598997730449580034",
+            "text": "\"Para mantenerlo en el poder solo se modificaran un par de delitos a lo sumo\" https://t.co/dBQUIg8vRS",
+            "created_at": "2022-12-03T11:09:01.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598997350482989056",
+            "text": "No se podia saber https://t.co/G4z1SkSyIR",
+            "created_at": "2022-12-03T11:07:30.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598958249646039040",
+            "text": "@laverdad_es Poco me parece.",
+            "created_at": "2022-12-03T08:32:08.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598836637252788225",
+            "text": "@Nitromarisa Pero no en la puerta de La Arrixaca",
+            "created_at": "2022-12-03T00:28:53.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598426916205142016",
+            "text": "@Juristanloqcido Rige la Ley de Arbitraje , malo, pero arbitraje",
+            "created_at": "2022-12-01T21:20:48.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598420560421191682",
+            "text": "A que hora actua el streamer???",
+            "created_at": "2022-12-01T20:55:33.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598417856643104768",
+            "text": "Sanchez ya esta negociando con Mohamed VI la clasificacion de Marruecos a cambio de salvar el puesto de Marlaska.",
+            "created_at": "2022-12-01T20:44:48.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598414413215703052",
+            "text": "Dependemos de Alemania, como siempre https://t.co/NXxVnOokUH",
+            "created_at": "2022-12-01T20:31:07.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598413785077018625",
+            "text": "Suena Michel",
+            "created_at": "2022-12-01T20:28:38.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598412682671038469",
+            "text": "Fue titular en balde",
+            "created_at": "2022-12-01T20:24:15.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598411378465079297",
+            "text": "Hunday Simon",
+            "created_at": "2022-12-01T20:19:04.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598409718237605888",
+            "text": "@jotainiesta Pero sin Var",
+            "created_at": "2022-12-01T20:12:28.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        },
+        {
+            "tweet_id": "1598346645917278212",
+            "text": "@jaimeferran Habra que llevar a pleno el hermanamiento de Murcia con Hamburgo (sorry)",
+            "created_at": "2022-12-01T16:01:50.000Z",
+            "user_id": "163235207",
+            "username": "jmfsoria"
+        }
+    ]
+}

@@ -1,0 +1,536 @@
+{
+    "data": [
+        {
+            "tweet_id": "1623034842316214303",
+            "text": "@eloyhedde @karlarboledas Al endocrino",
+            "created_at": "2023-02-07T19:03:55.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1622566185974784002",
+            "text": "\u00bfSe pueden pagar multas en concepto \"libros segundo cuatrimestre\"?",
+            "created_at": "2023-02-06T12:01:39.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1622218033337868290",
+            "text": "Tengo clarisimo que lo de ayer fue culpa o del limoncello o del humo de la orujera",
+            "created_at": "2023-02-05T12:58:13.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1619733862535557121",
+            "text": "@ranxhoc Despues de la cantidad de delitos que se cometieron ayer en mi casa normal",
+            "created_at": "2023-01-29T16:27:00.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1610941813753368576",
+            "text": "@liebana_teresa Que tienes clase de obligatoria asistencia, cateta\u2665\ufe0f",
+            "created_at": "2023-01-05T10:10:32.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1598417620185018369",
+            "text": "Puto Japon que se piensa que esto es la copa konami",
+            "created_at": "2022-12-01T20:43:52.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1589750153853820928",
+            "text": "@offensiveprank @_Pelaez3 es luismateo tirando faltas a 3 metros de la porteria",
+            "created_at": "2022-11-07T22:42:27.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1587226317950537732",
+            "text": "@boti_juan @ranxhoc Mas para alla de los arenales",
+            "created_at": "2022-10-31T23:33:38.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1587140829164052482",
+            "text": "@AntonioAJ_7 @nicabe1999 Eres mala persona y te la suda",
+            "created_at": "2022-10-31T17:53:55.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1584299069551546368",
+            "text": "@ranxhoc Somos Ted Mosby de la vida reconocelo",
+            "created_at": "2022-10-23T21:41:47.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1584290647519133696",
+            "text": "Pequena sonrisa de Amelie, me tienes cagado",
+            "created_at": "2022-10-23T21:08:19.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1581784288424402947",
+            "text": "@ranxhoc Verano de 2008, joven e inexperto, recien empezando a jugar al pro. No juzguen a los ninos",
+            "created_at": "2022-10-16T23:08:57.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1578362537481244674",
+            "text": "@Multisenti2 Yo en la cuarta fila chupando camara https://t.co/neF6ah9Wde",
+            "created_at": "2022-10-07T12:32:08.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1574151641212788736",
+            "text": "Que se nos acabe la fanta de limon y robemos limones para echarle al Larios me parece de Juzgado de guardia",
+            "created_at": "2022-09-25T21:39:32.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1558052197178507269",
+            "text": "@eloyhedde En mi puta vida he felicitado a @_Pelaez3 y lo quiero mas que a mi vida",
+            "created_at": "2022-08-12T11:26:05.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1557534418285256705",
+            "text": "@nicabe1999 @AntonioAJ_7 Te queremos Javier",
+            "created_at": "2022-08-11T01:08:37.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1556966962521153537",
+            "text": "El de la ITV me ha abierto el maletero del coche y se ha encontrado 3 botellas de dyc, 2 de JB, 2 de Larios y el disco de Luis Miguel de mi madre. A mi me estan grabando \ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f",
+            "created_at": "2022-08-09T11:33:45.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1551547607415242753",
+            "text": "@ranxhoc Te has convertido en todo lo que un dia juraste destruir",
+            "created_at": "2022-07-25T12:39:10.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1541665669653094403",
+            "text": "Ultimo dia en mi piso y me tienen que pasar estas cosas https://t.co/i7ePRD4IXv",
+            "created_at": "2022-06-28T06:11:53.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1530846387813945344",
+            "text": "@AdriRM33 Fomentando la obesidad y el alcoholismo en menores, este tio es de carcel.",
+            "created_at": "2022-05-29T09:39:55.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1530495282194092033",
+            "text": "@ranxhoc Yo ahi veo a un Hugo Sanchez que puede solucionar cosas eee",
+            "created_at": "2022-05-28T10:24:45.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1530492319325163522",
+            "text": "Minuto 70 el Madrid va perdiendo 2-0 y tenemos 5 cambios. \u00bfA quien elegirias? https://t.co/TjoRaj0nTs",
+            "created_at": "2022-05-28T10:12:58.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1530483825016438786",
+            "text": "@mariia_morote_ Me veo a su edad acabandola",
+            "created_at": "2022-05-28T09:39:13.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1529374738446942209",
+            "text": "Creo que soy la unica persona del mundo a la que le gusta la comida del hospital",
+            "created_at": "2022-05-25T08:12:06.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1529207790220513280",
+            "text": "Yo despues de afeitarme hoy https://t.co/0oojMSvKPc",
+            "created_at": "2022-05-24T21:08:43.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1528499967442268162",
+            "text": "Si te sirve de algo, nunca es demasiado tarde o, en mi caso,\ndemasiado pronto para ser quien quieres ser.\nEspero que vivas una vida de la que te sientas orgulloso. Y si ves que no\nes asi, espero que tengas la fortaleza para empezar de nuevo.",
+            "created_at": "2022-05-22T22:16:05.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1528181083308802048",
+            "text": "Me han regalado por mi graduacion un portadocumentos, un maletin y un boli con mis iniciales. He pasado de tener 22 a 57 anos y no me he enterado",
+            "created_at": "2022-05-22T01:08:57.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1526731887523274753",
+            "text": "@ranxhoc Te gusta tanto que la vas a repetir el ano que viene (Jose Mourinho)",
+            "created_at": "2022-05-18T01:10:21.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1525843478340587522",
+            "text": "@ranxhoc @junion21 Poco me parece",
+            "created_at": "2022-05-15T14:20:08.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1525178342441467908",
+            "text": "@Multisenti2 A mi me funciona 300\u20ac asignatura de tercera matriculacion",
+            "created_at": "2022-05-13T18:17:07.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1523626466218438656",
+            "text": "Me acaban de cambiar un examen del 27 al 23. 3 dias despues de mi graduacion. Jodeme mas Derecho Internacional Privado",
+            "created_at": "2022-05-09T11:30:31.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1523346205182361600",
+            "text": "@AntonioAJ_7 Buena noche con AuronPlay y Omar Montes",
+            "created_at": "2022-05-08T16:56:52.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1516834675397963778",
+            "text": "Vale, hoy me ha pasado lo mismo pero en el gimnasio \ud83d\ude42",
+            "created_at": "2022-04-20T17:42:22.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1515514295412482055",
+            "text": "@WhiteLusy @noeeeliax Como villazarcillo y Albacete",
+            "created_at": "2022-04-17T02:15:39.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1515456345549455372",
+            "text": "@noeeeliax Tan cerca y tan lejos",
+            "created_at": "2022-04-16T22:25:23.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1509996523911852039",
+            "text": "Le he dicho a mi madre que voy a hacer un doble master de abogacia y asesoria fiscal.\nNuestra conversacion: https://t.co/HZfTzbpFTH",
+            "created_at": "2022-04-01T20:50:00.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1507367018428837905",
+            "text": "Vaya semanita \ud83d\ude44",
+            "created_at": "2022-03-25T14:41:17.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1501583577372368897",
+            "text": "@ranxhoc Queremos la Champions",
+            "created_at": "2022-03-09T15:39:57.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1500534560047747081",
+            "text": "@boti_juan La birgen com a ecrito sabi, eres un terrorista ortografico",
+            "created_at": "2022-03-06T18:11:32.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1499805496290824200",
+            "text": "@lulabeutler Hemos creado a un monstruo",
+            "created_at": "2022-03-04T17:54:30.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1499795451188584456",
+            "text": "Mi colega me robo la consumicion de la discoteca de Cadiz para invitar a una chica que luego resulto que se lio con otro. Ni olvido ni perdono",
+            "created_at": "2022-03-04T17:14:35.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1489957727422103555",
+            "text": "@javipatonr En este pais se etiquetas muy facilmente",
+            "created_at": "2022-02-05T13:42:58.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1487848760193560577",
+            "text": "@ranxhoc Hicimos",
+            "created_at": "2022-01-30T18:02:41.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1484565664287412228",
+            "text": "@noeeeliax Poco de habla de lo barata que esta la coliflor de Calahorra",
+            "created_at": "2022-01-21T16:36:50.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1483096083442151424",
+            "text": "@ranxhoc Lanjaron",
+            "created_at": "2022-01-17T15:17:15.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1481054399992578049",
+            "text": "Luchar por estar en los peores momentos de otra persona es el mayor gesto de amor que he visto nunca.",
+            "created_at": "2022-01-12T00:04:20.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1478759131242762246",
+            "text": "@ranxhoc Va de outsider y es de pueblo https://t.co/NjJR0PYAdl",
+            "created_at": "2022-01-05T16:03:45.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1476697555203510272",
+            "text": "@PelaezRM EL PLAN",
+            "created_at": "2021-12-30T23:31:47.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1475951593581424647",
+            "text": "@AntonioAJ_7 Para que llores otro rato, Nico ooooo Nico aaaaaa, somos familia eeee https://t.co/sxgs9co7Gn",
+            "created_at": "2021-12-28T22:07:36.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1474899531456258056",
+            "text": "@AntonioAJ_7 Yo en la puta cordillera penibetica",
+            "created_at": "2021-12-26T00:27:05.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1474013426968141825",
+            "text": "\"Y la misma cancion, al cambiar de persona no dice lo de siempre cuando dice lo mismo\" -Benjamin Prado.",
+            "created_at": "2021-12-23T13:46:01.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1473251189244542978",
+            "text": "Mi cara explicandole al seguro del coche que esa raya no la he hecho yo https://t.co/l21SR20LIV",
+            "created_at": "2021-12-21T11:17:09.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1470831490825175050",
+            "text": "El jueves es mi ultimo dia de practicas y Lexer me ha ensenado lo mismo que Zlatan, \"el dinero no es importante, mucho dinero es importante\".",
+            "created_at": "2021-12-14T19:02:08.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1470359919824093186",
+            "text": "De trabajar en el departamento juridico de telefonica a que me trasladen al departamento de contabilidad de Endesa, lo proximo sera que me trasladen al departamento de transporte del burguer King.\ud83d\ude43",
+            "created_at": "2021-12-13T11:48:17.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1468918744177065985",
+            "text": "@PelaezRM Chabi",
+            "created_at": "2021-12-09T12:21:34.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1463624738715148288",
+            "text": "@junion21 La culpa es de perro Sanchez que nos ha dejado sin botellines como dijo un sabio",
+            "created_at": "2021-11-24T21:45:05.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1463247205091917825",
+            "text": "Hoy casi me muero en el Crossfit y uno me ha dicho que no me preocupase que los primeros dias son asi.\nLlevo 5 meses en el Crossfit \ud83d\ude43\ud83e\udd72",
+            "created_at": "2021-11-23T20:44:54.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1462152160913858561",
+            "text": "@AntonioAJ_7 Entonces manana nos van a tener que intubar despues de meternos 6 litros de calironster esta noche https://t.co/bqD5Ig0unU",
+            "created_at": "2021-11-20T20:13:35.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1461473393308540932",
+            "text": "@AntonioAJ_7 Vas a ir al puto infierno",
+            "created_at": "2021-11-18T23:16:24.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1460291963752747008",
+            "text": "Mi yo de hace 9 anos se diferencia de mi yo actual en alguna h de menos, solo eso https://t.co/7eob54nftp",
+            "created_at": "2021-11-15T17:01:49.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1456961386806906880",
+            "text": "Ayer estuvo la cosa rustica y exitica https://t.co/CPeTZSifdK",
+            "created_at": "2021-11-06T12:27:18.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1456308474900582400",
+            "text": "No se puede ir de guay con tu padre https://t.co/0KT5oiD7vO",
+            "created_at": "2021-11-04T17:12:51.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1454845182067740676",
+            "text": "@TwFutbolOOC Me representa en el dia de hoy",
+            "created_at": "2021-10-31T16:18:15.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1454452363562033155",
+            "text": "@ranxhoc @junion21 @Chaari201 La mia https://t.co/nehnr5oQ8d",
+            "created_at": "2021-10-30T14:17:20.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1454442823286206465",
+            "text": "@ranxhoc @junion21 @Chaari201 Quien no conoce mi letra a cualquier santo le reza",
+            "created_at": "2021-10-30T13:39:25.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1451597421251858443",
+            "text": "Te hago el workbook con los ojos cerrados https://t.co/XAzbM0Lrj4",
+            "created_at": "2021-10-22T17:12:49.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1449772680912281601",
+            "text": "Le mando una foto borracho a mi padre para que sepa que estoy bien. Su respuesta fue enviarme a las 3 de la manana un video editado como si fuera el trailer de la ultima pelicula de los vengadores. Simplemente Spielberg https://t.co/ddsQ8b97yE",
+            "created_at": "2021-10-17T16:21:57.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1442597411180843017",
+            "text": "@PelaezRM Un Ibanez nunca olvida sus deudas",
+            "created_at": "2021-09-27T21:09:59.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1441535215453810688",
+            "text": "Manana me examino del b1 y por la noche espero que me pinchen la b12",
+            "created_at": "2021-09-24T22:49:12.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1436239661391917058",
+            "text": "Es la invitacion mas surrealista que me han hecho en la vida https://t.co/F6BuYnfTfb",
+            "created_at": "2021-09-10T08:06:33.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1433005650125144068",
+            "text": "Nada como una carta de amor enviada al trabajo https://t.co/ttjPpgeS81",
+            "created_at": "2021-09-01T09:55:45.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1430174102870974469",
+            "text": "La semana mas estresante de mi vida y solo es martes",
+            "created_at": "2021-08-24T14:24:12.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1426523038296813568",
+            "text": "Sentimos la cantidad deproporcionada de historys subidas en el dia de ayer, especialmente a mejores amigos, no nos hacemos responsables de los posibles delitos cometidos. No se volvera a repetir",
+            "created_at": "2021-08-14T12:36:10.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1424479464961024005",
+            "text": "rock'n'rolles de chiquillos",
+            "created_at": "2021-08-08T21:15:44.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1367091949455499265",
+            "text": "@LiidiaaMV17 Que pringao ese chaval\ud83d\ude02",
+            "created_at": "2021-03-03T12:38:14.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        },
+        {
+            "tweet_id": "1363977237909889025",
+            "text": "@boti_juan @PabloMaartinez4 @junion21 @PelaezRM @ranxhoc Menos verguenza que poner hamburguesas de colores de tapa",
+            "created_at": "2021-02-22T22:21:29.000Z",
+            "user_id": "781230854551076865",
+            "username": "juansiles157"
+        }
+    ]
+}

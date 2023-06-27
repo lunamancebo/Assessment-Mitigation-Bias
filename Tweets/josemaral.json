@@ -1,0 +1,704 @@
+{
+    "data": [
+        {
+            "tweet_id": "1624540006713892867",
+            "text": "@marshmallau Acuestese!",
+            "created_at": "2023-02-11T22:44:54.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1595831721135595520",
+            "text": "@eledhmel Que desagradable es su comentario y cuanto dice de usted. Muchisimo mas que de Irene Montero. Verguenza.",
+            "created_at": "2022-11-24T17:28:26.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1578029910664232964",
+            "text": "@Manu7NN Es una tradicion preciosa. Como la de regalar un libro en Sant Jordi...",
+            "created_at": "2022-10-06T14:30:23.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1551193030002020353",
+            "text": "@IsmaelM40679589 @Srpacotomas Madre mia, que cosas dices. En fin, suerte con ese unico seguidor que tienes. Conservalo, guapa.",
+            "created_at": "2022-07-24T13:10:12.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1545881717935857664",
+            "text": "@minarq132 @cabriadiego Ahora puedes escribir lo mismo pero terminando el texto con tres banderas de Espana. Porque apuesto a que de ser espanoll si te sientes orgulloso, algo por cierto en lo que tampoco has tenido nada que ver, con las mismas podrias haber nacido en Zimbawe. Hala, descansa.",
+            "created_at": "2022-07-09T21:24:57.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1545877967804551171",
+            "text": "@Ophelia16542209 @Juan_Miguel60 @AmeliaValcarcel Estais muy enfermas de sectarismo y transfobia y cada vez mas solos y mas aislados, retroalimentandoos entre vosotros. En fin, seguimos avanzando y ahora lo que os queda es hacer ruido.",
+            "created_at": "2022-07-09T21:10:03.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1545873588074471424",
+            "text": "@AnaGonzalezMor @_ManuSanchez_ Que cosa tan chunga y tan paleta lo de los ninos cantores.",
+            "created_at": "2022-07-09T20:52:38.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1538988920960163846",
+            "text": "@Lalomuo61555030 @el_pais Usted es la que determina que es o no normal en cada pareja? Vaya con sus mojigaterias a otra parte!!!",
+            "created_at": "2022-06-20T20:55:26.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1528001069774778369",
+            "text": "@LaEtxebarria @lysduval Si quieres que deje de seguirte, lo hare, no tengo ningun problema. Estoy yo muy tranquilo para debates. Fin por mi parte y disculpa si te he ofendido.",
+            "created_at": "2022-05-21T13:13:38.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1528000594761469952",
+            "text": "@LaEtxebarria @lysduval Mira, te he preguntado porque es curioso que le llames Luis. La pelicula que te montes tu despues es tuya. Fin. No te he acusado yo de nada de lo que dices. Como te digo, la propia Duval ha desmentido su entrada en politica. Lo demas es ruido.",
+            "created_at": "2022-05-21T13:11:45.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1527992619250376705",
+            "text": "@LaEtxebarria @lysduval Por cierto, la llama Luis Duval para tratar de humillarla o es un error al escribir? Igual es que como suspendia yo los comentarios de texto no capto bien la intencion de llamar Luis a alguien que se llama Elizabeth.",
+            "created_at": "2022-05-21T12:40:03.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1527991616820092931",
+            "text": "@LaEtxebarria @lysduval Primero, que lo que dice usted es mentira. Ella no va a ir en ese partido. En segundo lugar, \u00bfque comentarios espera usted leer? Saludos",
+            "created_at": "2022-05-21T12:36:04.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1527987192353652737",
+            "text": "@LaEtxebarria Conformado por ti, quieres decir. Y ademas de eso. \u00bfEs que @lysduval es alguna delincuente con causas abiertas o algo? No se entiende la alarma",
+            "created_at": "2022-05-21T12:18:29.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1527339993248649217",
+            "text": "@naymayerai Alguna es delincuente o algo??",
+            "created_at": "2022-05-19T17:26:45.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1523383239833911297",
+            "text": "@benjadlafuente @albba____ La pregunta es \u00bfEsos dos gananes hubiesen hecho lo mismo a un grupo de chicos en vez de chicas? Su intencion es intimidar y en poco mas de un minuto de despliega el manual del machista. Si alguien no lo entiende es que es tan machista como ellos.",
+            "created_at": "2022-05-08T19:24:02.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1523027245732098048",
+            "text": "@Hazteotro @GerardoGArdoy Tu di que si. A tope.\ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f\ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f\ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f",
+            "created_at": "2022-05-07T19:49:26.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1507421716133330963",
+            "text": "@rtvenoticias @rtve Creo que ya todos sabemos quien maneja los hilos de este senor. Las mascaras empiezan a caer.",
+            "created_at": "2022-03-25T18:18:38.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1492607487270395906",
+            "text": "@IamYimmi Libros tambien debe lee pocos, visto su perfil...",
+            "created_at": "2022-02-12T21:12:10.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1492606958205124613",
+            "text": "@pasmar1970 Ayase a la mierda.",
+            "created_at": "2022-02-12T21:10:04.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1492268777848946689",
+            "text": "@RaulSolisEU Que tema?",
+            "created_at": "2022-02-11T22:46:16.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1487558448401334280",
+            "text": "@trendepaso Usted sin embargos no iria nunca. No por nada de lo que ha dicho. Por gilipollas. Acuestese senora!",
+            "created_at": "2022-01-29T22:49:06.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1484661637151924224",
+            "text": "@Liquitronco Tenga cuidado, que si se descuida se le inocula un chis a traves de las ondas cadolicas",
+            "created_at": "2022-01-21T22:58:12.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1484654475520491525",
+            "text": "@ASCII_04 Gracias por su analisis, doctor.",
+            "created_at": "2022-01-21T22:29:45.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1484643447114022918",
+            "text": "@MerCDs108 Tenga cuidado, que se rumorea que si lo ve se le inserta un \"chis\" en la cabeza",
+            "created_at": "2022-01-21T21:45:55.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1476267487050280964",
+            "text": "@Srpacotomas Es mejor dejar que pase esa escandalera de la jauria. Creo que ha hecho bien. Dice mucho de ti como persona y como amigo defenderle de este modo. Un abrazo.",
+            "created_at": "2021-12-29T19:02:51.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1473589520356499457",
+            "text": "@Vanessa_Naveira Deje de decir tonterias. Usted cree que la pandemia la controla usted con su actitud o que? Usted no tiene dos problemas. Tiene muchos mas.",
+            "created_at": "2021-12-22T09:41:34.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1473410142372835337",
+            "text": "@Gmar791 Buscala en el mismo sitio donde escondes las tildes.",
+            "created_at": "2021-12-21T21:48:47.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1470861746965565443",
+            "text": "Vaya, vaya con el pantaloncito del presentador... #OLSpain",
+            "created_at": "2021-12-14T21:02:22.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1467992237904740354",
+            "text": "@LopezArteche @sylar_71 @Elasombrario Yo estudie Filosofia: estudie de memoria vida y obra de los que citas que olvide al poco Nada de poso.\nLa Lomloe propone una educacion competencial que emocione e ilusione al alumno. No desaparece. \nLa manada, los asesinos de Samuel,... estudiaron filosofia con el enfoque actual",
+            "created_at": "2021-12-06T22:59:58.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1467775495110635523",
+            "text": "@Ladymadrid666_ @MolineteF @vitoquiles Asi no tiene que cerrar al salir.",
+            "created_at": "2021-12-06T08:38:42.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1445127678256947206",
+            "text": "@La_SER @hora25 Defina gilipollas!",
+            "created_at": "2021-10-04T20:44:22.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1442956825754673152",
+            "text": "@1989gameover @DonLobo1978 @Rafa_Hernando @Marian76446122 @sanchezcastejon Vaya por Dios. Pedro Sanchez tiene la culpa del volcan. Biba Box",
+            "created_at": "2021-09-28T20:58:10.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1441705640087359488",
+            "text": "@pablocasado_ @populares @larazon_es @elmundoes @abc_es @eldiarioes Igual se ha pasado esta manana con la cona del carajillo. Que ridiculeces!",
+            "created_at": "2021-09-25T10:06:24.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1436671835618353156",
+            "text": "@ibonpereztv No tema. El enfoque academicista imperante y al educacion bulimica en la que se engulle informacion, se vomita en un examen y se olvida no garantiza buenos cirujanos. Garantiza personas con buena memoria a corto plazo y capaz de agredir a los diferentes.",
+            "created_at": "2021-09-11T12:43:52.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1409994124015673350",
+            "text": "@_jorgelorenzog Como te vamos a llamar eso? Si no hay mas que verte y escucharte para saber que eres una persona con grandes inquietudes intelectuales, muy formada y con un discurso bien armado. Un intelectual. No te vayas de Espana, no mas fuga de cerebros!!!",
+            "created_at": "2021-06-29T21:56:10.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1409909322008641537",
+            "text": "@marinaabbr Medidas sanitarias que se aplican a todos los contactos con positivo. Empatia exactamente la misma que tenemos con todos los confinados x contacto con positivo en todo el MUNDO",
+            "created_at": "2021-06-29T16:19:11.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1406986464538341382",
+            "text": "@pablocasado_ @populares Ha bebido usted?",
+            "created_at": "2021-06-21T14:44:48.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1406972671561191425",
+            "text": "Lo mas peligroso es que la derechuza que dice en Petit Comite que Franco salvo a Espana, tiene la desfachatez de hablar de #Golpedeestado Poca verguenza y desprecio a la democracia. Que bramen.",
+            "created_at": "2021-06-21T13:49:59.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1401206158849945605",
+            "text": "Que precioso @anairissimon tu libro. Gracias de verdad por escribirlo.",
+            "created_at": "2021-06-05T15:55:56.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1389667526653718536",
+            "text": "@Manu_Mtnez @paconunez_ Y no le veo yo salir de ahi facil,no\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "created_at": "2021-05-04T19:45:31.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1384545780648775682",
+            "text": "Lo que se transmite es importante. Se que no es intencionado. Pero el senor del instituto de Luarca en primer plano y sin mascarilla hablando sin parar y la senora detras con la boca tapada y sin decir ni mu es demoledora.",
+            "created_at": "2021-04-20T16:33:32.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1384544775303479296",
+            "text": "@jblasgarcia Quiero pensar que va implicito. En todo caso el diseno de las aulas de PT como lugares a los que salen alumnos con dificultades no favorecen la inclusion. Y la formacion del profesorado en inclusion es cuanto menos deficitaria.",
+            "created_at": "2021-04-20T16:29:32.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1384536978620813313",
+            "text": "Me gustaria saber que criterio han seguido las CA en la seleccion del profesorado que participa en el diseno del nuevo curriculo. Uno de los primeros errores de la LOMCE fue una seleccion aleatoria y absurda de docentes para disenar los estandares en las CA #NuevoCurriculo",
+            "created_at": "2021-04-20T15:58:33.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1384534446431420421",
+            "text": "El libro de texto ha dejado de ser la fuente de aprendizaje, la relacion con los ninos se basa en la dignidad y no en la imposicion #NuevoCurriculo Clave en el cambio metodologico",
+            "created_at": "2021-04-20T15:48:30.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1384529194659557387",
+            "text": "Que bien elegir a @ftsaez para moderar este debate #NuevoCurriculo",
+            "created_at": "2021-04-20T15:27:37.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1384524541767135239",
+            "text": "#NuevoCurriculo Doy por hecho que hay miles de docentes en Espana siguiendo este foro tan interesante \u00bfO no?",
+            "created_at": "2021-04-20T15:09:08.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1367530620478320642",
+            "text": "#AlbertoJimenez es reelegido por unanimidad  Secretario General de la Federacion de Ensenanza de @ccooalbacete y agradece a su equipo el trabajo realizado apostando por el futuro con ilusion. https://t.co/mtuCaVbl0w",
+            "created_at": "2021-03-04T17:41:22.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1367523934934032386",
+            "text": "Los delegados presentes en las distintas salas y tambien los que siguen el #XIIICongresoEnsenanzaCCOOAlbacete desde casa comienzan la votacion de las candidaturas @alberto_ccoo @CCOOAlbacete @FECCOOCLM https://t.co/triXCRTvO3",
+            "created_at": "2021-03-04T17:14:48.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1367515779986579460",
+            "text": "El Informe del Secretario @alberto_ccoo es aprobado por unanimidad. @CCOOAlbacete @FECCOOCLM",
+            "created_at": "2021-03-04T16:42:23.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1367506238808985603",
+            "text": "@alberto_ccoo ,Secretario Provincial, Expone el informe al #XIIICongresoEnsenanzaCCOOAlbacete @CCOOAlbacete @FECCOOCLM https://t.co/jPAu6nndDD",
+            "created_at": "2021-03-04T16:04:29.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1367505152178012167",
+            "text": "@carmenjuste: Los trabajadores de la Ensenanza han tenido y tienen un papel esencial en esta pandemia. Hay que reforzar los servicios publicos #XIIICongresoEnsenanzaCCOOAlbacete",
+            "created_at": "2021-03-04T16:00:09.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1367504211651538958",
+            "text": "Saludo del delegado provincial de Educacion, Diego Perez. #XIIICongresoEnsenanzaCCOOAlbacete @CCOOAlbacete https://t.co/1FAXZfc3MP",
+            "created_at": "2021-03-04T15:56:25.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1367208796297175040",
+            "text": "\u00a1Ha sido una tarde tan bonica! Muchas gracias a @popularlibros_ por este encuentro con algunos de mis lectores. Bienvenidos seais todos a la comunidad de las cabras. https://t.co/YWFC1ZrrWq",
+            "created_at": "2021-03-03T20:22:33.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1355263503746166786",
+            "text": "@carlos_perezOso Carlos, no te conozco. Queria darte las gracias por tu generosidad al contar vuestra historia. Eres muy valiente y tu madre estaria orgullosa de ti. Tu historia nos ayuda a ser mejores personas y significa tremendamente a tu madre. Un abrazo.",
+            "created_at": "2021-01-29T21:16:13.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1354470721011871745",
+            "text": "Acaba de publicar una foto https://t.co/kMDdCmrbDI",
+            "created_at": "2021-01-27T16:45:59.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1346381406105059329",
+            "text": "En tiempo de prohibiciones, pide a los Reyes #LasProhibiciones y hablamos de el en @josealcolealea@gmail.com o en mis redes sociales. #Leer #Albacete @popularlibros_ @libreriaherso en Albacete https://t.co/4rhcoJ1T5x",
+            "created_at": "2021-01-05T09:01:56.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1342590242600214533",
+            "text": "@LaEtxebarria Igual las fiestas te tienen un poco confusa. Yo no soy @IreneMontero . De nada.",
+            "created_at": "2020-12-25T21:57:12.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1342443179963011072",
+            "text": "@LaEtxebarria Me cuesta creer que no busques la provocacion o no te alimentes de las posibles criticas a lo que dices para victimizarte. No se entiende esta cruzada y esta necesidad de ofender al colectivo trans.",
+            "created_at": "2020-12-25T12:12:50.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1342441867523330049",
+            "text": "@PacoFerez @Nando_Lopez_ @envozalta_libro Que alegria, Paco, espero que lo disfrutes. Dos referentes de la literatura #Lgtbi. @Nando_Lopez_ y yo\ud83d\ude02\ud83d\ude02\ud83d\ude18",
+            "created_at": "2020-12-25T12:07:37.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1338469073458499584",
+            "text": "Acaba de publicar una foto https://t.co/5oI887k6qr",
+            "created_at": "2020-12-14T13:01:09.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1334752816464879617",
+            "text": "Muchas gracias a @educaciongob por organizar este foro tan ilusionante que nos ensena una lucecita que indica que otro curriculo y otra educacion son posibles. #Curriculoadebate",
+            "created_at": "2020-12-04T06:54:04.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333832252040601601",
+            "text": "@flunaarcos \u00bfY que se va a hacer para ello? Porque la realidad de los centros (al menos los que conozco) es bastante ajena a un cambio de paradigma.",
+            "created_at": "2020-12-01T17:56:04.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333830797095276546",
+            "text": "@YoEPublica Competencias, vamos.",
+            "created_at": "2020-12-01T17:50:18.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333830397633982469",
+            "text": "Alguien sabe que porcentaje del profesorado tiene en un libro de texto propuesto por una editorial su principal recurso educativo? #CurriculoaDebate",
+            "created_at": "2020-12-01T17:48:42.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333829659344203779",
+            "text": "#CurriculoaDebate Por fin alguien dice que el libro de texto constrine, ahoga y asfixia el aprendizaje.",
+            "created_at": "2020-12-01T17:45:46.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333828784479416326",
+            "text": "@YoEPublica \u00bfCuales? Puedes aportarlas tu en este debate? No te parece que las competencias son esenciales? Que de nada sirve aprender si no hay transferencia de ese aprendizaje?",
+            "created_at": "2020-12-01T17:42:18.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333828259700764672",
+            "text": "@kikeguerrerot El nuevo curriculo no elimina las notas.",
+            "created_at": "2020-12-01T17:40:13.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333827545742061569",
+            "text": "@kikeguerrerot Yo oigo cada dia comentarios como \"es un alumno de seis\" o \" es mal alumno porque ha sacado un 4\".",
+            "created_at": "2020-12-01T17:37:22.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333827236529631237",
+            "text": "Absolutamente de acuerdo. Sin pasion del maestro no hay innovacion. No es facil. Hay que trabajar la formacion. #Curriculoadebate",
+            "created_at": "2020-12-01T17:36:09.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333826762271322112",
+            "text": "totalmebnte de acuerdo con @oscarmartincen en que la competencia digital no es la version digital del libro de texto. #Curriculoadebate",
+            "created_at": "2020-12-01T17:34:16.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333825695525564417",
+            "text": "Llevo 21 anos de maestro. Con companeros q ni saben ni quiren trabajar nuevas metodologias, q evaluan con un examen de 10 preguntas, q bajan nota por libretas feas, q entienden que hay que hacer deberes propuestos por editorial,...Ellos trabajaran el cambio? #Curriculoadebate",
+            "created_at": "2020-12-01T17:30:01.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333811362301145091",
+            "text": "@miriamtocino Si. Pero le recuerdo que la gran mayoria del profesorado en Espana entiende que el conocimiento esta en un libro de texto e una editorial. Poco camino a la creatividad hay.",
+            "created_at": "2020-12-01T16:33:04.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333810830962532357",
+            "text": "@EstudiantadoE Usted ha venido a hablar de su libro, supongo. Supongo que ni esta siguiendo el debate ni el interesa. A usted le interesa aquello de \"que hay de lo mio\". Ambitos y competencias frente a conocimiento compartimentado en asignaturas. Vea el debate y aprenda.",
+            "created_at": "2020-12-01T16:30:57.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333808974567788549",
+            "text": "La mayoria del profesorado tiene una conexion del aprendizaje lineal. Vale, \u00bfY como conseguimos cambiar la concepcion? #CurriculoADebate",
+            "created_at": "2020-12-01T16:23:35.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333806584271605762",
+            "text": "Me pregunto como conseguiremos un curriculo competencial y un cambio de paradigma con un profesorado que en su mayoria depende de libros de texto y se siente ajeno a este debate dar el numero de espectadores? #CurriculoADebate",
+            "created_at": "2020-12-01T16:14:05.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1333153634331340800",
+            "text": "@Juanpa3009 Hay una mampara y se cumple escrupulosamente con la norma.",
+            "created_at": "2020-11-29T20:59:29.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1332027923969290241",
+            "text": "Otro punto esencial. Si enfocamos bachillerato a una prueba de acceso a la Universidad nada competencial, estamos siendo incoherentes y dando alas a los que creen en la escuela de la memorizacion acritica y lao contenidos por encima de las competencias.  #CurriculoADebate",
+            "created_at": "2020-11-26T18:26:19.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1332010400569823236",
+            "text": "Solo me falta ponerme de pie y aplaudir a Josefina Cambra. El profesorado no puede ensenar de una manera en la que no sabe hacerlo. No se puede ensenar lo que uno no ha adquirido. #CurriculoADebate",
+            "created_at": "2020-11-26T17:16:41.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1332009669192257538",
+            "text": "Josefina Cambra tambien certera. Mas de la mitad de los docentes de Master de educacion y grado no se sienten capacitados para trabajar por competencias. Ahi lo llevas . #CurriculoADebate",
+            "created_at": "2020-11-26T17:13:47.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1332008985667506179",
+            "text": "@Maestra_enfu Habras visto tambien supongo que la mayoria de ponentes trabajan en escuelas y universidades publicas. Es lo que pasa cuando hay un debate plural.",
+            "created_at": "2020-11-26T17:11:04.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1332005894578720771",
+            "text": "Un sector del profesorado de frances en un alarde de falta de educacion, inoportunidad y egoismo en un alarde de \"solo me importa mi asignatura\" han decidido trolear aqui. Se definen. #CurriculoADebate",
+            "created_at": "2020-11-26T16:58:47.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1332005055533289474",
+            "text": "@CFMorante da en la diana. El marco metodologico es la clave de las claves. Sin formacion del profesorado y sin formacion en metodologia todo es humo. #CurriculoADebate",
+            "created_at": "2020-11-26T16:55:27.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1332000112185384961",
+            "text": "\u00bfCuanto tiempo lleva hablando (leyendo) este senor?#CurriculoADebate",
+            "created_at": "2020-11-26T16:35:48.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331999893355978758",
+            "text": "\u00bfCuanto tiempo lleva hablando (leyendo) este senor?",
+            "created_at": "2020-11-26T16:34:56.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331999462911320067",
+            "text": "@CarlosFlosan @educaciongob @atianaf Supongo que sabe que la neuroeducacion aporta bastante evidencia que desmonta la teoria de Gardner que ha sido ampliamente superada",
+            "created_at": "2020-11-26T16:33:13.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331997793775476737",
+            "text": "@en_lomas @CelaaIsabel Y de lo que se esta hablando que opina? O solo pasa por aqui a trolear?",
+            "created_at": "2020-11-26T16:26:36.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331995551336960000",
+            "text": "@ChavelaIseta @CelaaIsabel Esta siguiendo el debate o solo viene usted a trolear?",
+            "created_at": "2020-11-26T16:17:41.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331995172016713731",
+            "text": "No entiendo que se utilice este Hastag para trolear. Es una falta de respeto a los ponentes y los que realmente estamos siguiendo el foro. #CurriculoADebate",
+            "created_at": "2020-11-26T16:16:10.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331994793141022721",
+            "text": "@ChavelaIseta @CelaaIsabel Puede usted dejar de hacer spam y comentar lo que se va comentando en el debate? Gracias.",
+            "created_at": "2020-11-26T16:14:40.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331305129648279559",
+            "text": "Espero que desde las Comunidades se haga con coherencia ese desarrollo curricular imprescindible. #curriculoadebate",
+            "created_at": "2020-11-24T18:34:12.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331304773899980819",
+            "text": "Confio muchisimo en el criterio y buen hacer de @atianaf #curriculoadebate",
+            "created_at": "2020-11-24T18:32:47.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331299578897960963",
+            "text": "Que Twitter esta leyendo esta mujer? Yo no veo ni tanta participacion, ni tanta preocupacion expresada por la evaluacion (por desgracia) #curriculoadebate",
+            "created_at": "2020-11-24T18:12:08.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331294942782697472",
+            "text": "Se puede trabajar por ambitos desde hace 14 anos y no se hace. Seguimos por adignaturas. Demoledor. #curriculoadebate",
+            "created_at": "2020-11-24T17:53:43.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331294244787675136",
+            "text": "@maestrosamot Acaba de hablar un docente,.director de un Instituto publico de Guadalajara. No te ha gustado ese?",
+            "created_at": "2020-11-24T17:50:56.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331291617601458176",
+            "text": "Sinceramente, la excesiva infantilizacion del lenguaje de determinados docentes cuando hablan a adultos en foros como este pueden ser contraproducentes. #curriculoadebate",
+            "created_at": "2020-11-24T17:40:30.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331289414551658496",
+            "text": "La neuroeducacion es fundamental y sus aportaciones capitales. Se basan en pruebas irrefutables y evidencias de escaneres en cerebros vivos funcionando. Ir contra eso es pegarse tiros en el pie #curriculoadebate",
+            "created_at": "2020-11-24T17:31:45.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331288480945754112",
+            "text": "El dedo en la llaga: Algo que ni se cuestiona: el conocimiento dividido en asignaturas es obsoleto, contrario a la forma en la que aprende el cerebro y absolutamente contrario a la globalizacion y el aprendizaje por proyectos. No somos cajas estancas. #curriculoadebate",
+            "created_at": "2020-11-24T17:28:02.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331286044705173505",
+            "text": "@Loore2 Mucho. Incluso la LOMCE es competencial y puede evaluar con una actividad motivadora sin darle mucha mas importancia.",
+            "created_at": "2020-11-24T17:18:21.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331284891464585222",
+            "text": "@Loore2 Solo espero que esa actividad sea algo emocionante y pedagogicamente tenga sentido. Si no, no entiendo que criticas.",
+            "created_at": "2020-11-24T17:13:46.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        },
+        {
+            "tweet_id": "1331284033532256256",
+            "text": "Sinceramente y desde el respeto, me cuesta entender la presencia de una representante de escuelas catolicas en un debate curricular.#curriculoadebate",
+            "created_at": "2020-11-24T17:10:22.000Z",
+            "user_id": "201690425",
+            "username": "josemaral"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{State of the Art}{}% 2
+\BOOKMARK [0][-]{chapter.3}{Methods}{}% 3
+\BOOKMARK [1][-]{section.3.1}{Datasets}{chapter.3}% 4
+\BOOKMARK [2][-]{subsection.3.1.1}{Twitter dataset}{section.3.1}% 5
+\BOOKMARK [2][-]{subsection.3.1.2}{Police dataset}{section.3.1}% 6
+\BOOKMARK [1][-]{section.3.2}{Data pre-processing}{chapter.3}% 7
+\BOOKMARK [2][-]{subsection.3.2.1}{Twitter dataset}{section.3.2}% 8
+\BOOKMARK [2][-]{subsection.3.2.2}{Police dataset}{section.3.2}% 9
+\BOOKMARK [1][-]{section.3.3}{Feature selection}{chapter.3}% 10
+\BOOKMARK [2][-]{subsection.3.3.1}{Stylistic features}{section.3.3}% 11
+\BOOKMARK [2][-]{subsection.3.3.2}{Twitter features}{section.3.3}% 12
+\BOOKMARK [2][-]{subsection.3.3.3}{N-grams features}{section.3.3}% 13
+\BOOKMARK [0][-]{subsection.3.3.3}{Bibliograf\355a}{}% 14

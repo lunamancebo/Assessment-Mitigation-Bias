@@ -1,0 +1,676 @@
+{
+    "data": [
+        {
+            "tweet_id": "1626281550852636676",
+            "text": "@pedroporro131 ya estas con las excusas",
+            "created_at": "2023-02-16T18:05:11.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1626168513764159490",
+            "text": "@pedroporro131 Estas en tu prime",
+            "created_at": "2023-02-16T10:36:01.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1625971354649460751",
+            "text": "@alvarominer_ Ha estado divertido aun q esperaba un poco mas del Arsenal",
+            "created_at": "2023-02-15T21:32:34.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1625096448764256257",
+            "text": "@AntonioPadron17 Hola Antonio, te quiero mas de lo que crees",
+            "created_at": "2023-02-13T11:36:00.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1623810387052298241",
+            "text": "@BoschungRalph @Formula2 @CamposRacing Eres mas espanol que yo y me jode",
+            "created_at": "2023-02-09T22:25:39.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1623093909432696837",
+            "text": "@telmoase Filmacion?",
+            "created_at": "2023-02-07T22:58:38.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1621302934523858945",
+            "text": "@telmoase @alvarominer_ @mr_angelote Noto cierta bollofobia en tu comentario",
+            "created_at": "2023-02-03T00:21:56.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1621264198763266050",
+            "text": "@juancoleto_ Menuda calentada q locura poco le han hecho a paulista despues de la entrada",
+            "created_at": "2023-02-02T21:48:01.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1620840986883522568",
+            "text": "@rodriber Intentar encontrar cobijo para q no te atraquen cuando se ponga el sol",
+            "created_at": "2023-02-01T17:46:19.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1619816980021932034",
+            "text": "Remiro tiene a todo el Bernabeu bailando y se la pela",
+            "created_at": "2023-01-29T21:57:17.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1618869306955304962",
+            "text": "@DiarioAthletic Joder pues a ver si el rey de Euskadi gana por fin la copa que lleva 40 anos sin oler una",
+            "created_at": "2023-01-27T07:11:34.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1618219427568447493",
+            "text": "@juancoleto_ Podrian empezar por ahi",
+            "created_at": "2023-01-25T12:09:11.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1618215890386051074",
+            "text": "@xrubi_ No he dicho q vaya a ganar solo q hay q confiar. De todas formas anulo mufa",
+            "created_at": "2023-01-25T11:55:07.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1618215775277547523",
+            "text": "Urge copiar a los alemanes y poner la norma del 10% para aficiones visitantes. Que en un estadio donde caben 81.000 personas te den 250 entradas y ademas te impidan llevar la camiseta de tu equipo me parece lamentable",
+            "created_at": "2023-01-25T11:54:40.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1618172197201391618",
+            "text": "Imaginate no confiar en el milagro del Camp Nou despues de las calladas de boca de aita Imanol esta temporada",
+            "created_at": "2023-01-25T09:01:30.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1616298305415446528",
+            "text": "@xrubi_ Ostia q bueno q pena q me lo ve perdido",
+            "created_at": "2023-01-20T04:55:20.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1616198825789763584",
+            "text": "@Jimbo4xL si hoy cae polvo con la parienta pienso dedicartelo.",
+            "created_at": "2023-01-19T22:20:02.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1616197764492263424",
+            "text": "Que estoy haciendo? @padrura @elopi23 https://t.co/PYGvFJwXrn",
+            "created_at": "2023-01-19T22:15:49.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1615102430890401805",
+            "text": "@Telmoase @_guisasola No suelo tener fallos de ortografia. De hecho, hasta a mi me ha sorprendido mi errata.",
+            "created_at": "2023-01-16T21:43:21.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1615101154505158657",
+            "text": "@Telmoase @_guisasola Tu Puta madre",
+            "created_at": "2023-01-16T21:38:17.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1615097550704451592",
+            "text": "@_guisasola Tranquilo, por mi parte agradecido de encontrarme con tus tuits. Me hecho unas risas viendo como pones a parir a una clase social en concreto.",
+            "created_at": "2023-01-16T21:23:57.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1614563086802866179",
+            "text": "@cahlvoh @albeert5_ Pues eso, lo unico que podeis celebrar.",
+            "created_at": "2023-01-15T10:00:11.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1614395622668263427",
+            "text": "Tremenda vacilada se han comido los del Bilbado hoy tu. Ya me joderia ser ellos",
+            "created_at": "2023-01-14T22:54:45.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1614315585676152833",
+            "text": "@albeert5_ Tio respetate un poco que el ano pasado celebrasteis un empate como si nos hubierais ganado la final de copa",
+            "created_at": "2023-01-14T17:36:42.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1613570098132058112",
+            "text": "@f1dsl @xrubi_ me vas a decir q esto no te hace gracia",
+            "created_at": "2023-01-12T16:14:24.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1613566099064250372",
+            "text": "@xrubi_ Son todos iguales y me hacen igual de gracia y que",
+            "created_at": "2023-01-12T15:58:31.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1613526521196564483",
+            "text": "@Telmoase Yo lo uso para limpiarme el ojete",
+            "created_at": "2023-01-12T13:21:15.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1613485242295238663",
+            "text": "Los memes de este inicio del 2023 son el peak de la comedia desde que estaba de moda el trollface",
+            "created_at": "2023-01-12T10:37:13.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1612756949657079814",
+            "text": "@Serranogonzalo Me ilusionas Gonzalo. Un saludo",
+            "created_at": "2023-01-10T10:23:15.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1612601148447277058",
+            "text": "Como @Serranogonzalo tenga razon en las afirmaciones que esta publicando recientemente en esta plataforma este ano 2023 sere muy feliz",
+            "created_at": "2023-01-10T00:04:09.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1612229713841344514",
+            "text": "@Telmoase @galachee1 JAJAAJAJAAAAJAJAJAAAJAJ",
+            "created_at": "2023-01-08T23:28:12.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1612178531970338816",
+            "text": "@victorabadf1 Se me esta haciendo muy largo, Victor. Necesito ayuda",
+            "created_at": "2023-01-08T20:04:49.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1611826431591608320",
+            "text": "@alvarominer_ Yo no pienso cambiar me niego a ser capricornio",
+            "created_at": "2023-01-07T20:45:42.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1610365918235721729",
+            "text": "@xrubi_ bro cortate un poco al menos que estas en publico https://t.co/ShAHKvKjon",
+            "created_at": "2023-01-03T20:02:08.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1608848224835756040",
+            "text": "Como manana a Imanol se le ocurra sacar a Mikel Oyarzabal al campo se cae Anoeta.",
+            "created_at": "2022-12-30T15:31:22.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1607519865383882753",
+            "text": "@BaityBait Les reparte los regalos literalmente el NANO",
+            "created_at": "2022-12-26T23:32:56.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1605331773646409728",
+            "text": "@pedroporro131 @tjcope Pedro respetate un poco que le metio 4 goles en la final de un mundial",
+            "created_at": "2022-12-20T22:38:15.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1605119238854873089",
+            "text": "Creo q es el momento adecuado para recordar que Ron-Robert Zieler es campeon del mundo",
+            "created_at": "2022-12-20T08:33:42.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1604464466736738304",
+            "text": "@_guisasola @ArbideNavajas Es literalmente summa 2.0",
+            "created_at": "2022-12-18T13:11:53.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1602795069970714624",
+            "text": "@alvarominer_ Prefiero a gane Marocco a q ganen los pelotudos o los gabachos",
+            "created_at": "2022-12-13T22:38:17.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1602794913464307714",
+            "text": "@alvarominer_ Con los gabachos jamas!",
+            "created_at": "2022-12-13T22:37:40.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1602426283018932227",
+            "text": "@Nanosecso Danino",
+            "created_at": "2022-12-12T22:12:52.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1602092712374960128",
+            "text": "Menuda minita se ha buscado el pequeno de los Fittipaldi. No es tonto ni nada https://t.co/yMQbYItqqq",
+            "created_at": "2022-12-12T00:07:22.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1598061571439472640",
+            "text": "Si te digo la verdad me suda tres cojones q hayas escuchado 1456 minutos de Bad Bunny",
+            "created_at": "2022-11-30T21:09:03.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1595741390855610369",
+            "text": "Representando a la guardia civil https://t.co/0EpyOTosIw",
+            "created_at": "2022-11-24T11:29:29.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1595069038509572102",
+            "text": "@_guisasola Si quieres te doy pase VIP para el estadio de badminton",
+            "created_at": "2022-11-22T14:57:48.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1594809907705946138",
+            "text": "Tengo la necesidad de vivir algo asi en mi vida https://t.co/jF7OZDz629",
+            "created_at": "2022-11-21T21:48:06.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1594442422074765312",
+            "text": "@IbaiLlanos Cona?",
+            "created_at": "2022-11-20T21:27:51.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1594441587555287043",
+            "text": "Vale fuera conas si un dia me vienen los de bultzada con un cantico copiado del athletic la verguenza q sentiria seria maxima. https://t.co/woDUDGHE0z",
+            "created_at": "2022-11-20T21:24:32.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1592988735016439809",
+            "text": "Ya podria haber sido Error Garcia o alguno de estos https://t.co/yFDtw9ay22",
+            "created_at": "2022-11-16T21:11:25.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1592496053731098626",
+            "text": "Es un infiltrado de la real https://t.co/MWKROi6f9L",
+            "created_at": "2022-11-15T12:33:41.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1591762776124448769",
+            "text": "Cuantas mas imagenes de catar veo mas pena y rabia me da",
+            "created_at": "2022-11-13T11:59:54.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1591042892478705665",
+            "text": "Esta imagen me pone muy triste https://t.co/Xpj5gc4pi6",
+            "created_at": "2022-11-11T12:19:20.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1591037732490452995",
+            "text": "Pero y el puto ISI??? Luisen me has decepcionado",
+            "created_at": "2022-11-11T11:58:50.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1591037508200333313",
+            "text": "@_guisasola Pero si \nPero si Hugo guillamon les de mil vueltas",
+            "created_at": "2022-11-11T11:57:56.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1590828063721689093",
+            "text": "Habra alguien en todo Gipuzkoa q no quiera la renovacion deDon Imanol Alguacil? Un hombre que de verdad siente los colores, de Orio y que ademas nos pone 3os en Liga despues de torear al United en EL se merece todo.",
+            "created_at": "2022-11-10T22:05:41.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1590462880268587008",
+            "text": "@yerac242 No te voy a mentir, me ha hecho bastante gracia cuando lo he visto",
+            "created_at": "2022-11-09T21:54:34.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1589064081784598528",
+            "text": "La gente que perrea en la barra de puede literalmente morir",
+            "created_at": "2022-11-06T01:16:15.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1589019963008094209",
+            "text": "Alguien piti la porro?",
+            "created_at": "2022-11-05T22:20:56.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1587487882004119552",
+            "text": "@sitosecso Jugadores mas tontos de la liga",
+            "created_at": "2022-11-01T16:52:59.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1586711359588544517",
+            "text": "@roscoescomfort Oye macho respetate un poco que literalmente te haces pasar por un perro.",
+            "created_at": "2022-10-30T13:27:22.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1586666853316927488",
+            "text": "Oye pero lo de que este gogo tenga que intentar humillar mediaticamente al NANO para sentirse superior que es?! https://t.co/M0DSo0iHlU",
+            "created_at": "2022-10-30T10:30:31.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1586655814793805824",
+            "text": "@LewisHamilton Eres una mofa",
+            "created_at": "2022-10-30T09:46:39.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1586451819659681792",
+            "text": "Esti va por ti @elopi23 https://t.co/2hy9KhoJDi",
+            "created_at": "2022-10-29T20:16:03.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1586326112099250176",
+            "text": "@LeiAlmanzi @alo_oficial @Really3D @RaulPando22 Muchas felicidades!\ud83e\udd73\nPd: donde puedo comprar esa joya?",
+            "created_at": "2022-10-29T11:56:32.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1586080147270164480",
+            "text": "Efectivamente, fui leyenda. Otro peligro mas para la via publica https://t.co/HSPCLEYfFc",
+            "created_at": "2022-10-28T19:39:09.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1585938923905507328",
+            "text": "Hoy es dia historico. Sere bufon o leyenda",
+            "created_at": "2022-10-28T10:17:59.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1584503331963437057",
+            "text": "@F1 Teneis los dias contados payasos. No podeis dar mas pena",
+            "created_at": "2022-10-24T11:13:27.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1584275918218231808",
+            "text": "Oye lo de q NANIN vaya a terminar por delante de mojon  con motor viejo fondo plano desactualizado y despues de haber hecho un caballito q es?",
+            "created_at": "2022-10-23T20:09:47.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1584156526390149122",
+            "text": "@AntonioPerezMEX @SChecoPerez Eres un nini",
+            "created_at": "2022-10-23T12:15:22.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1583946353130229762",
+            "text": "Mojonnnnn q ha pasado?",
+            "created_at": "2022-10-22T22:20:13.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1583637867452321793",
+            "text": "Esti vasu va por ti @elopi23",
+            "created_at": "2022-10-22T01:54:24.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1582039363596087296",
+            "text": "@pedroporro131 No me hagas esto Pedro por favor",
+            "created_at": "2022-10-17T16:02:31.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1581195690302398466",
+            "text": "@_guisasola Tendrias q fundar un batzoki",
+            "created_at": "2022-10-15T08:10:04.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1580910783122534400",
+            "text": "@pabloferrerga @Soroo313 una polla",
+            "created_at": "2022-10-14T13:17:57.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1580296970794459137",
+            "text": "Que bonito es ser anticule. Cuando ganan te la pela y cuando pierden lo celebras como un titulo",
+            "created_at": "2022-10-12T20:38:52.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1578403211236573190",
+            "text": "@victorabadf1 Jodeme Victor",
+            "created_at": "2022-10-07T15:13:45.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1578127282207686676",
+            "text": "@alobatof1 Antonio q me voy a levantar a las 5 para verlos no me digas estas cosas",
+            "created_at": "2022-10-06T20:57:18.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1578105010764025856",
+            "text": "@PDLR_F1 Yo los voy a ver de fiesta",
+            "created_at": "2022-10-06T19:28:48.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1577594446341971972",
+            "text": "@_guisasola Fuiste tan capaz?",
+            "created_at": "2022-10-05T09:40:00.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1577401434814963713",
+            "text": "@pedroporro131 Es mano",
+            "created_at": "2022-10-04T20:53:03.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1576896729902825473",
+            "text": "Le debo muchisimo a mi padre por ser el rebelde de la familia y hacerme de la real (podria haber salido athleticzale perfectamente)",
+            "created_at": "2022-10-03T11:27:32.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1576660894519824384",
+            "text": "@Nanosecso Que haces?",
+            "created_at": "2022-10-02T19:50:24.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1576660659944968193",
+            "text": "Que hacen esos de ahi abajo intentando subirse a la kuboneta??!\nQue esta llena desde hace semanas pardillos!!",
+            "created_at": "2022-10-02T19:49:28.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1576504245561753602",
+            "text": "No me hago responsable de mis actos como a Pancho Perez se le ocurra llevarse puesto a il predesti y el moreno se marque un azerbaijan",
+            "created_at": "2022-10-02T09:27:56.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1576194472207351808",
+            "text": "@victorabadf1 Fernando Alonso Diaz Parera",
+            "created_at": "2022-10-01T12:57:01.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1576165652137902082",
+            "text": "Mercedes dando pena en lluvia y nanin poniendose 4o\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "created_at": "2022-10-01T11:02:29.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1576157748320169985",
+            "text": "Mi objetivo profesional es ser el fisio personal de Nikola Tsolov cuando llegue a la F1",
+            "created_at": "2022-10-01T10:31:05.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1576157491775213570",
+            "text": "Lo feliz q me hace la F1 no es normal",
+            "created_at": "2022-10-01T10:30:04.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1574859298865352710",
+            "text": "@rodriber Si pasa algo raro en la qualy y los de arriba se van para atras en la sprint recuperan los puestos perdidos porque nadie lucha por un punto mas o menos y le quita salsa al domingo",
+            "created_at": "2022-09-27T20:31:30.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1573163525060841473",
+            "text": "El mejor momento de la noche ha sido cuando han puesto 1D y me la pela",
+            "created_at": "2022-09-23T04:13:06.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1571276771865116672",
+            "text": "La deshidratacion q manejo ahora mismo deberia de ser ilegal.",
+            "created_at": "2022-09-17T23:15:49.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1571273670068260864",
+            "text": "La vida era mejor cuando cayo la noche sonaba hasta en ikatz",
+            "created_at": "2022-09-17T23:03:30.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1570126369824161792",
+            "text": "Voy a animar a la real a ritmo de la Rosalia me parto la polla https://t.co/ByXDrspQ6W",
+            "created_at": "2022-09-14T19:04:32.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1569791547755069441",
+            "text": "@pedroporro131 Muller es el mayor anticule de la historia y eso me encanta",
+            "created_at": "2022-09-13T20:54:04.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        },
+        {
+            "tweet_id": "1569265603331952641",
+            "text": "Primera clase de conducir y ye solo cale 2 veces. Rotundo exito",
+            "created_at": "2022-09-12T10:04:10.000Z",
+            "user_id": "1396407734589853698",
+            "username": "erbolloo"
+        }
+    ]
+}
